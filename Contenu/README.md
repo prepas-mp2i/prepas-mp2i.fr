@@ -26,7 +26,7 @@
 		- Apprendre : France IoI, mathrainning
 		- Pratiquer : Arduino, projets
 		- Concourir : Algoréa, Prologin, Tfjm
-- Contactes
+- Contacts
 	- Présentation des élèves
 		- Nos ambitions
 		- Ceux qui ont créé le site
