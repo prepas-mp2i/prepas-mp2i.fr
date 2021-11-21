@@ -12,14 +12,14 @@
 	 -	Carte des prépas en France
 
 # La Filière
-## Qu'est-ce que les classes préparatoires ?
-La prépa est une formation théorique très complète pour préparer les concours de seconde année pour rejoindre une école d'ingénieur.
+## Que sont les classes préparatoires ?
+La prépa est une formation théorique très complète pour préparer les concours de seconde année afin de rejoindre une école d'ingénieurs.
 La formation est gratuite et elle est rattachée aux lycées, les effectifs ne dépassent pas 48 et les élèves sont très accompagnés par les professeurs.
-Ils existent de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités :
+Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités :
 
 | Fillière |       Spécialité       | Math | Physique/Chimie | Chimie | Informatique |  SI  | LV1 | Français | Svt |
 |:--------:|:----------------------:|:----:|:---------------:|:------:|:------------:|:----:|:---:|:--------:|:---:|
-|   Mpsi   |      Mathématique      |  12  |        6        |    2   |      1.5     |   2  |  2  |     2    |  0  |
+|   Mpsi   |      Mathématiques      |  12  |        6        |    2   |      1.5     |   2  |  2  |     2    |  0  |
 |   Mp2i   |      Informatique      |  12  |       6.5       |    0   |       4      |   2  |  2  |     2    |  0  |
 |   Pcsi   |        Physique        |  10  |        8        |    4   |      1.5     |   4  |  2  |     2    |  0  |
 |   Ptsi   | Sciences industrielles |   9  |        6        |    2   |      1.5     | 8h30 |  2  |     2    |  0  |
@@ -27,18 +27,18 @@ Ils existent de nombreuses filières, pour mieux vous y retrouver voici leurs sp
 
 
 ## Le programme en Mp2i
-Nous avons le même programme que les Mpsi en Mathématique et en Physique. La seule différence et que la chimie est remplacée par de l'informatique.
+Nous avons le même programme que les Mpsi en Mathématiques  et Physique. La seule différence et que la chimie est remplacée par de l'informatique.
 
-Concernant l'informatique, la programmation se fait en C et en Ocaml, on utilise quelques fois Python lors de Tp de physique.
+Concernant l'informatique, la programmation se fait en C et en Ocaml, et on utilise quelques fois Python lors de Tp de physique.
 Nous avons 2h de Tp par semaine ainsi que 2h de théorie qui nous servent à étudier les algorithmes de manière formelle.
 Vous pouvez retrouver le programme complet d'informatique à [cette adresse](https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/64/6/spe777_annexe_1373646.pdf).
 
- Concernant les autres matières, la LV2 ainsi que le sport sont facultatifs.
- Mais la plupart des élèves garde une activité extra scolaire pour ne pas faire que des maths toute la journée !
+ Concernant les autres matières, la LV2 (2heures) ainsi que le sport sont facultatifs.
+ Mais la plupart des élèves gardent une activité extra scolaire pour ne pas faire que des maths toute la journée !
  
 ## La spécialité en deuxième année
 Dès le second semestre, nous devons choisir une option qui conditionnera notre filière en seconde année.
-En Mp2i nous avons le choix entre Info pour aller en Mpi et S.I pour rejoindre la MP comme le font une grande partie des élèves en Mpsi.
+En Mp2i nous avons le choix entre Info pour aller en Mpi, et S.I pour rejoindre la MP, comme le font une grande partie des élèves en Mpsi.
 Voici un récapitulatif des différentes filières en deuxième année :
 
 ![Spécialités en deuxième année](Deuxième_année.png)
@@ -48,7 +48,7 @@ Le passage en Psi est techniquement possible mais n'a pas été constaté.
 
 ## La MP2I en quelques chiffres
 Comme la Mp2I vient d'ouvrir, il y a eu une grande demande pour cette filière avec peu de place disponible.
-Les prépas les plus cotés sont donc plus difficiles à intégrer que la filière  Mpsi dans le même établissement.
+Les écoles les plus cotées sont donc plus difficiles à intégrer en Mp2i que pour la filière  Mpsi.
 À noter que la filière reste toujours accessible dans certains établissements, n'hésitez pas à faire de nombreux vœux pour vous retrouver dans une prépa à votre niveau.
 
 Les chiffres cumulés :
