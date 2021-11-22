@@ -20,6 +20,6 @@ Les cours dispensés en maths expertes se rapprochent également plus des cours 
 ## La NSI et la Physique-Chimie
 Hormis quelques rares exceptions, pour intégrer une classe préparatoire scientifique vous devrez avoir suivi au moins deux spécialités scientifiques en terminale, si possible trois en première mais ce n’est pas essentiel.
 
-La MP2I se démarque de la MPSI et de la PCSI car elle repose principalement sur trois matières au lieu de deux : les mathématiques, la physique et l’informatique. Pour mettre toutes vos chances de votre côté, il est donc recommandé de choisir les spécialités Physique-Chimie et NSI en classe de première pour ne pas se retrouver plus tard avec de trop grandes lacunes dans l’une ou l’autre des matières.
+La MP2I se démarque de la MPSI et de la PCSI car elle repose principalement sur trois matières au lieu de deux : les mathématiques, la physique et l’informatique. Pour mettre toutes les chances de votre côté, il est donc recommandé de choisir les spécialités Physique-Chimie et NSI en classe de première pour ne pas se retrouver plus tard avec de trop grandes lacunes dans l’une ou l’autre des matières.
 
 Une de ces deux spécialités peut être conservée au choix en terminale. La NSI reste à privilégier car le programme de physique en MP2I s’appuie sur les notions de première, même s’il est tout à fait possible de faire l’inverse.
