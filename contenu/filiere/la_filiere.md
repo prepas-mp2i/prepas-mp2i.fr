@@ -9,7 +9,7 @@
 		 -	Nombre de demandes / de place / de prépa
 		 -	Comparaison des taux d'entrée avec la Mpsi
 		 -	Nombre de places dans les écoles d'ingé ?
-	 -	Carte des prépas en France
+	 -	Carte des prépas en France (ok)
 
 # La Filière
 ## Que sont les classes préparatoires ?
@@ -17,19 +17,19 @@ La prépa est une formation théorique très complète pour préparer les concou
 La formation est gratuite et elle est rattachée aux lycées, les effectifs ne dépassent pas 48 et les élèves sont très accompagnés par les professeurs.
 Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités :
 
-| Fillière |       Spécialité       | Math | Physique/Chimie | Chimie | Informatique |  SI  | LV1 | Français | Svt |
+| Filière  |       Spécialité       | Math | Physique/Chimie | Chimie | Informatique |  SI  | LV1 | Français | Svt |
 |:--------:|:----------------------:|:----:|:---------------:|:------:|:------------:|:----:|:---:|:--------:|:---:|
-|   Mpsi   |      Mathématiques      |  12  |        6        |    2   |      1.5     |   2  |  2  |     2    |  0  |
-|   Mp2i   |      Informatique      |  12  |       6.5       |    0   |       4      |   2  |  2  |     2    |  0  |
-|   Pcsi   |        Physique        |  10  |        8        |    4   |      1.5     |   4  |  2  |     2    |  0  |
-|   Ptsi   | Sciences industrielles |   9  |        6        |    2   |      1.5     | 8h30 |  2  |     2    |  0  |
-|   Bcpst  |        Biologie        |   8  |        4        |    3   |      1.5     |   0  |  2  |     2    |  8  |
+|   MPSI   |      Mathématiques      |  12  |        6        |    2   |      1.5     |   2  |  2  |     2    |  0  |
+|   MP2I   |      Informatique      |  12  |       6.5       |    0   |       4      |   2  |  2  |     2    |  0  |
+|   PCSI   |        Physique        |  10  |        8        |    4   |      1.5     |   4  |  2  |     2    |  0  |
+|   PTSI   | Sciences industrielles |   9  |        6        |    2   |      1.5     | 8h30 |  2  |     2    |  0  |
+|   BCPST  |        Biologie        |   8  |        4        |    3   |      1.5     |   0  |  2  |     2    |  8  |
 
 
-## Le programme en Mp2i
-Nous avons le même programme que les Mpsi en Mathématiques  et Physique. La seule différence et que la chimie est remplacée par de l'informatique.
+## Le programme en MP2I
+Nous avons le même programme que les MPSI en Mathématiques et Physique. La seule différence et que la chimie est remplacée par de l'informatique.
 
-Concernant l'informatique, la programmation se fait en C et en Ocaml, et on utilise quelques fois Python lors de Tp de physique.
+Concernant l'informatique, la programmation se fait en C et en Ocaml, et on utilise quelques fois Python lors de TP de physique.
 Nous avons 2h de Tp par semaine ainsi que 2h de théorie qui nous servent à étudier les algorithmes de manière formelle.
 Vous pouvez retrouver le programme complet d'informatique à [cette adresse](https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/64/6/spe777_annexe_1373646.pdf).
 
@@ -38,17 +38,17 @@ Vous pouvez retrouver le programme complet d'informatique à [cette adresse](htt
  
 ## La spécialité en deuxième année
 Dès le second semestre, nous devons choisir une option qui conditionnera notre filière en seconde année.
-En Mp2i nous avons le choix entre Info pour aller en Mpi, et S.I pour rejoindre la MP, comme le font une grande partie des élèves en Mpsi.
+En MP2I nous avons le choix entre Info pour aller en MPI, et S.I pour rejoindre la MP, comme le font une grande partie des élèves en MPSI.
 Voici un récapitulatif des différentes filières en deuxième année :
 
 ![Spécialités en deuxième année](Deuxième_année.png)
 
-Même si la plupart des élèves passent en Mpi, il est toujours possible de passer en Mp si la manière dont est abordé l'informatique ne vous convient pas.
-Le passage en Psi est techniquement possible mais n'a pas été constaté.
+Même si la plupart des élèves passent en MPI, il est toujours possible de passer en MP si la manière dont est abordé l'informatique ne vous convient pas.
+Le passage en PSI est techniquement possible mais n'a pas été constaté.
 
 ## La MP2I en quelques chiffres
-Comme la Mp2I vient d'ouvrir, il y a eu une grande demande pour cette filière avec peu de place disponible.
-Les écoles les plus cotées sont donc plus difficiles à intégrer en Mp2i que pour la filière  Mpsi.
+Comme la MP2I vient d'ouvrir, il y a eu une grande demande pour cette filière avec peu de place disponible.
+Les écoles les plus cotées sont donc plus difficiles à intégrer en MP2I que pour la filière  MPSI.
 À noter que la filière reste toujours accessible dans certains établissements, n'hésitez pas à faire de nombreux vœux pour vous retrouver dans une prépa à votre niveau.
 
 Les chiffres cumulés :
@@ -67,3 +67,10 @@ Lycées avec les plus hauts taux d'admission :
 - Lycée Charles Coeffin (Baie-Mahault) : 89,66%
 - Lycée Victor (Besançon) : 51,33%
 - Lycée Franklin Roosevelt (Reims) : 50,43%
+
+## Les prépas MP2I en France
+
+lien vers la carte : https://www.google.com/maps/d/u/0/edit?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&usp=sharing
+
+code html à insérer directement sur le site : 
+<iframe src="https://www.google.com/maps/d/embed?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&hl=fr" width="640" height="480"></iframe>
