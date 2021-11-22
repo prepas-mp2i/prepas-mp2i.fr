@@ -17,7 +17,7 @@ La prépa est une formation théorique très complète pour préparer les concou
 La formation est gratuite et elle est rattachée aux lycées, les effectifs ne dépassent pas 48 et les élèves sont très accompagnés par les professeurs.
 Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités :
 
-| Filière  |       Spécialité       | Math | Physique/Chimie | Chimie | Informatique |  SI  | LV1 | Français | Svt |
+| Filière  |       Spécialité       | Maths | Physique/Chimie | Chimie | Informatique |  SI  | LV1 | Français | SVT |
 |:--------:|:----------------------:|:----:|:---------------:|:------:|:------------:|:----:|:---:|:--------:|:---:|
 |   MPSI   |      Mathématiques      |  12  |        6        |    2   |      1.5     |   2  |  2  |     2    |  0  |
 |   MP2I   |      Informatique      |  12  |       6.5       |    0   |       4      |   2  |  2  |     2    |  0  |
@@ -30,7 +30,7 @@ Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spéc
 Nous avons le même programme que les MPSI en Mathématiques et Physique. La seule différence et que la chimie est remplacée par de l'informatique.
 
 Concernant l'informatique, la programmation se fait en C et en Ocaml, et on utilise quelques fois Python lors de TP de physique.
-Nous avons 2h de Tp par semaine ainsi que 2h de théorie qui nous servent à étudier les algorithmes de manière formelle.
+Nous avons 2h de TP par semaine ainsi que 2h de théorie qui nous servent à étudier les algorithmes de manière formelle.
 Vous pouvez retrouver le programme complet d'informatique à [cette adresse](https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/64/6/spe777_annexe_1373646.pdf).
 
  Concernant les autres matières, la LV2 (2heures) ainsi que le sport sont facultatifs.
