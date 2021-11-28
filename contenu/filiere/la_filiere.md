@@ -84,3 +84,5 @@ lien vers la carte : https://www.google.com/maps/d/u/0/edit?mid=16p1wbu1D2zOEaUU
 
 code html à insérer directement sur le site : 
 <iframe src="https://www.google.com/maps/d/embed?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&hl=fr" width="640" height="480"></iframe>
+
+ 
