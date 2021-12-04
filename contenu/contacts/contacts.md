@@ -30,7 +30,7 @@ Pour demander un renseignement à un élève de MP2I d'un établissement bien pr
 -  Lycée du Parc (Lyon 6e Arrondissement - 69) [indisponible](mailto:)
 -  International de Valbonne (06) [indisponible](mailto:)
 -  Pierre De Fermat (Toulouse - 31) [indisponible](mailto:)
--  Saint-Louis (6ème) (Paris 6e Arrondissement - 75) [indisponible](mailto:)
+-  Saint-Louis (6ème) (Paris 6e Arrondissement - 75) [@FuseTim](https://github.com/fusetim) <[fusetim.log@gmx.com](mailto:fusetim.log@gmx.com)>
 -  Paul Valery (Paris 12e Arrondissement - 75) [indisponible](mailto:)
 -  Colbert (Tourcoing - 59) [indisponible](mailto:)
 -  Henri Wallon (Valenciennes - 59) [indisponible](mailto:)
