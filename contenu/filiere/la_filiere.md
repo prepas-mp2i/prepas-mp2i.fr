@@ -16,10 +16,10 @@
 # Les BTS et BUT
 Voici un petit descriptif des différentes filières permettant de travailler dans l'informatique :
 
-- [Le BTS](https://diplomeo.com/bts) est une formation de deux ans proposé par des lycées.  Elle offre une formation très pratique et aboutie à une insertion professionnelle dès la fin de la formation.
-- [Le BUT](https://diplomeo.com/dut) se fait en 3 ans (anciennement DUT en 2 ans). Cette formation dans les universités permet de rejoindre certaines écoles d'ingénieur, de partir en licence ou de rejoindre le milieu professionnel.
-- [La licence](https://diplomeo.com/licence) est enseignée en université et se fait en 3 ans. Cette formation théorique permet de faire un Master pour 5 ans d'étude au total. 
-- Les écoles d'ingénieurs (ou prépas intégrées) proposent des formations en 5 ans. Il y a souvent 2 ans de cycle général suivit de 3 ans de spécialité. Les élèves sont le plus souvent embauché à la suite de la formation  mais il est aussi possible de faire un doctorat (bac+8).
+- [Le BTS](https://diplomeo.com/bts) est une formation de deux ans proposée par des lycées.  Elle offre un enseignement très pratique et abouti à une insertion professionnelle dès la fin de la formation.
+- [Le BUT](https://diplomeo.com/dut) se fait en 3 ans (anciennement DUT en 2 ans). Cette formation se déroulant en université permet de rejoindre certaines écoles d'ingénieur, de partir en licence ou de rejoindre le milieu professionnel.
+- [La licence](https://diplomeo.com/licence) est enseignée en université et se fait en 3 ans. Cette formation théorique permet de poursuivre ses études avec un Master pour un total de 5 ans. 
+- Les écoles d'ingénieurs (ou prépas intégrées) proposent des formations en 5 ans. Il y a souvent 2 ans de cycle général suivit de 3 ans de spécialité. Les élèves sont le plus souvent embauchés à la suite de la formation  mais il est aussi possible de faire un doctorat (bac+8).
 - [Les prépas](https://diplomeo.com/prepa) se font en deux ans et permettent de rejoindre les écoles d'ingénieurs et les licences les plus prestigieuses.
 
 Vous pouvez retrouver la liste des formations en informatique [à cette adresse](https://cien.gouv.mc/content/download/430778/4871791/file/Les%20Fili%C3%A8res%20de%20l%27informatique%202021.pdf)
@@ -40,9 +40,9 @@ Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spéc
 
 
 ## Le programme en MP2I
-Nous avons le même programme que les MPSI en Mathématiques et Physique. La seule différence et que la chimie est remplacée par de l'informatique.
+Nous avons le même programme que les MPSI en mathématiques et physique. La seule différence et que la chimie est remplacée par de l'informatique.
 
-Concernant l'informatique, la programmation se fait en C et en Ocaml, et on utilise quelques fois Python lors de TP de physique.
+Concernant l'informatique, la programmation se fait en C et en Ocaml, et on utilise quelquefois Python lors de TP de physique.
 Nous avons 2h de TP par semaine ainsi que 2h de théorie qui nous servent à étudier les algorithmes de manière formelle.
 Vous pouvez retrouver le programme complet d'informatique à [cette adresse](https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/64/6/spe777_annexe_1373646.pdf).
 
