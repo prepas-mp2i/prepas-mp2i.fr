@@ -12,7 +12,7 @@ Vous pouvez contacter les élèves qui maintiennent ce site en envoyant un mail 
 
 Pour demander un renseignement à un élève de MP2I d'un établissement bien précis, vous pouvez le trouver ci-dessous :
 
--  Janson De Sailly (Paris 16e Arrondissement - 75) [indisponible](mailto:)
+-  Janson De Sailly (Paris 16e Arrondissement - 75) [flavio.corti31@gmail.com](mailto:flavio.corti31@gmail.com)
 -  Clemenceau (Nantes - 44) [indisponible](mailto:)
 -  Thiers (Marseille 1er Arrondissement - 13) [indisponible](mailto:)
 -  Louis Thuillier (Amiens - 80) [indisponible](mailto:)
