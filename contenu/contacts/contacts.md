@@ -27,10 +27,10 @@ Pour demander un renseignement à un élève de MP2I d'un établissement bien pr
 -  Franklin Roosevelt (Reims - 51) [indisponible](mailto:)
 -  Montaigne (Bordeaux - 33) [indisponible](mailto:)
 -  Descartes (Tours - 37) [louis-max.harter@protonmail.com](mailto:louis-max.harter@protonmail.com)
--  Lycée du Parc (Lyon 6e Arrondissement - 69) [indisponible](mailto:)
--  International de Valbonne (06) [indisponible](mailto:)
+-  Le Parc (Lyon 6e Arrondissement - 69) [indisponible](mailto:)
+-  International de Valbonne (Valbonne - 06) [indisponible](mailto:)
 -  Pierre De Fermat (Toulouse - 31) [indisponible](mailto:)
--  Saint-Louis (6ème) (Paris 6e Arrondissement - 75) [@FuseTim](https://github.com/fusetim) <[fusetim.log@gmx.com](mailto:fusetim.log@gmx.com)>
+-  Saint-Louis (Paris 6e Arrondissement - 75) [@FuseTim](https://github.com/fusetim) <[fusetim.log@gmx.com](mailto:fusetim.log@gmx.com)>
 -  Paul Valery (Paris 12e Arrondissement - 75) [indisponible](mailto:)
 -  Colbert (Tourcoing - 59) [indisponible](mailto:)
 -  Henri Wallon (Valenciennes - 59) [indisponible](mailto:)
