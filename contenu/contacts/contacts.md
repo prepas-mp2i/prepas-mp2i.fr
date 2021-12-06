@@ -36,5 +36,5 @@ Pour demander un renseignement à un élève de MP2I d'un établissement bien pr
 -  Paul Valery (Paris 12e Arrondissement - 75) [indisponible](mailto:)
 -  Pierre De Fermat (Toulouse - 31) [indisponible](mailto:)
 -  Saint-Louis (Paris 6e Arrondissement - 75) [@FuseTim](https://github.com/fusetim) <[fusetim.log@gmx.com](mailto:fusetim.log@gmx.com)>
--  Thiers (Marseille 1er Arrondissement - 13) [camillef031@gmail.com](mailto:camillef031@gmail.com)
+-  Thiers (Marseille 1er Arrondissement - 13) [camille_fabre26@protonmail.com](mailto:camille_fabre26@protonmail.com)
 -  Victor Hugo (Besançon - 25) [indisponible](mailto:)
