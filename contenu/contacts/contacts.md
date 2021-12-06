@@ -27,7 +27,7 @@ Pour demander un renseignement à un élève de MP2I d'un établissement bien pr
 -  Henri Wallon (Valenciennes - 59) [indisponible](mailto:)
 -  Hoche (Versailles - 78) [indisponible](mailto:)
 -  International de Valbonne (Valbonne - 06) [adrien.no@protonmail.com](mailto:adrien.no@protonmail.com)
--  Janson De Sailly (Paris 16e Arrondissement - 75) [flavio.corti31@gmail.com](mailto:flavio.corti31@gmail.com)
+-  Janson De Sailly (Paris 16e Arrondissement - 75) [corti.flavio@protonmail.com](mailto:corti.flavio@protonmail.com)
 -  Kléber (Strasbourg - 67) [indisponible](mailto:)
 -  Le Parc (Lyon 6e Arrondissement - 69) [indisponible](mailto:)
 -  Louis Le Grand (Paris 5e Arrondissement - 75) [indisponible](mailto:)
