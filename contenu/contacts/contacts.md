@@ -17,7 +17,7 @@ Pour demander un renseignement à un élève de MP2I d'un établissement bien pr
 -  Champollion (Grenoble - 38) [indisponible](mailto:)
 -  Charles Coëffin (Baie-Malhaut - 971) [indisponible](mailto:)
 -  Claude Fauriel (Saint-Etienne - 42) [indisponible](mailto:)
--  Clemenceau (Nantes - 44) [indisponible](mailto:)
+-  Clemenceau (Nantes - 44) [corentin.boutault@gmail.com](mailto:corentin.boutault@gmail.com)
 -  Colbert (Tourcoing - 59) [indisponible](mailto:)
 -  Descartes (Tours - 37) [louis-max.harter@protonmail.com](mailto:louis-max.harter@protonmail.com)
 -  Faidherbe (Lille - 59) [indisponible](mailto:)
