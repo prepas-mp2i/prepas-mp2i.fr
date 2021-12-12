@@ -20,7 +20,7 @@ Pour demander un renseignement à un élève de MP2I d'un établissement bien pr
 -  Clemenceau (Nantes - 44) [corentin.boutault@gmail.com](mailto:corentin.boutault@gmail.com)
 -  Colbert (Tourcoing - 59) [indisponible](mailto:)
 -  Descartes (Tours - 37) [louis-max.harter@protonmail.com](mailto:louis-max.harter@protonmail.com)
--  Faidherbe (Lille - 59) [indisponible](mailto:)
+-  Faidherbe (Lille - 59) [nathan.coquerel@gmail.com](mailto:nathan.coquerel@gmail.com)
 -  Fénelon Sainte-Marie (Paris 8e Arrondissement - 75) [indisponible](mailto:)
 -  Franklin Roosevelt (Reims - 51) [indisponible](mailto:)
 -  Gay-Lussac (Limoges - 87) [indisponible](mailto:)
