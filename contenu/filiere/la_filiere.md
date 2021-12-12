@@ -89,7 +89,7 @@ Il faut savoir que rien n'est encore fixé et que ce sont des engagements de min
 -L'X : 30 places 
 -Les ENS : 30 places
 
--Concours Mines-ponts : minimum 75 places (dont 15 pour l'ENSTA, 18 pour Telecom Paris, une dizaine pour SUPAERO)
+-Concours Mines-ponts : minimum 75 (?)places (dont 15 pour l'ENSTA, 20 à 30 pour Telecom Paris, une dizaine pour SUPAERO)
 
 -CCINP : au moins 200 places (dont 40 pour L'Ensimag)
 
