@@ -1,16 +1,13 @@
-# Plan
-- Contactes
-	- Présentation des élèves
-		- Nos ambitions
-		- Ceux qui ont créé le site
-	- Une page avec un contact par lycée
-		- Pour d'éventuelles questions
+# Qui sommes-nous ? Et pourquoi créer ce site ?
 
-# Rédaction
-Si vous voulez discuter ou vous renseigner, vous pouvez rejoindre notre serveur discord pour les MP2I de France : [https://discord.gg/NXpXa29nPh](https://discord.gg/NXpXa29nPh)
-Vous pouvez contacter les élèves qui maintiennent ce site en envoyant un mail à cette adresse : [mp2i@protonmail.com](mailto:email@mp2i@protonmail.com).
+Nous sommes des actuellement des élèves de MP2I des quatre coins de la France. Notre objectif en créant ce site est d'aider les futurs bacheliers à faire leur choix concernant leur orientation, mais aussi de présenter, de notre point de vue, cette filière encore méconnue qui fait maintenant partie de notre quotidien.
 
-Pour demander un renseignement à un élève de MP2I d'un établissement bien précis, vous pouvez le trouver ci-dessous :
+Vous êtes intéressé par les prépas scientifiques et/ou par la MP2I ? N'attendez plus, venez découvrir l'entièreté de ce site !
+
+Vous avez tout vu mais il vous reste encore des questions ? Rejoignez notre serveur discord en [cliquant ici](https://discord.gg/NXpXa29nPh) 
+Vous pouvez aussi contacter les élèves qui maintiennent ce site en envoyant un mail à cette adresse : [mp2i@protonmail.com](mailto:email@mp2i@protonmail.com).
+
+Voici une liste de représentants pour chacun des établissements proposant la formation, n'hésitez pas si vous avez des questions plus pointues !
 
 -  Aux Lazaristes (Lyon 5e Arrondissement - 69) [indisponible](mailto:)
 -  Carnot (Dijon - 21) [indisponible](mailto:)

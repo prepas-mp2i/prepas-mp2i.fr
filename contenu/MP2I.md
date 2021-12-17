@@ -1,17 +1,3 @@
-# Plan
- - La filière
-	 -	Comparaison avec autres prépas (ok)
-		 -	Dotation horaire (ok)
-		 -	Programme (Math/Physique) (ok?)
-		 -	La filière Info (a détailler)
-		 -	Les spécialités de deuxième année (okà
-	 -	En chiffres
-		 -	Nombre de demandes / de place / de prépa
-		 -	Comparaison des taux d'entrée avec la Mpsi
-		 -	Nombre de places dans les écoles d'ingé ?
-	 -	Carte des prépas en France (ok)
-
-# La Filière
 ## Quelles sont les fillières pour apprendre l'informatique ?
 # Les BTS et BUT
 Voici un petit descriptif des différentes filières permettant de travailler dans l'informatique :
