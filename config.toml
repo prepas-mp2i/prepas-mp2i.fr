@@ -1,4 +1,4 @@
-baseURL = "https://ajayat.github.io/mp2i-france-website/"
+baseURL = "https://mp2i-france.github.io/mp2i-france-website/"
 title = "Prépas MP2I"
 theme = "slick"
 copyright = "MP2I — All rights reserved."
