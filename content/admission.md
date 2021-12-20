@@ -17,6 +17,8 @@ La MP2I se démarque de la MPSI et de la PCSI car elle repose principalement sur
 
 Une de ces deux spécialités peut être conservée au choix en terminale. La NSI reste à privilégier car le programme de physique en MP2I s’appuie sur les notions de première, même s’il est tout à fait possible de faire l’inverse.
 
+N.B : Il reste possible d'intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie du tout lors de votre première et de votre Terminale.
+
 # Parcoursup
  - La MP2I sur parcoursup
  - Explication de parcoursup (voeux, sous voeux, phase d'admission)
@@ -32,6 +34,7 @@ Une de ces deux spécialités peut être conservée au choix en terminale. La NS
 |:-------:|:-----:|:-----:|:-------------------:|:----------------------:
 | Public | Louis Le Grand | Paris 05 | 2970 | 127 |
 | Public | Saint-Louis | Paris 06 | 3057 | 278 |
+| Public | Janson de Sailly | Paris 16 | 2931 | 379 |
 | Public | Paul Valéry | Paris 12 | 1705 | 767 |
 | Privé | Fénelon Sainte-Marie | Paris 08 | 1384 | 366 |
 | Public | Hoche | Versailles | 2102 | 193 |
