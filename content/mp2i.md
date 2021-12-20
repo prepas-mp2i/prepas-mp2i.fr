@@ -78,15 +78,13 @@ Lycées avec les plus hauts taux d'admission :
 
 ## Les places aux concours
 Il faut savoir que rien n'est encore fixé et que ce sont des engagements de minimum mais voici une petite idée des places aux concours 2023 :
--L'X : 30 places 
--Les ENS : 30 places
-
--Concours Mines-ponts : minimum 75 (?)places (dont 15 pour l'ENSTA, (20 à 30)[https://www.telecom-paris.fr/fr/ingenieur/comment-integrer/admission-post-prepa] pour Telecom Paris, une dizaine pour SUPAERO)
-
--CCINP : au moins 200 places (dont 40 pour L'Ensimag)
+- L'X : 30 places 
+- Les ENS : 30 places
+- Concours Mines-ponts : minimum 75 (?)places (dont 15 pour l'ENSTA, [20 à 30 pour Telecom Paris](https://www.telecom-paris.fr/fr/ingenieur/comment-integrer/admission-post-prepa), une dizaine pour SUPAERO)
+- CCINP : au moins 200 places (dont 40 pour L'Ensimag)
 
 
 ## Les prépas MP2I en France
 
-lien vers la carte : [Carte]( https://www.google.com/maps/d/u/0/edit?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&usp=sharing)
+Lien vers la carte : [Carte](https://www.google.com/maps/d/u/0/edit?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&usp=sharing)
 <iframe src="https://www.google.com/maps/d/embed?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&hl=fr" width="800" height="500"></iframe>
