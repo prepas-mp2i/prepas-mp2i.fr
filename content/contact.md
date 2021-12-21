@@ -17,7 +17,7 @@ Voici une liste de représentants pour chacun des établissements proposant la f
 
 - Aux Lazaristes (Lyon 5e Arrondissement - 69) [indisponible](mailto:)
 - Carnot (Dijon - 21) [indisponible](mailto:)
-- Champollion (Grenoble - 38) [indisponible](mailto:)
+- Champollion (Grenoble - 38) [jules.ollivier@protonmail.com](mailto:jules.ollivier@protonmail.com)
 - Charles Coëffin (Baie-Malhaut - 971) [indisponible](mailto:)
 - Claude Fauriel (Saint-Etienne - 42) [mathiasr07@hotmail.fr](mailto:mathiasr07@hotmail.fr)
 - Clemenceau (Nantes - 44) [corentin.boutault@gmail.com](mailto:corentin.boutault@gmail.com)
