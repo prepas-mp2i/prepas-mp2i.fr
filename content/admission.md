@@ -4,13 +4,16 @@ date: 2021-12-20T00:05:32+01:00
 draft: false
 ---
 
-# Choix des spécialités au lycée
+## Choix des spécialités au lycée
+
 ## L'option maths expertes
+
 En MP2I, les cours de mathématiques sont ceux qui représentent le plus gros volume horaire. Il est donc indispensable de suivre la spécialité mathématiques en première puis en terminale. En revanche, il n’est pas obligatoire de choisir l’option maths experte même si elle reste largement conseillée. Ne pas la suivre n’est pas un facteur éliminatoire pour intégrer la plupart des MP2I, mais elle représente tout de même un atout considérable pour un dossier. En effet elle permet de mieux cerner votre niveau en mathématiques et surtout d’attester de votre intérêt pour la matière ainsi que de votre investissement.
 
 Les cours dispensés en maths expertes se rapprochent également plus des cours de prépa que ceux de la spécialité. Suivre cette option est donc un bon moyen de commencer à évaluer votre intérêt pour la MP2I et les CPGE scientifiques en général.
 
 ## La NSI et la Physique-Chimie
+
 Hormis quelques rares exceptions, pour intégrer une classe préparatoire scientifique vous devrez avoir suivi au moins deux spécialités scientifiques en terminale, si possible trois en première mais ce n’est pas essentiel.
 
 La MP2I se démarque de la MPSI et de la PCSI car elle repose principalement sur trois matières au lieu de deux : les mathématiques, la physique et l’informatique. Pour mettre toutes les chances de votre côté, il est donc recommandé de choisir les spécialités Physique-Chimie et NSI en classe de première pour ne pas se retrouver plus tard avec de trop grandes lacunes dans l’une ou l’autre des matières.
@@ -19,14 +22,14 @@ Une de ces deux spécialités peut être conservée au choix en terminale. La NS
 
 N.B : Il reste possible dans certains rares cas d'intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie en Première, mais ce choix ne garantit pas une place en CPGE et risque d'entrainer un retard difficile à combler par la suite.
 
-# Parcoursup
- - La MP2I sur parcoursup
- - Explication de parcoursup (voeux, sous voeux, phase d'admission)
- - Lettres de motivation, projet de formation motivé
- - Lycées proposant la filière MP2I (mettre la liste des lycées avec taux d'admissions)
- - Les bourses
- - Les internats comment ça fonctionne?
+## Parcoursup
 
+- La MP2I sur parcoursup
+- Explication de parcoursup (voeux, sous voeux, phase d'admission)
+- Lettres de motivation, projet de formation motivé
+- Lycées proposant la filière MP2I (mettre la liste des lycées avec taux d'admissions)
+- Les bourses
+- Les internats comment ça fonctionne?
 
 ## Lycées proposant la filière MP2I à l'heure actuelle
 
