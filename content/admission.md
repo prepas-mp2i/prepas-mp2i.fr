@@ -17,7 +17,7 @@ La MP2I se démarque de la MPSI et de la PCSI car elle repose principalement sur
 
 Une de ces deux spécialités peut être conservée au choix en terminale. La NSI reste à privilégier car le programme de physique en MP2I s’appuie sur les notions de première, même s’il est tout à fait possible de faire l’inverse.
 
-N.B : Il reste possible d'intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie en Première.
+N.B : Il reste possible dans certains rares cas d'intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie en Première, mais ce choix ne garantit pas une place en CPGE et risque d'entrainer un retard difficile à combler par la suite.
 
 # Parcoursup
  - La MP2I sur parcoursup
