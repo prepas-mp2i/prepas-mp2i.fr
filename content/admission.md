@@ -58,31 +58,32 @@ Les critères pour être admis en internat concernent majoritairement les appré
 
 ## Lycées proposant la filière MP2I à l'heure actuelle
 
-| Type    | Lycée | Ville | Nombre de demandes | Rang du dernier admis |
-|:-------:|:-----:|:-----:|:-------------------:|:----------------------:
-| Public | Louis Le Grand | Paris 05 | 2970 | 127 |
-| Public | Saint-Louis | Paris 06 | 3057 | 278 |
-| Public | Janson de Sailly | Paris 16 | 2931 | 379 |
-| Public | Paul Valéry | Paris 12 | 1705 | 767 |
-| Privé | Fénelon Sainte-Marie | Paris 08 | 1384 | 366 |
-| Public | Hoche | Versailles | 2102 | 193 |
-| Public | Louis Thuillier | Amiens | 789 | 274 |
-| Public | Franklin Roosevelt | Reims | 702 | 393 |
-| Public | Henri Wallon | Valenciennes | 679 | 250 |
-| Public | Colbert | Tourcoing | 433 | 238 |
-| Public | Faidherbe | Lille | NA | NA |
-| Public | Kléber | Strasbourg | 1207 | 224 |
-| Public | Général Clemenceau | Nantes | 1837 | 229 |
-| Public | Descartes | Tours | 1562 | 329 |
-| Public | Carnot | Dijon | 1190 | 483 |
-| Public | Victor Hugo | Besançon | 750 | 401 |
-| Public | Gay-Lussac | Limoges | 664 | 254 |
-| Public | Montaigne | Bordeaux | 1994 | 299 |
-| Public | Claude Fauriel | Saint-Etienne | 881 | 456 |
-| Public | Champollion | Grenoble | 1672 | 269 |
-| Public | Le Parc | Lyon 06 | 2551 | 344 |
-| Privé | Aux Lazaristes | Lyon 05 | 1240 | 141 |
-| Public | Pierre De Fermat | Toulouse | 2234 | 285 |
-| Public | Thiers | Marseille 01 | 1247 | 305 |
-| Public | Centre International de Valbonne | Valbonne | 844 | 324 |
-| Public | Charles Coëffin | Baie-Mahault | 145 | 107 |
+| Type    | Lycée | Ville | Taux d'accès | Nombre de demandes | Rang du dernier admis |
+|:-------:|:-----:|:-----:|:------------:|:-------------------:|:----------------------:
+| Public | Louis Le Grand | Paris 05 |4|2970|127|
+| Public | Saint-Louis | Paris 06 |9|3057|278|
+| Public | Janson de Sailly | Paris 16 |13|2931|379|
+| Public | Paul Valéry | Paris 12 |45|1705|767|
+| Privé | Fénelon Sainte-Marie | Paris 08 |26|1384|366|
+| Public | Hoche | Versailles |9|2102|193|
+| Public | Louis Thuillier | Amiens |35|789|274|
+| Public | Franklin Roosevelt | Reims |56|702|393|
+| Public | Henri Wallon | Valenciennes |37|679|250|
+| Public | Colbert | Tourcoing |55|433|238|
+| Public | Faidherbe | Lille |23|1309|183|
+| Public | Kléber | Strasbourg |19|1207|224|
+| Public | Général Clemenceau | Nantes |12|1837|229|
+| Public | Descartes | Tours |21|1562|329|
+| Public | Carnot | Dijon |41|1190|483|
+| Public | Victor Hugo | Besançon |53|750|401|
+| Public | Gay-Lussac | Limoges |38|664|254|
+| Public | Montaigne | Bordeaux |15|1994|299|
+| Public | Claude Fauriel | Saint-Etienne |52|881|456|
+| Public | Champollion | Grenoble |16|1672|269|
+| Public | Le Parc | Lyon 06 |13|2551|344|
+| Privé | Aux Lazaristes | Lyon 05 |11|1240|141|
+| Public | Pierre De Fermat | Toulouse |13|2234|285|
+| Public | Thiers | Marseille 01 |24|1247|305|
+| Public | Centre International de Valbonne | Valbonne |38|844|324|
+| Public | Charles Coëffin | Baie-Mahault |74|145|107|
+
