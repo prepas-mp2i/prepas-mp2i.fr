@@ -60,14 +60,14 @@ Les critères pour être admis en internat concernent majoritairement les appré
 
 | Type    | Lycée | Ville | Taux d'accès | Nombre de demandes | Rang du dernier admis |
 |:-------:|:-----:|:-----:|:------------:|:-------------------:|:----------------------:
-| Public | Louis Le Grand | Paris 05 |4|2970|127|
+| Public | Louis Le Grand | Paris 05 |4|2970|111|
 | Public | Saint-Louis | Paris 06 |9|3057|278|
 | Public | Janson de Sailly | Paris 16 |13|2931|379|
 | Public | Paul Valéry | Paris 12 |45|1705|767|
-| Privé | Fénelon Sainte-Marie | Paris 08 |26|1384|366|
+| Privé  | Fénelon Sainte-Marie | Paris 08 |26|1384|366|
 | Public | Hoche | Versailles |9|2102|193|
 | Public | Louis Thuillier | Amiens |35|789|274|
-| Public | Franklin Roosevelt | Reims |56|702|393|
+| Public | Franklin Roosevelt | Reims |56|702|243|
 | Public | Henri Wallon | Valenciennes |37|679|250|
 | Public | Colbert | Tourcoing |55|433|238|
 | Public | Faidherbe | Lille |23|1309|183|
@@ -81,7 +81,7 @@ Les critères pour être admis en internat concernent majoritairement les appré
 | Public | Claude Fauriel | Saint-Etienne |52|881|456|
 | Public | Champollion | Grenoble |16|1672|269|
 | Public | Le Parc | Lyon 06 |13|2551|344|
-| Privé | Aux Lazaristes | Lyon 05 |11|1240|141|
+| Privé  | Aux Lazaristes | Lyon 05 |11|1240|141|
 | Public | Pierre De Fermat | Toulouse |13|2234|285|
 | Public | Thiers | Marseille 01 |24|1247|305|
 | Public | Centre International de Valbonne | Valbonne |38|844|324|
