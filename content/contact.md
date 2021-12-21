@@ -35,7 +35,7 @@ Voici une liste de représentants pour chacun des établissements proposant la f
 - Le Parc (Lyon 6e Arrondissement - 69) [younesi.maths@gmail.com](mailto:younesi.maths@gmail.com)
 - Louis Le Grand (Paris 5e Arrondissement - 75) [indisponible](mailto:)
 - Louis Thuillier (Amiens - 80) [indisponible](mailto:)
-- Montaigne (Bordeaux - 33) [indisponible](mailto:)
+- Montaigne (Bordeaux - 33) [alessandre.laguierce@protonmail.com](mailto:alessandre.laguierce@protonmail.com)
 - Paul Valery (Paris 12e Arrondissement - 75) [indisponible](mailto:)
 - Pierre De Fermat (Toulouse - 31) [indisponible](mailto:)
 - Saint-Louis (Paris 6e Arrondissement - 75) [@FuseTim](https://github.com/fusetim) <[fusetim.log@gmx.com](mailto:fusetim.log@gmx.com)>
