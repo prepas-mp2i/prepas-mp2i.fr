@@ -33,7 +33,7 @@ Voici une liste de représentants pour chacun des établissements proposant la f
 - Janson De Sailly (Paris 16e Arrondissement - 75) [corti.flavio@protonmail.com](mailto:corti.flavio@protonmail.com)
 - Kléber (Strasbourg - 67) [indisponible](mailto:)
 - Le Parc (Lyon 6e Arrondissement - 69) [younesi.maths@gmail.com](mailto:younesi.maths@gmail.com)
-- Louis Le Grand (Paris 5e Arrondissement - 75) [indisponible](mailto:)
+- Louis Le Grand (Paris 5e Arrondissement - 75) [aurelienchen@outlook.com](mailto:aurelienchen@outlook.com)
 - Louis Thuillier (Amiens - 80) [indisponible](mailto:)
 - Montaigne (Bordeaux - 33) [alessandre.laguierce@protonmail.com](mailto:alessandre.laguierce@protonmail.com)
 - Paul Valery (Paris 12e Arrondissement - 75) [indisponible](mailto:)
