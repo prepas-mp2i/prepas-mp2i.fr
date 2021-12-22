@@ -73,7 +73,7 @@ Lycées avec les plus bas taux d'admission :
 Lycées avec les plus hauts taux d'admission :
 
 - Lycée Charles Coeffin (Baie-Mahault) : 89,66%
-- Lycée Victor (Besançon) : 51,33%
+- Lycée Victor Hugo (Besançon) : 51,33%
 - Lycée Franklin Roosevelt (Reims) : 50,43%
 
 ## Les places aux concours
