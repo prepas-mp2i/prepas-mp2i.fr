@@ -10,8 +10,8 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 [params]
-  subtitle = "Site officiel des classes préparatoires MP2I"
-  description = "Site officiel des classes préparatoires MP2I"
+  subtitle = "Site des classes préparatoires MP2I"
+  description = "Site des classes préparatoires MP2I"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
 
   showNavHeader = true
