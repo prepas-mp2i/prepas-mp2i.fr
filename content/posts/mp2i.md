@@ -34,7 +34,7 @@ Vous pouvez retrouver la liste des formations en informatique [à cette adresse]
 
 Nous avons le même programme que les MPSI en mathématiques et physique. La seule différence et que la chimie est remplacée par de l'informatique.
 
-Une description plus détaillée du cours d'informatique est disponible sur [cette page](cours.md).
+Une description plus détaillée du cours d'informatique est disponible sur [cette page](../cours).
 
  Concernant les autres matières, la LV2 (2heures) ainsi que le sport sont facultatifs.
  Mais la plupart des élèves gardent une activité extra scolaire pour ne pas faire que des maths toute la journée !
