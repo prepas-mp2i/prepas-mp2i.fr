@@ -11,8 +11,8 @@ enableRobotsTXT = true
   home = ["HTML", "RSS", "JSON"]
 
 [permalinks]
-  '/' = '/:filename/'
-
+  posts = "/:filename/"
+  
 [params]
   env = "production"  # to enable google analytics, opengraph, twitter-cards and schema.
   keywords = ["MP2I", "PaperMod", "Prépa"]
@@ -46,26 +46,26 @@ enableRobotsTXT = true
       
 [menu]
   [[menu.main]]
-    name = "La filière"
-    url = "/posts/mp2i/"
+    name = "MP2I"
+    url = "/mp2i/"
     weight = 1
   
   [[menu.main]]
-    name = "Admission"
-    url = "/posts/admission/"
+    name = "Informatique"
+    url = "/informatique/"
     weight = 2
-  
-  [[menu.main]]
-    name = "La spécialité informatique"
-    url = "/posts/cours/"
-    weight = 3
 
   [[menu.main]]
+    name = "Admission"
+    url = "/admission/"
+    weight = 3
+  
+  [[menu.main]]
     name = "Ressources"
-    url = "/posts/ressources/"
+    url = "/ressources/"
     weight = 4
 
   [[menu.main]]
-    name = "Qui sommes-nous?"
-    url = "/posts/contact/"
+    name = "Contact"
+    url = "/contact/"
     weight = 5
