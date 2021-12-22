@@ -34,9 +34,7 @@ Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spéc
 
 Nous avons le même programme que les MPSI en mathématiques et physique. La seule différence et que la chimie est remplacée par de l'informatique.
 
-Concernant l'informatique, la programmation se fait en C et en Ocaml, et on utilise quelquefois Python lors de TP de physique.
-Nous avons 2h de TP par semaine ainsi que 2h de théorie qui nous servent à étudier les algorithmes de manière formelle.
-Vous pouvez retrouver le programme complet d'informatique à [cette adresse](https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/64/6/spe777_annexe_1373646.pdf).
+Une description plus détaillée du cours d'informatique est disponible sur [cette page](cours.md).
 
  Concernant les autres matières, la LV2 (2heures) ainsi que le sport sont facultatifs.
  Mais la plupart des élèves gardent une activité extra scolaire pour ne pas faire que des maths toute la journée !
