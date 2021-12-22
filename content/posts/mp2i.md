@@ -15,7 +15,7 @@ Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spéc
 |   MPSI   |      Mathématiques      |  12  |        6        |    2   |      1.5     |   2  |  2  |     2    |  0  |
 |   MP2I   |      Informatique      |  12  |       6.5       |    0   |       4      |   2  |  2  |     2    |  0  |
 |   PCSI   |        Physique        |  10  |        8        |    4   |      1.5     |   4  |  2  |     2    |  0  |
-|   PTSI   | Sciences industrielles |   9  |        6        |    2   |      1.5     | 8h30 |  2  |     2    |  0  |
+|   PTSI   | Sciences industrielles |   9  |        6        |    2   |      1.5     | 8.5 |  2  |     2    |  0  |
 |   BCPST  |        Biologie        |   8  |        4        |    3   |      1.5     |   0  |  2  |     2    |  8  |
 
 ## Les BTS et BUT
