@@ -1,53 +1,73 @@
 baseURL = "https://mp2i-france.github.io/mp2i-france-website/"
 title = "Prépas MP2I"
-theme = "slick"
+theme = "PaperMod"
+defaultContentLanguage = "fr"
 copyright = "MP2I — All rights reserved."
-
-languageCode = "fr-FR"
-enableEmoji = true
+paginate = 4
 googleAnalytics = "G-BW19BY0LKC"  # add your tracking id
 enableRobotsTXT = true
-canonifyURLs = true
 
-[params]
-  subtitle = "Site des classes préparatoires MP2I"
-  description = "Site des classes préparatoires MP2I"
-  favicon = "favicon.ico"  # path to a .ico to use as favicon
-
-  showNavHeader = true
-  showMeta = true
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [permalinks]
   '/' = '/:filename/'
 
+[params]
+  env = "production"  # to enable google analytics, opengraph, twitter-cards and schema.
+  subtitle = "Site des classes préparatoires MP2I"
+  description = "Site des classes préparatoires MP2I"
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  defaultTheme = "light"  # dark, light
+  ShowReadingTime = true
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/mp2i-france/mp2i-france-website"
+
+  [[params.socialIcons]]
+    name = "discord"
+    url = "https://discord.gg/w4ugrWy84W"
+
+[languages]
+  [languages.fr]
+    languageName = "French"
+    weight = 1
+
+    [languages.fr.homeInfoParams]
+      Title = "Bienvenue sur le site des MP2I👋"
+      Content = """Ce site web est conçu par des étudiants en classes 
+      préparatoires MP2I, il vise une présentation qualitative de 
+      cette nouvelle filière."""
+
 [menu]
   [[menu.main]]
     name = "La filière"
-    url = "/mp2i"
+    url = "/posts/mp2i/"
     weight = 1
   
   [[menu.main]]
     name = "Admission"
-    url = "/admission"
+    url = "/posts/admission/"
     weight = 2
   
   [[menu.main]]
     name = "Ressources"
-    url = "/ressources"
+    url = "/posts/ressources/"
     weight = 3
 
   [[menu.main]]
     name = "Qui sommes-nous?"
-    url = "/contact"
+    url = "/posts/contact/"
     weight = 4
+
+  [[menu.main]]
+    name = "Recherche"
+    url = "/recherche/"
+    weight = 5
 
   [[menu.footer]]
     name = "GitHub"
     title = "MP2I France"
     url = "https://github.com/mp2i-france/mp2i-france-website/"
     weight = 1
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true                   # Allow html (needed for some shortcodes)

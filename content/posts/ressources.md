@@ -1,10 +1,8 @@
 ---
-title: "Ressources"
+title: "Les ressources utiles"
 date: 2021-12-20T00:09:11+01:00
 draft: false
 ---
-
-## Les ressources utiles
 
 Les élèves désireux de poursuivre dans une classe préparatoire scientifique font généralement preuve d'une grande appétence scientifique, même hors du cadre scolaire. Pour répondre à ce besoin, de nombreuses ressources existent et sont à considérer.
 

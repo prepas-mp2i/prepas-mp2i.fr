@@ -1,10 +1,8 @@
 ---
-title: "Admission"
+title: "Les spécialités au lycée"
 date: 2021-12-20T00:05:32+01:00
 draft: false
 ---
-
-## Choix des spécialités au lycée
 
 ## L'option maths expertes
 
@@ -30,26 +28,27 @@ N.B : Il reste possible dans certains rares cas d'intégrer une MP2I sans avoir 
 
 Sur Parcoursup, il est possible de faire 10 vœux et 20 sous-vœux au total, avec un maximum de 10 sous-vœux pour un type de formation. En général, chaque formation compte pour un vœu sauf :
 
-  -	Les écoles sur concours (type concours Advance, Avenir, Puissance Alpha…) : un concours compte pour un vœu, mais le nombre d’écoles demandées pour chacun est ensuite « illimité », les écoles ne comptent pas individuellement pour des sous-vœux.
-  -	Les CPGE : chaque filière compte pour un vœu (MP2I, MPSI, PCSI…), et chaque lycée compte ensuite pour un sous-vœu. Il est donc possible de postuler au maximum à 10 CPGE pour une même filière.
+- Les écoles sur concours (type concours Advance, Avenir, Puissance Alpha…) : un concours compte pour un vœu, mais le nombre d’écoles demandées pour chacun est ensuite « illimité », les écoles ne comptent pas individuellement pour des sous-vœux.
+- Les CPGE : chaque filière compte pour un vœu (MP2I, MPSI, PCSI…), et chaque lycée compte ensuite pour un sous-vœu. Il est donc possible de postuler au maximum à 10 CPGE pour une même filière.
 
 Si vous faites le choix de postuler à des formations sélectives, il est très fortement conseillé de demander une licence en parallèle pour éviter de ne finir avec aucune formation à cause des aléas de Parcoursup.
 
 ### Étapes des admissions
 
-  -	Premier jour de la phase principale : vous recevez une réponse de la part de toutes les formations pour lesquelles vous avez postulé. Il existe trois réponses possibles : refusé(e), sur liste d’attente et accepté(e). Vous avez 5 jours pour répondre aux formations qui vous acceptent dès le premier jour, 4 pour celles qui vous acceptent le lendemain.
+- Premier jour de la phase principale : vous recevez une réponse de la part de toutes les formations pour lesquelles vous avez postulé. Il existe trois réponses possibles : refusé(e), sur liste d’attente et accepté(e). Vous avez 5 jours pour répondre aux formations qui vous acceptent dès le premier jour, 4 pour celles qui vous acceptent le lendemain.
 
-  -	La phase principale (de début juin à mi-juillet). Vous avez 3 jours pour répondre.
+- La phase principale (de début juin à mi-juillet). Vous avez 3 jours pour répondre.
 
-  -	La phase complémentaire (de fin juin à mi-septembre) : il devient possible de formuler de nouveau vœux (au maximum dix) pour des formations ayant encore des places disponibles.
+- La phase complémentaire (de fin juin à mi-septembre) : il devient possible de formuler de nouveau vœux (au maximum dix) pour des formations ayant encore des places disponibles.
 
-  -	Point d’étape obligatoire (fin-juin) : vous aurez un délai de quelques jours pour confirmer tous les vœux que vous souhaitez garder. Beaucoup de places se libèrent pendant cette période et les jours qui suivent.
+- Point d’étape obligatoire (fin-juin) : vous aurez un délai de quelques jours pour confirmer tous les vœux que vous souhaitez garder. Beaucoup de places se libèrent pendant cette période et les jours qui suivent.
 
 A chaque nouvelle proposition d’admission, trois possibilités s’offrent à vous : refuser la proposition car vous avez déjà reçu une réponse positive d’une autre formation qui vous intéresse davantage, la mettre en attente (c’est-à-dire accepter de manière provisoire en attendant d’éventuellement recevoir de nouvelles propositions) ou accepter définitivement. Attention, si vous dépassez le délai de réponse vous serez automatiquement désinscrit de Parcoursup alors surveillez vos boîtes mail et vos SMS tous les jours ! Télécharger l’application Parcoursup peut aussi être un bon moyen de se tenir à jour facilement.
 
 N.B. : Pas d’inquiétude si vous n’êtes acceptés dans aucune formation durant les premiers jours, les places se libèrent vite. Dans quelques cas certains peuvent recevoir des propositions d’admission après les premiers jours de rentrée et choisir de changer de formation à ce moment, donc ne découragez pas si vous vous retrouvez longtemps en file d’attente, vous avez toujours vos chances.
 
 ### Lettres de motivation et projet de formation motivé
+
 ### Les bourses
 
 ### Les internats comment ça fonctionne ?
@@ -86,4 +85,3 @@ Les critères pour être admis en internat concernent majoritairement les appré
 | Public | Thiers | Marseille 01 |24|1247|305|
 | Public | Centre International de Valbonne | Valbonne |38|844|324|
 | Public | Charles Coëffin | Baie-Mahault |74|145|107|
-

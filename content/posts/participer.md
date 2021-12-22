@@ -1,5 +1,5 @@
 ---
-title: "Bienvenue sur le site des MP2I"
+title: "Participer au projet"
 date: 2021-12-20T00:08:50+01:00
 draft: false
 ---

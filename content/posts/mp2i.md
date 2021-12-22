@@ -1,10 +1,8 @@
 ---
-title: "La filière"
+title: "Les filières pour l'informatique"
 date: 2021-12-20T00:07:18+01:00
 draft: false
 ---
-
-## Quelles sont les fillières pour apprendre l'informatique ?
 
 ## Les BTS et BUT
 
@@ -49,7 +47,7 @@ Dès le second semestre, nous devons choisir une option qui conditionnera notre 
 En MP2I nous avons le choix entre Info pour aller en MPI, et S.I pour rejoindre la MP, comme le font une grande partie des élèves en MPSI.
 Voici un récapitulatif des différentes filières en deuxième année :
 
-![Spécialités en deuxième année](/img/deuxieme_annee.png)
+![Spécialités en deuxième année](/images/deuxieme_annee.png)
 
 Même si la plupart des élèves passent en MPI, il est toujours possible de passer en MP si la manière dont est abordé l'informatique ne vous convient pas.
 Le passage en PSI est techniquement possible mais n'a pas été constaté.
