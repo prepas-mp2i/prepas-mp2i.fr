@@ -1,4 +1,4 @@
-baseURL = "https://mp2i-france.github.io/mp2i-france-website/"
+baseURL = "https://prepas-mp2i.github.io/prepas-mp2i-website/"
 title = "PREPAS MP2I"
 theme = "LoveIt"
 defaultContentLanguage = "fr"
@@ -10,7 +10,7 @@ enableRobotsTXT = true
   description = "Site des classes préparatoires MP2I"
   keywords = ["Theme", "Hugo", "MP2I", "Prépa"]
   defaultTheme = "auto"
-  gitRepo = "https://github.com/mp2i-france/mp2i-france-website"
+  gitRepo = "https://github.com/prepas-mp2i/prepas-mp2i-website"
   dateFormat = "02/01/2006"
 
   [params.app]
@@ -35,7 +35,7 @@ enableRobotsTXT = true
       logo = ""
       name = "PREPAS MP2I"
       # add extra information before the name (HTML supported), such as icons
-      pre = """<img src='/mp2i-france-website/favicon.ico' height=25px 
+      pre = """<img src='/prepas-mp2i-website/images/logo.png' height=25px 
                     style='margin-bottom:-5px;margin-right:5px'>"""
       typeit = true  # typeit animation for title name
 
@@ -72,13 +72,13 @@ enableRobotsTXT = true
       paginate = 4
 
   [params.social]
-    GitHub = "mp2i-france/mp2i-france-website"
+    GitHub = "prepas-mp2i/prepas-mp2i-website"
     Email = "mp2i@protonmail.com"
 
   [params.page]
     hiddenFromHomePage = false
     hiddenFromSearch = false
-    twemoji = true
+    fontawesome = true
 
     [params.page.share]
       enable = true
@@ -103,7 +103,7 @@ enableRobotsTXT = true
       unsafe = true
 
 [author]
-  name = "MP2I"
+  name = " Étudiants en MP2I"
   email = "mp2i@protonmail.com"
 
 [mediaTypes]
