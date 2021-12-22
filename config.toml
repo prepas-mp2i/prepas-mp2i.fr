@@ -35,7 +35,7 @@ enableRobotsTXT = true
       logo = ""
       name = "PREPAS MP2I"
       # add extra information before the name (HTML supported), such as icons
-      pre = """<img src='/favicon.ico' height=25px 
+      pre = """<img src='/mp2i-france-website/favicon.ico' height=25px 
                     style='margin-bottom:-5px;margin-right:5px'>"""
       typeit = true  # typeit animation for title name
 
@@ -60,7 +60,7 @@ enableRobotsTXT = true
   [params.home]
     [params.home.profile]
       enable = true
-      avatarURL = "/images/logo.png"
+      avatarURL = "images/logo.png"
       title = "PREPAS MP2I"
       subtitle = "Bienvenue sur le site des classes préparatoires MP2I !"
       typeit = true
@@ -89,15 +89,10 @@ enableRobotsTXT = true
     # Google Analytics
     [params.analytics.google]
       id = ""
-      anonymizeIP = true
+      anonymizeIP = false
 
   [params.cookieconsent]
-    enable = true
-    # text strings used for Cookie consent banner
-    [params.cookieconsent.content]
-      message = ""
-      dismiss = ""
-      link = ""
+    enable = false
 
 [markup]
   [markup.highlight]
