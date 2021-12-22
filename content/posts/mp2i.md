@@ -68,15 +68,15 @@ Les chiffres cumulés :
 
 Lycées avec les plus bas taux d'admission :
 
-- Lycée Louis Le Grand (Paris) : 4,21%
-- Lycée Saint-Louis (Paris) : 6,67%
-- Lycée Janson de Sailly (Paris) : 7,47%
+- Lycée Louis Le Grand (Paris) : 4,28%
+- Lycée Saint-Louis (Paris) : 9,09%
+- Lycée Hoche (Versailles) : 9,18%
 
 Lycées avec les plus hauts taux d'admission :
 
-- Lycée Charles Coeffin (Baie-Mahault) : 89,66%
-- Lycée Victor Hugo (Besançon) : 51,33%
-- Lycée Franklin Roosevelt (Reims) : 50,43%
+- Lycée Charles Coeffin (Baie-Mahault) : 73,79%
+- Lycée Franklin Roosevelt (Reims) : 55,98%
+- Lycée Colbert (Tourcoing) : 54,97%
 
 ## Les places aux concours
 
