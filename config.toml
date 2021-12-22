@@ -1,4 +1,4 @@
-baseURL = "https://mp2i-france.github.io/mp2i-france-website/"
+baseURL = "https://mp2i-france.github.io/"
 title = "PREPAS MP2I"
 theme = "LoveIt"
 defaultContentLanguage = "fr"
@@ -12,7 +12,6 @@ enableRobotsTXT = true
   defaultTheme = "auto"
   gitRepo = "https://github.com/mp2i-france/mp2i-france-website"
   dateFormat = "02/01/2006"
-  images = ["/images/logo.png"]
 
   [params.app]
     title = "PREPAS MP2I"
@@ -61,7 +60,7 @@ enableRobotsTXT = true
   [params.home]
     [params.home.profile]
       enable = true
-      avatarURL = "./images/logo.png"
+      avatarURL = "images/logo.png"
       title = "PREPAS MP2I"
       subtitle = "Bienvenue sur le site des classes préparatoires MP2I !"
       typeit = true
@@ -131,25 +130,25 @@ enableRobotsTXT = true
 [menu]
   [[menu.main]]
     name = "MP2I"
-    url = "/mp2i/"
+    url = "mp2i/"
     weight = 1
   
   [[menu.main]]
     name = "Informatique"
-    url = "/informatique/"
+    url = "informatique/"
     weight = 2
 
   [[menu.main]]
     name = "Admission"
-    url = "/admission/"
+    url = "admission/"
     weight = 3
   
   [[menu.main]]
     name = "Ressources"
-    url = "/ressources/"
+    url = "ressources/"
     weight = 4
 
   [[menu.main]]
     name = "Contact"
-    url = "/contact/"
+    url = "contact/"
     weight = 5
