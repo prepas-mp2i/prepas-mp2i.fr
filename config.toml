@@ -60,7 +60,7 @@ enableRobotsTXT = true
   [params.home]
     [params.home.profile]
       enable = true
-      avatarURL = "images/logo.png"
+      avatarURL = "/prepas-mp2i-website/images/logo.png"
       title = "PREPAS MP2I"
       subtitle = "Bienvenue sur le site des classes préparatoires MP2I !"
       typeit = true

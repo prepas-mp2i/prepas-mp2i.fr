@@ -16,7 +16,9 @@ Nous avons 2h de TP par semaine ainsi que 2h de théorie qui nous servent à ét
 * Si vous choisissez de continuer l'informatique, vous aurez 2h de cours supplémentaire (ce qui fait 4h de cours au second semestre et en 2eme année)
 
 > *Cours* : cours théorique en classe entière, comme en maths.
+
 > *TD* : exercices en demi classe, où l'objectif est de pratiquer pour maitriser les concepts et progresser
+
 > *TP* : travail sur machine pour implémenter ce que vous avez vu en cours: c'est là où on code !
 
 Remarquez que ce nombre d'heures peut varier: ce n'est pas rare qu'un prof d'informatique rajoute des heures de TP pour vous faire plus pratiquer au début d'année par exemple !
@@ -50,7 +52,7 @@ Voici un exemple classique de tâche pour lequel on va construire un algorithme:
 
 Calculer la [suite de Fibonacci](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci)
 
-### première approche en python
+### Première approche en Python
 
 Si vous aimez l'informatique, vous êtes probablement à l'aise avec le code suivant:
 
@@ -63,7 +65,7 @@ def fibo(n):
 
 Mais comme vous le verrez en cours, cette fonction est très peu efficace car elle calcule de nombreuses fois les mêmes termes et fait "exploser sa pile d'appel"
 
-### une meilleure approche en ocaml
+### Une meilleure approche en OCaml
 
 ```ocaml
 let rec fibo(n) = match n with
@@ -73,7 +75,7 @@ let rec fibo(n) = match n with
 
 Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écriture est très proche de sa définition mathématique !!!
 
-### un code incompréhensible en c
+### Un code incompréhensible en C
 
 ```c
 long int fibo(int n){ 
