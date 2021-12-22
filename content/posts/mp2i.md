@@ -20,7 +20,7 @@ Vous pouvez retrouver la liste des formations en informatique [à cette adresse]
 
 La prépa est une formation théorique très complète pour préparer les concours de seconde année afin de rejoindre une école d'ingénieurs.
 La formation est gratuite et elle est rattachée aux lycées, les effectifs ne dépassent pas 48 et les élèves sont très accompagnés par les professeurs.
-Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités :
+Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités avec leur volume horaire:
 
 | Filière  |       Spécialité       | Maths | Physique/Chimie | Chimie | Informatique |  SI  | LV1 | Français | SVT |
 |:--------:|:----------------------:|:----:|:---------------:|:------:|:------------:|:----:|:---:|:--------:|:---:|
