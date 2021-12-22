@@ -1,4 +1,4 @@
-baseURL = "https://mp2i-france.github.io/"
+baseURL = "https://mp2i-france.github.io/mp2i-france-website/"
 title = "PREPAS MP2I"
 theme = "LoveIt"
 defaultContentLanguage = "fr"
@@ -60,7 +60,7 @@ enableRobotsTXT = true
   [params.home]
     [params.home.profile]
       enable = true
-      avatarURL = "images/logo.png"
+      avatarURL = "/images/logo.png"
       title = "PREPAS MP2I"
       subtitle = "Bienvenue sur le site des classes préparatoires MP2I !"
       typeit = true
