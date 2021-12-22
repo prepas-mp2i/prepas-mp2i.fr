@@ -92,5 +92,5 @@ Il faut savoir que rien n'est encore fixé et que ce sont des engagements de min
 Lien vers la carte : [Carte](https://www.google.com/maps/d/u/0/edit?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&usp=sharing)
 
 <iframe
-    src="https://www.google.com/maps/d/embed?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&hl=fr" width="800" height="500">
+    src="https://www.google.com/maps/d/embed?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&hl=fr" width="100%" height=400px>
 </iframe>
