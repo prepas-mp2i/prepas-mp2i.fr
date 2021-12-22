@@ -1,6 +1,6 @@
-[submodule "themes/slick"]
-	path = themes/slick
-	url = https://github.com/spookey/slick.git
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git

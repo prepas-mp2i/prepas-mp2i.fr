@@ -15,7 +15,7 @@ enableRobotsTXT = true
 
 [params]
   env = "production"  # to enable google analytics, opengraph, twitter-cards and schema.
-  subtitle = "Site des classes préparatoires MP2I"
+  keywords = ["MP2I", "PaperMod", "Prépa"]
   description = "Site des classes préparatoires MP2I"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   defaultTheme = "light"  # dark, light
@@ -39,6 +39,10 @@ enableRobotsTXT = true
       Content = """Ce site web est conçu par des étudiants en classes 
       préparatoires MP2I, il vise une présentation qualitative de 
       cette nouvelle filière."""
+
+[markup]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [menu]
   [[menu.main]]
@@ -65,9 +69,3 @@ enableRobotsTXT = true
     name = "Recherche"
     url = "/recherche/"
     weight = 5
-
-  [[menu.footer]]
-    name = "GitHub"
-    title = "MP2I France"
-    url = "https://github.com/mp2i-france/mp2i-france-website/"
-    weight = 1
