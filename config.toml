@@ -5,7 +5,8 @@ copyright = "MP2I — All rights reserved."
 
 languageCode = "fr-FR"
 enableEmoji = true
-googleAnalytics = ""       # add your tracking id
+googleAnalytics = "G-BW19BY0LKC"  # add your tracking id
+enableRobotsTXT = true
 canonifyURLs = true
 
 [params]
