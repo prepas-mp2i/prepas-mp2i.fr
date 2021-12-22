@@ -8,7 +8,7 @@ Nous sommes des actuellement des élèves de MP2I des quatre coins de la France.
 
 Vous êtes intéressé par les prépas scientifiques et/ou par la MP2I ? N'attendez plus, venez découvrir l'entièreté de ce site !
 
-Vous avez tout vu mais il vous reste encore des questions ? Rejoignez notre serveur discord en [cliquant ici](https://discord.gg/NXpXa29nPh)
+Vous avez tout vu mais il vous reste encore des questions ? Rejoignez notre serveur discord en [cliquant ici](https://discord.gg/rXURBCKe)
 Vous pouvez aussi contacter les élèves qui maintiennent ce site en envoyant un mail à cette adresse : [mp2i@protonmail.com](mailto:email@mp2i@protonmail.com).
 
 Voici une liste de représentants pour chacun des établissements proposant la formation, n'hésitez pas si vous avez des questions plus pointues !
