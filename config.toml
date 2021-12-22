@@ -1,49 +1,133 @@
 baseURL = "https://mp2i-france.github.io/mp2i-france-website/"
-title = "Prépas MP2I"
-theme = "PaperMod"
+title = "PREPAS MP2I"
+theme = "LoveIt"
 defaultContentLanguage = "fr"
-copyright = "MP2I — All rights reserved."
-paginate = 4
 googleAnalytics = "G-BW19BY0LKC"  # add your tracking id
 enableRobotsTXT = true
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-
-[permalinks]
-  posts = "/:filename/"
-  
 [params]
-  env = "production"  # to enable google analytics, opengraph, twitter-cards and schema.
-  keywords = ["MP2I", "PaperMod", "Prépa"]
+  version = "0.2.X"
   description = "Site des classes préparatoires MP2I"
-  favicon = "favicon.ico"  # path to a .ico to use as favicon
-  defaultTheme = "light"  # dark, light
-  ShowReadingTime = true
+  keywords = ["Theme", "Hugo", "MP2I", "Prépa"]
+  defaultTheme = "auto"
+  gitRepo = "https://github.com/mp2i-france/mp2i-france-website"
+  dateFormat = "02/01/2006"
+  images = ["/images/logo.png"]
 
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/mp2i-france/mp2i-france-website"
+  [params.app]
+    title = "PREPAS MP2I"
+    noFavicon = false
+    themeColor = "#ffffff"
+    iconColor = "#5bbad5"
+    tileColor = "#da532c"
 
-  [[params.socialIcons]]
-    name = "discord"
-    url = "https://discord.gg/w4ugrWy84W"
+  [params.search]
+    enable = true
+    type = "lunr"
+    maxResultLength = 10
+    snippetLength = 30
+    highlightTag = "em"
 
-[languages]
-  [languages.fr]
-    languageName = "French"
-    weight = 1
+  [params.header]
+    desktopMode = "fixed"
+    mobileMode = "auto"
 
-    [languages.fr.homeInfoParams]
-      Title = "Bienvenue sur le site des MP2I👋"
-      Content = """Ce site web est conçu par des étudiants en classes 
-      préparatoires MP2I, il vise une présentation qualitative de 
-      cette nouvelle filière."""
+    [params.header.title]
+      logo = ""
+      name = "PREPAS MP2I"
+      # add extra information before the name (HTML supported), such as icons
+      pre = """<img src='/favicon.ico' height=25px 
+                    style='margin-bottom:-5px;margin-right:5px'>"""
+      typeit = true  # typeit animation for title name
+
+  [params.footer]
+    enable = true
+    hugo = false
+    copyright = true
+    author = true
+    since = 2021
+    license = """<a rel="license external nofollow noopener noreffer"
+    href="https://creativecommons.org/licenses/by-nc/4.0/" 
+    target="_blank">CC BY-NC 4.0</a>"""
+
+  [params.section]
+    paginate = 4
+    dateFormat = "01-02"
+
+  [params.list]
+    paginate = 4
+    dateFormat = "01-02"
+
+  [params.home]
+    [params.home.profile]
+      enable = true
+      avatarURL = "./images/logo.png"
+      title = "PREPAS MP2I"
+      subtitle = "Bienvenue sur le site des classes préparatoires MP2I !"
+      typeit = true
+      social = true
+      disclaimer = ""
+
+    [params.home.posts]
+      enable = true
+      paginate = 4
+
+  [params.social]
+    GitHub = "mp2i-france/mp2i-france-website"
+    Email = "mp2i@protonmail.com"
+
+  [params.page]
+    hiddenFromHomePage = false
+    hiddenFromSearch = false
+    twemoji = true
+
+    [params.page.share]
+      enable = true
+      Facebook = true
+
+  [params.analytics]
+    enable = true
+    # Google Analytics
+    [params.analytics.google]
+      id = ""
+      anonymizeIP = true
+
+  [params.cookieconsent]
+    enable = true
+    # text strings used for Cookie consent banner
+    [params.cookieconsent.content]
+      message = ""
+      dismiss = ""
+      link = ""
 
 [markup]
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+
     [markup.goldmark.renderer]
       unsafe = true
-      
+
+[author]
+  name = "MP2I"
+  email = "mp2i@protonmail.com"
+
+[mediaTypes]
+  [mediaTypes."text/plain"]
+    suffixes = ["md"]
+
+  # Options to make output .md files
+  [outputFormats.MarkDown]
+    mediaType = "text/plain"
+    isPlainText = true
+
+[Permalinks]
+  posts = ":filename"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "MarkDown"]
+
 [menu]
   [[menu.main]]
     name = "MP2I"

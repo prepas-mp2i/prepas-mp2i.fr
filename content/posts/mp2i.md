@@ -43,9 +43,11 @@ Une description plus détaillée du cours d'informatique est disponible sur [cet
 
 Dès le second semestre, nous devons choisir une option qui conditionnera notre filière en seconde année.
 En MP2I nous avons le choix entre Info pour aller en MPI, et S.I pour rejoindre la MP, comme le font une grande partie des élèves en MPSI.
-Voici un récapitulatif des différentes filières en deuxième année :
 
-![Spécialités en deuxième année](../images/deuxieme_annee.png)
+Voici un récapitulatif des différentes filières en deuxième année:
+
+<img src="../images/deuxieme_annee.png"
+     alt="Spécialités en deuxième année">
 
 Même si la plupart des élèves passent en MPI, il est toujours possible de passer en MP si la manière dont est abordé l'informatique ne vous convient pas.
 Le passage en PSI est techniquement possible mais n'a pas été constaté.
