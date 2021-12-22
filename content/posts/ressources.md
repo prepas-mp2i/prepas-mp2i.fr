@@ -34,6 +34,8 @@ L'apprentissage de nouveaux contenus, de nouvelles méthodes voire de nouvelles 
 * **Informatique**
   * [France-IOI](http://www.france-ioi.org/) est un site proposant à travers de nombreux exercices d'apprendre la programmation et l'algorithmique. Les exercices sont de niveau extrêmement varié et chacun pourra progresser grâce à ce site.
 
+  * [Le projet Euler](https://projecteuler.net/) est une collection de problèmes entre info et maths. Si vous aimez les nombres (arithmetique, nombres premiers ...) et coder pour résoudre des problèmes, ce site est fait pour vous ! Il y a plus de 700 problèmes, allant de très facile à clairement infaisable.
+
 ## Pratiquer
 
 Les projets personnels sont primordiaux à deux points de vue. Ils permettent évidemment de mettre en œuvre les connaissances et compétences théoriques acquises, et ainsi les fixer et les assimiler. Que ce soit en informatique, en robotique, en mécanique, les projets vous permettent d'appliquer vos connaissances à vos passions.
