@@ -11,10 +11,10 @@ Vous vous demandez surement en quoi consiste le cours d'informatique en MP2I, et
 
 Nous avons 2h de TP par semaine ainsi que 2h de théorie qui nous servent à étudier les algorithmes de manière formelle.
 
-## Repartition horraire
+## Répartition horaire
 
-* * Au premier semestre, les cours d'info sont composés de 2h de cours, 1h de *TP* et 1h de *TD*
-  * Si vous choisissez de continuer l'informatique, vous aurez 2h de cours supplémentaire (ce qui fait 4h de cours au second semestre et en 2eme année) 
+* Au premier semestre, les cours d'info sont composés de 2h de cours, 1h de *TP* et 1h de *TD*
+* Si vous choisissez de continuer l'informatique, vous aurez 2h de cours supplémentaire (ce qui fait 4h de cours au second semestre et en 2eme année) 
 
 > *Cours* : cours théorique en classe entière, comme en maths.
 
@@ -29,7 +29,7 @@ Remarquez que ce nombre d'heures peut varier: ce n'est pas rare qu'un prof d'inf
 
 La première chose à comprendre est que ce cours d'informatique est principalement **théorique**.
 
-La plupart des notions abordées font d'ailleurs plus précisémment partie de l'*algorithmique*, c'est à dire l'étude des algorithmes.
+La plupart des notions abordées font d'ailleurs plus précisément partie de l'*algorithmique*, c'est à dire l'étude des algorithmes.
 
 Un premier critère pour savoir si cette filière est faite pour vous est donc: 
 > Est-ce que j'aime les maths ?
@@ -76,7 +76,7 @@ let rec fibo(n) = match n with
   | _ -> let a, b = fibo(n-1) in (b, a+b)
 ```
 
-Vous verrez, quand vous aurez pratiqué ce language, vous trouverez que son écriture est très proche de sa définition mathématique !!!
+Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écriture est très proche de sa définition mathématique !!!
 
 
 ### un code incompréhensible en c:
