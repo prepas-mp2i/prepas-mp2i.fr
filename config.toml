@@ -56,11 +56,16 @@ enableRobotsTXT = true
     weight = 2
   
   [[menu.main]]
+    name = "La spécialité informatique"
+    url = "/posts/cours/"
+    weight = 3
+
+  [[menu.main]]
     name = "Ressources"
     url = "/posts/ressources/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     name = "Qui sommes-nous?"
     url = "/posts/contact/"
-    weight = 4
+    weight = 5
