@@ -1,4 +1,4 @@
-baseURL = "https://prepas-mp2i.github.io/prepas-mp2i-website/"
+baseURL = "https://prepas-mp2i.github.io"
 title = "PREPAS MP2I"
 theme = "LoveIt"
 defaultContentLanguage = "fr"
@@ -9,7 +9,7 @@ enableRobotsTXT = true
   description = "Site des classes préparatoires MP2I"
   keywords = ["Theme", "Hugo", "MP2I", "Prépa"]
   defaultTheme = "auto"
-  gitRepo = "https://github.com/prepas-mp2i/prepas-mp2i-website"
+  gitRepo = "https://github.com/prepas-mp2i/prepas-mp2i.github.io/"
   dateFormat = "02/01/2006"
 
   [params.app]
@@ -34,7 +34,7 @@ enableRobotsTXT = true
       logo = ""
       name = "PREPAS MP2I"
       # add extra information before the name (HTML supported), such as icons
-      pre = """<img src='/prepas-mp2i-website/images/logo.png' height=25px 
+      pre = """<img src='/images/logo.png' height=25px 
                     style='margin-bottom:-5px;margin-right:5px'>"""
       typeit = true  # typeit animation for title name
 
@@ -59,7 +59,7 @@ enableRobotsTXT = true
   [params.home]
     [params.home.profile]
       enable = true
-      avatarURL = "/prepas-mp2i-website/images/logo.png"
+      avatarURL = "/images/logo.png"
       title = "PREPAS MP2I"
       subtitle = "Bienvenue sur le site des classes préparatoires MP2I !"
       typeit = true
@@ -71,7 +71,7 @@ enableRobotsTXT = true
       paginate = 4
 
   [params.social]
-    GitHub = "prepas-mp2i/prepas-mp2i-website"
+    GitHub = "prepas-mp2i/prepas-mp2i.github.io"
     Email = "mp2i@protonmail.com"
 
   [params.page]
@@ -124,25 +124,25 @@ enableRobotsTXT = true
 [menu]
   [[menu.main]]
     name = "MP2I"
-    url = "mp2i/"
+    url = "/mp2i/"
     weight = 1
   
   [[menu.main]]
     name = "Informatique"
-    url = "informatique/"
+    url = "/informatique/"
     weight = 2
 
   [[menu.main]]
     name = "Admission"
-    url = "admission/"
+    url = "/admission/"
     weight = 3
   
   [[menu.main]]
     name = "Ressources"
-    url = "ressources/"
+    url = "/ressources/"
     weight = 4
 
   [[menu.main]]
     name = "Contact"
-    url = "contact/"
+    url = "/contact/"
     weight = 5
