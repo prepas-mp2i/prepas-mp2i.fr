@@ -1,0 +1,18 @@
+{{- $params := .Scratch.Get "params" -}}
+
+<!-- Google Analytics -->
+{{- partial "plugin/analytics.html" . -}}
+<!-- End of Google Analytics -->
+
+<!-- Default meta.html content -->
+<meta name="Description" content="{{ .Site.Params.description }}">
+<meta name="application-name" content="{{ .Site.Params.app.title }}">
+<meta name="apple-mobile-web-app-title" content="{{ .Site.Params.app.title }}">
+
+{{- with .Site.Params.app.themeColor -}}
+    <meta name="theme-color" content="{{ . }}">
+{{- end -}}
+
+{{- with .Site.Params.app.tileColor -}}
+    <meta name="msapplication-TileColor" content="{{ . }}">
+{{- end -}}
