@@ -23,6 +23,7 @@ La curiosité, la capacité d'émerveillement est une grande motivation à l'ent
 
 * **Toutes sciences**
   * [ScienceEtonnante](https://www.youtube.com/c/ScienceEtonnante)
+  * [PasseScience](https://www.youtube.com/c/PasseScience)
 
 ## Apprendre
 

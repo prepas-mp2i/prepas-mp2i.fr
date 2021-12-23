@@ -4,6 +4,32 @@ theme = "LoveIt"
 defaultContentLanguage = "fr"
 enableRobotsTXT = true
 
+[menu]
+  [[menu.main]]
+    name = "MP2I"
+    url = "/mp2i/"
+    weight = 1
+  
+  [[menu.main]]
+    name = "Informatique"
+    url = "/informatique/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Admission"
+    url = "/admission/"
+    weight = 3
+  
+  [[menu.main]]
+    name = "Ressources"
+    url = "/ressources/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+
 [params]
   version = "0.2.X"
   description = "Site des classes préparatoires MP2I"
@@ -83,11 +109,18 @@ enableRobotsTXT = true
     enable = true
     # Google Analytics
     [params.analytics.google]
-      id = "G-BW19BY0LKC"  # add your tracking id
+      id = "G-7SXBL516N1"  # add your tracking id
       anonymizeIP = false
 
   [params.cookieconsent]
     enable = false
+
+[Permalinks]
+  posts = ":filename"
+
+[author]
+  name = " Étudiants en MP2I"
+  email = "mp2i@protonmail.com"
 
 [markup]
   [markup.highlight]
@@ -96,10 +129,6 @@ enableRobotsTXT = true
 
     [markup.goldmark.renderer]
       unsafe = true
-
-[author]
-  name = " Étudiants en MP2I"
-  email = "mp2i@protonmail.com"
 
 [mediaTypes]
   [mediaTypes."text/plain"]
@@ -110,35 +139,6 @@ enableRobotsTXT = true
     mediaType = "text/plain"
     isPlainText = true
 
-[Permalinks]
-  posts = ":filename"
-
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   page = ["HTML", "MarkDown"]
-
-[menu]
-  [[menu.main]]
-    name = "MP2I"
-    url = "/mp2i/"
-    weight = 1
-  
-  [[menu.main]]
-    name = "Informatique"
-    url = "/informatique/"
-    weight = 2
-
-  [[menu.main]]
-    name = "Admission"
-    url = "/admission/"
-    weight = 3
-  
-  [[menu.main]]
-    name = "Ressources"
-    url = "/ressources/"
-    weight = 4
-
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 5
