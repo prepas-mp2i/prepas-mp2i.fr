@@ -79,10 +79,6 @@ enableRobotsTXT = true
     hiddenFromSearch = false
     fontawesome = true
 
-    [params.page.share]
-      enable = true
-      Facebook = true
-
   [params.analytics]
     enable = true
     # Google Analytics

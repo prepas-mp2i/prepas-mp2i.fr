@@ -1,0 +1,9 @@
+{{ $src := .Get "src" }}
+{{ $width := .Get "width" | default "100%" }}
+{{ $height := .Get "height" | default "100%" }}
+
+<iframe src="{{ $src }}"
+        {{ with .Get "title" }} title="{{ . }}" {{ end }}
+        width="{{ $width }}" height="{{ $height }}" 
+        allowfullscreen>
+</iframe>
