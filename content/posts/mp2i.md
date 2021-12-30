@@ -47,7 +47,7 @@ Le choix de l'option info se doit d'être largement majoritaire, en effet, quasi
 
 Voici un récapitulatif des différentes filières en deuxième année:
 
-{{< figure src="/images/deuxieme_annee.png" title="Spécialités en deuxième année" >}}
+{{< figure src="/images/deuxieme_annee.svg" title="Spécialités en deuxième année" >}}
 
 
 ## La MP2I en quelques chiffres
