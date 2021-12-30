@@ -58,17 +58,18 @@ Dans le chapitre récursivité, vous avez vraisemblablement déjà rencontré la
 def fibo(n):
     if n <= 1:
         return n
-    return fibo(n-1) + fibo(n-2)
+    return fibo(n - 1) + fibo(n - 2)
 ```
 
-Mais comme vous le verrez en cours, cette fonction est très peu efficace car elle calcule de nombreuses fois les mêmes termes et fait "exploser sa pile d'appel".
+Mais comme vous le verrez en cours, cette fonction est très peu efficace car elle calcule de nombreuses fois les mêmes termes et fait "exploser la pile d'appel".
 
 ### Une meilleure approche en OCaml
 
 ```ocaml
-let rec fibo(n) = match n with
+let rec fibo(n) =
+  match n with
   | 0 -> (0, 1)
-  | _ -> let a, b = fibo(n-1) in (b, a+b)
+  | _ -> let a, b = fibo(n - 1) in (b, a + b)
 ```
 
 Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écriture est très proche de sa définition mathématique !
