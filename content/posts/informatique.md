@@ -52,7 +52,7 @@ Calculer les termes de la [suite de Fibonacci](https://fr.wikipedia.org/wiki/Sui
 
 ### Première approche en Python
 
-Si vous aimez l'informatique, vous êtes probablement à l'aise avec le code suivant:
+Dans le chapitre récursivité, vous avez vraisemblablement déjà rencontré la suite de Fibonacci.
 
 ```python
 def fibo(n):
@@ -61,7 +61,7 @@ def fibo(n):
     return fibo(n-1) + fibo(n-2)
 ```
 
-Mais comme vous le verrez en cours, cette fonction est très peu efficace car elle calcule de nombreuses fois les mêmes termes et fait "exploser sa pile d'appel"
+Mais comme vous le verrez en cours, cette fonction est très peu efficace car elle calcule de nombreuses fois les mêmes termes et fait "exploser sa pile d'appel".
 
 ### Une meilleure approche en OCaml
 
@@ -72,6 +72,7 @@ let rec fibo(n) = match n with
 ```
 
 Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écriture est très proche de sa définition mathématique !
+<!-- TODO: Remplacer ou ajouter un exemple en OCaml plus simple, permettant d'introduire le langage de façon moins violente, une proposition avancée est l'utilisation d'une suite arithmético-géométrique. -->
 
 ### Un code incompréhensible en C
 
@@ -89,6 +90,7 @@ long int fibo(int n){
 ```
 
 Comme quoi on peut s'amuser en MP2I, même avec une tâche aussi simple !
+<!-- TODO: À remplacer, si l'on veut réellement introduire le langage C, il vaut mieux trouver un exemple simple qui ne fasse pas aussi peur que celui-ci. Le but reste de les encourager à les faire venir, pas à les faire fuir =) -->
 
 ## Liens annexes
 
