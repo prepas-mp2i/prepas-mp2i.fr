@@ -16,7 +16,7 @@ Hormis quelques rares exceptions, pour intégrer une classe préparatoire scient
 
 La MP2I se démarque de la MPSI et de la PCSI car elle repose principalement sur trois matières au lieu de deux : les mathématiques, la physique et l’informatique. Pour mettre toutes les chances de votre côté, il est donc recommandé de choisir les spécialités Physique-Chimie et NSI en classe de première pour ne pas se retrouver plus tard avec de trop grandes lacunes dans l’une ou l’autre des matières.
 
-Une de ces deux spécialités peut être conservée au choix en terminale. La NSI reste à privilégier car le programme de physique en MP2I s’appuie sur les notions de première, même s’il est tout à fait possible de faire l’inverse.
+Une de ces deux spécialités peut être conservée au choix en terminale. Bien que la NSI soit la spécialité tout indiquée pour la MP2I, nous ne pouvons pas garantir que ni l'une ni l'autre soit particulièrement avantageuse lors de la sélection des candidats. Libre à vous de choisir celle où vous vous sentirez le mieux.
 
 N.B : Il reste possible dans certains rares cas d'intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie en Première, mais ce choix ne garantit pas une place en CPGE et risque d'entrainer un retard difficile à combler par la suite.
 
