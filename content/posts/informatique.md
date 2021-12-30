@@ -8,8 +8,6 @@ Qui dit nouvelle filière, dit nouveaux professeurs et nouveaux cours.
 
 Vous vous demandez surement en quoi consiste le cours d'informatique en MP2I, et bien cette page est là pour vous éclairer !
 
-Nous avons 2h de TP par semaine ainsi que 2h de théorie qui nous servent à étudier les algorithmes de manière formelle.
-
 ## Répartition horaire
 
 * Au premier semestre, les cours d'info sont composés de 2h de cours, 1h de *TP* et 1h de *TD*
@@ -17,11 +15,11 @@ Nous avons 2h de TP par semaine ainsi que 2h de théorie qui nous servent à ét
 
 > *Cours* : cours théorique en classe entière, comme en maths.
 
-> *TD* : exercices en demi classe, où l'objectif est de pratiquer pour maitriser les concepts et progresser
+> *TD* : exercices en demi groupe, où l'objectif est de pratiquer pour maitriser les concepts et progresser
 
 > *TP* : travail sur machine pour implémenter ce que vous avez vu en cours: c'est là où on code !
 
-Remarquez que ce nombre d'heures peut varier: ce n'est pas rare qu'un prof d'informatique rajoute des heures de TP pour vous faire plus pratiquer au début d'année par exemple !
+Remarquez que ce nombre d'heures peut varier: ce n'est pas rare qu'un prof d'informatique rajoute des heures de TP pour vous faire plus pratiquer en début d'année par exemple !
 
 ## La théorie
 
@@ -44,17 +42,17 @@ Voici les principaux domaines pouvant être abordés en première année:
 
 Pendant les TP, la programmation se fait en C et en Ocaml.
 
-On utilise quelquefois Python lors de TP de physique, mais c'est d'avantage une compétence de traitement de données que des algorithmes complexes.
+On utilise quelquefois Python lors de TP de physique, mais c'est davantage une compétence de traitement de données que des algorithmes complexes.
 
 Le but principal des TP est de faire fonctionner un algorithme étudié en cours (avant ou après) sur un ordinateur, et de créer de nouveaux algorithmes pour des tâches connexes.
 
 Voici un exemple classique de tâche pour lequel on va construire un algorithme:
 
-Calculer la [suite de Fibonacci](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci)
+Calculer les termes de la [suite de Fibonacci](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci)
 
 ### Première approche en Python
 
-Si vous aimez l'informatique, vous êtes probablement à l'aise avec le code suivant:
+Dans le chapitre récursivité, vous avez vraisemblablement déjà rencontré la suite de Fibonacci.
 
 ```python
 def fibo(n):
@@ -63,7 +61,7 @@ def fibo(n):
     return fibo(n-1) + fibo(n-2)
 ```
 
-Mais comme vous le verrez en cours, cette fonction est très peu efficace car elle calcule de nombreuses fois les mêmes termes et fait "exploser sa pile d'appel"
+Mais comme vous le verrez en cours, cette fonction est très peu efficace car elle calcule de nombreuses fois les mêmes termes et fait "exploser sa pile d'appel".
 
 ### Une meilleure approche en OCaml
 
@@ -73,7 +71,8 @@ let rec fibo(n) = match n with
   | _ -> let a, b = fibo(n-1) in (b, a+b)
 ```
 
-Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écriture est très proche de sa définition mathématique !!!
+Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écriture est très proche de sa définition mathématique !
+<!-- TODO: Remplacer ou ajouter un exemple en OCaml plus simple, permettant d'introduire le langage de façon moins violente, une proposition avancée est l'utilisation d'une suite arithmético-géométrique. -->
 
 ### Un code incompréhensible en C
 
@@ -91,6 +90,7 @@ long int fibo(int n){
 ```
 
 Comme quoi on peut s'amuser en MP2I, même avec une tâche aussi simple !
+<!-- TODO: À remplacer, si l'on veut réellement introduire le langage C, il vaut mieux trouver un exemple simple qui ne fasse pas aussi peur que celui-ci. Le but reste de les encourager à les faire venir, pas à les faire fuir =) -->
 
 ## Liens annexes
 
