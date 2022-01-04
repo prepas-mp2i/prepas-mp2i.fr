@@ -32,7 +32,7 @@ Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spéc
 
 ## Le programme en MP2I
 
-Nous avons le même programme que les MPSI en mathématiques. Le programme de physique se base celui de première contrairement à celui en MPSI, néanmoins à la fin de l'année, les connaissances sont les mêmes qu'en MPSI. La grosse différence est la chimie qui est remplacée par de l'informatique. Ainsi l'informatique en MP2I est un enseignement bien plus complet qu'en MPSI.
+Nous avons le même programme que les MPSI en mathématiques. Le programme de physique se base sur celui de première contrairement à celui en MPSI, néanmoins à la fin de l'année, les connaissances sont les mêmes qu'en MPSI. La grosse différence est la chimie qui est remplacée par de l'informatique. Ainsi l'informatique en MP2I est un enseignement bien plus complet qu'en MPSI.
 
 Une description plus détaillée du cours d'informatique est disponible sur [cette page](/informatique).
 
