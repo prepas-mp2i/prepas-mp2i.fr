@@ -92,5 +92,6 @@ Il faut savoir que rien n'est encore fixé et que ce sont des engagements de min
     height=400px >}}
 
 ##### Légende
-- Rouge: Prépas MP2I ouverte à la rentrée 2021
-- Vert:  Prépas MP2I ouverte à la rentrée 2022
+- Rouge : CPGE MP2I ouverte à la rentrée 2021
+- Vert :  CPGE MP2I ouverte à la rentrée 2022
+- Orange : CPGE MP2I privée ouverte à la rentrée 2021
