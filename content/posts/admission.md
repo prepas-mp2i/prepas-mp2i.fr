@@ -76,18 +76,20 @@ N.B. : Pas d’inquiétude si vous n’êtes acceptés dans aucune formation dur
 
 - Pour les "en attente", vous avez plusieurs chiffres : 
 
-  · Votre place dans le classement de la formation ou votre rang : assez explicite c'est votre classement sur tous les élèves qui ont demandés la formation, il n'évolue pas.
+   • Votre place dans le classement de la formation ou votre rang : assez explicite c'est votre classement sur tous les élèves qui ont demandés la formation, il n'évolue pas.
 
-  · Votre place dans la liste d'attente : c'est votre classement à partir du dernier appelé (être appelé : se voir proposer un "oui", voir son "en attente" se transformer en "oui"). Au début ça peut stagner un peu puis il y a des jours où ça diminue vite et d'autres non, c'est très variable. Il ne faut pas se dire que si on a pas trop bougé depuis 3 jours on a aucune chance, c'est faux.
+   • Votre place dans la liste d'attente : c'est votre classement à partir du dernier appelé (être appelé : se voir proposer un "oui", voir son "en attente" se transformer en "oui"). Au début ça peut stagner un peu puis il y a des jours où ça diminue vite et d'autres non, c'est très variable. Il ne faut pas se dire que si on a pas trop bougé depuis 3 jours on a aucune chance, c'est faux.
 
-  · Le rang du dernier appelé : assez explicite encore une fois, le chiffre augmente et se rapproche de votre rang à vous.
+   • Le rang du dernier appelé : assez explicite encore une fois, le chiffre augmente et se rapproche de votre rang à vous.
 
-  · Et enfin, vous avez de la chance cette année car vous avez (pour 26 MP2I) le rang du dernier admis en 2021. Et donc plus vous avez un rang plus petit que celui-ci (et donc êtes au dessus du rang du dernier admis), plus vous avez vos chances. Si vous êtes proche de ce chiffre rien n'est joué, lorsque vous êtes très au dessus de ce chiffre (> 200) ça peut être compliqué mais à voir avec l'évolution des listes d'attente.
+   • Et enfin, vous avez de la chance cette année car vous avez (pour 26 MP2I) le rang du dernier admis en 2021. Et donc plus vous avez un rang plus petit que celui-ci (et donc êtes au dessus du rang du dernier admis), plus vous avez vos chances. Si vous êtes proche de ce chiffre rien n'est joué, lorsque vous êtes très au dessus de ce chiffre (> 200) ça peut être compliqué mais à voir avec l'évolution des listes d'attente.
 
-  · Parfois vous avez le classement internat, les classements d'internat et pédagogique sont séparés et donc pour être accepté en vœu avec internat il faut avoir l'internat et la formation, c'est donc plus sélectif.
+   • Parfois vous avez le classement internat, les classements d'internat et pédagogique sont séparés et donc pour être accepté en vœu avec internat il faut avoir l'internat et la formation, c'est donc plus sélectif.
 
 ### Lettres de motivation et projet de formation motivé
-Les lettres de motivation sont très importantes si vous avez un profil particulier (lycée étranger, une spécialité fortement recommandée que vous n'avez pas prise mais dont vous avez rattrapé le programme, si vous êtes au CNED...). Si vous êtes dans le cas "classique", elles sont survolées voir ignorées mais accordez y un peu de soin, pas de faute etc... Mais pour la prépa scientifique, des copiés collés adaptés conviennent très bien.
+Les lettres de motivation sont très importantes surtout si vous avez un profil particulier (lycée étranger, une spécialité fortement recommandée que vous n'avez pas prise mais dont vous avez rattrapé le programme, si vous êtes au CNED...). 
+Le plus important c'est répondre à la question "pourquoi cette filière ?", mettez vous à la place du jury, dire que vous êtes motivé.e c'est bien mais il en faudra plus pour convaincre. Votre appétence pour telle ou telle science, vos projets, vos ambitions professionelles  etc, sont des critères bien plus importants pour cerner votre profil. Il est également déconseillé de vanter les mérites de l'établissement que vous viser, si ils sont géniaux, ils le savent, pas besoin de leur dire, vanter plutôt vos qualités. Orthographe correcte exigée évidemment, faites vous relire par un tiers (prof, parent...). 
+Enfin il vaut mieux écrire une lettre de motivation par filière, faire une PCSI ou une MP2I ce n'est pas la même chose.
 
 
 ### Les bourses
