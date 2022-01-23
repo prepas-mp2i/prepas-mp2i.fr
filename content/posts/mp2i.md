@@ -8,7 +8,7 @@ draft: false
 
 Voici un petit descriptif des différentes filières permettant de travailler dans l'informatique :
 
-- [Le BTS](https://diplomeo.com/bts) est une formation de 3 ans proposée par des lycées.  Elle offre un enseignement axé sur la pratique et aboutit à une insertion professionnelle dès la fin de la formation.
+- [Le BTS](https://diplomeo.com/bts) est une formation de 2 ans proposée par des lycées.  Elle offre un enseignement axé sur la pratique et aboutit à une insertion professionnelle dès la fin de la formation.
 - [Le BUT](https://diplomeo.com/dut) se fait en 3 ans (anciennement DUT en 2 ans). Cette formation se déroulant en université permet de rejoindre certaines écoles d'ingénieur, de partir en licence ou de rejoindre le milieu professionnel.
 - [La licence](https://diplomeo.com/licence) est enseignée en université et se fait en 3 ans. Cette formation théorique permet de poursuivre ses études avec un Master pour un total de 5 ans.
 - Les écoles d'ingénieurs (ou prépas intégrées) proposent des formations en 5 ans. Il y a souvent 2 ans de cycle général suivit de 3 ans de spécialité. Les élèves sont le plus souvent embauchés à la suite de la formation  mais il est aussi possible de faire un doctorat (bac+8).
