@@ -50,32 +50,54 @@ Voici un exemple classique de tâche pour lequel on va construire un algorithme:
 
 Calculer les termes de la [suite de Fibonacci](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci)
 
-### Première approche en Python
+### En Python
 
 Dans le chapitre récursivité, vous avez vraisemblablement déjà rencontré la suite de Fibonacci.
 
 ```python
 def fibo(n):
-    if n <= 1:
-        return n
-    return fibo(n - 1) + fibo(n - 2)
+    if n == 0:
+        return 0
+    else if n == 1:
+        return 1
+    else return fibo(n - 1) + fibo(n - 2) (* On pourrait omettre les `else` mais ils peuvent aider à la compréhension.*)
 ```
 
-Mais comme vous le verrez en cours, cette fonction est très peu efficace car elle calcule de nombreuses fois les mêmes termes et fait "exploser la pile d'appel".
-
-### Une meilleure approche en OCaml
+### En OCaml
+En "traduisant" simplement la syntaxe : 
+```ocaml
+let rec fibo n = 
+    if n = 0 then 0
+    else if n = 1 then 1
+    else fibo(n-1) + fibo(n-2) (* Les parenthèses ne sont pas systématiques en OCaml, on peut ne les utiliser que lorsque notre expression n'est pas associative, pour dissocier les différents cas (ici nous voulons bien passer n-1 en paramètre, et non faire fibo n puis décrémenter le résultat.)*)
+```
+On pourrait rendre cela plus élégant en utilisant le [pattern matching](https://ocaml.org/learn/tutorials/a_first_hour_with_ocaml.html#Pattern-matching) et rendre le tout plus propre en précisant le type des paramètres utilisés ainsi que le type de l'expression renvoyée. (Il existe quelque-chose de ressemblant en python mais ça n'est que du sucre syntaxique).
+Cela permet de déceler plus vite une incohérence, et donc de produire un code plus sécurisé et apte à réaliser exactement ce que l'on veut. On dit qu'OCaml est [fortement typé](https://fr.wikipedia.org/wiki/Typage_fort)
 
 ```ocaml
-let rec fibo(n) =
-  match n with
-  | 0 -> (0, 1)
-  | _ -> let a, b = fibo(n - 1) in (b, a + b)
+let rec fibo (n:int) : int = (* La fonction fibo prend en paramètre un entier n, et renverra aussi un entier. *)
+    match n with (* On filtre la variable n. Si la valeur ne correspond pas au filtre, on passe au filtre suivant. *)
+    | 0 -> 0 (* première valeur de la suite de fibonnaci *)
+    | 1 -> 1 (* deuxième valeur *)
+    | n -> fibo (n-1) + fibo (n-2) (* Ce filtre prend toute valeur de n, il permet d'effectuer un filtrage exhaustif. (En conséquent, aucun autre filtre suivant ne sera pris en compte, cela tombe bien que ce soit le dernier !) *)
 ```
 
 Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écriture est très proche de sa définition mathématique !
 <!-- TODO: Remplacer ou ajouter un exemple en OCaml plus simple, permettant d'introduire le langage de façon moins violente, une proposition avancée est l'utilisation d'une suite arithmético-géométrique. -->
 
-### Un code incompréhensible en C
+### Une optimisation
+Comme vous le verrez en cours, les algorithmes précédents sont peu efficaces car ils calculent de nombreuses fois les mêmes termes (deviennent très vite lents lorsque la taille de l'entrée augmente) et peuvent finir par faire "exploser la pile d'appel".
+
+En utilisant plutôt un couple de valeurs nous pouvons réduire drastiquement les ressources utilisés (on descend en complexité), en calculant une seul fois chaque terme (complexité linéaire).
+
+```ocaml
+let rec fibo (n:int) : int*int =
+  match n with
+  | 0 -> (0, 1)
+  | _ -> let a, b = fibo(n - 1) in (b, a + b)
+```
+
+### Un code incompréhensible en C (blague)
 
 ```c
 long int fibo(int n){ 
