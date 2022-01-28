@@ -100,34 +100,34 @@ Les critères pour être admis en internat concernent majoritairement les appré
 
 ## Lycées proposant la filière MP2I à l'heure actuelle
 
-| Type    | Lycée | Ville | Nombre de demandes | Rang du dernier admis |
-|:-------:|:-----:|:-----:|:-------------------:|:----------------------:
-| Public | Louis Le Grand | Paris 05 | 2970 | 127 |
-| Public | Hoche | Versailles | 2102 | 193 |
-| Public | Saint-Louis | Paris 06 | 3057 | 278 |
-| Privé | Aux Lazaristes | Lyon 05 | 1240 | 141 |
-| Public | Général Clemenceau | Nantes | 1837 | 229 |
-| Public | Janson de Sailly | Paris 16 | 2931 | 379 |
-| Public | Pierre De Fermat | Toulouse | 2234 | 285 |
-| Public | Le Parc | Lyon 06 | 2551 | 344 |
-| Public | Montaigne | Bordeaux | 1994 | 299 |
-| Public | Champollion | Grenoble | 1672 | 269 |
-| Public | Kléber | Strasbourg | 1207 | 224 |
-| Public | Descartes | Tours | 1562 | 329 |
-| Public | Faidherbe | Lille | 1309 | 297 |
-| Public | Thiers | Marseille 01 | 1247 | 305 |
-| Privé | Fénelon Sainte-Marie | Paris 08 | 1384 | 366 |
-| Public | Louis Thuillier | Amiens | 789 | 274 |
-| Public | Henri Wallon | Valenciennes | 679 | 250 |
-| Public | Gay-Lussac | Limoges | 664 | 254 |
-| Public | Centre International de Valbonne | Valbonne | 844 | 324 |
-| Public | Carnot | Dijon | 1190 | 483 |
-| Public | Paul Valéry | Paris 12 | 1705 | 767 |
-| Public | Claude Fauriel | Saint-Etienne | 881 | 456 |
-| Public | Victor Hugo | Besançon | 750 | 401 |
-| Public | Colbert | Tourcoing | 433 | 238 |
-| Public | Franklin Roosevelt | Reims | 702 | 393 |
-| Public | Charles Coëffin | Baie-Mahault | 145 | 107 |
+| Type    | Lycée | Ville | Nombre de demandes | Rang du dernier admis | Internat |
+|:-------:|:-----:|:-----:|:-------------------:|:----------------------:|:------:
+| Public | Louis Le Grand | Paris 05 | 2970 | 127 | Oui
+| Public | Hoche | Versailles | 2102 | 193 | Oui
+| Public | Saint-Louis | Paris 06 | 3057 | 278 | Oui
+| Privé | Aux Lazaristes | Lyon 05 | 1240 | 141 | Oui
+| Public | Général Clemenceau | Nantes | 1837 | 229 | Oui
+| Public | Janson de Sailly | Paris 16 | 2931 | 379 | Oui
+| Public | Pierre De Fermat | Toulouse | 2234 | 285 | Oui
+| Public | Le Parc | Lyon 06 | 2551 | 344 | Oui
+| Public | Montaigne | Bordeaux | 1994 | 299 | Oui
+| Public | Champollion | Grenoble | 1672 | 269 | Oui
+| Public | Kléber | Strasbourg | 1207 | 224 | Oui
+| Public | Descartes | Tours | 1562 | 329 | Oui
+| Public | Faidherbe | Lille | 1309 | 297 | Oui
+| Public | Thiers | Marseille 01 | 1247 | 305 | Oui
+| Privé | Fénelon Sainte-Marie | Paris 08 | 1384 | 366 | Non
+| Public | Louis Thuillier | Amiens | 789 | 274 | Oui
+| Public | Henri Wallon | Valenciennes | 679 | 250 | Oui
+| Public | Gay-Lussac | Limoges | 664 | 254 | Oui
+| Public | Centre International de Valbonne | Valbonne | 844 | 324 | Oui
+| Public | Carnot | Dijon | 1190 | 483 | Oui
+| Public | Paul Valéry | Paris 12 | 1705 | 767 | Oui
+| Public | Claude Fauriel | Saint-Etienne | 881 | 456 | Oui
+| Public | Victor Hugo | Besançon | 750 | 401 | Oui
+| Public | Colbert | Tourcoing | 433 | 238 | Oui
+| Public | Franklin Roosevelt | Reims | 702 | 393 | Oui
+| Public | Charles Coëffin | Baie-Mahault | 145 | 107 | Oui
 
 ## Lycées ouvrant une classe à la rentrée 2022
 
