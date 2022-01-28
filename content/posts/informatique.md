@@ -61,7 +61,7 @@ def fibo(n):
     elif n == 1:
         return 1
     else:
-        return fibo(n - 1) + fibo(n - 2) (* On pourrait omettre les `else` mais ils peuvent aider à la compréhension.*)
+        return fibo(n - 1) + fibo(n - 2) # On pourrait omettre les "else" mais ils peuvent aider à la compréhension.
 ```
 
 ### En OCaml
