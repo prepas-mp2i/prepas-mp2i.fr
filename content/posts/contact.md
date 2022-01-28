@@ -4,7 +4,7 @@ date: 2021-12-20T00:07:53+01:00
 draft: false
 ---
 
-Nous sommes des actuellement des élèves de MP2I des quatre coins de la France. Notre objectif en créant ce site est d'aider les futurs bacheliers à faire leur choix concernant leur orientation, mais aussi de présenter, de notre point de vue, cette filière encore méconnue qui fait maintenant partie de notre quotidien.
+Nous sommes des étudiants actuellement en MP2I provenant des quatre coins de la France. Notre objectif en créant ce site est d'aider les futurs bacheliers à faire leur choix concernant leur orientation, mais aussi de présenter, de notre point de vue, cette filière encore méconnue qui fait maintenant partie de notre quotidien.
 
 Vous êtes intéressé par les prépas scientifiques et/ou par la MP2I ? N'attendez plus, venez découvrir l'entièreté de ce site !
 
