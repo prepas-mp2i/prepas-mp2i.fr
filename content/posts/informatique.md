@@ -48,7 +48,7 @@ Le but principal des TP est de faire fonctionner un algorithme étudié en cours
 
 Voici un exemple classique de tâche pour lequel on va construire un algorithme:
 
-Calculer les termes de la [suite de Fibonacci](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci)
+Calculer les termes de la [suite de Fibonacci](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci).
 
 ### En Python
 
@@ -58,9 +58,10 @@ Dans le chapitre récursivité, vous avez vraisemblablement déjà rencontré la
 def fibo(n):
     if n == 0:
         return 0
-    else if n == 1:
+    elif n == 1:
         return 1
-    else return fibo(n - 1) + fibo(n - 2) (* On pourrait omettre les `else` mais ils peuvent aider à la compréhension.*)
+    else:
+        return fibo(n - 1) + fibo(n - 2) (* On pourrait omettre les `else` mais ils peuvent aider à la compréhension.*)
 ```
 
 ### En OCaml
@@ -94,7 +95,7 @@ En utilisant plutôt un couple de valeurs nous pouvons réduire drastiquement le
 let rec fibo (n:int) : int*int =
   match n with
   | 0 -> (0, 1)
-  | _ -> let a, b = fibo(n - 1) in (b, a + b)
+  | _ -> let a, b = fibo(n - 1) in (b, a + b) (* renvoie le couple (fibo n, fibo (n+1))*)
 ```
 
 ### Un code incompréhensible en C (blague)
