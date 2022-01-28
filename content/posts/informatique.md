@@ -72,7 +72,8 @@ let rec fibo n =
     else if n = 1 then 1
     else fibo(n-1) + fibo(n-2) (* Les parenthèses ne sont pas systématiques en OCaml, on peut ne les utiliser que lorsque notre expression n'est pas associative, pour dissocier les différents cas (ici nous voulons bien passer n-1 en paramètre, et non faire fibo n puis décrémenter le résultat.)*)
 ```
-On pourrait rendre cela plus élégant en utilisant le [pattern matching](https://ocaml.org/learn/tutorials/a_first_hour_with_ocaml.html#Pattern-matching) et rendre le tout plus propre en précisant le type des paramètres utilisés ainsi que le type de l'expression renvoyée. (Il existe quelque-chose de ressemblant en python mais ça n'est que du sucre syntaxique).
+On pourrait rendre cela plus élégant en utilisant le [pattern matching](https://ocaml.org/learn/tutorials/a_first_hour_with_ocaml.html#Pattern-matching) et rendre le tout plus propre en précisant le type des paramètres utilisé ainsi que le type de l'expression renvoyée. (Il existe quelque chose de ressemblant en python mais ça n'est que du sucre syntaxique).
+
 Cela permet de déceler plus vite une incohérence, et donc de produire un code plus sécurisé et apte à réaliser exactement ce que l'on veut. On dit qu'OCaml est [fortement typé](https://fr.wikipedia.org/wiki/Typage_fort).
 
 ```ocaml
@@ -89,7 +90,7 @@ Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écri
 ### Une optimisation
 Comme vous le verrez en cours, les algorithmes précédents sont peu efficaces car ils calculent de nombreuses fois les mêmes termes (deviennent très vite lents lorsque la taille de l'entrée augmente) et peuvent finir par faire "exploser la pile d'appel".
 
-En utilisant plutôt un couple de valeurs nous pouvons réduire drastiquement les ressources utilisés (on descend en complexité), en calculant une seul fois chaque terme (complexité linéaire).
+En utilisant plutôt un couple de valeurs nous pouvons réduire drastiquement les ressources utilisées (on descend en complexité), en calculant une seule fois chaque terme (complexité linéaire).
 
 ```ocaml
 let rec fibo (n:int) : int*int =
