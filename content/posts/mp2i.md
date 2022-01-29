@@ -17,7 +17,9 @@ Les étudiants qui ne souhaitent pas poursuivre d'études n'ont pas de mal à tr
 Contrairement à la prépa, il y a moins d'accompagnement auprès des élèves et la licence requiert plus d'autonomie. C'est un critère important à prendre en compte, surtout si vous avez dû mal à travailler par vous-même.
 - [Les écoles d'ingénieurs avec prépas intégrées](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Principaux-domaines-d-etudes/Les-ecoles-d-ingenieurs/Les-prepas-integrees-en-ecole-d-ingenieurs) proposent des formations en 5 ans. Il y a souvent 2 ans de cycle général suivit de 3 ans de spécialité. Les élèves sont le plus souvent embauchés à la suite de la formation mais il est aussi possible de faire un doctorat.
 
+{{< admonition tip "Formations en informatique" true >}}
 Vous pouvez retrouver la liste des formations en informatique [à cette adresse](https://cien.gouv.mc/content/download/430778/4871791/file/Les%20Fili%C3%A8res%20de%20l%27informatique%202021.pdf).
+{{< /admonition >}}
 
 ## Les classes préparatoires
 
@@ -46,7 +48,7 @@ Le programme de la classe prépa MP2I est le même que celui des MPSI en mathém
 
 Une description plus détaillée du cours d'informatique est disponible sur [cette page](/informatique).
 
-Concernant les autres matières, la LV2 (1 ou 2 heures) est falcultative ainsi que le sport dans la majorité des lycées.
+Concernant les autres matières, la LV2 (1 ou 2 heures) est facultative ainsi que le sport dans la majorité des lycées.
 Mais la plupart des élèves gardent une activité extra scolaire pour ne pas faire que des maths toute la journée !
 
 ## La spécialité en deuxième année
@@ -66,7 +68,7 @@ Voici un récapitulatif des différentes filières en deuxième année:
 
 ## La double inscription à l'université
 
-Tous les élèves en prépas sont obligés de s'inscrire en parallèle à l'université en fonction des partenariats des prépas. Ce sont des licences adaptées : Maths, Physique et Info pour les prépas scientifiques. Cela permet de sécuriser sa poursuite d'étude, si vous souhaitez vous réorienter, en cours ou en fin d'année, vous pourrez le faire. A la fin de l'année, les profs valident ou non (il faut vraiment un manque de serieux pour ne pas les valider, c'est très rare) vos crédits ECTS c'est à dire vos crédits universitaires qui vous permette de convertir vos années en prépa en années de licence. Donc vous pourrez après une première année de prépa aller en L2 si la prépa ne vous convient pas.
+Tous les élèves en prépas sont obligés de s'inscrire en parallèle à l'université en fonction des partenariats des prépas. Ce sont des licences adaptées : Maths, Physique et Info pour les prépas scientifiques. Cela permet de sécuriser sa poursuite d'étude, si vous souhaitez vous réorienter, en cours ou en fin d'année, vous pourrez le faire. A la fin de l'année, les profs valident ou non (il faut vraiment un manque de serieux pour ne pas les valider, c'est très rare) vos crédits ECTS c'est à dire vos crédits universitaires qui vous fournissent un équivalent entre la prépa et la licence. Cela vous permet de poursuivre directement en L2 après une première année de prépa, si ça ne vous convient pas.
 
 ## La MP2I en quelques chiffres
 

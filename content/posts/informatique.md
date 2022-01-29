@@ -13,11 +13,13 @@ Vous vous demandez surement en quoi consiste le cours d'informatique en MP2I, et
 * Au premier semestre, les cours d'info sont composés de 2h de cours, 1h de *TP* et 1h de *TD*
 * Si vous choisissez de continuer l'informatique, vous aurez 2h de cours supplémentaire (ce qui fait 4h de cours au second semestre et en 2eme année)
 
-> **Cours** : cours théorique en classe entière, comme en maths.
->
-> **TD** : exercices en demi groupe, où l'objectif est de pratiquer pour maitriser les concepts et progresser
->
-> **TP** : travail sur machine pour implémenter ce que vous avez vu en cours: c'est là où on code !
+{{< admonition info "Répartition horaire" true >}}
+**Cours** : cours théorique en classe entière, comme en maths.
+
+**TD** : exercices en demi groupe, où l'objectif est de pratiquer pour maitriser les concepts et progresser
+
+**TP** : travail sur machine pour implémenter ce que vous avez vu en cours: c'est là où on code !
+{{< /admonition >}}
 
 Remarquez que ce nombre d'heures peut varier: ce n'est pas rare qu'un prof d'informatique rajoute des heures de TP pour vous faire plus pratiquer en début d'année par exemple !
 
@@ -28,7 +30,7 @@ La première chose à comprendre est que ce cours d'informatique est principalem
 La plupart des notions abordées font d'ailleurs plus précisément partie de l'*algorithmique*, c'est à dire l'étude des algorithmes.
 
 Un premier critère pour savoir si cette filière est faite pour vous est donc:
-> Est-ce que j'aime les maths ?
+*Est-ce que j'aime les maths ?*
 
 Voici les principaux domaines pouvant être abordés en première année:
 
@@ -121,6 +123,6 @@ long int fibo(int n){
 Comme quoi on peut s'amuser en MP2I, même avec une tâche aussi simple !
 <!-- TODO: À remplacer, si l'on veut réellement introduire le langage C, il vaut mieux trouver un exemple simple qui ne fasse pas aussi peur que celui-ci. Le but reste de les encourager à les faire venir, pas à les faire fuir =) -->
 
-## Liens annexes
-
+{{< admonition tip "Liens annexes" true >}}
 Vous pouvez retrouver le programme complet d'informatique à [cette adresse](https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/64/6/spe777_annexe_1373646.pdf).
+{{< /admonition >}}

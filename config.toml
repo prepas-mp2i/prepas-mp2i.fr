@@ -25,11 +25,16 @@ enableGitInfo = true
     name = "Ressources"
     url = "/ressources/"
     weight = 4
+  
+  [[menu.main]]
+    name = "F.A.Q"
+    url = "/faq/"
+    weight = 5
 
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 6
 
 [params]
   version = "0.2.X"

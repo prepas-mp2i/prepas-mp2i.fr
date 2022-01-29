@@ -66,7 +66,9 @@ Si vous acceptez definitivement une proposition, cela supprimera tous vos vœux 
 
 Pour pouvoir être plus au clair, et ne pas avoir à choisir une orientation en 48h, il est conseillé de faire un peu avant un classement de ce que vous désirez, pour ne pas être pris au dépourvut.
 
-N.B. : Pas d’inquiétude si vous n’êtes acceptés dans aucune formation durant les premiers jours, les places se libèrent vite. Dans quelques cas certains peuvent recevoir des propositions d’admission après les premiers jours de rentrée et choisir de changer de formation à ce moment, donc ne découragez pas si vous vous retrouvez longtemps en file d’attente, vous avez toujours vos chances.
+{{< admonition info "A savoir" true >}}
+Pas d’inquiétude si vous n’êtes acceptés dans aucune formation durant les premiers jours, les places se libèrent vite. Dans quelques cas certains peuvent recevoir des propositions d’admission après les premiers jours de rentrée et choisir de changer de formation à ce moment, donc ne découragez pas si vous vous retrouvez longtemps en file d’attente, vous avez toujours vos chances.
+{{< /admonition >}}
 
 ### Suivre son avancement sur Parcoursup
 
@@ -90,7 +92,7 @@ Les lettres de motivation sont très importantes surtout si vous avez un profil 
 Le plus important c'est répondre à la question "pourquoi cette filière ?", mettez vous à la place du jury, dire que vous êtes motivé.e c'est bien mais il en faudra plus pour convaincre. Votre appétence pour telle ou telle science, vos projets, vos ambitions professionelles  etc, sont des critères bien plus importants pour cerner votre profil. Il est également déconseillé de vanter les mérites de l'établissement que vous viser, si ils sont géniaux, ils le savent, pas besoin de leur dire, vanter plutôt vos qualités. Orthographe correcte exigée évidemment, faites vous relire par un tiers (prof, parent...).
 Enfin il vaut mieux écrire une lettre de motivation par filière, faire une PCSI ou une MP2I ce n'est pas la même chose.
 
-### Les bourses
+<!-- TODO: Les bourses -->
 
 ### Les internats comment ça fonctionne ?
 
