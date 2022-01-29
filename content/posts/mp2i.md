@@ -10,15 +10,18 @@ Voici un petit descriptif des différentes filières permettant de travailler da
 
 - [Le BTS](https://diplomeo.com/bts) est une formation de 2 ans proposée par des lycées.  Elle offre un enseignement axé sur la pratique et aboutit à une insertion professionnelle dès la fin de la formation.
 - [Le BUT](https://diplomeo.com/dut) se fait en 3 ans (anciennement DUT en 2 ans). Cette formation se déroulant en université permet de rejoindre certaines écoles d'ingénieur, de partir en licence ou de rejoindre le milieu professionnel.
-- [La licence](https://diplomeo.com/licence) est enseignée en université et se fait en 3 ans. Cette formation qui mêle théorie et pratique permet de poursuivre (ou non) ses études avec un Master pour un total de 5 ans voir un doctorat (bac+8). Les effectifs sont plus importants donc il y a moins d'accompagnement auprès des élèves et cela demande plus d'autonomie.
-- [Les écoles d'ingénieurs avec prépas intégrées] proposent des formations en 5 ans. Il y a souvent 2 ans de cycle général suivit de 3 ans de spécialité. Les élèves sont le plus souvent embauchés à la suite de la formation mais il est aussi possible de faire un doctorat.
-- [Les prépas](https://diplomeo.com/prepa) se font en 2 ans et permettent de rejoindre les écoles d'ingénieurs et les licences (L3) les plus prestigieuses.
+- [La licence](https://diplomeo.com/licence) est enseignée en université et se fait en 3 ans. Cette formation mêle théorie et pratique (la licence se termine généralement par un stage).
+Elle permet de poursuivre ses études avec un Master (bac+5).
+Au bout de 3 ans de licence en informatique, les étudiants savent développer de gros projets, connaissent des aspects avancés des bases de données, pratiquent le développement web...
+Les étudiants qui ne souhaitent pas poursuivre d'études n'ont pas de mal à trouver rapidement du travail.
+Contrairement à la prépa, il y a moins d'accompagnement auprès des élèves et la licence requiert plus d'autonomie. C'est un critère important à prendre en compte, surtout si vous avez dû mal à travailler par vous-même.
+- [Les écoles d'ingénieurs avec prépas intégrées](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Principaux-domaines-d-etudes/Les-ecoles-d-ingenieurs/Les-prepas-integrees-en-ecole-d-ingenieurs) proposent des formations en 5 ans. Il y a souvent 2 ans de cycle général suivit de 3 ans de spécialité. Les élèves sont le plus souvent embauchés à la suite de la formation mais il est aussi possible de faire un doctorat.
 
 Vous pouvez retrouver la liste des formations en informatique [à cette adresse](https://cien.gouv.mc/content/download/430778/4871791/file/Les%20Fili%C3%A8res%20de%20l%27informatique%202021.pdf).
 
 ## Les classes préparatoires
 
-La prépa est une formation théorique très complète pour préparer les concours de seconde année afin de rejoindre une école d'ingénieurs.
+La prépa est une formation théorique très complète. Elle se fait en 2 ans et permet de rejoindre les écoles d'ingénieurs et les licences (L3) les plus prestigieuses, après un concours en seconde année.
 La formation est gratuite et elle est rattachée aux lycées, les classes ne dépassent pas 48 élèves et ceux-ci sont accompagnés et très encadrés par les professeurs.
 Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités avec leur volume horaire:
 
@@ -30,9 +33,16 @@ Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spéc
 |   PTSI   | Sciences industrielles |   9   |     6    |    2   |      1.5     | 8.5  |  2  |     2    |  0  |
 |   BCPST  |        Biologie        |   8   |     4    |    3   |      1.5     |   0  |  2  |     2    |  8  |
 
+## Poursuite d'études
+
+Après une classe préparatoire, intégrée ou non, vous avez la possibilité de
+poursuivre en master (bac+5), puis éventuellement en doctorat (bac+8). Mais également de poursuivre en licence, ou dans des universités à l'étranger.
+
+<!-- TODO: Étoffer le paragraphe avec d'autres poursuites d'études. -->
+
 ## Le programme en MP2I
 
-Nous avons le même programme que les MPSI en mathématiques. Le programme de physique se base sur celui de première contrairement à celui en MPSI, néanmoins à la fin de l'année, les connaissances sont les mêmes qu'en MPSI. La grosse différence est la chimie qui est remplacée par de l'informatique. Ainsi l'informatique en MP2I est un enseignement bien plus complet qu'en MPSI.
+Le programme de la classe prépa MP2I est le même que celui des MPSI en mathématiques. Le programme de physique se base sur celui de la première, néanmoins à la fin de l'année, les connaissances sont les mêmes qu'en MPSI. La grosse différence est la chimie qui est remplacée par de l'informatique. Ainsi l'informatique en MP2I est un enseignement bien plus complet que dans les autres classes prépas.
 
 Une description plus détaillée du cours d'informatique est disponible sur [cette page](/informatique).
 
@@ -42,8 +52,13 @@ Mais la plupart des élèves gardent une activité extra scolaire pour ne pas fa
 ## La spécialité en deuxième année
 
 Dès le second semestre, nous devons choisir une option qui conditionnera notre filière en seconde année.
-En MP2I nous avons le choix entre Informatique pour aller en MPI, et S.I. pour rejoindre une classe de MP, comme le font une grande partie des élèves en MPSI, ou une classe de PSI à mi-chemin entre la MPSI et la PCSI.
-Le choix de l'option info se doit d'être largement majoritaire, en effet, quasi tous les élèves de MP2I se destinent à une MPI. Il reste possible de passer en MP ou en PSI en prenant l'option S.I. si la manière dont est abordé l'informatique ne vous convient pas.
+En MP2I nous avons le choix entre deux options au second semestre:
+
+- **Informatique**, pour poursuivre en MPI,
+- **Sciences de l'Ingénieur**. pour rejoindre une classe de MP, comme le font une grande partie des élèves en MPSI, ou une classe de PSI à mi-chemin entre la MPSI et la PCSI.
+
+La MPI étant la filière privilégiée après une MP2I, les places en S.I. sont limitées (à environ 20% de l'effectif de la classe).
+Le choix de la S.I en MP2I est destiné aux élèves qui souhaitent aller en MP ou en PSI, ou pour ceux qui se rendent compte que la manière dont est abordé l'informatique ne leur convient pas.
 
 Voici un récapitulatif des différentes filières en deuxième année:
 
@@ -51,7 +66,7 @@ Voici un récapitulatif des différentes filières en deuxième année:
 
 ## La double inscription à l'université
 
-Tous les élèves en prépas sont obligés de s'inscrire en parallèle à l'université en fonction des partenariats des prépas. Ce sont des licences adaptées : maths, physique et info pour les prépas scientifiques. Cela permet de sécuriser sa poursuite d'étude, si vous souhaitez vous réorienter, en cours ou en fin d'année, vous pourrez le faire. A la fin de l'année, les profs valident ou non (il faut vraiment un manque de serieux pour ne pas les valider, c'est très rare) vos crédits ECTS c'est à dire vos crédits universitaires qui vous permette de convertir vos années en prépa en années de licence. Donc vous pourrez après une première année de prépa aller en L2 si la prépa ne vous convient pas.
+Tous les élèves en prépas sont obligés de s'inscrire en parallèle à l'université en fonction des partenariats des prépas. Ce sont des licences adaptées : Maths, Physique et Info pour les prépas scientifiques. Cela permet de sécuriser sa poursuite d'étude, si vous souhaitez vous réorienter, en cours ou en fin d'année, vous pourrez le faire. A la fin de l'année, les profs valident ou non (il faut vraiment un manque de serieux pour ne pas les valider, c'est très rare) vos crédits ECTS c'est à dire vos crédits universitaires qui vous permette de convertir vos années en prépa en années de licence. Donc vous pourrez après une première année de prépa aller en L2 si la prépa ne vous convient pas.
 
 ## La MP2I en quelques chiffres
 
