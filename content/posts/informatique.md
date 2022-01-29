@@ -13,11 +13,11 @@ Vous vous demandez surement en quoi consiste le cours d'informatique en MP2I, et
 * Au premier semestre, les cours d'info sont composés de 2h de cours, 1h de *TP* et 1h de *TD*
 * Si vous choisissez de continuer l'informatique, vous aurez 2h de cours supplémentaire (ce qui fait 4h de cours au second semestre et en 2eme année)
 
-> *Cours* : cours théorique en classe entière, comme en maths.
-
-> *TD* : exercices en demi groupe, où l'objectif est de pratiquer pour maitriser les concepts et progresser
-
-> *TP* : travail sur machine pour implémenter ce que vous avez vu en cours: c'est là où on code !
+> **Cours** : cours théorique en classe entière, comme en maths.
+>
+> **TD** : exercices en demi groupe, où l'objectif est de pratiquer pour maitriser les concepts et progresser
+>
+> **TP** : travail sur machine pour implémenter ce que vous avez vu en cours: c'est là où on code !
 
 Remarquez que ce nombre d'heures peut varier: ce n'est pas rare qu'un prof d'informatique rajoute des heures de TP pour vous faire plus pratiquer en début d'année par exemple !
 
@@ -65,13 +65,16 @@ def fibo(n):
 ```
 
 ### En OCaml
-En "traduisant" simplement la syntaxe : 
+
+En "traduisant" simplement la syntaxe :
+
 ```ocaml
 let rec fibo n = 
     if n = 0 then 0
     else if n = 1 then 1
     else fibo(n-1) + fibo(n-2) (* Les parenthèses ne sont pas systématiques en OCaml, on peut ne les utiliser que lorsque notre expression n'est pas associative, pour dissocier les différents cas (ici nous voulons bien passer n-1 en paramètre, et non faire fibo n puis décrémenter le résultat.)*)
 ```
+
 On pourrait rendre cela plus élégant en utilisant le [pattern matching](https://ocaml.org/learn/tutorials/a_first_hour_with_ocaml.html#Pattern-matching) et rendre le tout plus propre en précisant le type des paramètres utilisé ainsi que le type de l'expression renvoyée. (Il existe quelque chose de ressemblant en python mais ça n'est que du sucre syntaxique).
 
 Cela permet de déceler plus vite une incohérence, et donc de produire un code plus sécurisé et apte à réaliser exactement ce que l'on veut. On dit qu'OCaml est [fortement typé](https://fr.wikipedia.org/wiki/Typage_fort).
@@ -88,6 +91,7 @@ Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écri
 <!-- TODO: Remplacer ou ajouter un exemple en OCaml plus simple, permettant d'introduire le langage de façon moins violente, une proposition avancée est l'utilisation d'une suite arithmético-géométrique. -->
 
 ### Une optimisation
+
 Comme vous le verrez en cours, les algorithmes précédents sont peu efficaces car ils calculent de nombreuses fois les mêmes termes (deviennent très vite lents lorsque la taille de l'entrée augmente) et peuvent finir par faire "exploser la pile d'appel".
 
 En utilisant plutôt un couple de valeurs nous pouvons réduire drastiquement les ressources utilisées (on descend en complexité), en calculant une seule fois chaque terme (complexité linéaire).

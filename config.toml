@@ -3,6 +3,7 @@ title = "PREPAS MP2I"
 theme = "LoveIt"
 defaultContentLanguage = "fr"
 enableRobotsTXT = true
+enableGitInfo = true
 
 [menu]
   [[menu.main]]
@@ -115,6 +116,12 @@ enableRobotsTXT = true
   [params.cookieconsent]
     enable = false
 
+[frontmatter]
+  date = ['date', 'publishDate', 'lastmod']
+  expiryDate = ['expiryDate']
+  lastmod = [':git', 'lastmod', 'date', 'publishDate']
+  publishDate = ['publishDate', 'date']
+  
 [Permalinks]
   posts = ":filename"
 

@@ -42,7 +42,7 @@ Mais la plupart des élèves gardent une activité extra scolaire pour ne pas fa
 ## La spécialité en deuxième année
 
 Dès le second semestre, nous devons choisir une option qui conditionnera notre filière en seconde année.
-En MP2I nous avons le choix entre Informatique pour aller en MPI, et S.I. pour rejoindre une classe de MP, comme le font une grande partie des élèves en MPSI, ou une classe de PSI à mi-chemin entre la MPSI et la PCSI. 
+En MP2I nous avons le choix entre Informatique pour aller en MPI, et S.I. pour rejoindre une classe de MP, comme le font une grande partie des élèves en MPSI, ou une classe de PSI à mi-chemin entre la MPSI et la PCSI.
 Le choix de l'option info se doit d'être largement majoritaire, en effet, quasi tous les élèves de MP2I se destinent à une MPI. Il reste possible de passer en MP ou en PSI en prenant l'option S.I. si la manière dont est abordé l'informatique ne vous convient pas.
 
 Voici un récapitulatif des différentes filières en deuxième année:
@@ -94,7 +94,8 @@ Il faut savoir que rien n'est encore fixé et que ce sont des engagements de min
 {{< iframe src="https://www.google.com/maps/d/embed?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&hl=fr"
     height=400px >}}
 
-##### Légende
+### Légende
+
 - Rouge : CPGE MP2I ouverte à la rentrée 2021
 - Vert :  CPGE MP2I ouverte à la rentrée 2022
 - Orange : CPGE MP2I privée ouverte à la rentrée 2021
