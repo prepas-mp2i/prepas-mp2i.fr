@@ -29,7 +29,7 @@ N.B : Il reste possible dans certains rares cas d'intégrer une MP2I sans avoir 
 
 Depuis décembre vous avez accès au catalogue des formations disponibles avec leurs critères de sélection, en quoi elles consistent et leur sélectivité.
 Après le 20 janvier, vous allez commencer à faire vos vœux, c'est le moment de se renseigner et d'aller aux portes ouvertes, en ligne ou en présentiel, rien de mieux que d'échanger avec les élèves pour se faire une idée de la formation. 
-Il y a 30 MP2I sur Parcoursup, repertoriées plus bas, cela va de prépas très selectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurez d'avoir une place en MP2I si c'est la formation que vous voulez (vous n'irez pas tous et toutes à Louis le Grand soyons réalistes mais il faut garder de l'ambition).
+Il y a 30 MP2I sur Parcoursup, repertoriées plus bas, cela va de prépas très selectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I si c'est la formation que vous voulez (vous n'irez pas tous et toutes à Louis le Grand soyons réalistes mais il faut garder de l'ambition).
 
 ### Vœux et sous-vœux
 
@@ -61,12 +61,12 @@ Ensuite la phase d'admission (tant redoutée), alors c'est long et stressant, on
 - Si vous n'avez obtenu que des "non" ou que vous avez changé d'avis sur votre orientation, parlez en rapidement à votre prof principal.e et/ou conseiller.e d'orientation, ils pourront vous aider à trouver une formation grâce à la phase d'admission complémentaire.
 
 
-A chaque nouvelle proposition d’admission, trois possibilités s’offrent à vous : refuser la proposition car vous avez déjà reçu une réponse positive d’une autre formation qui vous intéresse davantage, accepter provisoirement (c’est-à-dire accepter en attendant d’éventuellement recevoir de nouvelles propositions) ou accepter définitivement. Vous ne pouvez garder qu'un "oui" en attendant d'en avoir d'autres. Attention, si vous dépassez le délai de réponse vous serez automatiquement désinscrit de Parcoursup alors surveillez vos boîtes mail et vos SMS tous les jours !
+A chaque nouvelle proposition d’admission, trois possibilités s’offrent à vous : refuser la proposition car vous avez déjà reçu une réponse positive d’une autre formation qui vous intéresse davantage, accepter provisoirement (c’est-à-dire accepter en attendant d’éventuellement recevoir de nouvelles propositions) ou accepter définitivement. Vous ne pouvez garder qu'un "oui" en attendant d'en avoir d'autres. Attention, si vous dépassez le délai de réponse vous serez automatiquement désinscrit de Parcoursup alors surveillez votre boîte mail et vos SMS tous les jours !
 
 Vous pouvez à tout moment refuser des "en attente", si vous êtes sûrs de les refuser si ils se transforment en "oui" par exemple. Nous vous encourageons à le faire, cela permet de libérer les places pour les autres et de rendre cette période moins stressante pour tout le monde.
 Si vous acceptez definitivement une proposition, cela supprimera tous vos vœux en attentes et vos "oui" possiblement en attente d'une réponse de votre part. Une fois cela fait il faut s’intéresser aux inscriptions administratives.
 
-Pour pouvoir être plus au clair, et ne pas avoir à choisir une orientation en 48h, il est conseillé de faire un peu avant un classement de ce que vous désirez, pour ne pas être pris au dépourvut.
+Pour pouvoir être plus au clair, et ne pas avoir à choisir une orientation en 48h, il est conseillé de faire un peu avant un classement de ce que vous désirez, pour ne pas être pris au dépourvu.
 
 N.B. : Pas d’inquiétude si vous n’êtes acceptés dans aucune formation durant les premiers jours, les places se libèrent vite. Dans quelques cas certains peuvent recevoir des propositions d’admission après les premiers jours de rentrée et choisir de changer de formation à ce moment, donc ne découragez pas si vous vous retrouvez longtemps en file d’attente, vous avez toujours vos chances.
 
@@ -88,7 +88,7 @@ N.B. : Pas d’inquiétude si vous n’êtes acceptés dans aucune formation dur
 
 ### Lettres de motivation et projet de formation motivé
 Les lettres de motivation sont très importantes surtout si vous avez un profil particulier (lycée étranger, une spécialité fortement recommandée que vous n'avez pas prise mais dont vous avez rattrapé le programme, si vous êtes au CNED...). 
-Le plus important c'est répondre à la question "pourquoi cette filière ?", mettez vous à la place du jury, dire que vous êtes motivé.e c'est bien mais il en faudra plus pour convaincre. Votre appétence pour telle ou telle science, vos projets, vos ambitions professionelles  etc, sont des critères bien plus importants pour cerner votre profil. Il est également déconseillé de vanter les mérites de l'établissement que vous viser, si ils sont géniaux, ils le savent, pas besoin de leur dire, vanter plutôt vos qualités. Orthographe correcte exigée évidemment, faites vous relire par un tiers (prof, parent...). 
+Le plus important c'est répondre à la question "pourquoi cette filière ?", mettez vous à la place du jury, dire que vous êtes motivé.e c'est bien mais il en faudra plus pour convaincre. Votre appétence pour telle ou telle science, vos projets, vos ambitions professionelles etc, sont des critères bien plus importants pour cerner votre profil. Il est également déconseillé de vanter les mérites de l'établissement que vous viser, si ils sont géniaux, ils le savent, pas besoin de leur dire, vantez plutôt vos qualités. Orthographe correcte exigée évidemment, faites vous relire par un tiers (prof, parent...). 
 Enfin il vaut mieux écrire une lettre de motivation par filière, faire une PCSI ou une MP2I ce n'est pas la même chose.
 
 
