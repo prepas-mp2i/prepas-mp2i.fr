@@ -74,7 +74,7 @@ En "traduisant" simplement la syntaxe :
 let rec fibo n = 
     if n = 0 then 0
     else if n = 1 then 1
-    else fibo(n-1) + fibo(n-2) (* Les parenthèses ne sont pas systématiques en OCaml, on doit les utiliser lorsque notre expression n'est pas associative, pour dissocier les différents cas (ici nous voulons bien passer n-1 en paramètre, et non faire fibo n puis décrémenter le résultat.)*)
+    else fibo (n-1) + fibo (n-2) (* Les parenthèses ne sont pas systématiques en OCaml, on doit les utiliser lorsque notre expression n'est pas associative, pour dissocier les différents cas (ici nous voulons bien passer n-1 en paramètre, et non faire fibo n puis décrémenter le résultat.)*)
 ```
 
 On pourrait rendre cela plus élégant en utilisant le [pattern matching](https://ocaml.org/learn/tutorials/a_first_hour_with_ocaml.html#Pattern-matching) et rendre le tout plus propre en précisant le type des paramètres utilisé ainsi que le type de l'expression renvoyée. (Il existe quelque chose de ressemblant en python mais ça n'est que du sucre syntaxique).
@@ -125,5 +125,5 @@ Comme quoi on peut s'amuser en MP2I, même avec une tâche aussi simple !
 <!-- TODO: À remplacer, si l'on veut réellement introduire le langage C, il vaut mieux trouver un exemple simple qui ne fasse pas aussi peur que celui-ci. Le but reste de les encourager à les faire venir, pas à les faire fuir =) -->
 
 {{< admonition tip "Liens annexes" true >}}
-Vous pouvez retrouver le programme complet d'informatique à [cette adresse](https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/64/6/spe777_annexe_1373646.pdf).
+Vous pouvez télécharger le programme complet d'informatique [en cliquant ici](/documents/mpi_info.pdf).
 {{< /admonition >}}
