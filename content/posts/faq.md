@@ -33,7 +33,7 @@ On s'intègre bien et on est tellement peu, que les profs sont attentifs à ce q
 De toute façon, en MP2I on n'est pas sur des mâles alphas oppresseurs. Donc n'ayez pas peur les filles, venez en MP2I, même si vous n'êtes pas des pures nerds, il y a de la place pour vous, ne vous censurez pas.
 
 {{< style "text-align:right; font-style:italic;" >}}
-Ganda, MP2I lycée Champollion, Grenoble
+Garance, MP2I lycée Champollion, Grenoble
 {{< /style >}}
 {{< /admonition >}}
 
@@ -43,6 +43,6 @@ Ce sont de véritables soutiens, et on se remonte le moral ensemble, il n'y a pa
 On sait qu'on est ensemble contre le reste des prépas et puis quand on est dans les 10 derniers, on espère que notre pote le majorant aura l'X pour représenter la prépa.
 
 {{< style "text-align:right; font-style:italic;" >}}
-Ganda, MP2I lycée Champollion, Grenoble
+Garance, MP2I lycée Champollion, Grenoble
 {{< /style >}}
 {{< /admonition >}}
