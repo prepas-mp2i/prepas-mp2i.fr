@@ -89,7 +89,7 @@ Pas d’inquiétude si vous n’êtes acceptés dans aucune formation durant les
 ### Lettres de motivation et projet de formation motivé
 
 Les lettres de motivation sont très importantes surtout si vous avez un profil particulier (lycée étranger, une spécialité fortement recommandée que vous n'avez pas prise mais dont vous avez rattrapé le programme, si vous êtes au CNED...).
-Le plus important c'est répondre à la question "pourquoi cette filière ?", mettez vous à la place du jury, dire que vous êtes motivé.e c'est bien mais il en faudra plus pour convaincre. Votre appétence pour telle ou telle science, vos projets, vos ambitions professionelles etc, sont des critères bien plus importants pour cerner votre profil. Il est également déconseillé de vanter les mérites de l'établissement que vous visez, si ils sont géniaux, ils le savent, pas besoin de leur dire, vantez plutôt vos qualités. Orthographe correcte exigée évidemment, faites vous relire par un tiers (prof, parent...).
+Le plus important c'est répondre à la question "pourquoi cette filière ?", mettez-vous à la place du jury, dire que vous êtes motivé.e c'est bien mais il en faudra plus pour convaincre. Votre appétence pour telle ou telle science, vos projets, vos ambitions professionnelles etc, sont des critères bien plus importants pour cerner votre profil. Il est également déconseillé de vanter les mérites de l'établissement que vous visez, s'ils sont géniaux, ils le savent, pas besoin de leur dire, vantez plutôt vos qualités. Orthographe correcte exigée évidemment, faites-vous relire par un tiers (prof, parent...).
 Enfin il vaut mieux écrire une lettre de motivation par filière, faire une PCSI ou une MP2I ce n'est pas la même chose.
 
 <!-- TODO: Les bourses -->
