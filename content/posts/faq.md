@@ -29,7 +29,7 @@ Victor G., MP2I lycée Descartes, Tours
 
 {{< admonition note "Y a-t-il beaucoup de filles dans ta classe ?" false >}}
 Non on est 4 (en moyenne 4.5 filles par classe) et il y en a une qui part en SI.
-On s'intègre bien et on est tellement peu, que les profs sont attentifs à ce qu'il n'y est pas de remarques/blagues lourdes.
+On s'intègre bien et on est tellement peu, que les profs sont attentifs à ce qu'il n'y ait pas de remarques/blagues lourdes.
 De toute façon, en MP2I on n'est pas sur des mâles alphas oppresseurs. Donc n'ayez pas peur les filles, venez en MP2I, même si vous n'êtes pas des pures nerds, il y a de la place pour vous, ne vous censurez pas.
 
 {{< style "text-align:right; font-style:italic;" >}}
