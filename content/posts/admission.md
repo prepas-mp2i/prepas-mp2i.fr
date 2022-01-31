@@ -6,7 +6,7 @@ draft: false
 
 ## La spé maths et l'option maths expertes
 
-En MP2I, les cours de mathématiques sont ceux qui représentent le plus gros volume horaire. Il est donc indispensable de suivre la spécialité mathématiques en première puis en terminale. En revanche, il n’est pas obligatoire de choisir l’option maths experte même si elle reste largement conseillée. Ne pas la suivre n’est pas un facteur éliminatoire pour intégrer la plupart des MP2I, mais elle représente tout de même un atout considérable pour un dossier. En effet elle permet de mieux cerner votre niveau en mathématiques et surtout d’attester de votre intérêt pour la matière ainsi que de votre investissement.
+En MP2I, les cours de mathématiques sont ceux qui représentent le plus gros volume horaire. Il est donc indispensable de suivre la spécialité mathématiques en première puis en terminale. En revanche, il n’est pas obligatoire de choisir l’option maths expertes même si elle reste largement conseillée. Ne pas la suivre n’est pas un facteur éliminatoire pour intégrer la plupart des MP2I, mais elle représente tout de même un atout considérable pour un dossier. En effet elle permet de mieux cerner votre niveau en mathématiques et surtout d’attester de votre intérêt pour la matière ainsi que de votre investissement.
 
 Les cours dispensés en maths expertes se rapprochent également plus des cours de prépa que ceux de la spécialité. Suivre cette option est donc un bon moyen de commencer à évaluer votre intérêt pour la MP2I et les CPGE scientifiques en général.
 
@@ -29,14 +29,14 @@ N.B : Il reste possible dans certains rares cas d'intégrer une MP2I sans avoir 
 
 Depuis décembre vous avez accès au catalogue des formations disponibles avec leurs critères de sélection, en quoi elles consistent et leur sélectivité.
 Après le 20 janvier, vous allez commencer à faire vos vœux, c'est le moment de se renseigner et d'aller aux portes ouvertes, en ligne ou en présentiel, rien de mieux que d'échanger avec les élèves pour se faire une idée de la formation.
-Il y a 30 MP2I sur Parcoursup, repertoriées plus bas, cela va de prépas très selectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurez d'avoir une place en MP2I si c'est la formation que vous voulez (vous n'irez pas tous et toutes à Louis le Grand soyons réalistes mais il faut garder de l'ambition).
+Il y a 30 MP2I sur Parcoursup, repertoriées plus bas, cela va de prépas très selectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I si c'est la formation que vous voulez (vous n'irez pas tous et toutes à Louis le Grand soyons réalistes mais il faut garder de l'ambition).
 
 ### Vœux et sous-vœux
 
 Sur Parcoursup, il est possible de faire 10 vœux et 20 sous-vœux au total, avec un maximum de 10 sous-vœux pour un type de formation. En général, chaque formation compte pour un vœu sauf :
 
 - Les écoles sur concours (type concours Advance, Avenir, Puissance Alpha…) : un concours compte pour un vœu, mais le nombre d’écoles demandées pour chacun est ensuite « illimité », les écoles ne comptent pas individuellement pour des sous-vœux.
-- Les CPGE : chaque filière compte pour un vœu (MP2I, MPSI, PCSI…), et chaque lycée compte ensuite pour un sous-vœu. Il est donc possible de postuler au maximum à 10 CPGE pour une même filière. Donc vous pouvez demandez 10 MP2I et 10 MPSI par exemple et ça ne comptera "que" pour 2 vœux (mais, vous ne pourrez pas demander un sous-vœu de plus car 10 + 10 = 20).
+- Les CPGE : chaque filière compte pour un vœu (MP2I, MPSI, PCSI…), et chaque lycée compte ensuite pour un sous-vœu. Il est donc possible de postuler au maximum à 10 CPGE pour une même filière. Donc vous pouvez demander² 10 MP2I et 10 MPSI par exemple et ça ne comptera "que" pour 2 vœux (mais, vous ne pourrez pas demander un sous-vœu de plus car 10 + 10 = 20).
 Si vous voulez demander un internat, il faut sélectionner "avec et sans internat" qui comptera comme 1 seul sous-vœu.
 
 Si vous faites le choix de postuler à des formations sélectives, il est très fortement conseillé de demander une licence en parallèle pour éviter de finir sans aucune formation.
@@ -59,12 +59,12 @@ Ensuite la phase d'admission (tant redoutée), alors c'est long et stressant, on
 
 - Si vous n'avez obtenu que des "non" ou que vous avez changé d'avis sur votre orientation, parlez en rapidement à votre prof principal.e et/ou conseiller.e d'orientation, ils pourront vous aider à trouver une formation grâce à la phase d'admission complémentaire.
 
-A chaque nouvelle proposition d’admission, trois possibilités s’offrent à vous : refuser la proposition car vous avez déjà reçu une réponse positive d’une autre formation qui vous intéresse davantage, accepter provisoirement (c’est-à-dire accepter en attendant d’éventuellement recevoir de nouvelles propositions) ou accepter définitivement. Vous ne pouvez garder qu'un "oui" en attendant d'en avoir d'autres. Attention, si vous dépassez le délai de réponse vous serez automatiquement désinscrit de Parcoursup alors surveillez vos boîtes mail et vos SMS tous les jours !
+A chaque nouvelle proposition d’admission, trois possibilités s’offrent à vous : refuser la proposition car vous avez déjà reçu une réponse positive d’une autre formation qui vous intéresse davantage, accepter provisoirement (c’est-à-dire accepter en attendant d’éventuellement recevoir de nouvelles propositions) ou accepter définitivement. Vous ne pouvez garder qu'un "oui" en attendant d'en avoir d'autres. Attention, si vous dépassez le délai de réponse vous serez automatiquement désinscrit de Parcoursup alors surveillez votre boîte mail et vos SMS tous les jours !
 
 Vous pouvez à tout moment refuser des "en attente", si vous êtes sûrs de les refuser si ils se transforment en "oui" par exemple. Nous vous encourageons à le faire, cela permet de libérer les places pour les autres et de rendre cette période moins stressante pour tout le monde.
 Si vous acceptez definitivement une proposition, cela supprimera tous vos vœux en attentes et vos "oui" possiblement en attente d'une réponse de votre part. Une fois cela fait il faut s’intéresser aux inscriptions administratives.
 
-Pour pouvoir être plus au clair, et ne pas avoir à choisir une orientation en 48h, il est conseillé de faire un peu avant un classement de ce que vous désirez, pour ne pas être pris au dépourvut.
+Pour pouvoir être plus au clair, et ne pas avoir à choisir une orientation en 48h, il est conseillé de faire un peu avant un classement de ce que vous désirez, pour ne pas être pris au dépourvu.
 
 {{< admonition info "A savoir" true >}}
 Pas d’inquiétude si vous n’êtes acceptés dans aucune formation durant les premiers jours, les places se libèrent vite. Dans quelques cas certains peuvent recevoir des propositions d’admission après les premiers jours de rentrée et choisir de changer de formation à ce moment, donc ne découragez pas si vous vous retrouvez longtemps en file d’attente, vous avez toujours vos chances.
@@ -89,7 +89,7 @@ Pas d’inquiétude si vous n’êtes acceptés dans aucune formation durant les
 ### Lettres de motivation et projet de formation motivé
 
 Les lettres de motivation sont très importantes surtout si vous avez un profil particulier (lycée étranger, une spécialité fortement recommandée que vous n'avez pas prise mais dont vous avez rattrapé le programme, si vous êtes au CNED...).
-Le plus important c'est répondre à la question "pourquoi cette filière ?", mettez vous à la place du jury, dire que vous êtes motivé.e c'est bien mais il en faudra plus pour convaincre. Votre appétence pour telle ou telle science, vos projets, vos ambitions professionelles  etc, sont des critères bien plus importants pour cerner votre profil. Il est également déconseillé de vanter les mérites de l'établissement que vous viser, si ils sont géniaux, ils le savent, pas besoin de leur dire, vanter plutôt vos qualités. Orthographe correcte exigée évidemment, faites vous relire par un tiers (prof, parent...).
+Le plus important c'est répondre à la question "pourquoi cette filière ?", mettez vous à la place du jury, dire que vous êtes motivé.e c'est bien mais il en faudra plus pour convaincre. Votre appétence pour telle ou telle science, vos projets, vos ambitions professionelles etc, sont des critères bien plus importants pour cerner votre profil. Il est également déconseillé de vanter les mérites de l'établissement que vous visez, si ils sont géniaux, ils le savent, pas besoin de leur dire, vantez plutôt vos qualités. Orthographe correcte exigée évidemment, faites vous relire par un tiers (prof, parent...).
 Enfin il vaut mieux écrire une lettre de motivation par filière, faire une PCSI ou une MP2I ce n'est pas la même chose.
 
 <!-- TODO: Les bourses -->
