@@ -1,5 +1,5 @@
 baseURL = "https://prepas-mp2i.github.io"
-title = "PREPAS MP2I"
+title = "Prépas MP2I"
 theme = "LoveIt"
 defaultContentLanguage = "fr"
 enableRobotsTXT = true
@@ -45,7 +45,7 @@ enableGitInfo = true
   dateFormat = "02/01/2006"
 
   [params.app]
-    title = "PREPAS MP2I"
+    title = "Prépas MP2I"
     noFavicon = false
     themeColor = "#ffffff"
     iconColor = "#5bbad5"
@@ -92,7 +92,7 @@ enableGitInfo = true
     [params.home.profile]
       enable = true
       avatarURL = "/images/logo.png"
-      title = "PREPAS MP2I"
+      title = "Prépas MP2I"
       subtitle = "Bienvenue sur le site des classes préparatoires MP2I !"
       typeit = true
       social = true

@@ -105,7 +105,7 @@ let rec fibo (n:int) : int*int =
   | _ -> let a, b = fibo(n - 1) in (b, a + b) (* renvoie le couple (fibo n, fibo (n+1))*)
 ```
 
-### Un code incompréhensible en C (basé sur un [XOR swap](https://en.wikipedia.org/wiki/XOR_swap_algorithm))
+### Un code incompréhensible en C
 
 ```c
 long int fibo(int n){ 
@@ -120,6 +120,7 @@ long int fibo(int n){
 }
 ```
 
+Ce code est en fait basé sur un [XOR swap](https://en.wikipedia.org/wiki/XOR_swap_algorithm).
 Comme quoi on peut s'amuser en MP2I, même avec une tâche aussi simple !
 <!-- TODO: À remplacer, si l'on veut réellement introduire le langage C, il vaut mieux trouver un exemple simple qui ne fasse pas aussi peur que celui-ci. Le but reste de les encourager à les faire venir, pas à les faire fuir =) -->
 
