@@ -8,23 +8,21 @@ Les élèves désireux de poursuivre dans une classe préparatoire scientifique 
 
 ## S'intéresser
 
+[3Blue1Brown]: https://www.youtube.com/c/3blue1brown
+[Primer]: https://www.youtube.com/c/PrimerLearning
+[ScienceEtonnante]: https://www.youtube.com/c/ScienceEtonnante
+[El Jj]: https://www.youtube.com/c/ElJj42
+[PasseScience]: https://www.youtube.com/c/PasseScience
+[Numberphile]: https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A
+[Science4All]: https://www.youtube.com/c/Science4Allfran%C3%A7ais
+
 La curiosité, la capacité d'émerveillement est une grande motivation à l'entrée en prépa scientifique. Afin de découvrir des expériences de pensées intéressantes, les ressources prennent surtout la forme de chaînes YouTube. En voici quelques unes. Cette liste n'est pas exaustive, mais c'est une bonne introduction :
 
-* **Mathématiques**
-  * [3Blue1Brown](https://www.youtube.com/c/3blue1brown) (en anglais)
-  * [El Jj](https://www.youtube.com/c/ElJj42)
-  * [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) (en anglais)
-
-* **Informatique**
-
-  * [Primer](https://www.youtube.com/c/PrimerLearning) : Simulations informatiques
-
-* **Mathématiques et informatique**
-  * [Science4All](https://www.youtube.com/c/Science4Allfran%C3%A7ais)
-
-* **Toutes sciences**
-  * [ScienceEtonnante](https://www.youtube.com/c/ScienceEtonnante)
-  * [PasseScience](https://www.youtube.com/c/PasseScience)
+| Mathématiques | Informatique | Toutes sciences |
+:--------------:|:--------------:|:--------------:
+| [3Blue1Brown] (en anglais) | [Primer] : Simulations informatiques | [ScienceEtonnante]
+[El Jj] | | [PasseScience]
+| [Numberphile] (en anglais) | | [Science4All]
 
 ## Apprendre
 
@@ -32,6 +30,7 @@ L'apprentissage de nouveaux contenus, de nouvelles méthodes voire de nouvelles 
 
 * **Mathématiques**
   * [Mathraining](https://www.mathraining.be/) est initialement un site de préparation aux olympiades internationales de mathématiques. Il est donc ciblé sur des élèves du secondaire désireux d'approfondir leurs connaissances mathématiques à travers des cours, des exercices et des problèmes.
+
   * [AOPS](https://artofproblemsolving.com/alcumus/problem) Art of Problem Solving : un site anglais contenant une myriade de problèmes de tout niveau. La difficulté des problèmes s'adapte selon votre niveau. Une correction est disponible pour chaque exercice. De plus, un système d'expérience vient pousser à faire des problèmes régulièrement.
 
 * **Informatique**
@@ -56,6 +55,6 @@ Les concours sont un excellement moyen de se dépasser en se questionnant sur de
   * [Algoréa](https://algorea.org/#/) : Concours annuel avec plusieurs tours,  plutôt ludique pour les premiers tours. Le tout en temps limité
 
   * [Prologin](https://prologin.org/) : Concours en plusieurs tours, principalement axées sur des problèmes d'algorithmiques. S'étend sur plusieurs semaines pour le premier tour, puis en temps limité.
-* **Toutes matières**
 
+* **Toutes matières**
   * [Concours général](https://www.education.gouv.fr/le-concours-general-des-lycees-et-des-metiers-un-prix-d-excellence-10022)  : Concours scolaire proposé pour toutes les spécialités enseignées au lycée, épreuve en temps limité.
