@@ -4,8 +4,12 @@ date: 2021-12-20T00:08:50+01:00
 draft: false
 ---
 
-Ce site web à pour but de mettre en avant la fillière MP2I.
+Ce site web à pour but de mettre en avant la filière MP2I.
+Il rassemble des téoignages d'étudiants et de précieuses informations pour permettre aux lycéens d'avoir une vision concrète de la MP2I.
 
-Nous voulons y rassembler les premiers témoignages ainsi que des conseils pour nous rejoindre !
+Si vous souhaitez participer vous pouvez fork le projet sur [Github](https://github.com/prepas-mp2i/prepas-mp2i.github.io).
+Ou rejoindre [notre serveur Discord](https://discord.gg/w4ugrWy84W).
 
-Vous pouvez commencer à compléter les fichiers dans le dossier [contenu](https://github.com/prepas-mp2i/prepas-mp2i.github.io/tree/gohugo/content), et n'hésitez pas à contacter [mp2i@protonmail.com](mailto:mp2i@protonmail.com) si vous voulez rejoindre le projet !
+{{< admonition info "Contact" true >}}
+Besoin de renseignements précis? De nous contacter? Envoyez-nous un mail: [contact@prepas-mp2i.fr](mailto:contact@prepas-mp2i.fr)
+{{< /admonition >}}

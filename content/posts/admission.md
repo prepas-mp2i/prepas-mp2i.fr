@@ -29,7 +29,7 @@ N.B : Il reste possible dans certains rares cas d'intégrer une MP2I sans avoir 
 
 Depuis décembre vous avez accès au catalogue des formations disponibles avec leurs critères de sélection, en quoi elles consistent et leur sélectivité.
 Après le 20 janvier, vous allez commencer à faire vos vœux, c'est le moment de se renseigner et d'aller aux portes ouvertes, en ligne ou en présentiel, rien de mieux que d'échanger avec les élèves pour se faire une idée de la formation.
-Il y a 30 MP2I sur Parcoursup, repertoriées plus bas, cela va de prépas très selectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I si c'est la formation que vous voulez (vous n'irez pas tous et toutes à Louis le Grand soyons réalistes mais il faut garder de l'ambition).
+Il y a 30 MP2I sur Parcoursup, répertoriées plus bas, cela va de prépas très selectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I si c'est la formation que vous voulez (vous n'irez pas tous et toutes à Louis le Grand soyons réalistes mais il faut garder de l'ambition).
 
 ### Vœux et sous-vœux
 

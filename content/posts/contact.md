@@ -9,7 +9,7 @@ Nous sommes des étudiants actuellement en MP2I provenant des quatre coins de la
 Vous êtes intéressé par les prépas scientifiques et/ou par la MP2I ? N'attendez plus, venez découvrir l'entièreté de ce site !
 
 Vous avez tout vu mais il vous reste encore des questions ?
-Vous pouvez contacter les élèves qui maintiennent ce site en envoyant un mail à cette adresse : [mp2i@protonmail.com](mailto:email@mp2i@protonmail.com).
+Vous pouvez contacter les élèves qui maintiennent ce site en envoyant un mail à cette adresse : [contact@prepas-mp2i.fr](mailto:contact@prepas-mp2i.fr).
 
 {{< admonition tip "Discord" true >}}
 Vous voulez discuter avec des étudiants en MP2I ?
