@@ -4,7 +4,7 @@ date: 2022-01-29T19:00:59+01:00
 draft: false
 ---
 
-Vous avez une question à poser ? Si jamais elle n'est pas déjà référencée vous pouvez nous contacter via [la page de contacts](https://prepas-mp2i.github.io/contact/).
+Vous avez une question à poser ? Si jamais elle n'est pas déjà référencée vous pouvez nous contacter via [la page de contacts](https://prepas-mp2i.fr/contact/).
 
 {{< admonition note "Quel est ton rythme de sommeil ?" false >}}
 Pour réussir, il faut être en bonne santé. Et pour être en bonne santé, il faut dormir.
