@@ -104,7 +104,7 @@ enableGitInfo = true
 
   [params.social]
     GitHub = "prepas-mp2i/prepas-mp2i.github.io"
-    Email = "mp2i@protonmail.com"
+    Email = "contact@prepas-mp2i.fr"
 
   [params.page]
     hiddenFromHomePage = false
