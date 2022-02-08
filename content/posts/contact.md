@@ -41,7 +41,7 @@ Voici une liste de représentants pour chacun des établissements proposant la f
 - Louis Le Grand (Paris 5e Arrondissement - 75) [aurelienchen@outlook.com](mailto:aurelienchen@outlook.com)
 - Louis Thuillier (Amiens - 80) [titouan.leveque@protonmail.com](mailto:titouan.leveque@protonmail.com)
 - Montaigne (Bordeaux - 33) [alessandre.laguierce@protonmail.com](mailto:alessandre.laguierce@protonmail.com)
-- Paul Valery (Paris 12e Arrondissement - 75) [indisponible](mailto:)
+- Paul Valery (Paris 12e Arrondissement - 75) [matteo.delfour@protonmail.com](mailto:matteo.delfour@protonmail.com)
 - Pierre De Fermat (Toulouse - 31) [indisponible](mailto:)
 - Saint-Louis (Paris 6e Arrondissement - 75) [@FuseTim](https://github.com/fusetim) <[fusetim.log@gmx.com](mailto:fusetim.log@gmx.com)>
 - Thiers (Marseille 1er Arrondissement - 13) [camille_fabre26@protonmail.com](mailto:camille_fabre26@protonmail.com)
