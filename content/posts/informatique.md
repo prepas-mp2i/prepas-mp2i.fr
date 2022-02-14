@@ -74,7 +74,10 @@ En "traduisant" simplement la syntaxe :
 let rec fibo n = 
     if n = 0 then 0
     else if n = 1 then 1
-    else fibo (n-1) + fibo (n-2) (* Les parenthèses ne sont pas systématiques en OCaml, on doit les utiliser lorsque notre expression n'est pas associative, pour dissocier les différents cas (ici nous voulons bien passer n-1 en paramètre, et non faire fibo n puis décrémenter le résultat.)*)
+    else fibo (n-1) + fibo (n-2) 
+    (* Les parenthèses ne sont pas systématiques en OCaml. 
+       On doit les utiliser lorsque notre expression n'est pas associative, pour dissocier les différents cas. 
+       (ici nous voulons bien passer n-1 en paramètre, et non faire fibo n puis décrémenter le résultat.)*)
 ```
 
 On pourrait rendre cela plus élégant en utilisant le [pattern matching](https://ocaml.org/learn/tutorials/a_first_hour_with_ocaml.html#Pattern-matching) et rendre le tout plus propre en précisant le type des paramètres utilisé ainsi que le type de l'expression renvoyée. (Il existe quelque chose de ressemblant en python mais ça n'est que du sucre syntaxique).
@@ -82,11 +85,16 @@ On pourrait rendre cela plus élégant en utilisant le [pattern matching](https:
 Cela permet de déceler plus vite une incohérence, et donc de produire un code plus sécurisé et apte à réaliser exactement ce que l'on veut. On dit qu'OCaml est [fortement typé](https://fr.wikipedia.org/wiki/Typage_fort).
 
 ```ocaml
-let rec fibo (n:int) : int = (* La fonction fibo prend en paramètre un entier n, et renverra aussi un entier. *)
-    match n with (* On filtre la variable n. Si la valeur ne correspond pas au filtre, on passe au filtre suivant. *)
+(* La fonction fibo prend en paramètre un entier n, et renverra aussi un entier. *)
+let rec fibo (n:int) : int = 
+    match n with 
+    (* On filtre la variable n. 
+       Si la valeur ne correspond pas au filtre, on passe au filtre suivant. *)
     | 0 -> 0 (* première valeur de la suite de fibonnaci *)
     | 1 -> 1 (* deuxième valeur *)
-    | n -> fibo (n-1) + fibo (n-2) (* Ce filtre prend toute valeur de n, il permet d'effectuer un filtrage exhaustif. En conséquent, aucun autre filtre suivant ne sera pris en compte. *)
+    | n -> fibo (n-1) + fibo (n-2) 
+    (* Ce filtre prend toute valeur de n, il permet d'effectuer un filtrage exhaustif.
+       En conséquent, aucun autre filtre suivant ne sera pris en compte. *)
 ```
 
 Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écriture est très proche de sa définition mathématique !
