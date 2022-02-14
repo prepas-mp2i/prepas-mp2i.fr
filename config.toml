@@ -27,14 +27,19 @@ enableGitInfo = true
     weight = 4
   
   [[menu.main]]
+    name = "Forum"
+    url = "/forum/"
+    weight = 5
+  
+  [[menu.main]]
     name = "F.A.Q"
     url = "/faq/"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 6
+    weight = 7
 
 [params]
   version = "0.2.X"
@@ -81,11 +86,11 @@ enableGitInfo = true
     target="_blank">CC BY-NC 4.0</a>"""
 
   [params.section]
-    paginate = 4
+    paginate = 10
     dateFormat = "01-02"
 
   [params.list]
-    paginate = 4
+    paginate = 10
     dateFormat = "01-02"
 
   [params.home]
