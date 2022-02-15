@@ -3,7 +3,6 @@ title: "Forum des étudiants en MP2I"
 date: 2022-02-14T16:45:31+01:00
 draft: true
 ---
-
 ## Présentation
 
 Le forum des étudiants en MP2I se tiendra le samedi (12 ou 19) mars 2022 de 15h à 18h.
@@ -30,6 +29,7 @@ A vous de choisir le stand qui correspond à votre région et aux établissement
 
 Cérémonie de clôture mais ce n'est qu'un au revoir ?
 
-## Intervenants
 
+## Intervenants
 Vous trouverez ci-dessous la liste des intervenants par établissements :
+
