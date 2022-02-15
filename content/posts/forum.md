@@ -33,6 +33,6 @@ Vous trouverez ci-dessous la liste des intervenants par établissement :
 |:------------:|:------------:|:-----------:|:-----------:|
 | {{< figure src="/images/intervenants/Louis-max Descartes.png" title="Louis-max" caption="Descartes" >}} | {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Flavio Janson de Sailly.png" title="Flavio" caption="Janson de Sailly" >}} | {{< figure src="/images/intervenants/Narada Clémenceau.png" title="Narada" caption="Clémenceau " >}} |
 
-| Intervenant | Intervenant | Intervenant | Intervenant |
+| Intervenant | Intervenant | Intervenant | Intervenante |
 |:-----------:|:-----------:|:-----------:|:-----------:|
-| {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} | {{< figure src="/images/intervenants/Ganda Champollion.png" title="Ganda"  caption="Champollion">}} |
+| {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} | {{< figure src="/images/intervenants/Garance Champollion.png" title="Garance"  caption="Champollion">}} |

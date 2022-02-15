@@ -46,3 +46,15 @@ On sait qu'on est ensemble contre le reste des prépas et puis quand on est dans
 Garance, MP2I lycée Champollion, Grenoble
 {{< /style >}}
 {{< /admonition >}}
+
+{{< admonition note "L'internat est-il un avantage ?" false >}}
+Oui, sans hésiter! Outre le coût moins élevé, on est directement dans le lycée ou à proximité.
+On n'a pas tout le côté administratif à gérer comme c'est le cas avec un appartement.
+Certains internats, comme celui à Descartes, sont ouverts le week-end ce qui est pratique pour ceux qui n'ont pas forcément le temps de revenir chez eux.
+
+De plus, on est avec une partie de sa classe, on peut s'entraider dans les devoirs ou demander à des deuxième-années si besoin. Il y a une très bonne ambiance.
+
+{{< style "text-align:right; font-style:italic;" >}}
+Adrien, MP2I lycée Descartes, Tours
+{{< /style >}}
+{{< /admonition >}}

@@ -27,11 +27,6 @@ enableGitInfo = true
     weight = 4
   
   [[menu.main]]
-    name = "Forum"
-    url = "/forum/"
-    weight = 5
-  
-  [[menu.main]]
     name = "F.A.Q"
     url = "/faq/"
     weight = 6
