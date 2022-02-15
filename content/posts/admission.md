@@ -132,7 +132,7 @@ Les critères pour être admis en internat concernent majoritairement les appré
 ## Lycées ouvrant une classe à la rentrée 2022
 
 | Type    | Lycée | Ville |
-|:-------:|:-----:|:-----:
+|:-------:|:-----:|:-----:|
 | Public | Alain René Lesage | Vannes |
 | Public | Camille Guérin | Poitiers |
 | Public | Henri Poincaré | Nancy |
