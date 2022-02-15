@@ -35,4 +35,4 @@ Vous trouverez ci-dessous la liste des intervenants par établissement :
 
 | Intervenant | Intervenant | Intervenant | Intervenant |
 |:-----------:|:-----------:|:-----------:|:-----------:|
-| {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} | {{< figure src="/images/intervenants/unknown.png" title="_" >}} |
+| {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} | {{< figure src="/images/intervenants/Ganda Champollion.png" title="Ganda"  caption="Champollion">}} |
