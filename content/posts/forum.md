@@ -20,12 +20,9 @@ On vous présentera le fonctionnement des stands ainsi que les dernières nouvel
 
 ### 15h-18h : Rotation des stands
 
-<p float="left">
-  {{< figure src="/images/planning.png" width="60%"
-    title="Répartition des établissements selon les différents créneaux" >}}
-{{< figure src="/images/france.png" width="35%"
-    title="Établissements proposants MP2I" >}}
-</p>
+|Répartition des établissements selon les différents créneaux | Établissements proposants la MP2I |
+| :----: | :----: |
+| {{< figure src="/images/planning.png" width="60%" title="" >}} | {{< figure src="/images/france.png" width="35%" title="" >}} |
 
 A vous de choisir le stand qui correspond à votre région et aux établissements qui correspondent à vos ambitions.
 
@@ -43,4 +40,4 @@ Vous trouverez ci-dessous la liste des intervenants par établissement :
 
 | Intervenante | Intervenant | Intervenant | Intervenante |
 |:-----------:|:-----------:|:-----------:|:-----------:|
-| {{< figure src="/images/intervenants/Maud Louis Tuillier" title="Maud" caption="Louis Tuillier">}} | {{< figure src="/images/intervenants/unknown.png" title="" caption="" >}} | {{< figure src="/images/intervenants/unknown.png" title="" caption="">}} | {{< figure src="/images/intervenants/unknown.png" title=""  caption="">}} |
+| {{< figure src="/images/intervenants/Maud Louis Tuillier.png" title="Maud" caption="Louis Tuillier">}} | {{< figure src="/images/intervenants/unknown.png" title="" caption="" >}} | {{< figure src="/images/intervenants/unknown.png" title="" caption="">}} | {{< figure src="/images/intervenants/unknown.png" title=""  caption="">}} |
