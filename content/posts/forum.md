@@ -20,9 +20,7 @@ On vous présentera le fonctionnement des stands ainsi que les dernières nouvel
 
 ### 15h-18h : Rotation des stands
 
-|Répartition des établissements selon les différents créneaux | Établissements proposants la MP2I |
-| :----: | :----: |
-| {{< figure src="/images/planning.png" width="60%" title="" >}} | {{< figure src="/images/france.png" width="35%" title="" >}} |
+{{< figure src="/images/planning.png" width="60%" title="Répartition des établissements selon les différents créneaux " >}}{{< figure src="/images/france.png" width="35%" title="Établissements proposants la MP2I " >}}
 
 A vous de choisir le stand qui correspond à votre région et aux établissements qui correspondent à vos ambitions.
 
