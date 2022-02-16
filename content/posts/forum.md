@@ -5,7 +5,7 @@ draft: false
 ---
 ## Présentation
 
-Le forum des étudiants en MP2I se tiendra le samedi (12 ou 19) mars 2022 de 15h à 18h.
+Le forum des étudiants et étudiantes en MP2I se tiendra le samedi (12 ou 19) mars 2022 de 15h à 18h.
 
 Venez découvrir la nouvelle classe préparatoire MP2I via différents stands rassemblant plusieurs établissements d'une même région.
 
@@ -13,28 +13,21 @@ Plus qu'une journée portes ouvertes, vous pourrez poser vos questions à plusie
 
 ## Organisation
 
-### 14h 50 : Ouverture
+### Ouverture (15h 50)
 
 Rendez-vous dans le salon général pour le lancement de ce forum 2022!
 On vous présentera le fonctionnement des stands ainsi que les dernières nouvelles.
 
-### 15h-18h : Rotation des stands
-{{< figure src="/images/planning.png" width="60%" caption="Répartition des établissements selon les différents créneaux " >}} {{< image src="/images/france.png" width="35%" caption="Établissements proposants la MP2I" >}}
+### Rotation des stands (15h - 18h)
+
+{{< figure src="/images/planning.png" width="100%" title="Répartition des établissements selon les différents créneaux " >}}
 
 A vous de choisir le stand qui correspond à votre région et aux établissements qui correspondent à vos ambitions.
 
 ## Intervenants
 
-Vous trouverez ci-dessous la liste des intervenants par établissement :
+Vous trouverez ci-dessous la liste (incomplète) des intervenants et intervenantes sur les différents stands :
 
-| Organisateur | Organisateur | Intervenant | Intervenant |
-|:------------:|:------------:|:-----------:|:-----------:|
-| {{< figure src="/images/intervenants/Louis-max Descartes.png" title="Louis-max" caption="Descartes" >}} | {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Flavio Janson de Sailly.png" title="Flavio" caption="Janson de Sailly" >}} | {{< figure src="/images/intervenants/Narada Clémenceau.png" title="Narada" caption="Clémenceau " >}} |
-
-| Intervenant | Intervenant | Intervenant | Intervenante |
-|:-----------:|:-----------:|:-----------:|:-----------:|
-| {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} | {{< figure src="/images/intervenants/Ganda Champollion.png" title="Ganda"  caption="Champollion">}} |
-
-| Intervenante | Intervenant | Intervenant | Intervenante |
-|:-----------:|:-----------:|:-----------:|:-----------:|
-| {{< figure src="/images/intervenants/Maud Louis Tuillier.png" title="Maud" caption="Louis Tuillier">}} | {{< figure src="/images/intervenants/unknown.png" title="" caption="" >}} | {{< figure src="/images/intervenants/unknown.png" title="" caption="">}} | {{< figure src="/images/intervenants/unknown.png" title=""  caption="">}} |
+| Organisateur | Organisateur | Intervenante | Intervenante | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant |
+|:------------:|:------------:|:------------:|:------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| {{< figure src="/images/intervenants/Louis-max Descartes.png" title="Louis-max" caption="Descartes" >}} | {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Ganda Champollion.png" title="Ganda"  caption="Champollion">}} | {{< figure src="/images/intervenants/Maud Louis Tuillier.png" title="Maud" caption="Louis Tuillier">}} | {{< figure src="/images/intervenants/Flavio Janson de Sailly.png" title="Flavio" caption="Janson de Sailly" >}} | {{< figure src="/images/intervenants/Narada Clémenceau.png" title="Narada" caption="Clémenceau " >}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} |
