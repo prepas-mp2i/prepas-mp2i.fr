@@ -18,9 +18,11 @@ Pacôme G., MP2I lycée Descartes, Tours
 {{< /admonition >}}
 
 {{< admonition note "As-tu continué une LVB en prépa ?" false >}}
-J'ai choisi une LVB car d'une part il y a des points bonus aux concours, et d'autre part parce que dans toutes les grandes écoles a LVB est obligatoire, donc autant éviter de perdre tout le niveau obtenu en tant d'années.
+J'ai choisi une LVB car d'une part il y a des points bonus aux concours, et d'autre part parce que dans toutes les grandes écoles la LVB est obligatoire, donc autant éviter de perdre tout le niveau obtenu en tant d'années.
 On peut se dire qu'on est en prépa et qu'on pourrait réviser ses cours et faire ses exercices au lieu de perdre deux heures par semaine à aller en allemand ou en espagnol (voir italien et autres), mais étant donné que souvent la LVB est sur le temps du midi, cela ne change pas grand chose car peu de personnes sont productives sur cette plage horaire.
 En plus, il y a très très très peu de devoir à faire en dehors des cours pour la LVB.
+
+Note: La LVB peut être obligatoire dans certains établissements
 
 {{< style "text-align:right; font-style:italic;" >}}
 Victor G., MP2I lycée Descartes, Tours
