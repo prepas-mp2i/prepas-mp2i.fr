@@ -13,7 +13,7 @@ Plus qu'une journée portes ouvertes, vous pourrez poser vos questions à plusie
 
 ## Organisation
 
-### Ouverture (15h 50)
+### Ouverture (14h 50)
 
 Rendez-vous dans le salon général pour le lancement de ce forum 2022!
 On vous présentera le fonctionnement des stands ainsi que les dernières nouvelles.
@@ -30,4 +30,4 @@ Vous trouverez ci-dessous la liste (incomplète) des intervenants et intervenant
 
 | Organisateur | Organisateur | Intervenante | Intervenante | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant |
 |:------------:|:------------:|:------------:|:------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| {{< figure src="/images/intervenants/Louis-max Descartes.png" title="Louis-max" caption="Descartes" >}} | {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Ganda Champollion.png" title="Ganda"  caption="Champollion">}} | {{< figure src="/images/intervenants/Maud Louis Tuillier.png" title="Maud" caption="Louis Tuillier">}} | {{< figure src="/images/intervenants/Flavio Janson de Sailly.png" title="Flavio" caption="Janson de Sailly" >}} | {{< figure src="/images/intervenants/Narada Clémenceau.png" title="Narada" caption="Clémenceau " >}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} |
+| {{< figure src="/images/intervenants/Louis-max Descartes.png" title="Louis-max" caption="Descartes" >}} | {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Ganda Champollion.png" title="Garance"  caption="Champollion">}} | {{< figure src="/images/intervenants/Maud Louis Tuillier.png" title="Maud" caption="Louis Thuillier">}} | {{< figure src="/images/intervenants/Flavio Janson de Sailly.png" title="Flavio" caption="Janson de Sailly" >}} | {{< figure src="/images/intervenants/Narada Clémenceau.png" title="Narada" caption="Clémenceau " >}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} |
