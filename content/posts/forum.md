@@ -3,15 +3,22 @@ title: "Forum des étudiants en MP2I"
 date: 2022-02-14T16:45:31+01:00
 draft: false
 ---
-## Présentation
-
-Le forum des étudiants et étudiantes en MP2I se tiendra le samedi (12 ou 19) mars 2022 de 15h à 18h.
-
-Venez découvrir la nouvelle classe préparatoire MP2I via différents stands rassemblant plusieurs établissements d'une même région.
+## Pourquoi ce forum ?
 
 Plus qu'une journée portes ouvertes, vous pourrez poser vos questions à plusieurs élèves de classes différentes afin d'avoir un aperçu plus complet de cette nouvelle filière !
 
+Vous vous posez très certainement de nombreuses questions au sujet de la prépa MP2I, et en tant qu’inaugurateurs de cette filière, on se propose de vous y répondre durant ce forum virtuel. Oui vous avez bien lu, des élèves de CPGE (dans leur grande générosité 😉) se mettent à votre disposition afin de vous aider à vous orienter grâce à leur expérience vécue en ce début d’année, et comme ça vous pourrez directement comparer les avis de différentes personnes venant de différents établissements !
+
+Aussi c’est une filière pour laquelle on a encore peu de recul, et on a connu ça, d’être paumé et de ne pas savoir si cette voie était faite pour nous ou pas ; alors on s’est dit que ce serait cool de pouvoir vous épargner ça… (quelle chance vous avez !)
+
+Le forum des étudiants et étudiantes en MP2I se tiendra **le samedi (12 ou 19) mars 2022 de 15h à 18h**.
+
+Venez découvrir la nouvelle classe préparatoire MP2I via différents stands rassemblant plusieurs établissements d'une même région.
+
 ## Organisation
+
+Le forum des étudiants et étudiantes en MP2I se tiendra le samedi (12 ou 19) mars 2022 de 15h à 18h.
+Il s'organisera autour de différents stands rassemblant plusieurs établissements d'une même région.
 
 ### Ouverture (14h 50)
 
