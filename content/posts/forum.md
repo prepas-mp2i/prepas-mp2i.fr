@@ -11,13 +11,10 @@ Car vous vous posez très certainement de nombreuses questions au sujet de la pr
 
 Aussi c’est une filière pour laquelle on a encore peu de recul, et on a connu ça, d’être paumé et de ne pas savoir si cette voie était faite pour nous ou pas ; alors on s’est dit que ce serait cool de pouvoir vous épargner ça… (quelle chance vous avez !)
 
-Le forum des étudiants et étudiantes en MP2I se tiendra **le samedi (12 ou 19) mars 2022 de 15h à 18h**.
-
-Venez découvrir la nouvelle classe préparatoire MP2I via différents stands rassemblant plusieurs établissements d'une même région.
-
 ## Organisation
 
-Le forum des étudiants et étudiantes en MP2I se tiendra le samedi (12 ou 19) mars 2022 de 15h à 18h.
+Le forum des étudiants et étudiantes en MP2I se tiendra **le samedi (12 ou 19) mars 2022 de 15h à 18h**.
+
 Il s'organisera autour de différents stands rassemblant plusieurs établissements d'une même région.
 
 ### Ouverture (14h 50)
