@@ -96,6 +96,10 @@ Lycées avec les plus hauts taux d'admission :
 - Lycée Franklin Roosevelt (Reims) : 55,98%
 - Lycée Colbert (Tourcoing) : 54,97%
 
+{{< admonition tip "Pour approfondir " true >}}
+Vous pouvez étudier plus précisément les statisques de Parcoursup concernant la MP2I à cette adresse : [https://colab.research.google.com/drive/1CaLyq1azazLa3682fGXkIn8g3O-qlqdO#scrollTo=IuZEl7m7LYUV](https://colab.research.google.com/drive/1CaLyq1azazLa3682fGXkIn8g3O-qlqdO#scrollTo=IuZEl7m7LYUV).
+{{< /admonition >}}
+
 ## Les places aux concours
 
 Il faut savoir que rien n'est encore fixé et que ce sont des engagements de minimum, mais voici une petite idée des places aux concours 2023 :
