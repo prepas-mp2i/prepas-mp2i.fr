@@ -42,4 +42,4 @@ Vous trouverez ci-dessous la liste (incomplète) des intervenants et intervenant
  
  | Intervenant | Intervenant | Intervenant | Intervenant |
 |:-----------:|:-----------:|:-----------:|:-----------:|
-| {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/unknown.png" title="">}} | {{< figure src="/images/intervenants/unknown.png" title="">}} | {{< figure src="/images/intervenants/unknown.png" title="">}} |
+| {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.png" title="Alain" caption="Gay Lussac">}} | {{< figure src="/images/intervenants/unknown.png" title="" caption="">}} | {{< figure src="/images/intervenants/unknown.png" title="" caption="">}} |
