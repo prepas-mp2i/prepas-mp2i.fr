@@ -16,6 +16,7 @@ Aussi c’est une filière pour laquelle on a encore peu de recul, et on a connu
 Le forum des étudiants et étudiantes en MP2I se tiendra **le samedi (12 ou 19) mars 2022 de 15h à 18h**.
 
 Il s'organisera autour de différents stands rassemblant plusieurs établissements d'une même région.
+Les liens de visioconférences seront inscrits ci-dessous le 12 mars pour que tous les établissements puissent s'organiser d'ici là. 
 
 ### Ouverture (14h 50)
 
