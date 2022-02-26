@@ -38,8 +38,7 @@ Vous trouverez ci-dessous la liste (incomplète) des intervenants et intervenant
 
 | Intervenant | Intervenante | Intervenant | Intervenant |
 |:-----------:|:-----------:|:-----------:|:-----------:|
-| {{< figure src="/images/intervenants/Narada Clémenceau.png" title="Narada" caption="Clémenceau " >}} | {{< figure src="/images/intervenants/Maud Louis Tuillier.png" title="Maud" caption="Louis Thuillier">}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< fig
- ure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} |
+| {{< figure src="/images/intervenants/Narada Clémenceau.png" title="Narada" caption="Clémenceau " >}} | {{< figure src="/images/intervenants/Maud Louis Tuillier.png" title="Maud" caption="Louis Thuillier">}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} |
  
  | Intervenant | Intervenant | Intervenant | Intervenant |
 |:-----------:|:-----------:|:-----------:|:-----------:|
