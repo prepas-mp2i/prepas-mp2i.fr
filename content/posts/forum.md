@@ -4,8 +4,8 @@ date: 2022-02-14T16:45:31+01:00
 draft: false
 ---
 
-[![/documents/affiche_forum_mp2i.pdf](/images/affiche_forum_mp2i.jpg)][Affiche]
-(Vous pouvez cliquer sur l'image pour télécharger le PDF)
+[![/documents/affiche_forum_mp2i.pdf](/images/Affiche Forum Mp2i.pdf)][Affiche]
+Vous pouvez télécharger le pdf en cliquant sur l'image ou [sur ce lien](https://raw.githubusercontent.com/prepas-mp2i/prepas-mp2i.github.io/gohugo/static/images/Affiche%20Forum%20MP2I.pdf)
 
 ## Pourquoi ce forum ?
 
