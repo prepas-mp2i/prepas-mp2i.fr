@@ -3,6 +3,12 @@ title: "Forum des étudiants en MP2I"
 date: 2022-02-14T16:45:31+01:00
 draft: false
 ---
+
+<a
+href="/documents/affiche_forum_mp2i.pdf">
+{{< figure src="/images/affiche_forum_mp2i.jpg" alt= "Affiche du forum des MP2I" width="100%" >}}
+</a>
+
 ## Pourquoi ce forum ?
 
 Plus qu'une journée portes ouvertes, vous pourrez échanger avec plusieurs élèves de classes différentes afin d'avoir un aperçu plus complet de cette nouvelle filière !
@@ -16,7 +22,7 @@ Aussi c’est une filière pour laquelle on a encore peu de recul, et on a connu
 Le forum des étudiants et étudiantes en MP2I se tiendra **le samedi 19 mars 2022 de 15h à 18h**.
 
 Il s'organisera autour de différents stands rassemblant plusieurs établissements d'une même région.
-Les liens de visioconférences seront inscrits ci-dessous le 12 mars pour que tous les établissements puissent s'organiser d'ici là. 
+Les liens de visioconférences seront inscrits ci-dessous le 12 mars pour que tous les établissements puissent s'organiser d'ici là.
 
 ### Ouverture (14h 50)
 
@@ -33,14 +39,6 @@ A vous de choisir le stand qui correspond à votre région et aux établissement
 
 Vous trouverez ci-dessous la liste (incomplète) des intervenants et intervenantes sur les différents stands :
 
-| Organisateur | Organisateur | Intervenante | Intervenant |
-|:------------:|:------------:|:-----------:|:-----------:|
-| {{< figure src="/images/intervenants/Louis-max Descartes.png" title="Louis-max" caption="Descartes" >}} | {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Ganda Champollion.png" title="Garance"  caption="Champollion">}} | {{< figure src="/images/intervenants/Flavio Janson de Sailly.png" title="Flavio" caption="Janson de Sailly" >}} |
-
-| Intervenant | Intervenante | Intervenant | Intervenant |
-|:-----------:|:-----------:|:-----------:|:-----------:|
-| {{< figure src="/images/intervenants/Narada Clémenceau.png" title="Narada" caption="Clémenceau " >}} | {{< figure src="/images/intervenants/Maud Louis Tuillier.png" title="Maud" caption="Louis Thuillier">}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} |
- 
- | Intervenant | Intervenant | Intervenant | Intervenant |
-|:-----------:|:-----------:|:-----------:|:-----------:|
-| {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.png" title="Alain" caption="Gay Lussac">}} | {{< figure src="/images/intervenants/unknown.png" title="" caption="">}} | {{< figure src="/images/intervenants/unknown.png" title="" caption="">}} |
+| Organisateur | Organisateur | Intervenante | Intervenante | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant |
+|:------------:|:------------:|:-----------:|:-----------:|:------------:|:------------:|:-----------:|:-----------:|:------------:|:------------:|
+| {{< figure src="/images/intervenants/Louis-max Descartes.png" title="Louis-max" caption="Descartes" >}} | {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Ganda Champollion.png" title="Garance"  caption="Champollion">}} | {{< figure src="/images/intervenants/Maud Louis Tuillier.png" title="Maud" caption="Louis Thuillier">}} | {{< figure src="/images/intervenants/Flavio Janson de Sailly.png" title="Flavio" caption="Janson de Sailly" >}} | {{< figure src="/images/intervenants/Narada Clémenceau.png" title="Narada" caption="Clémenceau " >}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.png" title="Alain" caption="Gay Lussac">}} |

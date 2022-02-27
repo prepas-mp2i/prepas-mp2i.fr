@@ -6,6 +6,12 @@ enableRobotsTXT = true
 enableGitInfo = true
 
 [menu]
+  # EVENT
+  [[menu.main]]
+    name = "Forum"
+    url = "/forum/"
+    weight = 1
+
   [[menu.main]]
     name = "MP2I"
     url = "/mp2i/"

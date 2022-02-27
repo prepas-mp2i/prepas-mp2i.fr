@@ -1,7 +1,29 @@
 # Prépas MP2I
 
+## Introduction
+
 Ce site web à pour but de mettre en avant la filière MP2I.
 
-Nous voulons y rassembler les premiers témoignages ainsi que des conseils pour nous rejoindre !
+Nous voulons y rassembler les premiers témoignages ainsi que des informations et des conseils sur cette nouvelle filière!
 
-Vous pouvez commencer à compléter les fichiers dans le dossier [gohugo/content](https://github.com/mp2i-france/mp2i-france-website/tree/gohugo/content), et n'hésitez pas à contacter [mp2i@protonmail.com](mailto:mp2i@protonmail.com) si vous voulez rejoindre le projet !
+Vous pouvez commencer à fork le projet pour y contribuer.
+
+## Setup
+
+Installez [Hugo](https://gohugo.io/getting-started/installing/) et [Git](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git) puis configurez le repo:
+
+```sh
+git clone https://github.com/prepas.mp2i/prepas-mp2i.github.io
+cd prepas-mp2i.github.io
+git submodule init && git submodule update
+```
+
+Pour tester le site en local:
+
+```sh
+hugo serve -e production
+```
+
+## Contact
+
+N'hésitez pas à contacter [mp2i@protonmail.com](mailto:mp2i@protonmail.com) pour tout renseignement.
