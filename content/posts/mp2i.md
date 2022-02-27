@@ -97,7 +97,7 @@ Lycées avec les plus hauts taux d'admission :
 - Lycée Colbert (Tourcoing) : 54,97%
 
 {{< admonition tip "Pour approfondir " true >}}
-Vous pouvez étudier plus précisément les statisques de Parcoursup concernant la MP2I à cette adresse : [https://colab.research.google.com/drive/1CaLyq1azazLa3682fGXkIn8g3O-qlqdO#scrollTo=IuZEl7m7LYUV](https://colab.research.google.com/drive/1CaLyq1azazLa3682fGXkIn8g3O-qlqdO#scrollTo=IuZEl7m7LYUV).
+Vous pouvez étudier plus en détail les statisques de Parcoursup concernant la MP2I à [cette adresse](https://colab.research.google.com/drive/1CaLyq1azazLa3682fGXkIn8g3O-qlqdO#scrollTo=IuZEl7m7LYUV).
 {{< /admonition >}}
 
 ## Les places aux concours
