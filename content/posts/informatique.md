@@ -133,5 +133,5 @@ Comme quoi on peut s'amuser en MP2I, même avec une tâche aussi simple !
 <!-- TODO: À remplacer, si l'on veut réellement introduire le langage C, il vaut mieux trouver un exemple simple qui ne fasse pas aussi peur que celui-ci. Le but reste de les encourager à les faire venir, pas à les faire fuir =) -->
 
 {{< admonition tip "Liens annexes" true >}}
-Vous pouvez télécharger le programme complet d'informatique [en cliquant ici](/documents/mpi_info.pdf).
+Vous pouvez télécharger le programme complet d'informatique [en cliquant ici](/documents/informatique_mp2i_et_mpi.pdf).
 {{< /admonition >}}

@@ -4,10 +4,7 @@ date: 2022-02-14T16:45:31+01:00
 draft: false
 ---
 
-<a
-href="/documents/affiche_forum_mp2i.pdf">
-{{< figure src="/images/affiche_forum_mp2i.jpg" alt= "Affiche du forum des MP2I" width="100%" >}}
-</a>
+[![/documents/affiche_forum_mp2i.pdf](/images/affiche_forum_mp2i.jpg)][Affiche]
 
 ## Pourquoi ce forum ?
 
@@ -42,3 +39,5 @@ Vous trouverez ci-dessous la liste (incomplète) des intervenants et intervenant
 | Organisateur | Organisateur | Intervenante | Intervenante | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant |
 |:------------:|:------------:|:-----------:|:-----------:|:------------:|:------------:|:-----------:|:-----------:|:------------:|:------------:|
 | {{< figure src="/images/intervenants/Louis-max Descartes.png" title="Louis-max" caption="Descartes" >}} | {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Ganda Champollion.png" title="Garance"  caption="Champollion">}} | {{< figure src="/images/intervenants/Maud Louis Tuillier.png" title="Maud" caption="Louis Thuillier">}} | {{< figure src="/images/intervenants/Flavio Janson de Sailly.png" title="Flavio" caption="Janson de Sailly" >}} | {{< figure src="/images/intervenants/Narada Clémenceau.png" title="Narada" caption="Clémenceau " >}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.png" title="Alain" caption="Gay Lussac">}} |
+
+[Affiche]: /documents/affiche_forum_mp2i.pdf
