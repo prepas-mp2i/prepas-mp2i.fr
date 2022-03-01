@@ -38,6 +38,9 @@ L'apprentissage de nouveaux contenus, de nouvelles méthodes voire de nouvelles 
 
   * [Le projet Euler](https://projecteuler.net/) est une collection de problèmes entre info et maths. Si vous aimez les nombres (arithmetique, nombres premiers ...) et coder pour résoudre des problèmes, ce site est fait pour vous ! Il y a plus de 700 problèmes, allant de très facile à clairement infaisable.
 
+* **Toutes matières**
+  * [Fiches de révision numériques](https://fiches.nathanfallet.me/) : Fiches de révision [LaTeX Cards](https://latexcards.app/) niveau MP/MP* (le programme en mathématiques est le même que celui de MPI, et celui de physique contient quelques suppléments par rapport à la MPI)
+
 ## Pratiquer
 
 Les projets personnels sont primordiaux à deux points de vue. Ils permettent évidemment de mettre en œuvre les connaissances et compétences théoriques acquises, et ainsi les fixer et les assimiler. Que ce soit en informatique, en robotique, en mécanique, les projets vous permettent d'appliquer vos connaissances à vos passions.
