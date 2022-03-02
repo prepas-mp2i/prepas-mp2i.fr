@@ -5,7 +5,9 @@ draft: false
 ---
 
 [![/documents/affiche_forum_mp2i.pdf](/images/affiche_forum_mp2i.jpg)][Affiche]
-
+{{< admonition tip "Astuce" true >}}
+Vous pouvez télécharger l'affiche en version imprimable en cliquant sur l'image.
+{{< /admonition >}}
 ## Pourquoi ce forum ?
 
 Plus qu'une journée portes ouvertes, vous pourrez échanger avec plusieurs élèves de classes différentes afin d'avoir un aperçu plus complet de cette nouvelle filière !
@@ -14,9 +16,7 @@ Car vous vous posez très certainement de nombreuses questions au sujet de la pr
 
 Aussi c’est une filière pour laquelle on a encore peu de recul, et on a connu ça, d’être paumé et de ne pas savoir si cette voie était faite pour nous ou pas ; alors on s’est dit que ce serait cool de pouvoir vous épargner ça… (quelle chance vous avez !)
 
-{{< admonition tip "Astuce" true >}}
-Vous pouvez télécharger l'affiche en version imprimable en cliquant sur l'image.
-{{< /admonition >}}
+
 
 ## Organisation
 
@@ -40,8 +40,8 @@ A vous de choisir le stand qui correspond à votre région et aux établissement
 
 Vous trouverez ci-dessous la liste (incomplète) des intervenants et intervenantes sur les différents stands :
 
-| Organisateur | Organisateur | Intervenante | Intervenante | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant |
-|:------------:|:------------:|:-----------:|:-----------:|:------------:|:------------:|:-----------:|:-----------:|:------------:|:------------:|------------:|------------:|------------:|
-| {{< figure src="/images/intervenants/Louis-max Descartes.png" title="Louis-max" caption="Descartes" >}} | {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Ganda Champollion.png" title="Garance"  caption="Champollion">}} | {{< figure src="/images/intervenants/Maud Louis Tuillier.png" title="Maud" caption="Louis Thuillier">}} | {{< figure src="/images/intervenants/Flavio Janson de Sailly.png" title="Flavio" caption="Janson de Sailly" >}} | {{< figure src="/images/intervenants/Narada Clémenceau.png" title="Narada" caption="Clémenceau " >}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.png" title="Alain" caption="Gay Lussac">}} | {{< figure src="/images/intervenants/Mathys Montaigne.png" title="Mathys" caption="Montaigne">}} | {{< figure src="/images/intervenants/Kei Montaigne.png" title="Kei" caption="Montaigne">}} | {{< figure src="/images/intervenants/Clément Faidherbe.png" title="Clément" caption="Faidherbe">}} |
+| Organisateur | Organisateur | Intervenante | Intervenante | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant |
+|:------------:|:------------:|:-----------:|:-----------:|:------------:|:------------:|:-----------:|:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
+| {{< figure src="/images/intervenants/Louis-max Descartes.png" title="Louis-max" caption="Descartes" >}} | {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Ganda Champollion.png" title="Garance"  caption="Champollion">}} | {{< figure src="/images/intervenants/Maud Louis Tuillier.png" title="Maud" caption="Louis Thuillier">}} | {{< figure src="/images/intervenants/Flavio Janson de Sailly.png" title="Flavio" caption="Janson de Sailly" >}} | {{< figure src="/images/intervenants/Narada Clémenceau.png" title="Narada" caption="Clémenceau " >}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.png" title="Alain" caption="Gay Lussac">}} | {{< figure src="/images/intervenants/Mathys Montaigne.png" title="Mathys" caption="Montaigne">}} | {{< figure src="/images/intervenants/Kei Montaigne.png" title="Kei" caption="Montaigne">}} | {{< figure src="/images/intervenants/Clément Faidherbe.png" title="Clément" caption="Faidherbe">}} | {{< figure src="/images/intervenants/Justin Janson de Sailly.png" title="Clément" caption="Faidherbe">}} |
 
 [Affiche]: /documents/affiche_forum_mp2i.pdf
