@@ -27,13 +27,15 @@ La prépa est une formation théorique très complète. Elle se fait en 2 ans et
 La formation est gratuite et elle est rattachée aux lycées, les classes ne dépassent pas 48 élèves et ceux-ci sont accompagnés et très encadrés par les professeurs.
 Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités avec leur volume horaire:
 
-| Filière  |       Spécialité       | Maths | Physique | Chimie | Informatique |  SI  | LV1 | Français | SVT |
+| Filière  |       Spécialités      | Maths | Physique | Chimie | Informatique |  SI  | LV1 | Français | SVT |
 |:--------:|:----------------------:|:-----:|:--------:|:------:|:------------:|:----:|:---:|:--------:|:---:|
-|   MP2I   |      Informatique      |  12   |    6.5   |    0   |       4      |   2  |  2  |     2    |  0  |
-|   MPSI   |      Mathématiques     |  12   |     6    |    2   |      1.5     |   2  |  2  |     2    |  0  |
-|   PCSI   |        Physique        |  10   |     8    |    4   |      1.5     |   4  |  2  |     2    |  0  |
-|   PTSI   | Sciences industrielles |   9   |     6    |    2   |      1.5     | 8.5  |  2  |     2    |  0  |
-|   BCPST  |        Biologie        |   8   |     4    |    3   |      1.5     |   0  |  2  |     2    |  8  |
+|   MP2I   |  Maths-Physique-Info   |  12   |    6.5   |    0   |       4      |   2  |  2  |     2    |  0  |
+|   MPSI   |Maths-Physique-Chimie-SI|  12   |     6    |    2   |      1.5     |   2  |  2  |     2    |  0  |
+|   PCSI   |   Physique-Chimie-SI   |  10   |     8    |    4   |      1.5     |   4  |  2  |     2    |  0  |
+|   PTSI   |   SI-Physique-Chimie   |   9   |     6    |    2   |      1.5     | 8.5  |  2  |     2    |  0  |
+|   BCPST  |Bio-Chimie-Physique-SVT |   8   |     4    |    3   |      1.5     |   0  |  2  |     2    |  8  |
+
+Vous pourrez retrouver un petit récapitulatif de chaque filière sur [Prepas.org](https://prepas.org/index.php?rubrique=41) (alimenté par les professeurs de prépas scientifiques).
 
 ## Poursuite d'études
 
