@@ -34,6 +34,15 @@ On vous présentera le fonctionnement des stands ainsi que les dernières nouvel
 
 {{< figure src="/images/planning.png" width="100%" title="Répartition des établissements selon les différents créneaux " >}}
 
+Vous trouverez ci dessous les liens pour rejoindre le stand de votre choix :
+**Stand 1**) [https://visio-agents.education.fr/meeting/signin/87156/creator/53352/hash/21f3ff230d6e46cfb0f97fe6a311c28c641a6c71](https://visio-agents.education.fr/meeting/signin/87156/creator/53352/hash/21f3ff230d6e46cfb0f97fe6a311c28c641a6c71)
+**Stand 2**) [https://visio-agents.education.fr/meeting/signin/89368/creator/53352/hash/d7910d019d6598052cf0e64df2522a4f5317f8b5](https://visio-agents.education.fr/meeting/signin/89368/creator/53352/hash/d7910d019d6598052cf0e64df2522a4f5317f8b5)
+**Stand 3**) [https://visio-agents.education.fr/meeting/signin/89367/creator/53352/hash/9e2c3e539fa97653575adf95a7cfe1754988ba6e](https://visio-agents.education.fr/meeting/signin/89367/creator/53352/hash/9e2c3e539fa97653575adf95a7cfe1754988ba6e)
+**Stand 4**) [https://visio-agents.education.fr/meeting/signin/89369/creator/53352/hash/6548c310fc631e40725c1fc41e3c8712248401ad](https://visio-agents.education.fr/meeting/signin/89369/creator/53352/hash/6548c310fc631e40725c1fc41e3c8712248401ad)
+**Stand 5**) [https://visio-agents.education.fr/meeting/signin/89371/creator/53352/hash/b8079655f2586ef3edec4a412915a2ba5830531b](https://visio-agents.education.fr/meeting/signin/89371/creator/53352/hash/b8079655f2586ef3edec4a412915a2ba5830531b)
+**Stand 6**) [https://visio-agents.education.fr/meeting/signin/89372/creator/53352/hash/ee6e11c7c08257bd30fdb5dd0f2a4ba37b43abfa](https://visio-agents.education.fr/meeting/signin/89372/creator/53352/hash/ee6e11c7c08257bd30fdb5dd0f2a4ba37b43abfa)
+**Stand 7**) [https://visio-agents.education.fr/meeting/signin/89370/creator/53352/hash/741d3277226000bf574e46330b8c63810bc1b463](https://visio-agents.education.fr/meeting/signin/89370/creator/53352/hash/741d3277226000bf574e46330b8c63810bc1b463)
+
 A vous de choisir le stand qui correspond à votre région et aux établissements qui correspondent à vos ambitions.
 
 ## Intervenants
