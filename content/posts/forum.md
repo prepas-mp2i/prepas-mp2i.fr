@@ -8,6 +8,7 @@ draft: false
 {{< admonition tip "Astuce" true >}}
 Vous pouvez télécharger l'affiche en version imprimable en cliquant sur l'image.
 {{< /admonition >}}
+
 ## Pourquoi ce forum ?
 
 Plus qu'une journée portes ouvertes, vous pourrez échanger avec plusieurs élèves de classes différentes afin d'avoir un aperçu plus complet de cette nouvelle filière !
@@ -15,8 +16,6 @@ Plus qu'une journée portes ouvertes, vous pourrez échanger avec plusieurs él�
 Car vous vous posez très certainement de nombreuses questions au sujet de la prépa MP2I, et en tant qu’inaugurateurs de cette filière, on se propose de vous y répondre durant ce forum virtuel. Oui vous avez bien lu, des élèves de CPGE (dans leur grande générosité 😉) se mettent à votre disposition afin de vous aider à vous orienter grâce à leur expérience vécue en ce début d’année, et comme ça vous pourrez directement comparer les avis de différentes personnes venant de différents établissements !
 
 Aussi c’est une filière pour laquelle on a encore peu de recul, et on a connu ça, d’être paumé et de ne pas savoir si cette voie était faite pour nous ou pas ; alors on s’est dit que ce serait cool de pouvoir vous épargner ça… (quelle chance vous avez !)
-
-
 
 ## Organisation
 
@@ -36,19 +35,8 @@ On vous présentera le fonctionnement des stands ainsi que les dernières nouvel
 
 Vous trouverez ci dessous les liens pour rejoindre le stand de votre choix :
 
-**Stand 1**) [https://visio-agents.education.fr/meeting/signin/87156/creator/53352/hash/21f3ff230d6e46cfb0f97fe6a311c28c641a6c71](https://visio-agents.education.fr/meeting/signin/87156/creator/53352/hash/21f3ff230d6e46cfb0f97fe6a311c28c641a6c71)
-
-**Stand 2**) [https://visio-agents.education.fr/meeting/signin/89368/creator/53352/hash/d7910d019d6598052cf0e64df2522a4f5317f8b5](https://visio-agents.education.fr/meeting/signin/89368/creator/53352/hash/d7910d019d6598052cf0e64df2522a4f5317f8b5)
-
-**Stand 3**) [https://visio-agents.education.fr/meeting/signin/89367/creator/53352/hash/9e2c3e539fa97653575adf95a7cfe1754988ba6e](https://visio-agents.education.fr/meeting/signin/89367/creator/53352/hash/9e2c3e539fa97653575adf95a7cfe1754988ba6e)
-
-**Stand 4**) [https://visio-agents.education.fr/meeting/signin/89369/creator/53352/hash/6548c310fc631e40725c1fc41e3c8712248401ad](https://visio-agents.education.fr/meeting/signin/89369/creator/53352/hash/6548c310fc631e40725c1fc41e3c8712248401ad)
-
-**Stand 5**) [https://visio-agents.education.fr/meeting/signin/89371/creator/53352/hash/b8079655f2586ef3edec4a412915a2ba5830531b](https://visio-agents.education.fr/meeting/signin/89371/creator/53352/hash/b8079655f2586ef3edec4a412915a2ba5830531b)
-
-**Stand 6**) [https://visio-agents.education.fr/meeting/signin/89372/creator/53352/hash/ee6e11c7c08257bd30fdb5dd0f2a4ba37b43abfa](https://visio-agents.education.fr/meeting/signin/89372/creator/53352/hash/ee6e11c7c08257bd30fdb5dd0f2a4ba37b43abfa)
-
-**Stand 7**) [https://visio-agents.education.fr/meeting/signin/89370/creator/53352/hash/741d3277226000bf574e46330b8c63810bc1b463](https://visio-agents.education.fr/meeting/signin/89370/creator/53352/hash/741d3277226000bf574e46330b8c63810bc1b463)
+| [Stand 1](https://visio-agents.education.fr/meeting/signin/87156/creator/53352/hash/21f3ff230d6e46cfb0f97fe6a311c28c641a6c71) | [Stand 2](https://visio-agents.education.fr/meeting/signin/89368/creator/53352/hash/d7910d019d6598052cf0e64df2522a4f5317f8b5) | [Stand 3](https://visio-agents.education.fr/meeting/signin/89367/creator/53352/hash/9e2c3e539fa97653575adf95a7cfe1754988ba6e) | [Stand 4](https://visio-agents.education.fr/meeting/signin/89369/creator/53352/hash/6548c310fc631e40725c1fc41e3c8712248401ad) | [Stand 5](https://visio-agents.education.fr/meeting/signin/89371/creator/53352/hash/b8079655f2586ef3edec4a412915a2ba5830531b) | [Stand 6](https://visio-agents.education.fr/meeting/signin/89372/creator/53352/hash/ee6e11c7c08257bd30fdb5dd0f2a4ba37b43abfa) | [Stand 7](https://visio-agents.education.fr/meeting/signin/89370/creator/53352/hash/741d3277226000bf574e46330b8c63810bc1b463) |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 
 A vous de choisir le stand qui correspond à votre région et aux établissements qui correspondent à vos ambitions.
 
