@@ -26,4 +26,4 @@ hugo serve -e production
 
 ## Contact
 
-N'hésitez pas à contacter [mp2i@protonmail.com](mailto:mp2i@protonmail.com) pour tout renseignement.
+N'hésitez pas à contacter [contact@prepas-mp2i.fr](mailto:contact@prepas-mp2i.fr) pour tout renseignement.
