@@ -15,13 +15,14 @@ Les élèves désireux de poursuivre dans une classe préparatoire scientifique 
 [PasseScience]: https://www.youtube.com/c/PasseScience
 [Numberphile]: https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A
 [Science4All]: https://www.youtube.com/c/Science4Allfran%C3%A7ais
+[Reducible]: https://www.youtube.com/c/Reducible
 
 La curiosité, la capacité d'émerveillement est une grande motivation à l'entrée en prépa scientifique. Afin de découvrir des expériences de pensées intéressantes, les ressources prennent surtout la forme de chaînes YouTube. En voici quelques unes. Cette liste n'est pas exaustive, mais c'est une bonne introduction :
 
 | Mathématiques | Informatique | Toutes sciences |
 :--------------:|:--------------:|:--------------:
 | [3Blue1Brown] (en anglais) | [Primer] : Simulations informatiques | [ScienceEtonnante]
-[El Jj] | | [PasseScience]
+[El Jj] | [Reducible] | [PasseScience]
 | [Numberphile] (en anglais) | | [Science4All]
 
 ## Apprendre
