@@ -60,3 +60,11 @@ De plus, on est avec une partie de sa classe, on peut s'entraider dans les devoi
 Adrien, MP2I lycée Descartes, Tours
 {{< /style >}}
 {{< /admonition >}}
+
+{{< admonition note "Pourquoi tu as choisi l'option SI plutôt qu'info ?" false >}}
+N'ayant pas vraiment de préférence en particulier pour l'une ou l'autre matière je me suis surtout basée sur mon projet professionnel qui est de travailler dans le domaine spatiale. Donc la SI convenait mieux que l'informatique. Ainsi qu'une filière MP-PSI plutôt que MPI.
+
+{{< style "text-align:right; font-style:italic;" >}}
+Lou Ann, MP2I lycée Champollion, Grenoble
+{{< /style >}}
+{{< /admonition >}}
