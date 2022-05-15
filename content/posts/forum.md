@@ -4,6 +4,12 @@ date: 2022-02-14T16:45:31+01:00
 draft: false
 ---
 
+{{< admonition info "Forum terminé" true >}}
+C'etait au total plus de 17 établissements présents et plus de 300 visiteurs pour ce premier forum virtuel des MP2I !
+
+Rendez-vous l'année prochaine, les premiers retours d'étudiants en MPI (deuxième année) seront là.
+{{< /admonition >}}
+
 [![/documents/affiche_forum_mp2i.pdf](/images/affiche_forum_mp2i.jpg)][Affiche]
 {{< admonition tip "Astuce" true >}}
 Vous pouvez télécharger l'affiche en version imprimable en cliquant sur l'image.
