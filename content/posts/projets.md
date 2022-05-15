@@ -16,7 +16,8 @@ Voici une liste non exhaustive de projets d'étudiants en MP2I, n'hésitez pas �
 
 ### [Loatchi](https://github.com/Loatchi)
 
-- [https://github.com/Loatchi/kt-jda-annot](https://github.com/Loatchi/kt-jda-annot)
+- [https://github.com/Loatchi/kt-jda-annot](https://github.com/Loatchi/kt-jda-annot) : Une librarie qui permet de transformer une fonction kotlin en 
+                                                                                       une commande discord typée (tout comme l'est kotlin). Ce projet                                                                                          utilise quasi-exclusivement de l'introspection (reflection) en                                                                                            kotlin et java. *Par exemple le fait de connaitre un type                                                                                                générique meme après l'"erasure" induite par la JVM.*
 
 ### [Sh3xe](https://github.com/Sh3xe)
 
