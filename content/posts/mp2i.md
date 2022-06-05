@@ -15,7 +15,7 @@ Elle permet de poursuivre ses études avec un Master (bac+5).
 Au bout de 3 ans de licence en informatique, les étudiants savent développer de gros projets, connaissent des aspects avancés des bases de données, pratiquent le développement web...
 Les étudiants qui ne souhaitent pas poursuivre d'études n'ont pas de mal à trouver rapidement du travail.
 Contrairement à la prépa, il y a moins d'accompagnement auprès des élèves et la licence requiert plus d'autonomie. C'est un critère important à prendre en compte, surtout si vous avez dû mal à travailler par vous-même.
-- [Les écoles d'ingénieurs avec prépas intégrées](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Principaux-domaines-d-etudes/Les-ecoles-d-ingenieurs/Les-prepas-integrees-en-ecole-d-ingenieurs) proposent des formations en 5 ans. Il y a souvent 2 ans de cycle général suivit de 3 ans de spécialité. Les élèves sont le plus souvent embauchés à la suite de la formation mais il est aussi possible de faire un doctorat.
+- [Les écoles d'ingénieurs avec prépas intégrées](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Principaux-domaines-d-etudes/Les-ecoles-d-ingenieurs/Les-prepas-integrees-en-ecole-d-ingenieurs) proposent des formations en 5 ans. Il y a souvent 2 ans de cycle général suivi de 3 ans de spécialité. Les élèves sont le plus souvent embauchés à la suite de la formation mais il est aussi possible de faire un doctorat.
 
 {{< admonition tip "Formations en informatique" true >}}
 Vous pouvez retrouver la liste des formations en informatique [à cette adresse](https://cien.gouv.mc/content/download/430778/4871791/file/Les%20Fili%C3%A8res%20de%20l%27informatique%202021.pdf).
@@ -116,8 +116,7 @@ Il faut savoir que rien n'est encore fixé et que ce sont des engagements de min
 
 ## Les prépas MP2I en France
 
-{{< iframe src="https://www.google.com/maps/d/embed?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&hl=fr"
-    height=400px >}}
+{{< iframe src="https://www.google.com/maps/d/embed?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&hl=fr" height=400px >}}
 
 ### Légende
 

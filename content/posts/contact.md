@@ -31,7 +31,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Claude Fauriel | Saint-Etienne | [mathiasr07@hotmail.fr](mailto:mathiasr07@hotmail.fr)
 | Clemenceau | Nantes | [corentin.boutault@gmail.com](mailto:corentin.boutault@gmail.com)
 | Colbert | Tourcoing | [indisponible](mailto:)
-| Descartes | Tours | [louis-max.h@protonmail.com](mailto:louis-max.h@protonmail.com) <br/> [adrien.jayat@protonmail.com](mailto:adrien.jayat@protonmail.com)
+| Descartes | Tours | [louis-max.h@protonmail.com](mailto:louis-max.h@protonmail.com)
 | Faidherbe | Lille | [nathan.coquerel@gmail.com](mailto:nathan.coquerel@gmail.com)
 | Fénelon Sainte-Marie | Paris 08 | [gaucheron.laurent@protonmail.com](mailto:gaucheron.laurent@protonmail.com)
 | Franklin Roosevelt | Reims | [quentin.constant@protonmail.com](mailto:quentin.constant@protonmail.com)
@@ -53,8 +53,8 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 
 ### Discord
 
-Nous sommes aussi une grande communauté sur Discord !
-Vous voulez discuter avec des étudiants en MP2I ?
-Rejoignez notre serveur discord dès maintenant !
+**Prépas MP2I** c'est aussi une grande communauté sur Discord !
+Vous souhaitez discuter avec des étudiants en MP2I ?
+Rejoignez notre serveur via ce magnifique bouton :
 
 {{< figure src="https://discordapp.com/api/guilds/872138069594214410/widget.png?style=banner2" alt="Discord" link="https://discord.gg/9p49Z5ZNtH" target="_blank" >}}

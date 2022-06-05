@@ -84,8 +84,8 @@ enableGitInfo = true
     author = true
     since = 2021
     license = """<a rel="license external nofollow noopener noreffer"
-    href="https://creativecommons.org/licenses/by-nc/4.0/" 
-    target="_blank">CC BY-NC 4.0</a>"""
+                    href="/mentions-legales/" 
+                    target="_blank">Mentions légales</a>"""
 
   [params.section]
     paginate = 10
@@ -138,7 +138,7 @@ enableGitInfo = true
 
 [author]
   name = " Étudiants en MP2I"
-  email = "mp2i@protonmail.com"
+  email = "contact@prepas-mp2i.fr"
 
 [markup]
   [markup.highlight]
