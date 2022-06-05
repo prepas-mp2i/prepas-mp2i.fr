@@ -36,7 +36,7 @@ Voici une liste de représentants pour chacun des établissements proposant la f
 | Gay-Lussac (Limoges - 87) | [contact@mp2igaylussac.fr](mailto:contact@mp2igaylussac.fr)
 | Henri Wallon (Valenciennes - 59) | [indisponible](mailto:)
 | Hoche (Versailles - 78) | [falafel.evrard@protonmail.com](mailto:falafel.evrard@protonmail.com)
-| International de Valbonne (Valbonne - 06) | [adrien.no@protonmail.com](mailto:adrien.no@protonmail.com)
+| Centre International de Valbonne (Valbonne - 06) | [adrien.no@proton.me](mailto:adrien.no@proton.me)
 | Janson De Sailly (Paris 16e Arrondissement - 75) | [corti.flavio@protonmail.com](mailto:corti.flavio@protonmail.com)
 | Kléber (Strasbourg - 67) | [guillaume.steinmetz@protonmail.com](mailto:guillaume.steinmetz@protonmail.com)
 | Le Parc (Lyon 6e Arrondissement - 69) | [younesi.maths@gmail.com](mailto:younesi.maths@gmail.com)
