@@ -18,15 +18,6 @@ Vous pouvez contacter les élèves qui maintiennent ce site en envoyant un mail 
 [contact@prepas-mp2i.fr](mailto:contact@prepas-mp2i.fr).
 {{< /admonition >}}
 
-### Discord
-
-**Prépas MP2I**, c'est aussi une grande communauté sur Discord ! Vous voulez discuter avec des étudiants en MP2I ?
-Rejoignez notre serveur discord en [cliquant ici](https://discord.gg/9p49Z5ZNtH).
-
-{{< iframe src="https://discord.com/widget?id=872138069594214410&theme=dark" width="100%" height="300" >}}
-
-### Contacter les représentants
-
 Vous avez une question spécifique à l'un des établissements proposant la formation ?
 
 Voici les mails des étudiants désignés comme représentant de leur établissement pour ce collectif d'étudiants en MP2I, n'hésitez pas à les contacter.
@@ -59,3 +50,11 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Saint-Louis | Paris 06 | [fusetim.log@gmx.com](mailto:fusetim.log@gmx.com)
 | Thiers | Marseille 01 | [camille_fabre26@protonmail.com](mailto:camille_fabre26@protonmail.com)
 | Victor Hugo | Besançon | [alexis.chavy@protonmail.com](mailto:alexis.chavy@protonmail.com)
+
+### Discord
+
+Nous sommes aussi une grande communauté sur Discord !
+Vous voulez discuter avec des étudiants en MP2I ?
+Rejoignez notre serveur discord dès maintenant !
+
+{{< figure src="https://discordapp.com/api/guilds/872138069594214410/widget.png?style=banner2" alt="Discord" link="https://discord.gg/9p49Z5ZNtH" target="_blank" >}}

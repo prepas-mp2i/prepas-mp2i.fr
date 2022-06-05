@@ -5,7 +5,7 @@ draft: false
 ---
 
 Ce site web à pour but de mettre en avant la filière MP2I.
-Il rassemble des téoignages d'étudiants et de précieuses informations pour permettre aux lycéens d'avoir une vision concrète de la MP2I.
+Il rassemble des témoignages d'étudiants et de précieuses informations pour permettre aux lycéens d'avoir une vision concrète de la MP2I.
 
 Si vous souhaitez participer vous pouvez fork le projet sur [Github](https://github.com/prepas-mp2i/prepas-mp2i.github.io).
 Ou rejoindre [notre serveur Discord](https://discord.gg/w4ugrWy84W).

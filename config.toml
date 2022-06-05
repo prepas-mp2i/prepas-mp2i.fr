@@ -2,6 +2,7 @@ baseURL = "https://prepas-mp2i.fr"
 title = "Prépas MP2I"
 theme = "LoveIt"
 defaultContentLanguage = "fr"
+languageCode = "fr"
 enableRobotsTXT = true
 enableGitInfo = true
 
@@ -72,7 +73,7 @@ enableGitInfo = true
       logo = ""
       name = "PREPAS MP2I"
       # add extra information before the name (HTML supported), such as icons
-      pre = """<img src='/images/logo.png' height=25px 
+      pre = """<img src='/images/logo.png' alt='Logo' height=25px 
                     style='margin-bottom:-5px;margin-right:5px'>"""
       typeit = true  # typeit animation for title name
 
