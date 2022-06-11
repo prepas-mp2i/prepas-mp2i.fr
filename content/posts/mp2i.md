@@ -4,26 +4,12 @@ date: 2021-12-20T00:07:18+01:00
 draft: false
 ---
 
-## Étudier l'informatique en post-bac
-
-Voici un petit descriptif des différentes filières permettant de travailler dans l'informatique :
-
-- [Le BTS](https://diplomeo.com/bts) est une formation de 2 ans proposée par des lycées.  Elle offre un enseignement axé sur la pratique et aboutit à une insertion professionnelle dès la fin de la formation.
-- [Le BUT](https://diplomeo.com/dut) se fait en 3 ans (anciennement DUT en 2 ans). Cette formation se déroulant en université permet de rejoindre certaines écoles d'ingénieur, de partir en licence ou de rejoindre le milieu professionnel.
-- [La licence](https://diplomeo.com/licence) est enseignée en université et se fait en 3 ans. Cette formation mêle théorie et pratique (la licence se termine généralement par un stage).
-Elle permet de poursuivre ses études avec un Master (bac+5).
-Au bout de 3 ans de licence en informatique, les étudiants savent développer de gros projets, connaissent des aspects avancés des bases de données, pratiquent le développement web...
-Les étudiants qui ne souhaitent pas poursuivre d'études n'ont pas de mal à trouver rapidement du travail.
-Contrairement à la prépa, il y a moins d'accompagnement auprès des élèves et la licence requiert plus d'autonomie. C'est un critère important à prendre en compte, surtout si vous avez dû mal à travailler par vous-même.
-- [Les écoles d'ingénieurs avec prépas intégrées](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Principaux-domaines-d-etudes/Les-ecoles-d-ingenieurs/Les-prepas-integrees-en-ecole-d-ingenieurs) proposent des formations en 5 ans. Il y a souvent 2 ans de cycle général suivi de 3 ans de spécialité. Les élèves sont le plus souvent embauchés à la suite de la formation mais il est aussi possible de faire un doctorat.
-
-{{< admonition tip "Formations en informatique" true >}}
-Vous pouvez retrouver la liste des formations en informatique [à cette adresse](https://cien.gouv.mc/content/download/430778/4871791/file/Les%20Fili%C3%A8res%20de%20l%27informatique%202021.pdf).
-{{< /admonition >}}
-
 ## Les classes préparatoires
+Si on veut faire une prépa, deux choix s'offrent à nous, la prépa intégrée ou la prépa classique en lycée. 
 
-La prépa est une formation théorique très complète. Elle se fait en 2 ans et permet de rejoindre les écoles d'ingénieurs et les licences (L3) les plus prestigieuses, après un concours en seconde année.
+La prépa intégrée est au sein d'une école d'ingénieur et le concours d'entrée se fait en terminale. Pour accéder ensuite à l'école, il y a une sorte d'examen plutôt qu'un concours, il faut valider des modules pour montrer qu'on a acquis le niveau demandé. [Les écoles d'ingénieurs avec prépas intégrées](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Principaux-domaines-d-etudes/Les-ecoles-d-ingenieurs/Les-prepas-integrees-en-ecole-d-ingenieurs) proposent donc des formations en 5 ans. Il y a souvent 2 ans de cycle général suivi de 3 ans de spécialité. Les élèves sont le plus souvent embauchés à la suite de la formation mais il est aussi possible de faire un doctorat.
+
+La prépa (plus classique) est une formation théorique très complète. Elle se fait en 2 ans et permet de rejoindre les écoles d'ingénieurs et les licences (L3) les plus prestigieuses, après un concours en fin de seconde année.
 La formation est gratuite et elle est rattachée aux lycées, les classes ne dépassent pas 48 élèves et ceux-ci sont accompagnés et très encadrés par les professeurs.
 Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités avec leur volume horaire:
 
@@ -37,6 +23,10 @@ Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spéc
 
 {{< admonition info "Détails des filières" >}}
 Vous pourrez retrouver un petit récapitulatif de chaque filière sur [Prepas.org](https://prepas.org/index.php?rubrique=41) (alimenté par les professeurs de prépas scientifiques).
+{{< /admonition >}}
+
+{{< admonition tip "Formations en informatique" true >}}
+Il existe plein d'autres formations pour faire de l'informatique, les voici [à cette adresse](https://cien.gouv.mc/content/download/430778/4871791/file/Les%20Fili%C3%A8res%20de%20l%27informatique%202021.pdf).
 {{< /admonition >}}
 
 ## Poursuite d'études
@@ -106,13 +96,13 @@ Vous pouvez étudier plus en détail les statisques de Parcoursup concernant la 
 
 ## Les places aux concours
 
-Il faut savoir que rien n'est encore fixé et que ce sont des engagements de minimum, mais voici une petite idée des places aux concours 2023 :
+Il faut savoir que rien n'est encore fixé et que ce sont des engagements de minimum, mais voici une petite idée des places pour les MPI aux concours 2023 :
 
-- L'X : [30 places](https://www.ip-paris.fr/actualites/les-5-ecoles-de-linstitut-polytechnique-de-paris-accueilleront-les-eleves-de-la-nouvelle-filiere-mpi)
-- Les ENS : [30 places](https://www.ens.psl.eu/actualites/des-2023-le-concours-d-entree-aux-ens-ouvrira-aux-etudiants-issus-des-cpge-mp2impi)
-- Concours Mines-ponts : [minimum 75 places](https://www.concoursminesponts.fr/page-8/) (dont 15 pour l'ENSTA, [20 à 30 pour Telecom Paris](https://www.telecom-paris.fr/fr/ingenieur/comment-integrer/admission-post-prepa), [10 pour l'ENSAE](https://www.ensae.fr/formation/cycle-ingenieur/admission/ccmp/), une dizaine pour SUPAERO)
-- Concours Centrale : [Minimum 120 places](https://www.centralesupelec.fr/sites/default/files/mpi_centralesupelec_decembre_2021.pdf) (Nombre sous estimé)
-- CCINP : au moins 200 places ([dont 40 pour L'Ensimag](https://ensimag.grenoble-inp.fr/fr/mpi))
+- L'X : [~30 places](https://www.ip-paris.fr/actualites/les-5-ecoles-de-linstitut-polytechnique-de-paris-accueilleront-les-eleves-de-la-nouvelle-filiere-mpi)
+- Les ENS : [~30 places](https://www.ens.psl.eu/actualites/des-2023-le-concours-d-entree-aux-ens-ouvrira-aux-etudiants-issus-des-cpge-mp2impi)
+- Concours Mines-ponts : [minimum 77 places]([https://www.concoursminesponts.fr/page-8/](https://www.concoursminesponts.fr/resources/pre%CC%81-Notice-MPI-2023-V1.0.pdf)) (dont 15 pour l'ENSTA, [20 à 30 pour Telecom Paris](https://www.telecom-paris.fr/fr/ingenieur/comment-integrer/admission-post-prepa), [10 pour l'ENSAE](https://www.ensae.fr/formation/cycle-ingenieur/admission/ccmp/)
+- Concours Centrale : [minimum 120 places](https://www.centralesupelec.fr/sites/default/files/mpi_centralesupelec_decembre_2021.pdf) (Nombre sous estimé)
+- CCINP : [220 places](https://www.concours-commun-inp.fr/fr/les-ecoles/les-places-dans-les-ecoles/places-mpi.html) (dont 40 pour L'Ensimag)
 
 ## Les prépas MP2I en France
 
