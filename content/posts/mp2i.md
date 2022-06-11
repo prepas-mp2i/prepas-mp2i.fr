@@ -1,16 +1,16 @@
 ---
-title: "Les filières pour faire de l'informatique"
+title: "La classe préparatoire MP2I"
 date: 2021-12-20T00:07:18+01:00
 draft: false
 ---
 
-## Les classes préparatoires
-Si on veut faire une prépa, deux choix s'offrent à nous, la prépa intégrée ou la prépa classique en lycée. 
+## Les classes préparatoires aux grandes écoles (CPGE)
 
-La prépa intégrée est au sein d'une école d'ingénieur et le concours d'entrée se fait en terminale. Pour accéder ensuite à l'école, il y a une sorte d'examen plutôt qu'un concours, il faut valider des modules pour montrer qu'on a acquis le niveau demandé. [Les écoles d'ingénieurs avec prépas intégrées](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Principaux-domaines-d-etudes/Les-ecoles-d-ingenieurs/Les-prepas-integrees-en-ecole-d-ingenieurs) proposent donc des formations en 5 ans. Il y a souvent 2 ans de cycle général suivi de 3 ans de spécialité. Les élèves sont le plus souvent embauchés à la suite de la formation mais il est aussi possible de faire un doctorat.
+Ici nous ne parlerons pas de [la prépa intégrée en école d'ingénieur](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Principaux-domaines-d-etudes/Les-ecoles-d-ingenieurs/Les-prepas-integrees-en-ecole-d-ingenieurs), qui s'effectue en 2 ans au sein d'une école d'ingénieur.
 
-La prépa (plus classique) est une formation théorique très complète. Elle se fait en 2 ans et permet de rejoindre les écoles d'ingénieurs et les licences (L3) les plus prestigieuses, après un concours en fin de seconde année.
-La formation est gratuite et elle est rattachée aux lycées, les classes ne dépassent pas 48 élèves et ceux-ci sont accompagnés et très encadrés par les professeurs.
+La prépa classique (CPGE) est rattachée à un lycée, c'est une formation théorique très complète. Elle se fait en 2 ans et permet de rejoindre les écoles d'ingénieurs et les licences (L3) les plus prestigieuses, après un concours en fin de seconde année.
+Les classes ne dépassent pas 48 élèves et ceux-ci sont accompagnés et très encadrés par les professeurs.
+
 Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités avec leur volume horaire:
 
 | Filière  |   Matières dominantes  | Maths | Physique | Chimie | Info |  SI  | LV1 | Français | SVT |
@@ -25,16 +25,14 @@ Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spéc
 Vous pourrez retrouver un petit récapitulatif de chaque filière sur [Prepas.org](https://prepas.org/index.php?rubrique=41) (alimenté par les professeurs de prépas scientifiques).
 {{< /admonition >}}
 
-{{< admonition tip "Formations en informatique" true >}}
-Il existe plein d'autres formations pour faire de l'informatique, les voici [à cette adresse](https://cien.gouv.mc/content/download/430778/4871791/file/Les%20Fili%C3%A8res%20de%20l%27informatique%202021.pdf).
-{{< /admonition >}}
-
 ## Poursuite d'études
 
 Après une classe préparatoire, intégrée ou non, vous avez la possibilité de
 poursuivre en master (bac+5), puis éventuellement en doctorat (bac+8). Mais également de poursuivre en licence, ou dans des universités à l'étranger.
 
-<!-- TODO: Étoffer le paragraphe avec d'autres poursuites d'études. -->
+{{< admonition tip "Formations en informatique" true >}}
+Il existe plein d'autres cursus pour faire de l'informatique, les voici [à cette adresse](https://cien.gouv.mc/content/download/430778/4871791/file/Les%20Fili%C3%A8res%20de%20l%27informatique%202021.pdf).
+{{< /admonition >}}
 
 ## Le programme en MP2I
 
@@ -100,7 +98,7 @@ Il faut savoir que rien n'est encore fixé et que ce sont des engagements de min
 
 - L'X : [~30 places](https://www.ip-paris.fr/actualites/les-5-ecoles-de-linstitut-polytechnique-de-paris-accueilleront-les-eleves-de-la-nouvelle-filiere-mpi)
 - Les ENS : [~30 places](https://www.ens.psl.eu/actualites/des-2023-le-concours-d-entree-aux-ens-ouvrira-aux-etudiants-issus-des-cpge-mp2impi)
-- Concours Mines-ponts : [minimum 77 places]([https://www.concoursminesponts.fr/page-8/](https://www.concoursminesponts.fr/resources/pre%CC%81-Notice-MPI-2023-V1.0.pdf)) (dont 15 pour l'ENSTA, [20 à 30 pour Telecom Paris](https://www.telecom-paris.fr/fr/ingenieur/comment-integrer/admission-post-prepa) et [10 pour l'ENSAE](https://www.ensae.fr/formation/cycle-ingenieur/admission/ccmp/))
+- Concours Mines-ponts : [minimum 77 places](https://www.concoursminesponts.fr/resources/pre%CC%81-Notice-MPI-2023-V1.0.pdf) (dont 15 pour l'ENSTA, [20 à 30 pour Telecom Paris](https://www.telecom-paris.fr/fr/ingenieur/comment-integrer/admission-post-prepa) et [10 pour l'ENSAE](https://www.ensae.fr/formation/cycle-ingenieur/admission/ccmp/))
 - Concours Centrale : [minimum 120 places](https://www.centralesupelec.fr/sites/default/files/mpi_centralesupelec_decembre_2021.pdf) (Nombre sous estimé)
 - CCINP : [220 places](https://www.concours-commun-inp.fr/fr/les-ecoles/les-places-dans-les-ecoles/places-mpi.html) (dont 40 pour L'Ensimag)
 

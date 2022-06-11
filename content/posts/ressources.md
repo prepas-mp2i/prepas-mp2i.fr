@@ -1,12 +1,13 @@
 ---
-title: "Les ressources utiles"
+title: "Ressources pour apprendre et s'exercer"
 date: 2021-12-20T00:09:11+01:00
 draft: false
 ---
 
+
 Les élèves désireux de poursuivre dans une classe préparatoire scientifique font généralement preuve d'une grande appétence scientifique, même hors du cadre scolaire. Pour répondre à ce besoin, de nombreuses ressources existent et sont à considérer.
 
-## S'intéresser
+## Chaînes YouTube recommandées
 
 [3Blue1Brown]: https://www.youtube.com/c/3blue1brown
 [Primer]: https://www.youtube.com/c/PrimerLearning
@@ -17,7 +18,8 @@ Les élèves désireux de poursuivre dans une classe préparatoire scientifique 
 [Science4All]: https://www.youtube.com/c/Science4Allfran%C3%A7ais
 [Reducible]: https://www.youtube.com/c/Reducible
 
-La curiosité, la capacité d'émerveillement est une grande motivation à l'entrée en prépa scientifique. Afin de découvrir des expériences de pensées intéressantes, les ressources prennent surtout la forme de chaînes YouTube. En voici quelques unes. Cette liste n'est pas exaustive, mais c'est une bonne introduction :
+**S'intéresser**, tel est le maître-mot.
+La curiosité, la capacité d'émerveillement est une grande motivation à l'entrée en prépa scientifique. Afin de découvrir intéressantes, les ressources prennent surtout la forme de chaînes YouTube. En voici quelques unes. Cette liste n'est pas exhaustive, mais c'est une bonne introduction :
 
 | Mathématiques | Informatique | Toutes sciences |
 :--------------:|:--------------:|:--------------:
@@ -25,40 +27,72 @@ La curiosité, la capacité d'émerveillement est une grande motivation à l'ent
 [El Jj] | [Reducible] | [PasseScience]
 | [Numberphile] (en anglais) | | [Science4All]
 
-## Apprendre
+## Livres recommandés
 
-L'apprentissage de nouveaux contenus, de nouvelles méthodes voire de nouvelles disciplines est un point clé de la réussite scientifique. Les ressources à  ce sujet sont nombreuses et de grande qualité
+[Introduction to Algorithms]: https://en.wikipedia.org/wiki/Introduction_to_Algorithms
 
-* **Mathématiques**
-  * [Mathraining](https://www.mathraining.be/) est initialement un site de préparation aux olympiades internationales de mathématiques. Il est donc ciblé sur des élèves du secondaire désireux d'approfondir leurs connaissances mathématiques à travers des cours, des exercices et des problèmes.
+**Apprendre**, là aussi inévitable, l'apprentissage de nouveaux contenus, de nouvelles méthodes est un point clé de la réussite scientifique.
 
-  * [AOPS](https://artofproblemsolving.com/alcumus/problem) Art of Problem Solving : un site anglais contenant une myriade de problèmes de tout niveau. La difficulté des problèmes s'adapte selon votre niveau. Une correction est disponible pour chaque exercice. De plus, un système d'expérience vient pousser à faire des problèmes régulièrement.
+|     Livre     |      Auteur     |               Description              |
+:--------------:|:---------------:|:--------------------------------------:|
+| [Introduction to Algorithms] | Cormen, Rivest, Leiserson, Stein | Une référence dans son domaine ! Ce livre un peu imposant couvre toutes les notions d'algorithmique du programme de MP2I, et bien plus. Il contient des preuves détaillés, les algos sont écrit en pseudo code de manière claire et concise. Une édition en français est disponible chez Dunod : [Algorithmique](https://www.dunod.com/sciences-techniques/algorithmique-cours-avec-957-exercices-et-158-problemes). |
 
-* **Informatique**
-  * [France-IOI](http://www.france-ioi.org/) est un site proposant à travers de nombreux exercices d'apprendre la programmation et l'algorithmique. Les exercices sont de niveau extrêmement varié et chacun pourra progresser grâce à ce site.
+## Sites recommandés
 
-  * [Le projet Euler](https://projecteuler.net/) est une collection de problèmes entre info et maths. Si vous aimez les nombres (arithmetique, nombres premiers ...) et coder pour résoudre des problèmes, ce site est fait pour vous ! Il y a plus de 700 problèmes, allant de très facile à clairement infaisable.
+**S'exercer**.
+Il est essentiel de mettre en pratique ce qu'on a appris, par des exercices ou des projets personnels. Les projets personnels sont une excellente manière de concrétiser vos connaissances. Vous pouvez retrouver quelques projets personnels d'étudiants en MP2I sur cette page: [https://prepas-mp2i.fr/projets](https://prepas-mp2i.fr/projets).
 
-* **Toutes matières**
-  * [Fiches de révision numériques](https://fiches.nathanfallet.me/) : Fiches de révision [LaTeX Cards](https://latexcards.app/) niveau MP/MP* (le programme en mathématiques est le même que celui de MPI, et celui de physique contient quelques suppléments par rapport à la MPI)
+De nombreux sites web proposent du contenu de qualité, ce sont des ressources indispensables pour apprendre et s'exercer.
 
-## Pratiquer
+### Problèmes de mathématiques
 
-Les projets personnels sont primordiaux à deux points de vue. Ils permettent évidemment de mettre en œuvre les connaissances et compétences théoriques acquises, et ainsi les fixer et les assimiler. Que ce soit en informatique, en robotique, en mécanique, les projets vous permettent d'appliquer vos connaissances à vos passions.
+* [Mathraining](https://www.mathraining.be/) est initialement un site de préparation aux olympiades internationales de mathématiques. Il est donc ciblé sur des élèves du secondaire désireux d'approfondir leurs connaissances mathématiques à travers des cours, des exercices et des problèmes.
+
+* [AOPS](https://artofproblemsolving.com/alcumus/problem) Art of Problem Solving : un site anglais contenant une myriade de problèmes de tout niveau. La difficulté des problèmes s'adapte selon votre niveau. Une correction est disponible pour chaque exercice. De plus, un système d'expérience vient pousser à faire des problèmes régulièrement.
+
+### Algorithmique et programmation
+
+* [France-IOI](http://www.france-ioi.org/) est un site proposant à travers de nombreux exercices d'apprendre la programmation et l'algorithmique. Les exercices sont de niveau extrêmement varié et chacun pourra progresser grâce à ce site.
+
+* [Le projet Euler](https://projecteuler.net/) est une collection de problèmes entre info et maths. Si vous aimez les nombres (arithmetique, nombres premiers ...) et coder pour résoudre des problèmes, ce site est fait pour vous ! Il y a plus de 700 problèmes, allant de très facile à clairement infaisable.
+
+### Outils de révision
+
+* [Fiches de révision numériques](https://fiches.nathanfallet.me/) : Fiches de révision [LaTeX Cards](https://latexcards.app/) niveau MP/MP* (le programme en mathématiques est le même que celui de MPI, et celui de physique contient quelques suppléments par rapport à la MPI)
 
 ## Concourir
 
-Les concours sont un excellement moyen de se dépasser en se questionnant sur des exercices que l'on ne sait pas toujours résoudre. C'est également l'occasion de se tester, et se mesurer aux autres participants. Enfin, la participation a des concours et, à fortiori, des bons résultats à ceux-ci représente un certain atout pour votre dossier.
+[Olympiades de Mathématiques]: https://www.education.gouv.fr/les-olympiades-nationales-de-mathematiques-5732
+[Prologin]: https://prologin.org/
+[Concours général]: https://www.education.gouv.fr/le-concours-general-des-lycees-et-des-metiers-un-prix-d-excellence-10022
+[TFJM]: https://tfjm.org/
+[Animath]: https://maths-olympiques.fr/?cat=16
+[Algoréa]: https://algorea.org/#/
+[Marathon d'Orsay de Mathematiques]: https://www.imo.universite-paris-saclay.fr/marathon/
 
-* **Mathématiques** :
-  * [Animath](https://maths-olympiques.fr/?cat=16)  : Concours organisé par la POFM ( Préparation Olympique Française de Mathématiques) 2 fois dans l'année. Durant 4 heures sur table, vous pourrez réfléchir sur quelques problèmes de haut  niveau.
+Les concours sont un excellement moyen de progresser en se questionnant sur des exercices que l'on ne sait pas toujours résoudre. C'est également l'occasion de se tester, et se mesurer aux autres participants.
 
-  * [Marathon d'Orsay de Mathematiques](https://www.imo.universite-paris-saclay.fr/marathon/) Concours en plusieurs phases indépendantes : vous disposez de plusieurs semaines pour résoudre des problèmes mathématiques avancés.
-  * [TFJM](https://tfjm.org/) : Le Tournoi Français des Jeunes Mathématiciens propose de réfléchir en équipe sur des problèmes de recherche (sans solution connue), et de présenter ensuite face à d'autres équipes les résultats de ses recherches effectuées au cours de l'année.
-* **Informatique**
-  * [Algoréa](https://algorea.org/#/) : Concours annuel avec plusieurs tours,  plutôt ludique pour les premiers tours. Le tout en temps limité
+Enfin, la participation à des concours et notamment de bons résultats à ceux-ci est un véritable atout pour votre dossier car
+il vous permet de vous distinguer des autres candidats.
 
-  * [Prologin](https://prologin.org/) : Concours en plusieurs tours, principalement axées sur des problèmes d'algorithmiques. S'étend sur plusieurs semaines pour le premier tour, puis en temps limité.
+### Concours de mathématiques
 
-* **Toutes matières**
-  * [Concours général](https://www.education.gouv.fr/le-concours-general-des-lycees-et-des-metiers-un-prix-d-excellence-10022)  : Concours scolaire proposé pour toutes les spécialités enseignées au lycée, épreuve en temps limité.
+|   Concours    |               Description              |
+:--------------:|:--------------------------------------:|
+| [Olympiades de Mathématiques] | Accessibles pour les élèves de Première, elles sont composées d'un sujet national (2h) et d'un sujet académique (2h). De bons résultats aux Olympiades sont très appréciés par les recruteurs car beaucoup de monde participe. |
+| [TFJM] | Le Tournoi Français des Jeunes Mathématiciens propose de réfléchir en équipe sur des problèmes de recherche. |
+| [Animath] | D'une durée de 4h et organisé par la POFM (Préparation Olympique Française de Mathématiques) deux fois dans l'année.
+| [Marathon d'Orsay de Mathematiques] | Concours en plusieurs phases indépendantes, vous disposez de plusieurs semaines pour résoudre des problèmes mathématiques avancés. |
+
+### Concours d'informatique
+
+|   Concours    |               Description              |
+:--------------:|:--------------------------------------:|
+| [Prologin] | Les deux premieres étapes sont axés principalement sur des problèmes d'algorithmiques. La finale (36h) consiste à concevoir un programme capable de s'adapter à un jeu conçu pour l'occasion. |
+| [Algoréa] | Concours annuel en plusieurs tours, dans lesquels il faut résoudre en temps limité des problèmes d'algorithmique de difficulté croissante. |
+
+### Autres concours
+
+|   Concours    |               Description              |
+:--------------:|:--------------------------------------:|
+| [Concours Général] | Accessible en Terminale, le Concours Général des lycées et des métiers est proposé pour toutes les spécialités enseignées au lycée. En mathématiques, il est réputé pour être difficile. |

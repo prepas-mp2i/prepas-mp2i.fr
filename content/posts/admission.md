@@ -1,34 +1,35 @@
 ---
-title: "Les spécialités au lycée"
+title: "Choix des spécialités au lycée et Parcoursup"
 date: 2021-12-20T00:05:32+01:00
 draft: false
 ---
 
-## La spé maths et l'option maths expertes
+## Les Mathématiques et l'option Maths Expertes
 
-En MP2I, les cours de mathématiques sont ceux qui représentent le plus gros volume horaire. Il est donc indispensable de suivre la spécialité mathématiques en première puis en terminale. En revanche, il n’est pas obligatoire de choisir l’option maths expertes même si elle reste largement conseillée. Ne pas la suivre n’est pas un facteur éliminatoire pour intégrer la plupart des MP2I, mais elle représente tout de même un atout considérable pour un dossier. En effet elle permet de mieux cerner votre niveau en mathématiques et surtout d’attester de votre intérêt pour la matière ainsi que de votre investissement.
+En MP2I, les cours de mathématiques sont ceux qui représentent le plus gros volume horaire. Il est donc indispensable de suivre la spécialité Mathématiques en Première puis en Terminale.
 
-Les cours dispensés en maths expertes se rapprochent également plus des cours de prépa que ceux de la spécialité. Suivre cette option est donc un bon moyen de commencer à évaluer votre intérêt pour la MP2I et les CPGE scientifiques en général.
+En revanche, il n’est pas obligatoire de choisir l’option Maths Expertes même si elle reste largement conseillée. Ne pas la suivre n’est pas un facteur éliminatoire pour intégrer la plupart des MP2I, mais elle représente tout de même un atout considérable pour un dossier. En effet elle permet de mieux cerner votre niveau en mathématiques et surtout d’attester de votre intérêt pour la matière ainsi que de votre investissement.
+
+Les cours dispensés en Maths Expertes se rapprochent également plus des cours de prépa. Suivre cette option est donc un bon moyen de commencer à évaluer votre intérêt pour la MP2I et les CPGE scientifiques en général.
 
 ## La NSI et la Physique-Chimie
 
-Hormis quelques rares exceptions, pour intégrer une classe préparatoire scientifique vous devrez avoir suivi au moins deux spécialités scientifiques en terminale, si possible trois en première mais ce n’est pas essentiel.
+Hormis quelques rares exceptions, pour intégrer une classe préparatoire scientifique vous devrez avoir suivi au moins deux spécialités scientifiques en Terminale, si possible trois en Première mais ce n’est pas essentiel.
 
-La MP2I se démarque de la MPSI et de la PCSI car elle repose principalement sur trois matières au lieu de deux : les mathématiques, la physique et l’informatique. Pour mettre toutes les chances de votre côté, il est donc recommandé de choisir les spécialités Physique-Chimie et NSI en classe de première pour ne pas se retrouver plus tard avec de trop grandes lacunes dans l’une ou l’autre des matières.
+La MP2I se démarque de la MPSI et de la PCSI car elle repose principalement sur trois matières au lieu de deux : les Mathématiques, la Physique et l’Informatique. Pour mettre toutes les chances de votre côté, il est donc recommandé de choisir les spécialités Physique-Chimie et NSI en classe de première pour ne pas se retrouver plus tard avec de trop grandes lacunes dans l’une ou l’autre des matières.
 
-Les résultats du bac dans ces spés mais aussi les appréciations ont un gros impact également, si on voit que vous êtes travailleur.euse, cela jouera vraiment en votre faveur.
-Vous avez également un classement dans votre groupe pour chaque matière, qui est donné aux établissements (vous pourrez les consulter avant la phase d'admission), ils jouent un rôle important pour être pris en prépa.
+Les résultats du Bac dans ces spés mais aussi les appréciations ont un gros impact également, si on voit que vous êtes travailleur.euse, cela jouera vraiment en votre faveur.
 
-Une de ces deux spécialités peut être conservée au choix en terminale. Bien que la NSI soit la spécialité tout indiquée pour la MP2I, nous ne pouvons pas garantir que ni l'une ni l'autre soit particulièrement avantageuse lors de la sélection des candidats. Libre à vous de choisir celle où vous vous sentirez le mieux.
+Une de ces deux spécialités peut être conservée au choix en Terminale. Bien que la NSI soit la spécialité toute indiquée pour la MP2I, nous ne pouvons pas garantir que ni l'une ni l'autre soit particulièrement avantageuse lors de la sélection des candidats. Libre à vous de choisir celle où vous vous sentirez le mieux.
 
-N.B : Il reste possible dans certains rares cas d'intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie en Première, mais ce choix ne garantit pas une place en CPGE et risque d'entrainer un retard difficile à combler par la suite.
+**N.B** : Il reste possible dans certains rares cas d'intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie en Première, mais ce choix ne garantit pas une place en CPGE et risque d'entrainer un retard difficile à combler par la suite.
 
 ## Parcoursup
 
 ### La MP2I sur Parcoursup
 
 Depuis décembre vous avez accès au catalogue des formations disponibles avec leurs critères de sélection, en quoi elles consistent et leur sélectivité.
-Après le 20 janvier, vous allez commencer à faire vos vœux, c'est le moment de se renseigner et d'aller aux portes ouvertes, en ligne ou en présentiel, rien de mieux que d'échanger avec les élèves pour se faire une idée de la formation.
+Fin janvier, vous allez commencer à faire vos vœux, c'est le moment de se renseigner et d'aller aux portes ouvertes, en ligne ou en présentiel, rien de mieux que d'échanger avec les élèves pour se faire une idée de la formation.
 Il y a 30 MP2I sur Parcoursup, répertoriées plus bas, cela va de prépas très selectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I si c'est la formation que vous voulez (vous n'irez pas tous et toutes à Louis le Grand soyons réalistes mais il faut garder de l'ambition).
 
 ### Vœux et sous-vœux
@@ -36,7 +37,7 @@ Il y a 30 MP2I sur Parcoursup, répertoriées plus bas, cela va de prépas très
 Sur Parcoursup, il est possible de faire 10 vœux et 20 sous-vœux au total, avec un maximum de 10 sous-vœux pour un type de formation. En général, chaque formation compte pour un vœu sauf :
 
 - Les écoles sur concours (type concours Advance, Avenir, Puissance Alpha…) : un concours compte pour un vœu, mais le nombre d’écoles demandées pour chacun est ensuite « illimité », les écoles ne comptent pas individuellement pour des sous-vœux.
-- Les CPGE : chaque filière compte pour un vœu (MP2I, MPSI, PCSI…), et chaque lycée compte ensuite pour un sous-vœu. Il est donc possible de postuler au maximum à 10 CPGE pour une même filière. Donc vous pouvez demander² 10 MP2I et 10 MPSI par exemple et ça ne comptera "que" pour 2 vœux (mais, vous ne pourrez pas demander un sous-vœu de plus car 10 + 10 = 20).
+- Les CPGE : chaque filière compte pour un vœu (MP2I, MPSI, PCSI…), et chaque lycée compte ensuite pour un sous-vœu. Il est donc possible de postuler au maximum à 10 CPGE pour une même filière. Donc vous pouvez demander 10 MP2I et 10 MPSI par exemple et ça ne comptera "que" pour 2 vœux (mais, vous ne pourrez pas demander un sous-vœu de plus car 10 + 10 = 20).
 Si vous voulez demander un internat, il faut sélectionner "avec et sans internat" qui comptera comme 1 seul sous-vœu.
 
 Si vous faites le choix de postuler à des formations sélectives, il est très fortement conseillé de demander une licence en parallèle pour éviter de finir sans aucune formation.
@@ -45,13 +46,13 @@ Entre le 30 mars et le 7 avril, vous devrez remplir les formalités administrati
 
 ### Étapes des admissions
 
-Ensuite la phase d'admission (tant redoutée), alors c'est long et stressant, on vous conseille d'installer l'application Parcoursup pour être à jour. Pas besoin d'attendre minuit pour les mises à jour de vos classements, elles se font entre 7 et 9h du matin.
+Ensuite la phase d'admission (tant redoutée), alors c'est long et stressant. Pas besoin d'attendre minuit pour les mises à jour de vos classements, elles se font entre 7 et 9h du matin.
 
-- Premier jour de la phase principale : vous recevez une réponse de la part de toutes les formations pour lesquelles vous avez postulé. Il existe trois réponses possibles : refusé.e, sur liste d’attente et accepté.e. Vous avez 5 jours pour répondre aux formations qui vous acceptent dès le premier jour, 4 pour celles qui vous acceptent le lendemain. Rassurez vous la large majorité des élèves n'ont pas de propositions dès le premier jour.
+- Premier jour de la phase principale : vous recevez une réponse de la part de toutes les formations pour lesquelles vous avez postulé. Il existe trois réponses possibles : refusé.e, sur liste d’attente et accepté.e. Vous avez 5 jours pour répondre aux formations qui vous acceptent dès le premier jour. Rassurez vous la large majorité des élèves n'ont pas de propositions dès le premier jour.
 
 - La phase principale (de début juin à mi-juillet). Vous avez 3 jours pour répondre à vos "oui".
 
-- La phase complémentaire (de fin juin à mi-septembre) : il devient possible de formuler de nouveau vœux (au maximum dix) pour des formations ayant encore des places disponibles.
+- La phase complémentaire (de fin juin à mi-septembre) : il devient possible de formuler de nouveaux vœux (au maximum dix) pour des formations ayant encore des places disponibles.
 
 - Point d’étape obligatoire (fin-juin) : vous aurez un délai de quelques jours pour confirmer tous les vœux en attente que vous souhaitez garder. Beaucoup de places se libèrent pendant cette période et les jours qui suivent.
 

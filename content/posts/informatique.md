@@ -5,7 +5,6 @@ draft: false
 ---
 
 Qui dit nouvelle filière, dit nouveaux professeurs et nouveaux cours.
-
 Vous vous demandez surement en quoi consiste le cours d'informatique en MP2I, et bien cette page est là pour vous éclairer !
 
 ## Répartition horaire
