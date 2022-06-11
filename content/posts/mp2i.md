@@ -100,7 +100,7 @@ Il faut savoir que rien n'est encore fixé et que ce sont des engagements de min
 
 - L'X : [~30 places](https://www.ip-paris.fr/actualites/les-5-ecoles-de-linstitut-polytechnique-de-paris-accueilleront-les-eleves-de-la-nouvelle-filiere-mpi)
 - Les ENS : [~30 places](https://www.ens.psl.eu/actualites/des-2023-le-concours-d-entree-aux-ens-ouvrira-aux-etudiants-issus-des-cpge-mp2impi)
-- Concours Mines-ponts : [minimum 77 places]([https://www.concoursminesponts.fr/page-8/](https://www.concoursminesponts.fr/resources/pre%CC%81-Notice-MPI-2023-V1.0.pdf)) (dont 15 pour l'ENSTA, [20 à 30 pour Telecom Paris](https://www.telecom-paris.fr/fr/ingenieur/comment-integrer/admission-post-prepa), [10 pour l'ENSAE](https://www.ensae.fr/formation/cycle-ingenieur/admission/ccmp/)
+- Concours Mines-ponts : [minimum 77 places]([https://www.concoursminesponts.fr/page-8/](https://www.concoursminesponts.fr/resources/pre%CC%81-Notice-MPI-2023-V1.0.pdf)) (dont 15 pour l'ENSTA, [20 à 30 pour Telecom Paris](https://www.telecom-paris.fr/fr/ingenieur/comment-integrer/admission-post-prepa) et [10 pour l'ENSAE](https://www.ensae.fr/formation/cycle-ingenieur/admission/ccmp/))
 - Concours Centrale : [minimum 120 places](https://www.centralesupelec.fr/sites/default/files/mpi_centralesupelec_decembre_2021.pdf) (Nombre sous estimé)
 - CCINP : [220 places](https://www.concours-commun-inp.fr/fr/les-ecoles/les-places-dans-les-ecoles/places-mpi.html) (dont 40 pour L'Ensimag)
 
