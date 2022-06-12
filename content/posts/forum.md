@@ -1,6 +1,6 @@
 ---
 title: Forum des étudiants en MP2I
-subtitle: Echanger avec étudiants de toute la France
+url: /forum/
 date: 2022-02-14T16:45:31+01:00
 ---
 

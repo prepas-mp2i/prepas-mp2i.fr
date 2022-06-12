@@ -44,7 +44,11 @@ La curiosité, la capacité d'émerveillement est une grande motivation à l'ent
 [Fiches de révision numériques]: https://fiches.nathanfallet.me/
 
 **S'exercer**.
-Il est essentiel de mettre en pratique ce qu'on a appris, par des exercices ou des projets personnels. Les projets personnels sont une excellente manière de concrétiser vos connaissances. Vous pouvez retrouver quelques projets personnels d'étudiants en MP2I sur cette page: [https://prepas-mp2i.fr/projets-personnels](https://prepas-mp2i.fr/projets-personnels).
+Il est essentiel de mettre en pratique ce qu'on a appris, par des exercices ou des projets personnels. Les projets personnels sont une excellente manière de concrétiser vos connaissances.
+
+{{< admonition tip "Projets personnels" true >}}
+Vous pouvez consulter quelques [projets personnels d'étudiants](https://prepas-mp2i.fr/posts/projets-personnels) en MP2I.
+{{< /admonition >}}
 
 De nombreux sites web proposent du contenu de qualité, ce sont des ressources indispensables pour apprendre et s'exercer.
 
