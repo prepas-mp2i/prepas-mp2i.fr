@@ -9,38 +9,38 @@ enableGitInfo = true
 [menu]
   [[menu.main]]
     name = "MP2I"
-    url = "/mp2i"
+    url = "/mp2i/"
     weight = 1
   
   [[menu.main]]
     name = "Informatique"
-    url = "/informatique"
+    url = "/informatique/"
     weight = 2
 
   [[menu.main]]
     name = "Admission"
-    url = "/admission"
+    url = "/admission/"
     weight = 3
   
   [[menu.main]]
     name = "Ressources"
-    url = "/ressources"
+    url = "/ressources/"
     weight = 4
   
   # EVENT
   [[menu.main]]
     name = "Forum"
-    url = "/forum"
+    url = "/forum/"
     weight = 5
   
   [[menu.main]]
     name = "F.A.Q"
-    url = "/faq"
+    url = "/faq/"
     weight = 6
 
   [[menu.main]]
     name = "Contact"
-    url = "/contact"
+    url = "/contact/"
     weight = 7
 
 [security]
