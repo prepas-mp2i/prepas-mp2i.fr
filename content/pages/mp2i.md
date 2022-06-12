@@ -13,13 +13,13 @@ Les classes ne dépassent pas 48 élèves et ceux-ci sont accompagnés et très 
 
 Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités avec leur volume horaire:
 
-| Filière  |   Matières dominantes  | Maths | Physique | Chimie | Info |  SI  | LV1 | Français | SVT |
-|:--------:|:----------------------:|:-----:|:--------:|:------:|:------------:|:----:|:---:|:--------:|:---:|
-|   MP2I   |   Maths Physique Info   |  12   |    6.5   |    0   |       4      |   2  |  2  |     2    |  0  |
-|   MPSI   | Maths Physique Chimie SI|  12   |     6    |    2   |      1.5     |   2  |  2  |     2    |  0  |
-|   PCSI   |   Physique Chimie-SI    |  10   |     8    |    4   |      1.5     |   4  |  2  |     2    |  0  |
-|   PTSI   |   SI Physique Chimie    |   9   |     6    |    2   |      1.5     | 8.5  |  2  |     2    |  0  |
-|   BCPST  | Bio Chimie Physique SVT |   8   |     4    |    3   |      1.5     |   0  |  2  |     2    |  8  |
+| Filière  |   Matières dominantes   | Maths | Physique | Chimie | Info     |  SI      | LV1 | Philo-Lettres | SVT |
+|:--------:|:-----------------------:|:-----:|:--------:|:------:|:-------:|:---------:|:---:|:--------------:|:---:|
+|   MP2I   |   Maths Physique Info   |  12   |    6.5   |    0   |  4      |   2       |  2  |        2       |  0  |
+|   MPSI   | Maths Physique Chimie   |  12   |     6    |    2   | 1.5     |   2       |  2  |        2       |  0  |
+|   PCSI   |   Physique Chimie-SI    |  10   |     8    |    4   | 1.5     |   4       |  2  |        2       |  0  |
+|   PTSI   |   SI Physique Chimie    |   9   |     6    |    2   | 1.5     | 8.5       |  2  |        2       |  0  |
+|   BCPST  | Bio Chimie Physique SVT |   8   |     4    |    3   | 1.5     |   0       |  2  |        2       |  8  |
 
 {{< admonition info "Détails des filières" >}}
 Vous pourrez retrouver un petit récapitulatif de chaque filière sur [Prepas.org](https://prepas.org/index.php?rubrique=41) (alimenté par les professeurs de prépas scientifiques).
@@ -53,6 +53,12 @@ En MP2I nous avons le choix entre deux options au second semestre:
 
 La MPI étant la filière privilégiée après une MP2I, les places en S.I. sont limitées (à environ 20% de l'effectif de la classe).
 Le choix de la S.I en MP2I est destiné aux élèves qui souhaitent aller en MP ou en PSI, ou pour ceux qui se rendent compte que la manière dont est abordé l'informatique ne leur convient pas.
+
+Voici les volumes horaires du second semestre qui changent selon l'option :
+| Option          | Maths | Physique | Chimie | Info |  SI | TIPE | LV1 | Philo-Lettres |
+|:---------------:|:-----:|:--------:|:------:|:----:|:---:|:----:|:---:|:-------------:|
+|   Informatique  |  12   |    6.5   |    0   |   6  |  0  |   2  |  2  |       2       |
+|   SI            |  12   |     6.5  |    2   |   2  |  4  |   2  |  2  |       2       |
 
 Voici un récapitulatif des différentes filières en deuxième année:
 
