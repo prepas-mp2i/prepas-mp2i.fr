@@ -1,7 +1,7 @@
 ---
-title: "Les cours d'informatique en MP2I"
-date: 2021-12-21
-draft: false
+title: Les cours d'informatique en MP2I
+subtitle: Une brève introduction
+date: 2021-12-20T00:07:18+01:00
 ---
 
 Qui dit nouvelle filière, dit nouveaux professeurs et nouveaux cours.

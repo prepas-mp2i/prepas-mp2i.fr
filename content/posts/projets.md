@@ -1,7 +1,7 @@
 ---
 title: "Projets personnels d'étudiants"
+slug: projets-personnels
 date: 2021-12-20T00:08:50+01:00
-draft: false
 ---
 
 Voici une liste non exhaustive de projets d'étudiants en MP2I, n'hésitez pas à les soutenir !
@@ -10,20 +10,20 @@ Voici une liste non exhaustive de projets d'étudiants en MP2I, n'hésitez pas �
 
 ### Prépas MP2I
 
-- [https://github.com/prepas-mp2i/prepas-mp2i.github.io](https://github.com/prepas-mp2i/prepas-mp2i.github.io) : Le code source de ce site web.
+- [prepas-mp2i.github.io](https://github.com/prepas-mp2i/prepas-mp2i.github.io) : Le code source de ce site web.
 
-- [https://github.com/prepas-mp2i/mp2i-discord-bot](https://github.com/prepas-mp2i/mp2i-discord-bot) : Le bot du serveur Discord [Prépas MP2I](https://discord.gg/w4ugrwy84w)
+- [mp2i-discord-bot](https://github.com/prepas-mp2i/mp2i-discord-bot) : Le bot du serveur Discord [Prépas MP2I](https://discord.gg/w4ugrwy84w)
 
 ### Loatchi
 
-- [https://github.com/Loatchi/kt-jda-annot](https://github.com/Loatchi/kt-jda-annot) : Une librairie qui permet de transformer une fonction Kotlin en une commande Discord typée. Ce projet utilise quasi-exclusivement de l'introspection (reflection) en Kotlin et Java.
+- [kt-jda-annot](https://github.com/Loatchi/kt-jda-annot) : Une librairie qui permet de transformer une fonction Kotlin en une commande Discord typée. Ce projet utilise quasi-exclusivement de l'introspection (reflection) en Kotlin et Java.
 (Par exemple le fait de connaître un type générique meme après l'*erasure* induite par la JVM.)
 
 ### Sh3xeS
 
-- [https://github.com/Sh3xe/minecraft_cpp](https://github.com/Sh3xe/minecraft_cpp)
+- [minecraft_cpp](https://github.com/Sh3xe/minecraft_cpp)
 
-- [https://github.com/Sh3xe/simu_corp_souple](https://github.com/Sh3xe/simu_corp_souple)
+- [simu_corp_souple](https://github.com/Sh3xe/simu_corp_souple)
 
 D'autres projets se rajouteront au fur et à mesure!
 

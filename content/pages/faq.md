@@ -1,7 +1,6 @@
 ---
 title: "Foire Aux Questions"
 date: 2022-01-29T19:00:59+01:00
-draft: false
 ---
 
 Vous avez une question à poser ? Si jamais elle n'est pas déjà référencée vous pouvez nous contacter via [la page de contact](https://prepas-mp2i.fr/contact/).

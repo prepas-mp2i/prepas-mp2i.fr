@@ -1,7 +1,7 @@
 ---
 title: "Participer au projet"
+slug: participer-au-projet
 date: 2021-12-20T00:08:50+01:00
-draft: false
 ---
 
 Ce site web à pour but de mettre en avant la filière MP2I.

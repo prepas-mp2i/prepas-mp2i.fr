@@ -1,10 +1,17 @@
 ---
-title: "Choix des spécialités au lycée et Parcoursup"
+title: Choix des spécialités au lycée et Parcoursup
+subtitle: Anticiper sa poursuite en MP2I
 date: 2021-12-20T00:05:32+01:00
-draft: false
 ---
 
-## Les Mathématiques et l'option Maths Expertes
+Vous êtes en Seconde ou en Première générale, la prépa vous interesse mais vous ne savez pas quelles spécialités choisir ? Même si ce choix doit rester motivé par le goût, il est important pour votre poursuite d'études.
+Vous êtes en Terminale, l'étape décisive et stressante de passage en études supérieures s'approche. Parcoursup oblige !
+
+La bonne nouvelle, c'est qu'on est aussi passé par là ! Spécialités privilégiées, cas particuliers ... on vous dit ce qu'il en est réellement.
+
+## Quelles spécialités choisir pour une MP2I ?
+
+### Les Mathématiques et l'option Maths Expertes
 
 En MP2I, les cours de mathématiques sont ceux qui représentent le plus gros volume horaire. Il est donc indispensable de suivre la spécialité Mathématiques en Première puis en Terminale.
 
@@ -12,7 +19,7 @@ En revanche, il n’est pas obligatoire de choisir l’option Maths Expertes mê
 
 Les cours dispensés en Maths Expertes se rapprochent également plus des cours de prépa. Suivre cette option est donc un bon moyen de commencer à évaluer votre intérêt pour la MP2I et les CPGE scientifiques en général.
 
-## La NSI et la Physique-Chimie
+### La NSI et la Physique-Chimie
 
 Hormis quelques rares exceptions, pour intégrer une classe préparatoire scientifique vous devrez avoir suivi au moins deux spécialités scientifiques en Terminale, si possible trois en Première mais ce n’est pas essentiel.
 
@@ -22,7 +29,7 @@ Les résultats du Bac dans ces spés mais aussi les appréciations ont un gros i
 
 Une de ces deux spécialités peut être conservée au choix en Terminale. Bien que la NSI soit la spécialité toute indiquée pour la MP2I, nous ne pouvons pas garantir que ni l'une ni l'autre soit particulièrement avantageuse lors de la sélection des candidats. Libre à vous de choisir celle où vous vous sentirez le mieux.
 
-**N.B** : Il reste possible dans certains rares cas d'intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie en Première, mais ce choix ne garantit pas une place en CPGE et risque d'entrainer un retard difficile à combler par la suite.
+*Nota Bene* : Il reste possible dans certains rares cas d'intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie en Première, mais ce choix ne garantit pas une place en CPGE et risque d'entrainer un retard difficile à combler par la suite.
 
 ## Parcoursup
 
@@ -31,7 +38,7 @@ Une de ces deux spécialités peut être conservée au choix en Terminale. Bien 
 Depuis décembre vous avez accès au catalogue des formations disponibles avec leurs critères de sélection, en quoi elles consistent et leur sélectivité.
 Fin janvier, vous allez commencer à faire vos vœux, c'est le moment de se renseigner et d'aller aux portes ouvertes, en ligne ou en présentiel, rien de mieux que d'échanger avec les élèves pour se faire une idée de la formation. N'hésitez pas à nous rejoindre sur [le serveur discord de la MP2I](https://discord.com/invite/9p49Z5ZNtH) pour poser vos questions !
 
-Il y a 30 MP2I sur Parcoursup, répertoriées plus bas, cela va de prépas très selectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I si c'est la formation que vous voulez (vous n'irez pas tous et toutes à Louis le Grand soyons réalistes mais il faut garder de l'ambition). 
+Il y a 30 MP2I sur Parcoursup, répertoriées plus bas, cela va de prépas très selectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I si c'est la formation que vous voulez (vous n'irez pas tous et toutes à Louis le Grand soyons réalistes mais il faut garder de l'ambition).
 Si vous faites le choix des formations sélectives comme une prépa, il est très fortement conseillé de demander une licence en parallèle pour éviter de finir sans aucune formation.
 
 {{< admonition info "Ambition" true >}}
@@ -46,7 +53,7 @@ Pas d’inquiétude si vous n’êtes acceptés dans aucune formation durant les
 Pour pouvoir être plus au clair, et ne pas avoir à choisir une orientation en 48h, il est conseillé de faire un peu avant un classement de ce que vous désirez, pour ne pas être pris au dépourvu.
 {{< /admonition >}}
 
-Pour comprendre le fonctionnement de parcoursup à toutes les étapes, allez sur [la FAQ parcoursup](https://www.parcoursup.fr/index.php?desc=questions).
+Pour comprendre le fonctionnement de Parcoursup à toutes les étapes, allez sur [la FAQ parcoursup](https://www.parcoursup.fr/index.php?desc=questions).
 
 ### Lettres de motivation et projet de formation motivé
 
@@ -58,13 +65,13 @@ Enfin il vaut mieux écrire une lettre de motivation par filière, faire une PCS
 
 ### Les internats comment ça fonctionne ?
 
-Les critères pour être admis en internat concernent majoritairement les appréciations des bulletins, l’éloignement et les critères sociaux, mais chaque lycée est libre de sélectionner les dossiers selon ses propres critères. Il est fortement conseillé de demander toutes les formations avec et sans internat, ces deux options ne comptant de toute façon que pour un seul sous-vœu. 
+Les critères pour être admis en internat concernent majoritairement les appréciations des bulletins, l’éloignement et les critères sociaux, mais chaque lycée est libre de sélectionner les dossiers selon ses propres critères. Il est fortement conseillé de demander toutes les formations avec et sans internat, ces deux options ne comptant de toute façon que pour un seul sous-vœu.
 Ayez toujours en tête que vous ne serez pas forcément pris à l'internat, regardez les résidence étudiantes alentours et les alternatives économiques existantes proposées dans les lycées, comme le régime interne-externé par exemple.
 
-## Lycées proposant la filière MP2I à l'heure actuelle
+## Lycées proposant la filière MP2I
 
 | Type    | Lycée | Ville | Nombre de demandes | Rang du dernier admis | Internat |
-|:-------:|:-----:|:-----:|:-------------------:|:----------------------:|:------:
+|:-------:|:-----:|:-----:|:-------------------:|:----------------------:|:------:|
 | Public | Louis Le Grand | Paris 05 | 2970 | 127 | Oui
 | Public | Hoche | Versailles | 2102 | 193 | Oui
 | Public | Saint-Louis | Paris 06 | 3057 | 278 | Oui
@@ -92,11 +99,11 @@ Ayez toujours en tête que vous ne serez pas forcément pris à l'internat, rega
 | Public | Franklin Roosevelt | Reims | 702 | 393 | Oui
 | Public | Charles Coëffin | Baie-Mahault | 145 | 107 | Oui
 
-## Lycées ouvrant une classe à la rentrée 2022
+A la rentrée 2022, 4 lycées ouvrent une classe MP2I en remplacement d'une MPSI :
 
-| Type    | Lycée | Ville |
-|:-------:|:-----:|:-----:|
-| Public | Alain René Lesage | Vannes |
-| Public | Camille Guérin | Poitiers |
-| Public | Henri Poincaré | Nancy |
-| Public | Leconte De Lisle | Saint-Denis |
+| Type    | Lycée | Ville | Internat |
+|:-------:|:-----:|:-----:|:--------:|
+| Public | Alain René Lesage | Vannes | - |
+| Public | Camille Guérin | Poitiers | - |
+| Public | Henri Poincaré | Nancy | - |
+| Public | Leconte De Lisle | Saint-Denis | - |

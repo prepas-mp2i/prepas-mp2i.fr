@@ -1,7 +1,7 @@
 ---
-title: "Forum des étudiants en MP2I"
+title: Forum des étudiants en MP2I
+subtitle: Echanger avec étudiants de toute la France
 date: 2022-02-14T16:45:31+01:00
-draft: false
 ---
 
 {{< admonition info "Forum terminé" true >}}
