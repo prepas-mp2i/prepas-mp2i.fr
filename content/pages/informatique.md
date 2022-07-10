@@ -33,11 +33,11 @@ Un premier critère pour savoir si cette filière est faite pour vous est donc:
 
 Voici les principaux domaines pouvant être abordés en première année:
 
-* systèmes formels et logique
-* structures de données
-* analyse et conception d'algorithmes
-* bases de données
-* gestion des ressources
+* Systèmes formels et logique
+* Structures de données
+* Analyse et conception d'algorithmes
+* Bases de données
+* Gestion des ressources
 
 ## La pratique
 
