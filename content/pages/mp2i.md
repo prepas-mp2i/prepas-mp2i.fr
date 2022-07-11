@@ -100,7 +100,7 @@ Vous pouvez étudier plus en détail les statisques de Parcoursup concernant la 
 
 ## Les concours MPI
 
-Vous pouvez retrouver le nombre de place pour chaque école aux concours 2023 sur cette page: [https://prepas-mp2i.fr/concours](https://prepas-mp2i.fr/concours).
+Vous pouvez retrouver le nombre de place pour chaque école aux concours 2023 [sur cette page](https://prepas-mp2i.fr/posts/concours-mpi-2023/).
 
 ## Les prépas MP2I en France
 
