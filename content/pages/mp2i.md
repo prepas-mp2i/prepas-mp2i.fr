@@ -100,7 +100,15 @@ Vous pouvez étudier plus en détail les statisques de Parcoursup concernant la 
 
 ## Les concours MPI
 
-Vous pouvez retrouver le nombre de place pour chaque école aux concours 2023 [sur cette page](https://prepas-mp2i.fr/posts/concours-mpi-2023/).
+A la fin de deuxième année, les MPI passeront les fameux concours qui détermineront leur poursuite d'études. Globalement, les écoles accessibles sont les mêmes que pour la filière MPSI, et les places suivent la même proportion.
+
+Il faut savoir que rien n'est encore fixé et que ce sont des engagements de minimum, mais voici une petite idée des places pour les MPI aux principaux concours 2023 :
+
+- Polytechnique : [~25 places](https://www.ip-paris.fr/actualites/les-5-ecoles-de-linstitut-polytechnique-de-paris-accueilleront-les-eleves-de-la-nouvelle-filiere-mpi)
+- Les ENS : [~30 places](https://www.ens.psl.eu/actualites/des-2023-le-concours-d-entree-aux-ens-ouvrira-aux-etudiants-issus-des-cpge-mp2impi)
+- Concours Mines-ponts : [minimum 77 places](https://www.concoursminesponts.fr/resources/pre%CC%81-Notice-MPI-2023-V1.0.pdf) (dont 15 pour l'ENSTA, [20 à 30 pour Telecom Paris](https://www.telecom-paris.fr/fr/ingenieur/comment-integrer/admission-post-prepa) et [10 pour l'ENSAE](https://www.ensae.fr/formation/cycle-ingenieur/admission/ccmp/))
+- Concours Centrale : [minimum 120 places](https://www.centralesupelec.fr/sites/default/files/mpi_centralesupelec_decembre_2021.pdf) (Nombre sous estimé)
+- CCINP : [220 places](https://www.concours-commun-inp.fr/fr/les-ecoles/les-places-dans-les-ecoles/places-mpi.html) (dont 40 pour L'Ensimag)
 
 ## Les prépas MP2I en France
 

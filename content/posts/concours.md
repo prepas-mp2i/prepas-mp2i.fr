@@ -1,7 +1,7 @@
 ---
 title: "Concours MPI 2023"
 date: 2022-07-10T13:59:24+02:00
-draft: false
+draft: true
 ---
 
 Les informations sur les concours 2023 pour la filière MPI se précisent de plus en plus. Les infos ci-dessous sont tirées des sites officiels, de profs de MP2I/MPI et des différents opérateurs de concours.
