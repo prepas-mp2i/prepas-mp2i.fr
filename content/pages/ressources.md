@@ -52,7 +52,7 @@ Vous pouvez consulter quelques [projets personnels d'étudiants](https://prepas-
 
 De nombreux sites web proposent du contenu de qualité, ce sont des ressources indispensables pour apprendre et s'exercer.
 
-### Problèmes de mathématiques
+### Problèmes de Mathématiques
 
 * [Mathraining] est initialement un site de préparation aux olympiades internationales de mathématiques. Il est donc ciblé sur des élèves du secondaire désireux d'approfondir leurs connaissances mathématiques à travers des cours, des exercices et des problèmes.
 
@@ -63,6 +63,18 @@ De nombreux sites web proposent du contenu de qualité, ce sont des ressources i
 * [France-IOI] est un site proposant à travers de nombreux exercices d'apprendre la programmation et l'algorithmique. Les exercices sont de niveau extrêmement varié et chacun pourra progresser grâce à ce site.
 
 * [Le projet Euler] est une collection de problèmes entre info et maths. Si vous aimez les nombres (arithmetique, nombres premiers ...) et coder pour résoudre des problèmes, ce site est fait pour vous ! Il y a plus de 700 problèmes, allant de très facile à clairement infaisable.
+
+### Prépa Shelter
+
+Pour vous aider dans vos études, le site [prepashelter.com](https://prepashelter.com/) créé par un ancien étudiant propose entre autres:
+
+* Des annales de concours corrigées par des professeurs de Ginette pour vous préparer aux écrits.
+* Des offres de cours particuliers pour vous aider à progresser en mathématiques et en physique,
+* Des sujets classiques d’oraux qui retombent chaque année aux concours X-ENS, Centrale-Supélec et Mines-Ponts (donnés aux élèves de Ginette, LLG, H4 et St-Louis) pour vous préparer aux oraux,
+* Des TDs corrigés comportant l’essentiel des techniques à connaître pour vous aider à aborder les écrits,
+* Des outils et logiciels divers très utiles en prépa.
+
+Un [serveur Discord](https://discord.gg/TGQSrnCxK2) est mis à disposition pour vous aider.
 
 ### Outils de révision
 
