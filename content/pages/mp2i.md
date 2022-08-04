@@ -66,7 +66,7 @@ Voici un récapitulatif des différentes filières en deuxième année:
 
 ## La double inscription à l'université
 
-Tous les élèves en prépas sont obligés de s'inscrire en parallèle à l'université en fonction des partenariats des prépas. Ce sont des licences adaptées : Maths, Physique et Info pour les prépas scientifiques. Cela permet de sécuriser sa poursuite d'étude, si vous souhaitez vous réorienter, en cours ou en fin d'année, vous pourrez le faire. A la fin de l'année, les profs valident ou non (il faut vraiment un manque de serieux pour ne pas les valider, c'est très rare) vos crédits ECTS c'est à dire vos crédits universitaires qui vous fournissent un équivalent entre la prépa et la licence. Cela vous permet de poursuivre directement en L2 après une première année de prépa, si ça ne vous convient pas.
+Tous les élèves en prépas sont obligés de s'inscrire en parallèle à l'université en fonction des partenariats des prépas. Ce sont des licences adaptées : Maths, Physique et Info pour les prépas scientifiques. Cela permet de sécuriser sa poursuite d'étude, si vous souhaitez vous réorienter, en cours ou en fin d'année, vous pourrez le faire. A la fin de l'année, les profs valident ou non (il faut vraiment un manque de sérieux pour ne pas les valider, c'est très rare) vos crédits ECTS c'est à dire vos crédits universitaires qui vous fournissent un équivalent entre la prépa et la licence. Cela vous permet de poursuivre directement en L2 après une première année de prépa, si ça ne vous convient pas.
 
 ## La MP2I en quelques chiffres
 
