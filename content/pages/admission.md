@@ -4,7 +4,7 @@ subtitle: Anticiper sa poursuite en MP2I
 date: 2021-12-20T00:05:32+01:00
 ---
 
-Vous êtes en Seconde ou en Première générale, la prépa vous interesse mais vous ne savez pas quelles spécialités choisir ? Même si ce choix doit rester motivé par le goût, il est important pour votre poursuite d'études.
+Vous êtes en Seconde ou en Première générale, la prépa vous intéresse mais vous ne savez pas quelles spécialités choisir ? Même si ce choix doit rester motivé par le goût, il est important pour votre poursuite d'études.
 Vous êtes en Terminale, l'étape décisive et stressante de passage en études supérieures s'approche. Parcoursup oblige !
 
 La bonne nouvelle, c'est qu'on est aussi passé par là ! Spécialités privilégiées, cas particuliers ... on vous dit ce qu'il en est réellement.
