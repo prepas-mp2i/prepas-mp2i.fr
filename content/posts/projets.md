@@ -10,7 +10,7 @@ Voici une liste non exhaustive de projets d'étudiants en MP2I, n'hésitez pas �
 
 ### Prépas MP2I
 
-- [prepas-mp2i.github.io](https://github.com/prepas-mp2i/prepas-mp2i.github.io) : Le code source de ce site web.
+- [prepas-mp2i.fr](https://github.com/prepas-mp2i/prepas-mp2i.fr) : Le code source de ce site web.
 
 - [mp2i-discord-bot](https://github.com/prepas-mp2i/mp2i-discord-bot) : Le bot du serveur Discord [Prépas MP2I](https://discord.gg/w4ugrwy84w)
 

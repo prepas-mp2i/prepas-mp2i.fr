@@ -52,7 +52,7 @@ enableGitInfo = true
   description = "Site des classes préparatoires MP2I"
   keywords = ["Theme", "Hugo", "MP2I", "Prépa"]
   defaultTheme = "auto"
-  gitRepo = "https://github.com/prepas-mp2i/prepas-mp2i.github.io/"
+  gitRepo = "https://github.com/prepas-mp2i/prepas-mp2i.fr/"
   dateFormat = "02/01/2006"
 
   [params.app]
@@ -114,7 +114,7 @@ enableGitInfo = true
       paginate = 4
 
   [params.social]
-    GitHub = "prepas-mp2i/prepas-mp2i.github.io"
+    GitHub = "prepas-mp2i/prepas-mp2i.fr"
     Email = "contact@prepas-mp2i.fr"
 
   [params.page]

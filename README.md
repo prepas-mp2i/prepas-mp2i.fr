@@ -13,8 +13,8 @@ Vous pouvez commencer à fork le projet pour y contribuer.
 Installez [Hugo](https://gohugo.io/getting-started/installing/) et [Git](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git) puis configurez le repo:
 
 ```sh
-git clone https://github.com/prepas.mp2i/prepas-mp2i.github.io
-cd prepas-mp2i.github.io
+git clone https://github.com/prepas.mp2i/prepas-mp2i.fr
+cd prepas-mp2i.fr
 git submodule init && git submodule update
 ```
 
