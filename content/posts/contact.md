@@ -1,5 +1,6 @@
 ---
 title: "Qui sommes-nous?"
+url: /contact/
 date: 2021-12-20T00:07:53+01:00
 ---
 
