@@ -32,7 +32,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Clemenceau | Nantes | [corentin.boutault@gmail.com](mailto:corentin.boutault@gmail.com)
 | Colbert | Tourcoing | [indisponible](mailto:)
 | Descartes | Tours | [louis-max.h@protonmail.com](mailto:louis-max.h@protonmail.com)
-| Faidherbe | Lille | [nathan.coquerel@gmail.com](mailto:nathan.coquerel@gmail.com)
+| Faidherbe | Lille | [clement@cr-dev.io](mailto:clement@cr-dev.io)
 | Fénelon Sainte-Marie | Paris 08 | [gaucheron.laurent@protonmail.com](mailto:gaucheron.laurent@protonmail.com)
 | Franklin Roosevelt | Reims | [quentin.constant@protonmail.com](mailto:quentin.constant@protonmail.com)
 | Gay-Lussac | Limoges | [contact@mp2igaylussac.fr](mailto:contact@mp2igaylussac.fr)

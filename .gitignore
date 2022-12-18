@@ -1,4 +1,6 @@
 .hugo_build.lock
+.vscode/
+.idea/
 resources/
 configs/
 public/
