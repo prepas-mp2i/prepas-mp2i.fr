@@ -112,10 +112,10 @@ Il faut savoir que rien n'est encore fixé et que ce sont des engagements de min
 
 ## Les prépas MP2I en France
 
-{{< iframe src="https://www.google.com/maps/d/embed?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&hl=fr" height=400px >}}
+{{< iframe src="https://www.google.com/maps/d/embed?mid=1cr1d3lHYMqQFVDYJbwgtv6cxHTwCofw&ehbc=2E312F" height=500px >}}
 
 ### Légende
 
-- Rouge : CPGE MP2I ouverte à la rentrée 2021
-- Vert :  CPGE MP2I ouverte à la rentrée 2022
-- Orange : CPGE MP2I privée ouverte à la rentrée 2021
+- *Rouge* : Lycées publics possédant une MP2I
+- *Orange* : Lycées privés possédant une MP2I
+- *Vert* : Lycées ouvrant une MP2I à la rentrée 2023

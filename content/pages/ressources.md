@@ -19,7 +19,7 @@ Les élèves désireux de poursuivre dans une classe préparatoire scientifique 
 [Reducible]: https://www.youtube.com/c/Reducible
 
 **S'intéresser**, tel est le maître-mot.
-La curiosité, la capacité d'émerveillement est une grande motivation à l'entrée en prépa scientifique. Afin de découvrir intéressantes, les ressources prennent surtout la forme de chaînes YouTube. En voici quelques unes. Cette liste n'est pas exhaustive, mais c'est une bonne introduction :
+La curiosité, la capacité d'émerveillement est une grande motivation à l'entrée en prépa scientifique. Afin de découvrir des notions intéressantes, les ressources prennent surtout la forme de chaînes YouTube. En voici quelques unes. Cette liste n'est pas exhaustive, mais c'est une bonne introduction :
 
 | Mathématiques | Informatique | Toutes sciences |
 :--------------:|:--------------:|:--------------:
