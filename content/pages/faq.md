@@ -29,7 +29,7 @@ Lou Ann, MP2I lycée Champollion, Grenoble
 
 ## Les étudiants
 
-{{< admonition note "Y a-t-il beaucoup de filles dans ta classe ?" false >}}
+{{< admonition note "Y a-t-il beaucoup de filles en MP2I ?" false >}}
 Non on est 4 (en moyenne 4.5 filles par classe) et il y en a une qui part en SI.
 On s'intègre bien et on est tellement peu, que les profs sont attentifs à ce qu'il n'y ait pas de remarques/blagues lourdes.
 De toute façon, en MP2I on n'est pas sur des mâles alphas oppresseurs. Donc n'ayez pas peur les filles, venez en MP2I, même si vous n'êtes pas des pures nerds, il y a de la place pour vous, ne vous censurez pas.
@@ -71,5 +71,25 @@ De plus, on est avec une partie de sa classe, on peut s'entraider dans les devoi
 
 {{< style "text-align:right; font-style:italic;" >}}
 Adrien, MP2I lycée Descartes, Tours
+{{< /style >}}
+{{< /admonition >}}
+
+## L'admission
+
+{{< admonition note "Quelles sont les meilleures MP2I ?" false >}}
+La question n'a pas vraiment de sens puisque "meilleures" dépend de chacun, se référer plutôt à "Comment départager mon choix entre les différents lycées ?".
+
+{{< style "text-align:right; font-style:italic;" >}}
+Étudiants en MP2I/MPI
+{{< /style >}}
+{{< /admonition >}}
+
+{{< admonition note "Comment départager mon choix entre les différents lycées ?" false >}}
+Les critères à privilégier pour choisir une MP2I résident dans le cadre de vie obtenu : il faut s'assurer que ces deux années de travail intenses ne seront pas troublées par des problèmes pratiques tels que des temps de trajet trop importants ou encore l'isolement.
+Ainsi, les critères essentiels concernent l'emplacement, le logement, l'accès à un internat (ou un système d'interne-externé), le fait d'être éloigné de ses proches.
+Il faut simplement faire en sorte de réunir les conditions de travail qui vous seront optimales afin de pouvoir vivre sainement et progresser le plus.
+
+{{< style "text-align:right; font-style:italic;" >}}
+Nathan, MPI lycée Sant-Louis, Paris VIe.
 {{< /style >}}
 {{< /admonition >}}
