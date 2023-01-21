@@ -15,7 +15,7 @@ Cette page est incomplète, les informations concernant le forum se rajouteront 
 Après une [édition 2022](/posts/forum-2022/) réussie, nous organisons à nouveau un forum virtuel le **samedi 18 février 2023**.
 En bref, il s'agit d'une journée portes ouvertes virtuelle via des visioconférences, où vous pourrez échanger avec des étudiants en MP2I et MPI de différents lycées.
 
-Cette édition est particulière, car elle accueileura non seulement des étduiants en MP2I mais aussi en deuxième année: MPI !
+Cette édition est particulière, car elle accueillera non seulement des étudiants en MP2I mais aussi en deuxième année : MPI !
 Des professeurs interviendront également sur différents stands.
 
 ## Organisation
