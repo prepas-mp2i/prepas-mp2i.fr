@@ -1,6 +1,6 @@
 ---
-title: Forum des étudiants en MP2I
-url: /forum/
+title: Forum 2022 des étudiants en MP2I
+slug: forum-2022
 date: 2022-02-14T16:45:31+01:00
 ---
 
@@ -10,7 +10,7 @@ C'etait au total plus de 17 établissements présents et plus de 300 visiteurs p
 Rendez-vous l'année prochaine, les premiers retours d'étudiants en MPI (deuxième année) seront là.
 {{< /admonition >}}
 
-[![Affiche](/images/affiche_forum_mp2i.jpg)][Affiche]
+[![Affiche](/images/affiche_forum_2022.jpg)][Affiche]
 {{< admonition tip "Astuce" true >}}
 Vous pouvez télécharger l'affiche en version imprimable en cliquant sur l'image.
 {{< /admonition >}}
@@ -54,4 +54,4 @@ Vous trouverez ci-dessous la liste (incomplète) des intervenants et intervenant
 |:------------:|:------------:|:-----------:|:-----------:|:------------:|:------------:|:-----------:|:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
 | {{< figure src="/images/intervenants/Louis-max Descartes.png" title="Louis-max" caption="Descartes" >}} | {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Ganda Champollion.png" title="Garance"  caption="Champollion">}} | {{< figure src="/images/intervenants/Maud Louis Tuillier.png" title="Maud" caption="Louis Thuillier">}} | {{< figure src="/images/intervenants/Flavio Janson de Sailly.png" title="Flavio" caption="Janson de Sailly" >}} | {{< figure src="/images/intervenants/Narada Clémenceau.png" title="Narada" caption="Clémenceau " >}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis">}} | {{< figure src="/images/intervenants/Adrien Centre International De Valbonne.png" title="Adrien" caption="C.I. de Valbonne">}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.png" title="Alain" caption="Gay Lussac">}} | {{< figure src="/images/intervenants/Mathys Montaigne.png" title="Mathys" caption="Montaigne">}} | {{< figure src="/images/intervenants/Kei Montaigne.png" title="Kei" caption="Montaigne">}} | {{< figure src="/images/intervenants/Clément Faidherbe.png" title="Clément" caption="Faidherbe">}} | {{< figure src="/images/intervenants/Justin Janson de Sailly.png" title="Justin" caption="Janson de Sailly">}} | {{< figure src="/images/intervenants/Romain Roosevelt.png" title="Romain" caption="Roosevelt">}} | {{< figure src="/images/intervenants/Vivien Aux Lazaristes.png" title="Vivien" caption="Aux Lazaristes">}} | {{< figure src="/images/intervenants/Damien Kleber.png" title="Damien" caption="Kleber">}} | {{< figure src="/images/intervenants/Maelys Kleber.png" title="Maelys" caption="Kleber">}} | {{< figure src="/images/intervenants/Maxime Aux Lazaristes.png" title="Maxime" caption="Aux Lazaristes">}} | {{< figure src="/images/intervenants/Falafel Hoche.png" title="Falafel" caption="Hoche">}} |
 
-[Affiche]: /documents/affiche_forum_mp2i.pdf
+[Affiche]: /documents/affiche_forum_2022.pdf
