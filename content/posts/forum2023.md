@@ -29,6 +29,6 @@ Les liens des visioconférences seront publiés bientôt.
 
 Vous trouverez ci-dessous la liste (incomplète) des intervenants et intervenantes sur les différents stands :
 
-| Organisateur | Intervenant | Intervenant | Intervenant | Intervenant |
-|:------------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Jeremy CIV.gif" title="Jeremy" caption="CIV" >}} | {{< figure src="/images/intervenants/Victor Lesage.png" title="Victor" caption="Lesage" >}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.png" title="Alain" caption="Gay-Lussac" >}} |
+| Organisateur | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant |
+|:------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Jeremy CIV.gif" title="Jeremy" caption="CIV" >}} | {{< figure src="/images/intervenants/Victor Lesage.png" title="Victor" caption="Lesage" >}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.png" title="Alain" caption="Gay-Lussac" >}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} |
