@@ -1,7 +1,7 @@
 ---
 title: Forum 2023 des étudiants en MP2I/MPI
 url: /forum/
-date: 2022-02-14T16:45:31+01:00
+date: 2023-01-21T13:30:00+01:00
 ---
 
 {{< figure title="Affiche du forum 2023" src="/images/affiche_forum_2023.jpg" link="/documents/affiche_forum_2023.pdf" width="60%">}}
@@ -29,6 +29,6 @@ Les liens des visioconférences seront publiés bientôt.
 
 Vous trouverez ci-dessous la liste (incomplète) des intervenants et intervenantes sur les différents stands :
 
-| Organisateur | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant |
-|:------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Jeremy CIV.gif" title="Jeremy" caption="CIV" >}} | {{< figure src="/images/intervenants/Victor Lesage.png" title="Victor" caption="Lesage" >}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.png" title="Alain" caption="Gay-Lussac" >}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} |
+| Organisateur | Intervenante | Intervenant | Intervenant | Intervenant | Intervenant | Intervenant |
+|:------------:|:------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| {{< figure src="/images/intervenants/Adrien Descartes.png" title="Adrien" caption="Descartes" >}} | {{< figure src="/images/intervenants/Garance Champollion.png" title="Garance" caption="Champollion" >}} | {{< figure src="/images/intervenants/Jeremy CIV.gif" title="Jeremy" caption="CIV" >}} | {{< figure src="/images/intervenants/Victor Lesage.png" title="Victor" caption="Lesage" >}} | {{< figure src="/images/intervenants/Timothée Saint Louis.png" title="Timothée" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.png" title="Alain" caption="Gay-Lussac" >}} | {{< figure src="/images/intervenants/Younes Lycée du Parc.png" title="Younes" caption="Lycée du Parc" >}} |
