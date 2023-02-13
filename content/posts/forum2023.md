@@ -22,12 +22,9 @@ Des professeurs interviendront également sur différents stands.
 
 Le forum des étudiants et étudiantes en MP2I/MPI se tiendra **le samedi 18 février 2023** de **14h** à **18h**.
 
-Il s'organisera autour de différents stands rassemblant plusieurs établissements d'une même région.
-Les liens des visioconférences seront publiés bientôt.
+Il s'organisera autour de différents stands composés de 2 ou 3 établissements géographiquement proches qui tourneront toutes les heures afin que vous puissiez obtenir des réponses et des témoignages d'étudiants venants de prépas différentes.
 
 ### Planning
-
-Les stands seront ouverts à partir de 14h. Il sont composés de 2 ou 3 établissements géographiquement proches et tournent toutes les heures afin que vous puissiez obtenir des réponses et des témoignages d'étudiants venants de prépas différentes.
 
 {{< figure src="/images/planning_forum_2023.png" width="100%" title="Répartition des établissements selon les différents créneaux " >}}
 
@@ -37,7 +34,7 @@ Vous trouverez ci-dessous les liens vers les différentes visioconférences :
 | [Accueil](https://visio-agents.education.fr/meeting/signin/173035/creator/96179/hash/4ea91a86df0b01f4604f24340e26386b80902a9f) | [Stand 1](https://visio-agents.education.fr/meeting/signin/173016/creator/96179/hash/5ffb83b8c8d250281f5eeb1b7db456491fca5361) | [Stand 2](https://visio-agents.education.fr/meeting/signin/173019/creator/96179/hash/e056a701f6b4b1b2b24f0b4ea292abe252702141) | [Stand 3](https://visio-agents.education.fr/meeting/signin/173021/creator/96179/hash/98ea85dd3cf04b6b0981fe051af0dd28aa1a63f4) | [Stand 4](https://visio-agents.education.fr/meeting/signin/173024/creator/96179/hash/8b6564fe89032fc46b05448ed27d119aa57ca731) | [Stand 5](https://visio-agents.education.fr/meeting/signin/173025/creator/96179/hash/d4eb6b3336325c361d40c15af8ff92c0cc208a51) | [Stand 6](https://visio-agents.education.fr/meeting/signin/173027/creator/96179/hash/a70a8d876d6de8c7dcecfb3e66e8362cc34850eb) |
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 
-À vous de choisir le stand selon le planning ci-dessus. Si vous rencontrez un quelconque problème pour vous connecter [contactez-nous](https://prepas-mp2i.fr/contact/) par Discord ou par mail.
+À vous de choisir le stand selon le planning ci-dessus, ils seront accessibles à partir de 14h. Si vous rencontrez un quelconque problème pour vous connecter [contactez-nous](https://prepas-mp2i.fr/contact/) par Discord ou par mail.
 
 ## Intervenants
 

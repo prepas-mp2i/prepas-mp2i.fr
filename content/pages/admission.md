@@ -70,6 +70,12 @@ Ayez toujours en tête que vous ne serez pas forcément pris à l'internat, rega
 
 ## Lycées proposant la filière MP2I
 
+Voici la liste des établissements proposant la MP2I, classés par taux d'accessibilité.
+
+{{< admonition warning "Données non mises à jour" true >}}
+Ces données sont tirées de Parcoursup en 2022, elles ne concernent donc pas les actuels MP2I.
+{{< /admonition >}}
+
 | Type    | Lycée | Ville | Nombre de demandes | Rang du dernier admis | Internat |
 |:-------:|:-----:|:-----:|:-------------------:|:----------------------:|:------:|
 | Public | Louis Le Grand | Paris 05 | 2970 | 127 | Oui
