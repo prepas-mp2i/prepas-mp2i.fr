@@ -72,44 +72,53 @@ Ayez toujours en tête que vous ne serez pas forcément pris à l'internat, rega
 
 Voici la liste des établissements proposant la MP2I, classés par taux d'accessibilité.
 
-{{< admonition warning "Données non mises à jour" true >}}
-Ces données sont tirées de Parcoursup en 2022, elles ne concernent donc pas les actuels MP2I.
+{{< admonition info "Données non mises à jour" true >}}
+Ces données sont tirées de Parcoursup en 2023, elles concernent les actuels MP2I.
 {{< /admonition >}}
 
 | Type    | Lycée | Ville | Nombre de demandes | Rang du dernier admis | Internat |
 |:-------:|:-----:|:-----:|:-------------------:|:----------------------:|:------:|
-| Public | Louis Le Grand | Paris 05 | 2970 | 127 | Oui
-| Public | Hoche | Versailles | 2102 | 193 | Oui
-| Public | Saint-Louis | Paris 06 | 3057 | 278 | Oui
-| Privé | Aux Lazaristes | Lyon 05 | 1240 | 141 | Oui
-| Public | Général Clemenceau | Nantes | 1837 | 229 | Oui
-| Public | Janson de Sailly | Paris 16 | 2931 | 379 | Oui
-| Public | Pierre De Fermat | Toulouse | 2234 | 285 | Oui
-| Public | Le Parc | Lyon 06 | 2551 | 344 | Oui
-| Public | Montaigne | Bordeaux | 1994 | 299 | Oui
-| Public | Champollion | Grenoble | 1672 | 269 | Oui
-| Public | Kléber | Strasbourg | 1207 | 224 | Oui
-| Public | Descartes | Tours | 1562 | 329 | Oui
-| Public | Faidherbe | Lille | 1309 | 297 | Oui
-| Public | Thiers | Marseille 01 | 1247 | 305 | Oui
-| Privé | Fénelon Sainte-Marie | Paris 08 | 1384 | 366 | Non
-| Public | Louis Thuillier | Amiens | 789 | 274 | Oui
-| Public | Henri Wallon | Valenciennes | 679 | 250 | Oui
-| Public | Gay-Lussac | Limoges | 664 | 254 | Oui
-| Public | Centre International de Valbonne | Valbonne | 844 | 324 | Oui
-| Public | Carnot | Dijon | 1190 | 483 | Oui
-| Public | Paul Valéry | Paris 12 | 1705 | 767 | Oui
-| Public | Claude Fauriel | Saint-Etienne | 881 | 456 | Oui
-| Public | Victor Hugo | Besançon | 750 | 401 | Oui
-| Public | Colbert | Tourcoing | 433 | 238 | Oui
-| Public | Franklin Roosevelt | Reims | 702 | 393 | Oui
-| Public | Charles Coëffin | Baie-Mahault | 145 | 107 | Oui
+| Public | Louis Le Grand | Paris 05 | 2444 | 169 | Oui
+| Public | Hoche | Versailles | 1811 | 223 | Oui
+| Public | Saint-Louis | Paris 06 | 2633 | 190 | Oui
+| Privé | Aux Lazaristes | Lyon 05 | 1258 | 156 | Oui
+| Public | Général Clemenceau | Nantes | 1384 | 201 | Oui
+| Public | Janson de Sailly | Paris 16 | 2648 | 566 | Oui
+| Public | Pierre De Fermat | Toulouse | 2056 | 184 | Oui
+| Public | Le Parc | Lyon 06 | 2518 | 244 | Oui
+| Public | Montaigne | Bordeaux | 1804 | 320 | Oui
+| Public | Champollion | Grenoble | 1516 | 337 | Oui
+| Public | Kléber | Strasbourg | 1117 | 284 | Oui
+| Public | Descartes | Tours | 1296 | 227 | Oui
+| Public | Faidherbe | Lille | 1213 | 220 | Oui
+| Public | Thiers | Marseille 01 | 1189 | 354 | Oui
+| Privé | Fénelon Sainte-Marie | Paris 08 | 1254 | 464 | Non
+| Public | Louis Thuillier | Amiens | 825 | 532 | Oui
+| Public | Henri Wallon | Valenciennes | 744 | 272 | Oui
+| Public | Gay-Lussac | Limoges | 711 | 152 | Oui
+| Public | Centre International de Valbonne | Valbonne | 1080 | 252 | Oui
+| Public | Carnot | Dijon | 1373 | 534 | Oui
+| Public | Paul Valéry | Paris 12 | 2483 | 691 | Oui
+| Public | Claude Fauriel | Saint-Etienne | 1312 | 604 | Oui
+| Public | Victor Hugo | Besançon | 928 | 430 | Oui
+| Public | Colbert | Tourcoing | 767 | 240 | Oui
+| Public | Franklin Roosevelt | Reims | 1153 | 508 | Oui
+| Public | Charles Coëffin | Baie-Mahault | 230 | 108 | Oui
+| Public | Alain René Lesage | Rouen | 651 | 443 | Oui 
+| Public | Camille Guérin | Poitiers | 799 | 514 | Oui
+| Public | Henri Poincaré | Nancy | 815 | 250 | Oui
+| Public | Leconte de Lisle | Saint-Denis 974 | 160 | 115 | Oui
 
-A la rentrée 2022, 4 lycées ouvrent une classe MP2I en remplacement d'une MPSI :
+A la rentrée 2023, 8 lycées ouvrent une classe MP2I en remplacement d'une MPSI :
 
 | Type    | Lycée | Ville | Internat |
 |:-------:|:-----:|:-----:|:--------:|
-| Public | Alain René Lesage | Vannes | - |
-| Public | Camille Guérin | Poitiers | - |
-| Public | Henri Poincaré | Nancy | - |
-| Public | Leconte De Lisle | Saint-Denis | - |
+| Public | Alfred Kastler | Denain | Oui |
+| Public | La Martinière Monplaisir | Lyon 08 | Oui |
+| Public | La Fayette | Clermont-Ferrand | Oui |
+| Public | Berthollet | Annecy | Oui |
+| Privé | Frédéric Ozanam | Lille | Non | 
+| Public | Pierre Corneille | Rouen | Oui | 
+| Public | Joffre | Montpellier | Oui | 
+| Public | Guy Mollet | Arras | Oui | 
+
