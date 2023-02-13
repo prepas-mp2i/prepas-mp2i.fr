@@ -37,7 +37,7 @@ On vous présentera le fonctionnement des stands ainsi que les dernières nouvel
 
 ### Rotation des stands (15h - 18h)
 
-{{< figure src="/images/planning.png" width="100%" title="Répartition des établissements selon les différents créneaux " >}}
+{{< figure src="/images/planning_forum_2022.png" width="100%" title="Répartition des établissements selon les différents créneaux " >}}
 
 Vous trouverez ci dessous les liens pour rejoindre le stand de votre choix :
 
