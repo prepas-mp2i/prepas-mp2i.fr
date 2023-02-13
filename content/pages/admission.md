@@ -70,11 +70,7 @@ Ayez toujours en tête que vous ne serez pas forcément pris à l'internat, rega
 
 ## Lycées proposant la filière MP2I
 
-Voici la liste des établissements proposant la MP2I, classés par taux d'accessibilité.
-
-{{< admonition info "Données non mises à jour" true >}}
-Ces données sont tirées de Parcoursup en 2023, elles concernent les actuels MP2I.
-{{< /admonition >}}
+Voici la liste des établissements proposant la MP2I, classés par taux d'accessibilité selon les données 2023 de Parcoursup.
 
 | Type    | Lycée | Ville | Nombre de demandes | Rang du dernier admis | Internat |
 |:-------:|:-----:|:-----:|:-------------------:|:----------------------:|:------:|
@@ -104,7 +100,7 @@ Ces données sont tirées de Parcoursup en 2023, elles concernent les actuels MP
 | Public | Colbert | Tourcoing | 767 | 240 | Oui
 | Public | Franklin Roosevelt | Reims | 1153 | 508 | Oui
 | Public | Charles Coëffin | Baie-Mahault | 230 | 108 | Oui
-| Public | Alain René Lesage | Rouen | 651 | 443 | Oui 
+| Public | Alain René Lesage | Rouen | 651 | 443 | Oui
 | Public | Camille Guérin | Poitiers | 799 | 514 | Oui
 | Public | Henri Poincaré | Nancy | 815 | 250 | Oui
 | Public | Leconte de Lisle | Saint-Denis 974 | 160 | 115 | Oui
@@ -117,8 +113,7 @@ A la rentrée 2023, 8 lycées ouvrent une classe MP2I en remplacement d'une MPSI
 | Public | La Martinière Monplaisir | Lyon 08 | Oui |
 | Public | La Fayette | Clermont-Ferrand | Oui |
 | Public | Berthollet | Annecy | Oui |
-| Privé | Frédéric Ozanam | Lille | Non | 
-| Public | Pierre Corneille | Rouen | Oui | 
-| Public | Joffre | Montpellier | Oui | 
-| Public | Guy Mollet | Arras | Oui | 
-
+| Privé | Frédéric Ozanam | Lille | Non |
+| Public | Pierre Corneille | Rouen | Oui |
+| Public | Joffre | Montpellier | Oui |
+| Public | Guy Mollet | Arras | Oui |
