@@ -100,7 +100,7 @@ Voici la liste des établissements proposant la MP2I, classés par taux d'access
 | Public | Colbert | Tourcoing | 767 | 240 | Oui
 | Public | Franklin Roosevelt | Reims | 1153 | 508 | Oui
 | Public | Charles Coëffin | Baie-Mahault | 230 | 108 | Oui
-| Public | Alain René Lesage | Rouen | 651 | 443 | Oui
+| Public | Alain René Lesage | Vannes | 651 | 443 | Oui
 | Public | Camille Guérin | Poitiers | 799 | 514 | Oui
 | Public | Henri Poincaré | Nancy | 815 | 250 | Oui
 | Public | Leconte de Lisle | Saint-Denis 974 | 160 | 115 | Oui
