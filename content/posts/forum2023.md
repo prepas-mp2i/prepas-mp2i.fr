@@ -6,17 +6,13 @@ date: 2023-01-21T13:30:00+01:00
 
 {{< figure caption="Réalisée par Carole (Aux Lazaristes)" src="/images/affiche_forum_2023.jpg" link="/documents/affiche_forum_2023.pdf" width="60%">}}
 
-{{< admonition info "Organisation en cours" true >}}
-Cette page est incomplète, les informations concernant le forum se rajouteront au fur et à mesure.
-{{< /admonition >}}
-
 ## Présentation
 
 Après une [édition 2022](/posts/forum-2022/) réussie, nous organisons à nouveau un forum virtuel le samedi 18 février 2023.
 En bref, il s'agit d'une journée portes ouvertes virtuelle via des visioconférences, où vous pourrez échanger avec des étudiants en MP2I et MPI de différents établissements. C'est ce qui rend ce forum virtuel unique en son genre !
 
-Cette édition est particulière, car elle accueillera non seulement des étudiants en MP2I mais aussi en deuxième année : MPI !
-Des professeurs interviendront également sur différents stands.
+Cette édition est particulière, car elle accueillera non seulement des étudiants en MP2I mais aussi en deuxième année : MPI.
+Des professeurs interviendront éventuellement sur différents stands.
 
 ## Organisation
 
