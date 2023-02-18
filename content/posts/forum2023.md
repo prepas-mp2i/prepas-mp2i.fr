@@ -18,6 +18,12 @@ En bref, il s'agit d'une journée portes ouvertes virtuelle via des visioconfér
 Cette édition est particulière, car elle accueillera non seulement des étudiants en MP2I mais aussi en deuxième année : MPI.
 Des professeurs interviendront éventuellement sur différents stands.
 
+### Retour en image
+
+{{< figure src="/images/salle5_forum_2023.png" width="100%"
+    title="Stand 5 du forum 2023"
+    caption="Antonin, Hugo, Oscar et Margaux répondents aux questions posées par les lycéens" >}}
+
 ## Organisation
 
 Le forum des étudiants et étudiantes en MP2I/MPI se tiendra **le samedi 18 février 2023** de **14h** à **18h**.
