@@ -30,6 +30,10 @@ Vous trouverez ci-dessous les liens vers les différentes visioconférences :
 | [Accueil](https://visio-agents.education.fr/meeting/signin/173035/creator/96179/hash/4ea91a86df0b01f4604f24340e26386b80902a9f) | [Stand 1](https://visio-agents.education.fr/meeting/signin/173016/creator/96179/hash/5ffb83b8c8d250281f5eeb1b7db456491fca5361) | [Stand 2](https://visio-agents.education.fr/meeting/signin/173019/creator/96179/hash/e056a701f6b4b1b2b24f0b4ea292abe252702141) | [Stand 3](https://visio-agents.education.fr/meeting/signin/173021/creator/96179/hash/98ea85dd3cf04b6b0981fe051af0dd28aa1a63f4) | [Stand 4](https://visio-agents.education.fr/meeting/signin/173029/creator/96179/hash/d234d57a5971ee71e49fef1aaf1e44c9bab266da) | [Stand 5](https://visio-agents.education.fr/meeting/signin/173025/creator/96179/hash/d4eb6b3336325c361d40c15af8ff92c0cc208a51) | [Stand 6](https://visio-agents.education.fr/meeting/signin/173027/creator/96179/hash/a70a8d876d6de8c7dcecfb3e66e8362cc34850eb) |
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 
+{{< admonition warning "Fermeture des stands 1 et 2 après 17h" true >}}
+Le stands 1 et 2 seront fermés après 17h, les intervenants des établissements concernés se déplaceront dans les stands 3 à 6.
+{{< /admonition >}}
+
 À vous de choisir le stand selon le planning ci-dessus, ils seront accessibles à partir de 14h. Si vous rencontrez un quelconque problème pour vous connecter [contactez-nous](https://prepas-mp2i.fr/contact/) par Discord ou par mail.
 
 ## Intervenants
