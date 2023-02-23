@@ -5,7 +5,8 @@ date: 2023-01-21T13:30:00+01:00
 ---
 
 {{< admonition info "Forum terminé" >}}
-Le forum 2023 est terminé ! Vous pouvez télécharger [le diaporama](/documents/diaporama_forum_2023.pdf) utilisé comme support en PDF.
+Le forum 2023 est terminé ! Comme l'année dernière, ce ne sont pas moins de 300 élèves ou parents d'élèves qui y ont assisté.
+Vous pouvez télécharger [le diaporama](/documents/diaporama_forum_2023.pdf) utilisé comme support en PDF.
 {{< /admonition >}}
 
 {{< figure caption="Réalisée par Carole (Aux Lazaristes)" src="/images/affiche_forum_2023.jpg" link="/documents/affiche_forum_2023.pdf" width="60%">}}
