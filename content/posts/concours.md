@@ -89,7 +89,7 @@ Un minimum de [75 places](https://www.concoursminesponts.fr/page-8/) (dont 15 po
 
 - Durée de 3h30 sur machine
 - 12 candidats en même temps pour 3-4 interrogateurs
-- Dialogue scientifique entre le candidat et l'interrogateur pour évaluer la réactivité du candidat face un problème pas trop guidé. Les questions sont du type "comment implémenter telle structure ?" "comment résoudre tel problème ?"...)
+- Dialogue scientifique entre le candidat et l'interrogateur pour évaluer la réactivité du candidat face un problème pas trop guidé. Les questions sont du type "comment implémenter telle structure ?" "comment résoudre tel problème ?"...
 - Possibilité d'une évaluation au tableau ou sur feuille sur des questions théoriques durant une partie de l'oral.
 
 ## Concours Mines-Télécom
