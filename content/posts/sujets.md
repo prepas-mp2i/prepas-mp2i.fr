@@ -8,12 +8,13 @@ draft: false
 
 ### X/ENS
 
-| Matière (coeff) | Sujet | Rapport |
-|:---------------:|:-----:|:-------:|
-| Mathématiques A (11) | [Sujet](/documents/sujets/2022/X_MATHS_A.pdf) | À venir |
-| Mathématiques B (11) | [Sujet](/documents/sujets/2022/X_MATHS_B.pdf) | À venir |
-| Informatique C (12) | [Sujet](/documents/sujets/2022/X_INFO_C.pdf) | À venir |
-| Physique (11) | [Sujet](/documents/sujets/2022/X_PHYSIQUE.pdf) | À venir |
+| Matière | Sujet | Rapport |
+|:-------:|:-----:|:-------:|
+| Mathématiques A | [Sujet](/documents/sujets/2022/X_MATHS_A.pdf) | À venir |
+| Mathématiques B | [Sujet](/documents/sujets/2022/X_MATHS_B.pdf) | À venir |
+| Informatique A | [Sujet](/documents/sujets/2022/X_INFO_A.pdf) | À venir |
+| Informatique C | [Sujet](/documents/sujets/2022/X_INFO_C.pdf) | À venir |
+| Physique | [Sujet](/documents/sujets/2022/X_PHYSIQUE.pdf) | À venir |
 
 ### CCINP
 
