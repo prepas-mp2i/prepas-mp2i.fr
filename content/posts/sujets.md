@@ -12,15 +12,15 @@ Explorer les [sujets par filière](https://gargantua.polytechnique.fr/siatel-web
 
 | Matière | Sujet | Rapport |
 |:-------:|:-----:|:-------:|
-| Mathématiques A | [Sujet](/documents/sujets/2023/XLSR_MATHS_A.pdf) | À venir |
-| Mathématiques B | [Sujet](/documents/sujets/2023/X_MATHS_B.pdf) | À venir |
-| Informatique A | [Sujet](/documents/sujets/2023/XULSR_INFO_A.pdf) | À venir |
-| Informatique C | [Sujet](/documents/sujets/2023/XULSR_INFO_C.pdf) | À venir |
-| Physique | [Sujet](/documents/sujets/2023/X_PHYSIQUE.pdf) | À venir |
-| Français | [Sujet](/documents/sujets/2023/XEULSR_FRANCAIS.pdf) | À venir |
+| Mathématiques A | [![XLSR_MATHS_A.pdf](/icons/download.ico)](/documents/sujets/2023/XLSR_MATHS_A.pdf) | À venir |
+| Mathématiques B | [![X_MATHS_B.pdf](/icons/download.ico)](/documents/sujets/2023/X_MATHS_B.pdf) | À venir |
+| Informatique A | [![XULSR_INFO_A.pdf](/icons/download.ico)](/documents/sujets/2023/XULSR_INFO_A.pdf) | À venir |
+| Informatique C | [![XULSR_INFO_C.pdf](/icons/download.ico)](/documents/sujets/2023/XULSR_INFO_C.pdf) | À venir |
+| Physique | [![X_PHYSIQUE.pdf](/icons/download.ico)](/documents/sujets/2023/X_PHYSIQUE.pdf) | À venir |
+| Français | [![XEULSR_FRANCAIS.pdf](/icons/download.ico)](/documents/sujets/2023/XEULSR_FRANCAIS.pdf) | À venir |
 | Anglais | À venir | À venir |
-| Allemand | [Sujet](/documents/sujets/2023/XEULSR_ALLEMAND.pdf) | À venir |
-| Espagnol | [Sujet](/documents/sujets/2023/XEULSR_ESPAGNOL.pdf) | À venir |
+| Allemand | [![XEULSR_ALLEMAND.pdf](/icons/download.ico)](/documents/sujets/2023/XEULSR_ALLEMAND.pdf) | À venir |
+| Espagnol | [![XEULSR_ESPAGNOL.pdf](/icons/download.ico)](/documents/sujets/2023/XEULSR_ESPAGNOL.pdf) | À venir |
 
 ### CCINP
 
@@ -28,9 +28,9 @@ Voir la page [épreuves écrites](https://www.concours-commun-inp.fr/fr/epreuves
 
 | Matière (coeff) | Sujet | Rapport |
 |:---------------:|:-----:|:-------:|
-| Mathématiques 1 (11) | [Sujet](/documents/sujets/2023/CCINP_MATHS_1.pdf) | À venir |
-| Mathématiques 2 (11) | [Sujet](/documents/sujets/2023/CCINP_MATHS_2.pdf) | À venir |
-| Informatique (12) | [Sujet](/documents/sujets/2023/CCINP_INFO1.pdf) | À venir |
-| Physique-Chimie (11) | [Sujet](/documents/sujets/2023/CCINP_PHYSCHIMIE.pdf) | À venir |
-| Français-Philosophie (9) | [Sujet](/documents/sujets/2023/CCINP_FRPHILO.pdf) | À venir |
-| Anglais LVA (4) | [Sujet](/documents/sujets/2023/CCINP_ANGLAIS_LVA.pdf) | À venir |
+| Mathématiques 1 (11) | [![CCINP_MATHS_1.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_MATHS_1.pdf) | À venir |
+| Mathématiques 2 (11) | [![CCINP_MATHS_2.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_MATHS_2.pdf) | À venir |
+| Informatique (12) | [![CCINP_INFO.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_INFO.pdf) | À venir |
+| Physique-Chimie (11) | [![CCINP_PHYSCHIMIE.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_PHYSCHIMIE.pdf) | À venir |
+| Français-Philosophie (9) | [![CCINP_FRPHILO.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_FRPHILO.pdf) | À venir |
+| Anglais LVA (4) | [![CCINP_ANGLAIS_LVA.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_ANGLAIS_LVA.pdf) | À venir |
