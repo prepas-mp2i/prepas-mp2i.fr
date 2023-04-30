@@ -17,6 +17,10 @@ Explorer les [sujets par filière](https://gargantua.polytechnique.fr/siatel-web
 | Informatique A | [Sujet](/documents/sujets/2023/XULSR_INFO_A.pdf) | À venir |
 | Informatique C | [Sujet](/documents/sujets/2023/XULSR_INFO_C.pdf) | À venir |
 | Physique | [Sujet](/documents/sujets/2023/X_PHYSIQUE.pdf) | À venir |
+| Français | [Sujet](/documents/sujets/2023/XEULSR_FRANCAIS.pdf) | À venir |
+| Anglais | À venir | À venir |
+| Allemand | [Sujet](/documents/sujets/2023/XEULSR_ALLEMAND.pdf) | À venir |
+| Espagnol | [Sujet](/documents/sujets/2023/XEULSR_ESPAGNOL.pdf) | À venir |
 
 ### CCINP
 
