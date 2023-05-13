@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Prépas MP2I"
+title = "Prépas MP2I/MPI"
 theme = "LoveIt"
 defaultContentLanguage = "fr"
 languageCode = "fr"
@@ -56,7 +56,7 @@ enableGitInfo = true
   dateFormat = "02/01/2006"
 
   [params.app]
-    title = "Prépas MP2I"
+    title = "Prépas MP2I/MPI"
     noFavicon = false
     themeColor = "#ffffff"
     iconColor = "#5bbad5"
@@ -75,7 +75,7 @@ enableGitInfo = true
 
     [params.header.title]
       logo = ""
-      name = "PREPAS MP2I"
+      name = "PREPAS MP2I/MPI"
       # add extra information before the name (HTML supported), such as icons
       pre = """<img src='/images/logo.png' alt='Logo' height=25px 
                     style='margin-bottom:-5px;margin-right:5px'>"""
@@ -103,7 +103,7 @@ enableGitInfo = true
     [params.home.profile]
       enable = true
       avatarURL = "/images/logo.png"
-      title = "Prépas MP2I"
+      title = "Prépas MP2I/MPI"
       subtitle = "Bienvenue sur le site des classes préparatoires MP2I !"
       typeit = true
       social = true
@@ -142,7 +142,7 @@ enableGitInfo = true
   pages = '/:filename'
 
 [author]
-  name = " Étudiants en MP2I"
+  name = " Étudiants en MP2I/MPI"
   email = "contact@prepas-mp2i.fr"
 
 [markup]

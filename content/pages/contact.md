@@ -62,4 +62,3 @@ Rejoignez notre serveur via ce magnifique bouton :
 ## Participer
 
 Si vous souhaitez participer au projet vous pouvez fork le projet sur [Github](https://github.com/prepas-mp2i/prepas-mp2i.fr).
-<https://github.com/prepas-mp2i/prepas-mp2i.fr>
