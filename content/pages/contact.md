@@ -49,6 +49,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Saint-Louis | Paris 06 | [fusetim.log@gmx.com](mailto:fusetim.log@gmx.com)
 | Thiers | Marseille 01 | [camille_fabre26@protonmail.com](mailto:camille_fabre26@protonmail.com)
 | Victor Hugo | Besançon | [alexis.chavy@protonmail.com](mailto:alexis.chavy@protonmail.com)
+| Lesage | Vannes | [victorjean2@icloud.com](mailto:victorjean2@icloud.com)
 
 ## Discord
 
