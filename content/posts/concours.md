@@ -1,5 +1,6 @@
 ---
-title: "Concours MPI 2023"
+title: Concours MPI
+subtitle: Découvrir les places, les écoles
 date: 2022-07-10T13:59:24+02:00
 draft: true
 ---

@@ -19,8 +19,6 @@ Explorer les [sujets par filière](https://gargantua.polytechnique.fr/siatel-web
 | Physique | [![X_PHYSIQUE.pdf](/icons/download.ico)](/documents/sujets/2023/X_PHYSIQUE.pdf) | À venir |
 | Français | [![XEULSR_FRANCAIS.pdf](/icons/download.ico)](/documents/sujets/2023/XEULSR_FRANCAIS.pdf) | À venir |
 | Anglais | À venir | À venir |
-| Allemand | [![XEULSR_ALLEMAND.pdf](/icons/download.ico)](/documents/sujets/2023/XEULSR_ALLEMAND.pdf) | À venir |
-| Espagnol | [![XEULSR_ESPAGNOL.pdf](/icons/download.ico)](/documents/sujets/2023/XEULSR_ESPAGNOL.pdf) | À venir |
 
 ### CCINP
 
@@ -35,7 +33,7 @@ Voir la page [épreuves écrites](https://www.concours-commun-inp.fr/fr/epreuves
 | Français-Philosophie (9) | [![CCINP_FRPHILO.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_FRPHILO.pdf) | À venir |
 | Anglais LVA (4) | [![CCINP_ANGLAIS_LVA.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_ANGLAIS_LVA.pdf) | À venir |
 
-### CCMP
+### Concours Commun Mines-Ponts
 
 Voir la page [annales](https://www.concoursminesponts.fr/page-6/) du site du concours CCMP.
 
@@ -49,4 +47,3 @@ Voir la page [annales](https://www.concoursminesponts.fr/page-6/) du site du con
 | Physique 2 (3)           | [![CCMP_Physique-MPI-2.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Physique-MPI-2.pdf)         | À venir |
 | Français-Philosophie (5) | [![CCMP_Francais.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Francais.pdf)                     | À venir |
 | Langues (3)              | [![CCMP_Langues.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Langues.pdf)                       | À venir |
-
