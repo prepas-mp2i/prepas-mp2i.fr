@@ -20,18 +20,19 @@ Explorer les [sujets par filière](https://gargantua.polytechnique.fr/siatel-web
 | Français | [![XEULSR_FRANCAIS.pdf](/icons/download.ico)](/documents/sujets/2023/XEULSR_FRANCAIS.pdf) | À venir |
 | Anglais | À venir | À venir |
 
-### CCINP
+### Centrale
 
-Voir la page [épreuves écrites](https://www.concours-commun-inp.fr/fr/epreuves/les-epreuves-ecrites.html) du site du concours CCINP.
+L'ensemble des sujets MPI disponibles [ici](https://www.concours-centrale-supelec.fr/CentraleSupelec/2023/MPI/sujets).
 
-| Matière (coeff) | Sujet | Rapport |
-|:---------------:|:-----:|:-------:|
-| Mathématiques 1 (11) | [![CCINP_MATHS_1.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_MATHS_1.pdf) | À venir |
-| Mathématiques 2 (11) | [![CCINP_MATHS_2.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_MATHS_2.pdf) | À venir |
-| Informatique (12) | [![CCINP_INFO.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_INFO.pdf) | À venir |
-| Physique-Chimie (11) | [![CCINP_PHYSCHIMIE.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_PHYSCHIMIE.pdf) | À venir |
-| Français-Philosophie (9) | [![CCINP_FRPHILO.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_FRPHILO.pdf) | À venir |
-| Anglais LVA (4) | [![CCINP_ANGLAIS_LVA.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_ANGLAIS_LVA.pdf) | À venir |
+| Matière | Sujet | Rapport |
+|:-------:|:-----:|:-------:|
+| Mathématiques 1 | [![Centrale_Maths1.pdf](/icons/download)](/documents/sujets/2023/Centrale_Maths1.pdf) | À venir |
+| Mathématiques 2 | [![Centrale_Maths2.pdf](/icons/download)](/documents/sujets/2023/Centrale_Maths2.pdf) | À venir |
+| Informatique | [![Centrale_Info.pdf](/icons/download)](/documents/sujets/2023/Centrale_Info.pdf) | À venir |
+| Physique 1 | [![Centrale_Phys1.pdf](/icons/download)](/documents/sujets/2023/Centrale_Phys1.pdf) | À venir |
+| Physique 2 | [![Centrale_Phys2.pdf](/icons/download)](/documents/sujets/2023/Centrale_Phys2.pdf) (document réponse : [![Centrale_Phys2_DocRep.pdf](/icons/download)](/documents/sujets/2023/Centrale_Phys2_DocRep.pdf))| À venir |
+| MFrançais-Philosophie | [![Centrale_FraPhilo.pdf](/icons/download)](/documents/sujets/2023/Centrale_FraPhilo.pdf) | À venir |
+| Anglais | [![Centrale_Maths1.pdf](/icons/download)](/documents/sujets/2023/Centrale_Anglais.pdf) | À venir |
 
 ### Concours Commun Mines-Ponts
 
@@ -47,3 +48,17 @@ Voir la page [annales](https://www.concoursminesponts.fr/page-6/) du site du con
 | Physique 2 (3)           | [![CCMP_Physique-MPI-2.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Physique-MPI-2.pdf)         | À venir |
 | Français-Philosophie (5) | [![CCMP_Francais.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Francais.pdf)                     | À venir |
 | Langues (3)              | [![CCMP_Langues.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Langues.pdf)                       | À venir |
+
+
+### CCINP
+
+Voir la page [épreuves écrites](https://www.concours-commun-inp.fr/fr/epreuves/les-epreuves-ecrites.html) du site du concours CCINP.
+
+| Matière (coeff) | Sujet | Rapport |
+|:---------------:|:-----:|:-------:|
+| Mathématiques 1 (11) | [![CCINP_MATHS_1.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_MATHS_1.pdf) | À venir |
+| Mathématiques 2 (11) | [![CCINP_MATHS_2.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_MATHS_2.pdf) | À venir |
+| Informatique (12) | [![CCINP_INFO.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_INFO.pdf) | À venir |
+| Physique-Chimie (11) | [![CCINP_PHYSCHIMIE.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_PHYSCHIMIE.pdf) | À venir |
+| Français-Philosophie (9) | [![CCINP_FRPHILO.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_FRPHILO.pdf) | À venir |
+| Anglais LVA (4) | [![CCINP_ANGLAIS_LVA.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_ANGLAIS_LVA.pdf) | À venir |
