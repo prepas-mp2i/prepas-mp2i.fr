@@ -57,4 +57,9 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 Vous souhaitez discuter avec des étudiants en MP2I ?
 Rejoignez notre serveur via ce magnifique bouton :
 
-{{< figure src="https://discordapp.com/api/guilds/872138069594214410/widget.png?style=banner2" alt="Discord" link="https://discord.gg/9p49Z5ZNtH" target="_blank" >}}
+{{< figure src="<https://discordapp.com/api/guilds/872138069594214410/widget.png?style=banner2>" alt="Discord" link="<https://discord.gg/9p49Z5ZNtH>" target="_blank" >}}
+
+## Participer
+
+Si vous souhaitez participer au projet vous pouvez fork le projet sur [Github](https://github.com/prepas-mp2i/prepas-mp2i.fr).
+<https://github.com/prepas-mp2i/prepas-mp2i.fr>

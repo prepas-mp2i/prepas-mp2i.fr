@@ -26,13 +26,13 @@ L'ensemble des sujets MPI disponibles [ici](https://www.concours-centrale-supele
 
 | Matière | Sujet | Rapport |
 |:-------:|:-----:|:-------:|
-| Mathématiques 1 | [![Centrale_Maths1.pdf](/icons/download)](/documents/sujets/2023/Centrale_Maths1.pdf) | À venir |
-| Mathématiques 2 | [![Centrale_Maths2.pdf](/icons/download)](/documents/sujets/2023/Centrale_Maths2.pdf) | À venir |
-| Informatique | [![Centrale_Info.pdf](/icons/download)](/documents/sujets/2023/Centrale_Info.pdf) | À venir |
-| Physique 1 | [![Centrale_Phys1.pdf](/icons/download)](/documents/sujets/2023/Centrale_Phys1.pdf) | À venir |
-| Physique 2 | [![Centrale_Phys2.pdf](/icons/download)](/documents/sujets/2023/Centrale_Phys2.pdf) (document réponse : [![Centrale_Phys2_DocRep.pdf](/icons/download)](/documents/sujets/2023/Centrale_Phys2_DocRep.pdf))| À venir |
-| MFrançais-Philosophie | [![Centrale_FraPhilo.pdf](/icons/download)](/documents/sujets/2023/Centrale_FraPhilo.pdf) | À venir |
-| Anglais | [![Centrale_Maths1.pdf](/icons/download)](/documents/sujets/2023/Centrale_Anglais.pdf) | À venir |
+| Mathématiques 1 | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Maths1.pdf) | À venir |
+| Mathématiques 2 | [![Centrale_Maths2.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Maths2.pdf) | À venir |
+| Informatique | [![Centrale_Info.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Info.pdf) | À venir |
+| Physique 1 | [![Centrale_Phys1.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Phys1.pdf) | À venir |
+| Physique 2 | [![Centrale_Phys2.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Phys2.pdf) | À venir |
+| MFrançais-Philosophie | [![Centrale_FraPhilo.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_FraPhilo.pdf) | À venir |
+| Anglais | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Anglais.pdf) | À venir |
 
 ### Concours Commun Mines-Ponts
 
@@ -48,7 +48,6 @@ Voir la page [annales](https://www.concoursminesponts.fr/page-6/) du site du con
 | Physique 2 (3)           | [![CCMP_Physique-MPI-2.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Physique-MPI-2.pdf)         | À venir |
 | Français-Philosophie (5) | [![CCMP_Francais.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Francais.pdf)                     | À venir |
 | Langues (3)              | [![CCMP_Langues.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Langues.pdf)                       | À venir |
-
 
 ### CCINP
 
