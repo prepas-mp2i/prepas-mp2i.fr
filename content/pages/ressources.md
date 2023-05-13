@@ -1,6 +1,6 @@
 ---
 title: "Liens, livres et concours recommandés"
-subtitle: "S'interesser, apprendre et s'exercer"
+subtitle: "S'intéresser, apprendre et s'exercer"
 date: 2021-12-20T00:09:11+01:00
 ---
 
@@ -33,7 +33,7 @@ La curiosité, la capacité d'émerveillement est une grande motivation à l'ent
 
 **Apprendre**, là aussi inévitable, l'apprentissage de nouveaux contenus, de nouvelles méthodes est un point clé de la réussite scientifique.
 
-* [Introduction to Algorithms] (Cormen, Rivest, Leiserson, Stein) est une référence dans son domaine ! Ce livre un peu imposant couvre toutes les notions d'algorithmique du programme de MP2I, et bien plus. Il contient des preuves détaillés, les algos sont écrit en pseudo code de manière claire et concise. Une édition en français est disponible chez Dunod : [Algorithmique](https://www.dunod.com/sciences-techniques/algorithmique-cours-avec-957-exercices-et-158-problemes).
+* [Introduction to Algorithms] (Cormen, Rivest, Leiserson, Stein) est une référence dans son domaine ! Ce livre un peu imposant couvre toutes les notions d'algorithmique du programme de MP2I, et bien plus. Il contient des preuves détaillées, les algos sont écrits en pseudo code de manière claire et concise. Une édition en français est disponible chez Dunod : [Algorithmique](https://www.dunod.com/sciences-techniques/algorithmique-cours-avec-957-exercices-et-158-problemes).
 
 ## Sites webs
 
@@ -60,18 +60,18 @@ De nombreux sites web proposent du contenu de qualité, ce sont des ressources i
 
 ### Algorithmique et programmation
 
-* [France-IOI] est un site proposant à travers de nombreux exercices d'apprendre la programmation et l'algorithmique. Les exercices sont de niveau extrêmement varié et chacun pourra progresser grâce à ce site.
+* [France-IOI] est un site proposant à travers de nombreux exercices d'apprendre la programmation et l'algorithmique. Les exercices sont de niveaux extrêmement variés et chacun pourra progresser grâce à ce site.
 
-* [Le projet Euler] est une collection de problèmes entre info et maths. Si vous aimez les nombres (arithmetique, nombres premiers ...) et coder pour résoudre des problèmes, ce site est fait pour vous ! Il y a plus de 700 problèmes, allant de très facile à clairement infaisable.
+* [Le projet Euler] est une collection de problèmes entre info et maths. Si vous aimez les nombres (arithmétique, nombres premiers ...) et coder pour résoudre des problèmes, ce site est fait pour vous ! Il y a plus de 700 problèmes, allant de très facile à clairement infaisable.
 
 ### Prépa Shelter
 
 Pour vous aider dans vos études, le site [prepashelter.com](https://prepashelter.com/) créé par un ancien étudiant propose entre autres:
 
-* Des annales de concours corrigées par des professeurs de Ginette pour vous préparer aux écrits.
-* Des offres de cours particuliers pour vous aider à progresser en mathématiques et en physique,
-* Des sujets classiques d’oraux qui retombent chaque année aux concours X-ENS, Centrale-Supélec et Mines-Ponts (donnés aux élèves de Ginette, LLG, H4 et St-Louis) pour vous préparer aux oraux,
-* Des TDs corrigés comportant l’essentiel des techniques à connaître pour vous aider à aborder les écrits,
+* Des annales de concours corrigées par des professeurs de Ginette pour vous préparer aux écrits ;
+* Des offres de cours particuliers pour vous aider à progresser en mathématiques et en physique ;
+* Des sujets classiques d’oraux qui retombent chaque année aux concours X-ENS, Centrale-Supélec et Mines-Ponts (donnés aux élèves de Ginette, LLG, H4 et St-Louis) pour vous préparer aux oraux ;
+* Des TDs corrigés comportant l’essentiel des techniques à connaître pour vous aider à aborder les écrits ;
 * Des outils et logiciels divers très utiles en prépa.
 
 Un [serveur Discord](https://discord.gg/TGQSrnCxK2) est mis à disposition pour vous aider.
@@ -90,10 +90,9 @@ Un [serveur Discord](https://discord.gg/TGQSrnCxK2) est mis à disposition pour 
 [Algoréa]: https://algorea.org/#/
 [Marathon d'Orsay de Mathematiques]: https://www.imo.universite-paris-saclay.fr/marathon/
 
-Les concours sont un excellement moyen de progresser en se questionnant sur des exercices que l'on ne sait pas toujours résoudre. C'est également l'occasion de se tester, et se mesurer aux autres participants.
+Les concours sont un excellent moyen de progresser en se questionnant sur des exercices que l'on ne sait pas toujours résoudre. C'est également l'occasion de se tester, et de se mesurer aux autres participants.
 
-Enfin, la participation à des concours et notamment de bons résultats à ceux-ci est un véritable atout pour votre dossier car
-il vous permet de vous distinguer des autres candidats.
+Enfin, la participation à des concours et notamment de bons résultats à ceux-ci est un véritable atout pour votre dossier car il vous permet de vous distinguer des autres candidats.
 
 * [Olympiades de Mathématiques] : Accessibles pour les élèves de Première, les Olympiades de maths sont composées d'un sujet national (2h) et d'un sujet académique (2h).
 
