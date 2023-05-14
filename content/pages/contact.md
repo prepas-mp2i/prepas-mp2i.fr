@@ -25,7 +25,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 |:----------------------:|:-------------:|:-------------:|
 | Aux Lazaristes | Lyon 05 | [indisponible](mailto:)
 | Carnot | Dijon | [margaux.richard@protonmail.com](mailto:margaux.richard@protonmail.com)
-| Champollion | Grenoble | [ganda7212@protonmail.com](mailto:ganda7212@protonmail.com)
+| Champollion | Grenoble | [atsdevou@gmail.com](mailto:atsdevou@gmail.com)
 | Charles Coëffin | Baie-Malhaut  | [indisponible](mailto:)
 | Claude Fauriel | Saint-Etienne | [mathiasr07@hotmail.fr](mailto:mathiasr07@hotmail.fr)
 | Clemenceau | Nantes | [gueguenpierre.pro@gmail.com](mailto:gueguenpierre.pro@gmail.com)
