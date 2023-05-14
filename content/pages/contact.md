@@ -28,7 +28,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Champollion | Grenoble | [ganda7212@protonmail.com](mailto:ganda7212@protonmail.com)
 | Charles Coëffin | Baie-Malhaut  | [indisponible](mailto:)
 | Claude Fauriel | Saint-Etienne | [mathiasr07@hotmail.fr](mailto:mathiasr07@hotmail.fr)
-| Clemenceau | Nantes | [corentin.boutault@gmail.com](mailto:corentin.boutault@gmail.com)
+| Clemenceau | Nantes | [gueguenpierre.pro@gmail.com](mailto:gueguenpierre.pro@gmail.com)
 | Colbert | Tourcoing | [indisponible](mailto:)
 | Descartes | Tours | [louis-max.h@protonmail.com](mailto:louis-max.h@protonmail.com)
 | Faidherbe | Lille | [clement@cr-dev.io](mailto:clement@cr-dev.io)
