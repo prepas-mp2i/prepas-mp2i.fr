@@ -5,7 +5,7 @@ date: 2021-12-20T00:07:53+01:00
 
 Nous sommes des étudiants actuellement en MP2I/MPI provenant des quatre coins de la France. Notre objectif en créant ce site est d'aider les futurs bacheliers à faire leur choix concernant leur orientation, mais aussi de présenter, de notre point de vue, cette filière encore méconnue qui fait maintenant partie de notre quotidien.
 
-Vous êtes intéressé.e par les prépas scientifiques et/ou par la MP2I/MPI ? N'attendez plus, venez découvrir l'entièreté de ce site !
+Vous êtes intéressé.e par les prépas scientifiques et/ou par la MP2I ? N'attendez plus, venez découvrir l'entièreté de ce site !
 
 ## Nous contacter
 
@@ -56,8 +56,9 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 **Prépas MP2I/MPI** c'est aussi une grande communauté sur Discord !
 Vous souhaitez discuter avec des étudiants de la filière ?
 Rejoignez notre serveur via ce magnifique bouton :
-
-{{< figure src="<https://discordapp.com/api/guilds/872138069594214410/widget.png?style=banner2>" alt="Discord" link="<https://discord.gg/9p49Z5ZNtH>" target="_blank" >}}
+{{< center >}}
+[![Discord](https://discordapp.com/api/guilds/872138069594214410/widget.png?style=banner2)](https://discord.gg/9p49Z5ZNtH)
+{{< /center >}}
 
 ## Participer
 

@@ -14,17 +14,13 @@ En plus, il y a très très peu de devoirs à faire en dehors des cours pour la 
 
 Note: La LVB peut être obligatoire dans certains établissements
 
-{{< style "text-align:right; font-style:italic;" >}}
-Victor G., MP2I lycée Descartes, Tours (2021)
-{{< /style >}}
+{{< right >}} *Victor G., MP2I lycée Descartes, Tours (2021)* {{< /right >}}
 {{< /admonition >}}
 
 {{< admonition note "Pourquoi as-tu choisi l'option SI plutôt qu'info ?" false >}}
 N'ayant pas vraiment de préférence en particulier pour l'une ou l'autre matière je me suis surtout basée sur mon projet professionnel qui est de travailler dans le domaine spatial. Donc la SI convenait mieux que l'informatique, ainsi qu'une filière MP-PSI plutôt que MPI.
 
-{{< style "text-align:right; font-style:italic;" >}}
-Lou Ann, MP2I lycée Champollion, Grenoble (2021)
-{{< /style >}}
+{{< right >}} *Lou Ann, MP2I lycée Champollion, Grenoble (2021)* {{< /right >}}
 {{< /admonition >}}
 
 ## Les étudiants
@@ -34,9 +30,7 @@ Non on est 4 (en moyenne 4.5 filles par classe) et il y en a une qui part en SI.
 On s'intègre bien et on est tellement peu, que les profs sont attentifs à ce qu'il n'y ait pas de remarques/blagues lourdes.
 De toute façon, en MP2I on n'est pas sur des mâles alphas oppresseurs. Donc n'ayez pas peur les filles, venez en MP2I, même si vous n'êtes pas des pures nerds, il y a de la place pour vous, ne vous censurez pas.
 
-{{< style "text-align:right; font-style:italic;" >}}
-Garance, MP2I lycée Champollion, Grenoble (2021)
-{{< /style >}}
+{{< right >}} *Garance, MP2I lycée Champollion, Grenoble (2021)* {{< /right >}}
 {{< /admonition >}}
 
 {{< admonition note "T'es-tu fait des copains/copines ?" false >}}
@@ -44,9 +38,7 @@ Oui évidemment, on côtoie des gens qui nous ressemblent et qui ont souvent le 
 Ce sont de véritables soutiens, et on se remonte le moral ensemble, il n'y a pas de compétition entre nous.
 On sait qu'on est ensemble contre le reste des prépas et puis quand on est dans les 10 derniers, on espère que notre pote le majorant aura l'X pour représenter la prépa.
 
-{{< style "text-align:right; font-style:italic;" >}}
-Garance, MP2I lycée Champollion, Grenoble (2021)
-{{< /style >}}
+{{< right >}} *Garance, MP2I lycée Champollion, Grenoble (2021)* {{< /right >}}
 {{< /admonition >}}
 
 ## L'environnement
@@ -57,9 +49,7 @@ Ainsi, il faut toujours mettre la priorité sur son sommeil, et cela, avant mêm
 Travailler tard pour dormir en cours est contre productif. En général je table sur 8 heures de sommeil.
 Les professeurs, les anciens élèves et moi-même vous l’assurent : le sommeil régulier est la clé.
 
-{{< style "text-align:right; font-style:italic;" >}}
-Pacôme G., MP2I lycée Descartes, Tours (2021)
-{{< /style >}}
+{{< right >}} *Pacôme G., MP2I lycée Descartes, Tours (2021)* {{< /right >}}
 {{< /admonition >}}
 
 {{< admonition note "L'internat est-il un avantage ?" false >}}
@@ -69,9 +59,7 @@ Certains internats, comme celui à Descartes, sont ouverts le week-end ce qui es
 
 De plus, on est avec une partie de sa classe, on peut s'entraider dans les devoirs ou demander à des deuxième années si besoin. Il y a une très bonne ambiance.
 
-{{< style "text-align:right; font-style:italic;" >}}
-Adrien, MP2I lycée Descartes, Tours (2021)
-{{< /style >}}
+{{< right >}} *Adrien, MP2I lycée Descartes, Tours (2021)* {{< /right >}}
 {{< /admonition >}}
 
 ## L'admission
@@ -79,9 +67,7 @@ Adrien, MP2I lycée Descartes, Tours (2021)
 {{< admonition note "Quelles sont les meilleures MP2I ?" false >}}
 La question n'a pas vraiment de sens puisque "meilleures" dépend de chacun, se référer plutôt à "Comment départager mon choix entre les différents lycées ?".
 
-{{< style "text-align:right; font-style:italic;" >}}
-Étudiants en MP2I/MPI
-{{< /style >}}
+{{< right >}} *Étudiants en MP2I/MPI* {{< /right >}}
 {{< /admonition >}}
 
 {{< admonition note "Comment départager mon choix entre les différents lycées ?" false >}}
@@ -89,7 +75,5 @@ Les critères à privilégier pour choisir une MP2I résident dans le cadre de v
 Ainsi, les critères essentiels concernent l'emplacement, le logement, l'accès à un internat (ou un système d'interne-externé), le fait d'être éloigné de ses proches.
 Il faut simplement faire en sorte de réunir les conditions de travail qui vous seront optimales afin de pouvoir vivre sainement et progresser le plus.
 
-{{< style "text-align:right; font-style:italic;" >}}
-Nathan, MPI lycée Sant-Louis, Paris VIe. (2021)
-{{< /style >}}
+{{< right >}} *Nathan, MPI lycée Sant-Louis, Paris VIe. (2021)* {{< /right >}}
 {{< /admonition >}}

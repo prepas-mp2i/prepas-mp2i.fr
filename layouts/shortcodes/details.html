@@ -1,0 +1,11 @@
+{{- if .IsNamedParams -}}
+    <details {{ if .Get "open" | default "false" }} open{{ end }}>
+        <summary>{{ (.Get "title") | markdownify }}</summary>
+        {{ .Inner | markdownify }}
+    </details>
+{{- else -}}
+    <details {{ if (.Get 1) }} open{{ end }}>
+        <summary>{{ (.Get 0) | markdownify }}</summary>
+        {{ .Inner | markdownify }}
+    </details>
+{{- end -}}

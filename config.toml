@@ -49,8 +49,8 @@ enableGitInfo = true
 
 [params]
   version = "0.2.X"
-  description = "Site des classes préparatoires MP2I"
-  keywords = ["Theme", "Hugo", "MP2I", "Prépa"]
+  description = "Site des classes préparatoires MP2I/MPI"
+  keywords = ["Theme", "Hugo", "MP2I", "MPI", "Prépa"]
   defaultTheme = "auto"
   gitRepo = "https://github.com/prepas-mp2i/prepas-mp2i.fr/"
   dateFormat = "02/01/2006"
@@ -104,7 +104,7 @@ enableGitInfo = true
       enable = true
       avatarURL = "/images/logo.png"
       title = "Prépas MP2I/MPI"
-      subtitle = "Bienvenue sur le site des classes préparatoires MP2I !"
+      subtitle = "Bienvenue sur le site des classes préparatoires MP2I/MPI !"
       typeit = true
       social = true
       disclaimer = ""
