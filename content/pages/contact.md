@@ -3,9 +3,9 @@ title: "Qui sommes-nous?"
 date: 2021-12-20T00:07:53+01:00
 ---
 
-Nous sommes des étudiants actuellement en MP2I provenant des quatre coins de la France. Notre objectif en créant ce site est d'aider les futurs bacheliers à faire leur choix concernant leur orientation, mais aussi de présenter, de notre point de vue, cette filière encore méconnue qui fait maintenant partie de notre quotidien.
+Nous sommes des étudiants actuellement en MP2I/MPI provenant des quatre coins de la France. Notre objectif en créant ce site est d'aider les futurs bacheliers à faire leur choix concernant leur orientation, mais aussi de présenter, de notre point de vue, cette filière encore méconnue qui fait maintenant partie de notre quotidien.
 
-Vous êtes intéressé par les prépas scientifiques et/ou par la MP2I ? N'attendez plus, venez découvrir l'entièreté de ce site !
+Vous êtes intéressé.e par les prépas scientifiques et/ou par la MP2I/MPI ? N'attendez plus, venez découvrir l'entièreté de ce site !
 
 ## Nous contacter
 
@@ -19,7 +19,7 @@ Vous pouvez contacter les élèves qui maintiennent ce site en envoyant un mail 
 
 Vous avez une question spécifique à l'un des établissements proposant la formation ?
 
-Voici les mails des étudiants désignés comme représentant de leur établissement pour ce collectif d'étudiants en MP2I, n'hésitez pas à les contacter.
+Voici les mails des étudiants désignés comme représentant de leur établissement pour ce collectif d'étudiants en MP2I/MPI, n'hésitez pas à les contacter.
 
 |         Lycée          |     Ville     |      Mail     |
 |:----------------------:|:-------------:|:-------------:|
@@ -47,14 +47,14 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Paul Valery | Paris 12 | [matteo.delfour@protonmail.com](mailto:matteo.delfour@protonmail.com)
 | Pierre De Fermat | Toulouse | [indisponible](mailto:)
 | Saint-Louis | Paris 06 | [fusetim.log@gmx.com](mailto:fusetim.log@gmx.com)
-| Thiers | Marseille 01 | [camille_fabre26@protonmail.com](mailto:camille_fabre26@protonmail.com)
+| Thiers | Marseille 01 | [indisponible](mailto:)
 | Victor Hugo | Besançon | [alexis.chavy@protonmail.com](mailto:alexis.chavy@protonmail.com)
 | Lesage | Vannes | [victorjean2@icloud.com](mailto:victorjean2@icloud.com)
 
 ## Discord
 
-**Prépas MP2I** c'est aussi une grande communauté sur Discord !
-Vous souhaitez discuter avec des étudiants en MP2I ?
+**Prépas MP2I/MPI** c'est aussi une grande communauté sur Discord !
+Vous souhaitez discuter avec des étudiants de la filière ?
 Rejoignez notre serveur via ce magnifique bouton :
 
 {{< figure src="<https://discordapp.com/api/guilds/872138069594214410/widget.png?style=banner2>" alt="Discord" link="<https://discord.gg/9p49Z5ZNtH>" target="_blank" >}}
