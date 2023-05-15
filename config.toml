@@ -23,8 +23,8 @@ enableGitInfo = true
     weight = 3
   
   [[menu.main]]
-    name = "Ressources"
-    url = "/ressources/"
+    name = "Sujets"
+    url = "/sujets/"
     weight = 4
   
   # EVENT

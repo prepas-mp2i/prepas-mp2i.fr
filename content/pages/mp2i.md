@@ -74,25 +74,13 @@ Comme la MP2I vient d'ouvrir, il y a eu une grande demande pour cette filière a
 Les lycées les plus prestigieux sont donc, pour la plupart, plus difficiles à intégrer en MP2I qu'en MPSI.
 À noter que la filière reste très accessible dans certains établissements, n'hésitez pas à faire de nombreux vœux pour vous retrouver dans une prépa à votre niveau.
 
-Les chiffres cumulés :
+Voici les chiffres cumulés pour l'année 2021:
 
 - Nombre de places : 1048
 - Nombre moyen de voeux formulés par établissement : 1471
 - Nombre moyen de propositions d'admission envoyées : 243
 - Rang moyen du dernier admis : 309
 - Taux d'admission moyen : 24,63%
-
-Lycées avec les plus bas taux d'admission :
-
-- Lycée Louis Le Grand (Paris) : 4,28%
-- Lycée Saint-Louis (Paris) : 9,09%
-- Lycée Hoche (Versailles) : 9,18%
-
-Lycées avec les plus hauts taux d'admission :
-
-- Lycée Charles Coeffin (Baie-Mahault) : 73,79%
-- Lycée Franklin Roosevelt (Reims) : 55,98%
-- Lycée Colbert (Tourcoing) : 54,97%
 
 {{< admonition tip "Pour approfondir " true >}}
 Vous pouvez étudier plus en détail les statisques de Parcoursup concernant la MP2I à [cette adresse](https://colab.research.google.com/drive/1CaLyq1azazLa3682fGXkIn8g3O-qlqdO#scrollTo=IuZEl7m7LYUV).
