@@ -15,13 +15,13 @@ La bonne nouvelle, c'est qu'on est aussi passé par là ! Spécialités privilé
 
 En MP2I, les cours de mathématiques sont ceux qui représentent le plus gros volume horaire. Il est donc indispensable de suivre la spécialité Mathématiques en Première puis en Terminale.
 
-En revanche, il n’est pas obligatoire de choisir l’option Maths Expertes même si elle reste largement conseillée. Ne pas la suivre n’est pas un facteur éliminatoire pour intégrer la plupart des MP2I, mais elle représente tout de même un atout considérable pour un dossier. En effet elle permet de mieux cerner votre niveau en mathématiques et surtout d’attester de votre intérêt pour la matière ainsi que de votre investissement.
+En revanche, il n’est pas obligatoire de choisir l’option Maths Expertes même si elle reste largement conseillée. Ne pas la suivre n’est pas un facteur éliminatoire pour intégrer la plupart des MP2I, mais elle représente tout de même un atout considérable pour un dossier. En effet, elle permet de mieux cerner votre niveau en mathématiques et surtout d’attester de votre intérêt pour la matière ainsi que de votre investissement.
 
 Les cours dispensés en Maths Expertes se rapprochent également plus des cours de prépa. Suivre cette option est donc un bon moyen de commencer à évaluer votre intérêt pour la MP2I et les CPGE scientifiques en général.
 
 ### La NSI et la Physique-Chimie
 
-Hormis quelques rares exceptions, pour intégrer une classe préparatoire scientifique vous devrez avoir suivi au moins deux spécialités scientifiques en Terminale, si possible trois en Première mais ce n’est pas essentiel.
+Hormis quelques rares exceptions, pour intégrer une classe préparatoire scientifique vous devrez avoir suivi au moins deux spécialités scientifiques en Terminale, si possible trois en Première, mais ce n’est pas essentiel.
 
 La MP2I se démarque de la MPSI et de la PCSI car elle repose principalement sur trois matières au lieu de deux : les Mathématiques, la Physique et l’Informatique. Pour mettre toutes les chances de votre côté, il est donc recommandé de choisir les spécialités Physique-Chimie et NSI en classe de première pour ne pas se retrouver plus tard avec de trop grandes lacunes dans l’une ou l’autre des matières.
 
@@ -35,19 +35,19 @@ Une de ces deux spécialités peut être conservée au choix en Terminale. Bien 
 
 ### La MP2I sur Parcoursup
 
-Depuis décembre vous avez accès au catalogue des formations disponibles avec leurs critères de sélection, en quoi elles consistent et leur sélectivité.
+Depuis décembre, vous avez accès au catalogue des formations disponibles avec leurs critères de sélection, en quoi elles consistent et leur sélectivité.
 Fin janvier, vous allez commencer à faire vos vœux, c'est le moment de se renseigner et d'aller aux portes ouvertes, en ligne ou en présentiel, rien de mieux que d'échanger avec les élèves pour se faire une idée de la formation. N'hésitez pas à nous rejoindre sur [le serveur discord de la MP2I](https://discord.com/invite/9p49Z5ZNtH) pour poser vos questions !
 
-Il y a 30 MP2I sur Parcoursup, répertoriées plus bas, cela va de prépas très selectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I si c'est la formation que vous voulez (vous n'irez pas tous et toutes à Louis le Grand soyons réalistes mais il faut garder de l'ambition).
+Il y a 30 MP2I sur Parcoursup, répertoriées plus bas, cela va de prépas très sélectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I si c'est la formation que vous voulez (vous n'irez pas tous et toutes à Louis le Grand soyons réalistes mais il faut garder de l'ambition).
 Si vous faites le choix des formations sélectives comme une prépa, il est très fortement conseillé de demander une licence en parallèle pour éviter de finir sans aucune formation.
 
 {{< admonition info "Ambition" true >}}
-Faites toujours quelques voeux très ambitieux, vous vous sous-estimez peut être. Si vous avez été pris.e dans une prépa très selective, c'est qu'elle considère que vous avez le niveau pour y aller, alors ne vous censurez pas et soyez sûr.es que ces prépas seront ravies de vous acceuillir !
+Faites toujours quelques vœux très ambitieux, vous vous sous-estimez peut-être. Si vous avez été pris.e dans une prépa très sélective, c'est qu'elle considère que vous avez le niveau pour y aller, alors ne vous censurez pas et soyez sûr.es que ces prépas seront ravies de vous acceuillir !
 {{< /admonition >}}
 
 ### Relax
 
-Pas d’inquiétude si vous n’êtes acceptés dans aucune formation durant les premiers jours, les places se libèrent vite. Dans quelques cas certains peuvent recevoir des propositions d’admission après les premiers jours de rentrée et choisir de changer de formation à ce moment, donc ne découragez pas si vous vous retrouvez longtemps en file d’attente, vous avez toujours vos chances.
+Pas d’inquiétude si vous n’êtes acceptés dans aucune formation durant les premiers jours, les places se libèrent vite. Dans quelques cas, certains peuvent recevoir des propositions d’admission après les premiers jours de rentrée et choisir de changer de formation à ce moment, donc ne découragez pas si vous vous retrouvez longtemps en file d’attente, vous avez toujours vos chances.
 
 {{< admonition info "Conseil" true >}}
 Pour pouvoir être plus au clair, et ne pas avoir à choisir une orientation en 48h, il est conseillé de faire un peu avant un classement de ce que vous désirez, pour ne pas être pris au dépourvu.
@@ -57,16 +57,16 @@ Pour comprendre le fonctionnement de Parcoursup à toutes les étapes, allez sur
 
 ### Lettres de motivation et projet de formation motivé
 
-Les lettres de motivation sont très importantes surtout si vous avez un profil particulier (lycée étranger, une spécialité fortement recommandée que vous n'avez pas prise mais dont vous avez rattrapé le programme, si vous êtes au CNED...).
-Le plus important c'est répondre à la question "pourquoi cette filière ?", mettez-vous à la place du jury, dire que vous êtes motivé.e c'est bien mais il en faudra plus pour convaincre. Votre appétence pour telle ou telle science, vos projets, vos ambitions professionnelles etc, sont des critères bien plus importants pour cerner votre profil. Il est également déconseillé de vanter les mérites de l'établissement que vous visez, s'ils sont géniaux, ils le savent, pas besoin de leur dire, vantez plutôt vos qualités. Orthographe correcte exigée évidemment, faites-vous relire par un tiers (prof, parent...).
-Enfin il vaut mieux écrire une lettre de motivation par filière, faire une PCSI ou une MP2I ce n'est pas la même chose.
+Les lettres de motivation sont très importantes, surtout si vous avez un profil particulier (lycée étranger, une spécialité fortement recommandée que vous n'avez pas prise, mais dont vous avez rattrapé le programme, si vous êtes au CNED...).
+Le plus important c'est répondre à la question "pourquoi cette filière ?", mettez-vous à la place du jury, dire que vous êtes motivé.e c'est bien, mais il en faudra plus pour convaincre. Votre appétence pour telle ou telle science, vos projets, vos ambitions professionnelles, etc, sont des critères bien plus importants pour cerner votre profil. Il est également déconseillé de vanter les mérites de l'établissement que vous visez, s'ils sont géniaux, ils le savent, pas besoin de leur dire, vantez plutôt vos qualités. Orthographe correcte exigée évidemment, faites-vous relire par un tiers (prof, parent...).
+Enfin, il vaut mieux écrire une lettre de motivation par filière, faire une PCSI ou une MP2I ce n'est pas la même chose.
 
 <!-- TODO: Les bourses -->
 
-### Les internats comment ça fonctionne ?
+### Les internats, comment ça fonctionne ?
 
 Les critères pour être admis en internat concernent majoritairement les appréciations des bulletins, l’éloignement et les critères sociaux, mais chaque lycée est libre de sélectionner les dossiers selon ses propres critères. Il est fortement conseillé de demander toutes les formations avec et sans internat, ces deux options ne comptant de toute façon que pour un seul sous-vœu.
-Ayez toujours en tête que vous ne serez pas forcément pris à l'internat, regardez les résidence étudiantes alentours et les alternatives économiques existantes proposées dans les lycées, comme le régime interne-externé par exemple.
+Ayez toujours en tête que vous ne serez pas forcément pris à l'internat, regardez les résidences étudiantes alentours et les alternatives économiques existantes proposées dans les lycées, comme le régime interne-externé par exemple.
 
 ## Lycées proposant la filière MP2I
 
