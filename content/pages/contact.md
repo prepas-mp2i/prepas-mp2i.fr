@@ -9,7 +9,7 @@ Vous êtes intéressé.e par les prépas scientifiques et/ou par la MP2I ? N'att
 
 ## Nous contacter
 
-Vous avez tout vu mais il vous reste encore des questions ?
+Vous avez tout vu, mais il vous reste encore des questions ?
 Vous avez une proposition pour améliorer ce site ? Vous avez trouvé une erreur ?
 
 {{< admonition tip "Mail" true >}}
@@ -62,4 +62,4 @@ Rejoignez notre serveur via ce magnifique bouton :
 
 ## Participer
 
-Si vous souhaitez participer au projet vous pouvez fork le projet sur [Github](https://github.com/prepas-mp2i/prepas-mp2i.fr).
+Si vous souhaitez participer au projet, vous pouvez fork le projet sur [Github](https://github.com/prepas-mp2i/prepas-mp2i.fr).
