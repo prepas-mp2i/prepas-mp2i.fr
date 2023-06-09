@@ -10,7 +10,7 @@ Vous vous demandez surement en quoi consiste le cours d'informatique en MP2I, et
 ## Répartition horaire
 
 * Au premier semestre, les cours d'info sont composés de 2h de cours, 1h de *TP* et 1h de *TD*
-* Si vous choisissez de continuer l'informatique, vous aurez 2h de cours supplémentaire (ce qui fait 4h de cours au second semestre et en 2eme année)
+* Si vous choisissez de continuer l'informatique, vous aurez 2h de cours supplémentaire (ce qui fait 4h de cours au second semestre et en 2ᵉ année)
 
 {{< admonition info "Répartition horaire" true >}}
 **Cours** : cours théorique en classe entière, comme en maths.
@@ -20,18 +20,18 @@ Vous vous demandez surement en quoi consiste le cours d'informatique en MP2I, et
 **TP** : travail sur machine pour implémenter ce que vous avez vu en cours: c'est là où on code !
 {{< /admonition >}}
 
-Remarquez que ce nombre d'heures peut varier: ce n'est pas rare qu'un prof d'informatique rajoute des heures de TP pour vous faire plus pratiquer en début d'année par exemple !
+Remarquez que ce nombre d'heures peut varier : ce n'est pas rare qu'un prof d'informatique rajoute des heures de TP pour vous faire plus pratiquer en début d'année par exemple !
 
 ## La théorie
 
 La première chose à comprendre est que ce cours d'informatique est principalement **théorique**.
 
-La plupart des notions abordées font d'ailleurs plus précisément partie de l'*algorithmique*, c'est à dire l'étude des algorithmes.
+La plupart des notions abordées font d'ailleurs plus précisément partie de l'*algorithmique*, c'est-à-dire l'étude des algorithmes.
 
-Un premier critère pour savoir si cette filière est faite pour vous est donc:
+Un premier critère pour savoir si cette filière est faite pour vous est donc :
 *Est-ce que j'aime les maths ?*
 
-Voici les principaux domaines pouvant être abordés en première année:
+Voici les principaux domaines pouvant être abordés en première année :
 
 * Systèmes formels et logique
 * Structures de données
@@ -79,7 +79,7 @@ let rec fibo n =
        (ici nous voulons bien passer n-1 en paramètre, et non faire fibo n puis décrémenter le résultat.)*)
 ```
 
-On pourrait rendre cela plus élégant en utilisant le [pattern matching](https://ocaml.org/learn/tutorials/a_first_hour_with_ocaml.html#Pattern-matching) et rendre le tout plus propre en précisant le type des paramètres utilisé ainsi que le type de l'expression renvoyée. (Il existe quelque chose de ressemblant en python mais ça n'est que du sucre syntaxique).
+On pourrait rendre cela plus élégant en utilisant le [pattern matching](https://ocaml.org/learn/tutorials/a_first_hour_with_ocaml.html#Pattern-matching) et rendre le tout plus propre en précisant le type des paramètres utilisé ainsi que le type de l'expression renvoyée. (Il existe quelque chose de ressemblant en python, mais ça n'est que du sucre syntaxique).
 
 Cela permet de déceler plus vite une incohérence, et donc de produire un code plus sécurisé et apte à réaliser exactement ce que l'on veut. On dit qu'OCaml est [fortement typé](https://fr.wikipedia.org/wiki/Typage_fort).
 
@@ -101,9 +101,9 @@ Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écri
 
 ### Une optimisation
 
-Comme vous le verrez en cours, les algorithmes précédents sont peu efficaces car ils calculent de nombreuses fois les mêmes termes (deviennent très vite lents lorsque la taille de l'entrée augmente) et peuvent finir par faire "exploser la pile d'appel".
+Comme vous le verrez en cours, les algorithmes précédents sont peu efficaces, car ils calculent de nombreuses fois les mêmes termes (deviennent très vite lents lorsque la taille de l'entrée augmente) et peuvent finir par faire "exploser la pile d'appel".
 
-Afin de réduire la quantité de mémoire utilisée par le programme, il est possible d'appiquer le principe de [récursivité terminale](https://pcaboche.developpez.com/article/programmation-fonctionnelle/recursivite-terminale/), comme le fait l'exemple ci-dessous:
+Afin de réduire la quantité de mémoire utilisée par le programme, il est possible d'appiquer le principe de [récursivité terminale](https://pcaboche.developpez.com/article/programmation-fonctionnelle/recursivite-terminale/), comme le fait l'exemple ci-dessous :
 
 ```ocaml
 let fibo (n: int): int =
@@ -121,7 +121,7 @@ Dans le programme ci-dessus, chaque valeur de la suite est calculé une seule fo
 
 ### En C
 
-Dans la même idée, il est possible d'écrire cette même fonction dans le langage C:
+Dans la même idée, il est possible d'écrire cette même fonction dans le langage C :
 
 ```c
 int fibo(int n)
@@ -139,7 +139,7 @@ int fibo(int n)
 /* fonction main */
 ```
 
-Ici, chaque appel à la fonction `fibo` recalcule chaque valeur de la suite, ce qui augmente l'usage en mémoire et la complexité du programme. Il est possible d'appliquer le même principe de récursivité terminale en C, avec le coût ajouté des arguments supplémentaires dans la signature de la fonction (il est impossible de définir des fonctions dans les fonctions en C). Si on cherche à l'optimiser un peu en apliquant la récursivité terminale, ça donnerait:
+Ici, chaque appel à la fonction `fibo` recalcule chaque valeur de la suite, ce qui augmente l'usage en mémoire et la complexité du programme. Il est possible d'appliquer le même principe de récursivité terminale en C, avec le coût ajouté des arguments supplémentaires dans la signature de la fonction (il est impossible de définir des fonctions dans les fonctions en C). Si on cherche à l'optimiser un peu en appliquant la récursivité terminale, ça donnerait :
 
 ```c
 int fibo(int n, int n0, int n1)
@@ -160,7 +160,7 @@ int main()
 }
 ```
 
-Bien sûr, il est toujours possible d'aller un peu plus loin et de s'amuser avec le côté obscur de l'informatique:
+Bien sûr, il est toujours possible d'aller un peu plus loin et de s'amuser avec le côté obscur de l'informatique :
 
 ```c
 long int fibo(int n){ 
@@ -176,7 +176,7 @@ long int fibo(int n){
 ```
 
 Ce code est en fait basé sur un [XOR swap](https://en.wikipedia.org/wiki/XOR_swap_algorithm).
-Comme quoi on peut s'amuser en MP2I, même avec une tâche aussi simple !
+Comme quoi, on peut s'amuser en MP2I, même avec une tâche aussi simple !
 
 Ne prenez pas peur si vous ne savez écrire dans aucun de ces langages, leurs compilateurs respectifs vous accompagneront tout du long en vous indiquant les erreurs et comment les corriger :)
 
