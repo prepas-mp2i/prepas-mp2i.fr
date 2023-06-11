@@ -37,7 +37,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Gay-Lussac | Limoges | [contact@mp2igaylussac.fr](mailto:contact@mp2igaylussac.fr)
 | Henri Wallon | Valenciennes | [indisponible](mailto:)
 | Hoche | Versailles | [falafel.evrard@protonmail.com](mailto:falafel.evrard@protonmail.com)
-| Centre International de Valbonne | Valbonne | [adrien.no@proton.me](mailto:adrien.no@proton.me)
+| Centre International de Valbonne | Valbonne | [jeremy.serievic.pro@gmail.com](mailto:jeremy.serievic.pro@gmail.com)
 | Janson De Sailly | Paris 16 | [corti.flavio@protonmail.com](mailto:corti.flavio@protonmail.com)
 | Kléber | Strasbourg | [guillaume.steinmetz@protonmail.com](mailto:guillaume.steinmetz@protonmail.com)
 | Le Parc | Lyon 06 | [younesi.maths@gmail.com](mailto:younesi.maths@gmail.com)
