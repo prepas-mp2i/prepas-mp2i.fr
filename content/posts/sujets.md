@@ -106,7 +106,7 @@ Voir la page [annales et rapports](https://www.e3a-polytech.fr/annales-et-rappor
 | Physique-Chimie | À venir | À venir |
 
 {{< details "Cœfficients E3A-Polytech" >}}
-| Épreuve | Polytech | AVENIR PREPAS | Ingeni'up | PUISSANCE ALPHA-CPGE | EIDD - Paris | EIL Côte d'Opale | IMT Nord Europe |
+| Épreuve | Polytech | AVENIR PREPAS | Ingeni'up | PUISSANCE ALPHA-CPGE | EIDD - Paris | EIL Côte d'Opale | IMT Nord Europe* |
 |:-------:|:--------:|:-------------:|:---------:|:--------------------:|:------------:|:----------------:|:---------------:|
 | Mathématiques                  | 8 | 6 | 5 | 8 | 8 | 5 | 9 |
 | Physique-Chimie                | 6 | 4 | 4 | 5 | 6 | 5 | 9 |
@@ -114,4 +114,6 @@ Voir la page [annales et rapports](https://www.e3a-polytech.fr/annales-et-rappor
 | Français-Philosophie           | 5 | 3 | 3 | 3 | 5 | 4 | 5 |
 | Langue vivante A               | 5 | 3 | 2 | 3 | 5 | 4 | 5 |
 | Langue vivante B (facultative) | 2 | 1 | 1 | 1 |   | 4 | 2 |
+
+\**En partenariat avec Polyvia Formation*
 {{< /details >}}

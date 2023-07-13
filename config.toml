@@ -5,11 +5,12 @@ defaultContentLanguage = "fr"
 languageCode = "fr"
 enableRobotsTXT = true
 enableGitInfo = true
+staticDir = ["static", "assets"]
 
 [menu]
   [[menu.main]]
-    name = "MP2I"
-    url = "/mp2i/"
+    name = "Filière"
+    url = "/filiere/"
     weight = 1
   
   [[menu.main]]
@@ -23,8 +24,8 @@ enableGitInfo = true
     weight = 3
   
   [[menu.main]]
-    name = "Sujets"
-    url = "/sujets/"
+    name = "Concours"
+    url = "/concours/"
     weight = 4
   
   # EVENT
@@ -116,6 +117,8 @@ enableGitInfo = true
   [params.social]
     GitHub = "prepas-mp2i/prepas-mp2i.fr"
     Email = "contact@prepas-mp2i.fr"
+    Discord = "Mu439mBdsv"
+    
 
   [params.page]
     hiddenFromHomePage = false
