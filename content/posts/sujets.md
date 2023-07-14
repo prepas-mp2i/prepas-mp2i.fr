@@ -4,6 +4,8 @@ subtitle: Entraînez-vous sur les sujets passés
 date: 2023-04-29T23:18:58+02:00
 ---
 
+> Retrouvez une compilation d'exercices oraux dans la [Base d'épreuves orales scientifiques de concours aux grandes écoles](https://beos.prepas.org) (BEOS).
+
 ## 2023
 
 ### X/ENS
@@ -25,13 +27,13 @@ Explorer les [sujets par filière](https://gargantua.polytechnique.fr/siatel-web
 {{< details "Cœfficients X/ENS" >}}
 | Épreuve | Polytechnique | ULM (info MPI) | Lyon (I-MPI) | Paris-Saclay | Rennes |
 |:-------:|:-------------:|:--------------:|:------------:|:------------:|:------:|
-| Mathématiques A           | 6 |           |         |           |   |
-| Mathématiques B           | 6 |           |         |           |   |
-| Mathématiques C           |   | 4         | 3       | 5         | 3 |
-| Informatique A            |   |           |         |           | 4 |
+| Mathématiques A           | 6 | -         | -       | -         | - |
+| Mathématiques B           | 6 | -         | -       | -         | - |
+| Mathématiques C           | - | 4         | 3       | 5         | 3 |
+| Informatique A            | - | -         | -       | -         | 4 |
 | Informatique C            | 9 | 4         | 6       | 5         | 5 |
-| Informatique Fondamentale |   | 4         | 4       | 5         | 3 |
-| Physique                  | 6 |           |         |           |   |
+| Informatique Fondamentale | - | 4         | 4       | 5         | 3 |
+| Physique                  | 6 | -         | -       | -         | - |
 | Français-Philosophie      | 6 | 2 (adm)   | 2 (adm) | 2 (adm)   | 2 |
 | Langue vivante A          | 6 | 1,5 (adm) | 2 (adm) | 1,5 (adm) | 2 |
 {{< /details >}}
@@ -59,7 +61,7 @@ Découvrir les sujets, rapports et barres d'admissibilité [ici](https://www.con
 | Physique 1           | 10 | 18 | 12 | 10 | 11 |
 | Physique 2           | 10 | 18 | 12 | 10 | 11 |
 | Français-Philosophie | 17 | 4  | 17 | 20 | 20 |
-| Langue vivante A     | 11 |    | 11 | 20 | 18 |
+| Langue vivante A     | 11 | -  | 11 | 20 | 18 |
 
 *\* CentraleSupélec, Centrale Lyon, SupOptique, Centrale Lille, Centrale Nantes, Centrale Méditerranée*
 {{< /details >}}
@@ -100,10 +102,10 @@ Voir la page [annales et rapports](https://www.e3a-polytech.fr/annales-et-rappor
 
 > Les épreuves d'informatique, de français-philosophie et de langues vivantes sont communes au concours CCINP (voir ci-dessus).
 
-| Épreuve | Sujet | Rapport |
-|:-------:|:-----:|:-------:|
-| Mathématiques   | À venir | À venir |
-| Physique-Chimie | À venir | À venir |
+| Épreuve | Sujet | Rapport | Corrigé |
+|:-------:|:-----:|:-------:| :-----: |
+| Mathématiques   | [![E3A_Maths_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Maths_MPI.pdf) | À venir | A venir |
+| Physique-Chimie | [![E3A_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Physique-Chimie_MPI.pdf) | [![E3A_Rapport_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Rapport_Physique-Chimie_MPI.pdf) | [![E3A_Correction_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Rapport_Physique-Chimie_MPI.pdf) |
 
 {{< details "Cœfficients E3A-Polytech" >}}
 | Épreuve | Polytech | AVENIR PREPAS | Ingeni'up | PUISSANCE ALPHA-CPGE | EIDD - Paris | EIL Côte d'Opale | IMT Nord Europe* |

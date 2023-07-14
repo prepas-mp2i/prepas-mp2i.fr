@@ -7,6 +7,12 @@ Vous avez une question à poser ? Si jamais elle n'est pas déjà référencée,
 
 ## Les cours
 
+{{< admonition quote "Faire une remise à niveau avant l'entrée en prépa, est-ce nécessaire ?" false >}}
+Sauf si vous ressentez une grosse lacune sur un chapitre en particulier, je laisserais plutôt votre deuxième spécialité (physique ou NSI) tranquille pendant les vacances. Si vous souhaitez travailler, faites surtout des maths car c'est ici que le travail paie à long terme. De plus, la physique et l'informatique sont reprises (quasiment) à zéro en sup (en tout cas pour l'info, et en physique les bases sont reprises pour permettre à chacun d'avoir un même socle solide de connaissances et de méthodes). Si vous hésitez à travailler la spécialité que vous n'avez pas suivie en terminale : pour les mêmes raisons, ce n'est pas quelque chose que je conseillerais pour les vacances. Mes camarades sans spécialité physique s'en sont sortis sans problèmes durant l'année ; à l'inverse, mes collègues et moi-même sans spécialité NSI n'avons eu aucun souci en informatique. Bref, passez de bonnes vacances (reposantes) !
+
+{{< right >}} *Paul, MPI lycée Aux Lazaristes, Lyon (2023)* {{< /right >}}
+{{< /admonition >}}
+
 {{< admonition quote "As-tu continué une LVB en prépa ?" false >}}
 J'ai choisi une LVB car d'une part, il y a des points bonus aux concours, et d'autre part parce que dans toutes les grandes écoles la LVB est obligatoire, donc autant éviter de perdre tout le niveau obtenu en tant d'années.
 On peut se dire qu'on est en prépa et qu'on pourrait réviser ses cours et faire ses exercices au lieu de perdre deux heures par semaine à aller en allemand ou en espagnol (voir italien et autres), mais étant donné que souvent la LVB est sur le temps du midi, cela ne change pas grand-chose, car peu de personnes sont productives sur cette plage horaire.
@@ -71,6 +77,11 @@ Pour les grandes vacances précédant la rentrée en MP2I, je conseille de :
 - Ne pas chercher un rythme de travail trop soutenu : Inutile de se mettre la pression avant même d'entrer en prépa. Il vaut mieux travailler quelques exercices à fonds de temps en temps plutôt que de chercher à enchaîner les chapitres.
 
 {{< right >}} *Paul, MPI lycée Aux Lazaristes, Lyon (2023)* {{< /right >}}
+
+___
+Je préciserais que les vacances avant l'entrée en première année sont aussi le moment de se faire des souvenirs avec les gens "pas trop proches" au lycée. Je ne sais pas si c'est l'expérience générale, mais une fois qu'on est en prépa il y a des gens qu'on perd de vue assez facilement, c'est pourquoi c'est typiquement le moment de faire des activités avec eux avant que ça ne devienne un cauchemar à organiser.
+
+{{< right >}} *Carole, MPI lycée Aux Lazaristes, Lyon (2023)* {{< /right >}}
 {{< /admonition >}}
 
 ## L'admission
