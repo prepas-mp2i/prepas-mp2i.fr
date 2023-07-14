@@ -62,6 +62,17 @@ De plus, on est avec une partie de sa classe, on peut s'entraider dans les devoi
 {{< right >}} *Adrien, MP2I lycée Descartes, Tours (2021)* {{< /right >}}
 {{< /admonition >}}
 
+{{< admonition quote "Que conseillez-vous de faire pendant les vacances ?" false >}}
+Pour les grandes vacances précédant la rentrée en MP2I, je conseille de :
+
+- Se reposer et profiter : Pendant tes deux années de prépa, tu n'auras que peu de temps libre, alors profite de tes vacances pour faire des activités que tu aimes. C'est le point le plus important !
+- Lire les livres de français : C'est le travail minimal indispensable avant l'entrée en prépa. Comme  dit précédemment, tu n'auras pas le temps de les lire pendant l'année.
+- Garder une petite place pour les activités intellectuelles : Tu peux par exemple faire des devoirs de vacances (regarde sur le site de ton futur lycée), mais vise principalement des révisions de terminale. Tu peux aussi lire des livres de vulgarisation scientifique, ou encore regarder des vidéos sur des sujets qui t'intéressent.
+- Ne pas chercher un rythme de travail trop soutenu : Inutile de se mettre la pression avant même d'entrer en prépa. Il vaut mieux travailler quelques exercices à fonds de temps en temps plutôt que de chercher à enchaîner les chapitres.
+
+{{< right >}} *Paul, MPI lycée Aux Lazaristes, Lyon (2023)* {{< /right >}}
+{{< /admonition >}}
+
 ## L'admission
 
 {{< admonition quote "Quelles sont les meilleures MP2I ?" false >}}
@@ -75,5 +86,5 @@ Les critères à privilégier pour choisir une MP2I résident dans le cadre de v
 Ainsi, les critères essentiels concernent l'emplacement, le logement, l'accès à un internat (ou un système d'interne-externé), le fait d'être éloigné de ses proches.
 Il faut simplement faire en sorte de réunir les conditions de travail qui vous seront optimales afin de pouvoir vivre sainement et progresser le plus.
 
-{{< right >}} *Nathan, MPI lycée Sant-Louis, Paris VIe. (2021)* {{< /right >}}
+{{< right >}} *Nathan, MPI lycée Sant-Louis, Paris VIe. (2022)* {{< /right >}}
 {{< /admonition >}}
