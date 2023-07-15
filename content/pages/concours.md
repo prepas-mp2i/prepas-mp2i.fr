@@ -124,19 +124,27 @@ Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont com
 
 ### Épreuves orales
 
-**Mathématiques :** `durée` ?
+**Mathématiques :** `durée` 45 min
 
-⇨ Écoles : Ne concerne pas l'ENS Renne
+⇨ Écoles : Ne concerne pas l'ENS Rennes
 
-**Informatique :** `durée` ?
+**Informatique :** `durée` 30 min
 
-**Langue Vivante :** `durée` ?
+⇨ Préparation : 30 min
+
+**Langue Vivante :** `durée` 20 min
+
+⇨ Préparation : 30 min ∘ Contenu : Résumé + Commentaire ∘ Document : Vidéo de 4 à 6 min
 
 ⇨ Langue : Identique à celle choisie pour l'épreuve écrite
 
-**TP Algo :** `durée` ?
+**TP Algo :** `durée` 20 min
 
-**TIPE :** `durée` ?
+⇨ Préparation : 3h sur machine sans examinateur
+
+**TIPE :** `durée` 40 min
+
+⇨ Format : discussion avec deux examinateurs, avec le compte-rendu envoyé au préalable projeté au tableau
 
 {{< admonition info "Coefficients" false >}}
 | Épreuve | ULM (info MPI) | Paris-Saclay | Lyon (I-MPI) | Rennes |
