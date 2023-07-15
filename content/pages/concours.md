@@ -6,7 +6,7 @@ date: 2022-07-10T13:59:24+02:00
 
 Les informations sur les concours pour la filière MPI ont été regroupées à partir des sites officiels des concours et des notices de ces derniers. Vous y trouverez les notices en question, le nombre de place pour chaque école et la liste des épreuves écrites et orales qu'il vous faudra affronter en fin de seconde année.
 
-> Retrouvez les sujets des années précédentes sur [cette page](https://prepas-mp2i.fr/sujets).
+> Retrouvez les sujets des années précédentes sur [cette page](https://prepas-mp2i.fr/posts/sujets-des-concours-mpi).
 
 {{< admonition warning "Attention !" true >}}
 Les notices, listes d'épreuves et nombres de places actuels correspondent à la **session 2023**.
@@ -33,8 +33,6 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 > {{< center >}}
 [Site officiel](https://www.polytechnique.edu) - [Notice du concours](https://gargantua.polytechnique.fr/siatel-web/app/linkto/mIb5YYWSPYY) - [Présentation de l'école](https://www.polytechnique.edu/ecole)
 {{< /center >}}
-
-Certaines épreuves sont communes au [concours ENS](https://prepas-mp2i.fr/concours/#concours-ens).
 
 ### Détail des places
 
@@ -92,8 +90,6 @@ Certaines épreuves sont communes au [concours ENS](https://prepas-mp2i.fr/conco
 Site officiel [Ulm](https://www.ens.psl.eu) / [Paris-Saclay](https://ens-paris-saclay.fr) / [Lyon](https://www.ens-lyon.fr) / [Rennes](https://www.ens-rennes.fr) - [Notice du concours](https://www.ens-lyon.fr/sites/default/files/2023-01/Notice2023_ENS.pdf)
 {{< /center >}}
 
-Certaines épreuves sont communes au [concours Polytechnique](https://prepas-mp2i.fr/concours/#concours-polytechnique).
-
 ### Détail des places
 
 | École | Nombre de places・37 |
@@ -105,7 +101,7 @@ Certaines épreuves sont communes au [concours Polytechnique](https://prepas-mp2
 
 ### Épreuves écrites
 
-Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont commune au [concours Polytechnique](https://prepas-mp2i.fr/concours/#épreuves-écrites-1).
+Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont communes au [concours Polytechnique](https://prepas-mp2i.fr/concours/#épreuves-écrites-1).
 
 **Mathématiques C :** `durée` 4h
 
@@ -308,13 +304,6 @@ Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont com
 [Site officiel](https://www.concours-mines-telecom.fr) - [Notice du concours](https://www.calameo.com/read/0053254304882589d7185) - [Liste des écoles](https://www.concours-mines-telecom.fr/ecoles/)
 {{< /center >}}
 
-Les épreuves écrites sont communes au [concours commun Mines-Ponts](https://prepas-mp2i.fr/concours/#concours-mines-ponts).
-Les épreuves orales sont divisées en **3 groupes** :
-
-- si vous êtes **également admissible à Mines-Ponts**, vous passez uniquement les oraux Mines-Ponts. Vos notes de mathématiques, d'informatique et d'anglais seront ajustées ; l'épreuve orale de français remplacera l'entretient.
-- sinon, vous pouvez être **admissible en série 1**, c'est-à-dire avoir accès à toutes les écoles du concours Mines Télécom ;
-- ou être seulement **admissible en série 2**, ce qui vous donne un accès restreint à 6 écoles : Télécom Nancy, Télécom Saint-Étienne, ENSSAT, EIVP, ENSG Géologie et ENSG Géomatique.
-
 ### Détail des places
 
 | École | Nombre de places・111 |
@@ -344,6 +333,12 @@ Les épreuves orales sont divisées en **3 groupes** :
 Elles sont identiques aux [épreuves du concours commun Mines-Ponts](https://prepas-mp2i.fr/concours/#épreuves-écrites-3), ainsi que leur coefficient.
 
 ### Épreuves orales
+
+Les épreuves orales sont divisées en **3 groupes** :
+
+- si vous êtes **également admissible à Mines-Ponts**, vous passez uniquement les oraux Mines-Ponts. Vos notes de mathématiques, d'informatique et d'anglais seront ajustées ; l'épreuve orale de français remplacera l'entretient.
+- sinon, vous pouvez être **admissible en série 1**, c'est-à-dire avoir accès à toutes les écoles du concours Mines Télécom ;
+- ou être seulement **admissible en série 2**, ce qui vous donne un accès restreint à 6 écoles : Télécom Nancy, Télécom Saint-Étienne, ENSSAT, EIVP, ENSG Géologie et ENSG Géomatique.
 
 #### Admissible Mines-Ponts
 
