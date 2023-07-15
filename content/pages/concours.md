@@ -132,7 +132,7 @@ Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont com
 
 ⇨ Préparation : 30 min
 
-**Langue Vivante : (épreuve commune avec Polytechnique)** `durée` 20 min
+**Langue Vivante (épreuve commune avec Polytechnique) :** `durée` 20 min
 
 ⇨ Préparation : 30 min ∘ Contenu : Résumé + Commentaire ∘ Document : Vidéo de 4 à 6 min
 
