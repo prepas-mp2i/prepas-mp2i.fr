@@ -42,47 +42,27 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 
 ### Épreuves écrites
 
-**Mathématiques A et B :** `durée` 4h et 4h `coefficient` 6 et 6
-
-**Physique :** `durée` 4h `coefficient` 6
-
-⇨ Contenu : Sujet spécifique à la MPI
-
-**Informatique C :** `durée` 4h `coefficient` 9
-
-**Français :** `durée` 4h `coefficient` 6
-
-⇨ Format : Dissertation
-
-**Langue Vivante A :** `durée` 4h `coefficient` 6
-
-⇨ Format : Synthèse + Texte d'opinion ∘ Documents : Textuels et iconographiques
+| Épreuve | Durée | Coefficient | Format |
+|:-------:|:-----:|:-----------:|:------:|
+| Mathématiques A | 4h | 6 | - |
+| Mathématiques B | 4h | 6 | - |
+| Physique | 4h | 6 | Sujet spécifique à la MPI |
+| Informatique C | 4h | 9 | - |
+| Français | 4h | 6 | Dissertation |
+| Langue Vivante A | 4h | 6 | Synthèse + Texte d'opinion ∘ Documents : Textuels et iconographiques |
 
 ### Épreuves orales
 
-**Mathématiques :** `durée` 50 min `coefficient` 23
-
-**Physique :** `durée` 50 min `coefficient` 20
-
-**Informatique :** `durée` 50 min `coefficient` 22
-
-**Analyse de Documents Scientifiques (ADS) :** `durée` 40 min `coefficient` 15
-
-⇨ Préparation : 2h ∘ Format : 15 min exposé + 25 min entretien
-
-**Français :** `durée` 30 min `coefficient` 8
-
-⇨ Préparation : 45 min ∘ Contenu : Résumé + Commentaire
-
-**Langue Vivante A :** `durée` 20 min `coefficient` 8
-
-⇨ Préparation : 30 min ∘ Contenu : Résumé + Commentaire ∘ Document : Vidéo de 4 à 6 min
-
-**Langue Vivante B (facultative) :** `durée` 20 min `coefficient` ?
-
-⇨ Préparation : 30 min ∘ Format : Résumé + Commentaire ∘ Document : Vidéo de 4 à 6 min
-
-**Sport :** `coefficient` 5
+| Épreuve | Durée | Coefficient | Préparation | Format |
+|:-------:|:-----:|:-----------:|:-----------:|:------:|
+| Mathématiques | 50 min | 23 | - | - |
+| Physique | 50 min | 20 | - | - |
+| Informatique | 50 min | 22 | - | - |
+| ADS | 40 min | 15 | 2h | 15 min exposé + 25 min entretien |
+| Français | 30 min | 8 | 45 min | Résumé + Commentaire |
+| Langue Vivante A | 20 min | 8 | 30 min | Résumé + Commentaire ∘ Document : Vidéo de 4 à 6 min |
+| Langue Vivante B (facultative) | 20 min | ? | 30 min | Résumé + Commentaire ∘ Document : Vidéo de 4 à 6 min |
+| Sport | - | 5 | - | - |
 
 ## Concours ENS
 
@@ -108,13 +88,11 @@ Site officiel [Ulm](https://www.ens.psl.eu) / [Paris-Saclay](https://ens-paris-s
 
 Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont communes au [concours Polytechnique](https://prepas-mp2i.fr/concours/#épreuves-écrites-1).
 
-**Mathématiques C :** `durée` 4h
-
-**Informatique A :** `durée` 4h
-
-⇨ École : ENS Rennes uniquement
-
-**Informatique Fondamentale :** `durée` 4h
+| Épreuve | Durée | Commentaire |
+|:-------:|:-----:|:-----------:|
+| Mathématiques C | 4h | - |
+| Informatique A | 4h | ENS Rennes uniquement |
+| Informatique Fondamentale | 4h | - |
 
 {{< admonition info "Coefficients" false >}}
 | Épreuve | ULM (info MPI) | Paris-Saclay | Lyon (I-MPI) | Rennes |
@@ -131,21 +109,12 @@ Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont com
 
 L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytechnique](https://prepas-mp2i.fr/concours/#%C3%A9preuves-orales).
 
-**Mathématiques :** `durée` 45 min
-
-⇨ Écoles : Ne concerne pas l'ENS Rennes
-
-**Informatique :** `durée` 30 min
-
-⇨ Préparation : 30 min
-
-**TP Algo :** `durée` 20 min
-
-⇨ Préparation : 3h sur machine sans examinateur
-
-**TIPE :** `durée` 40 min
-
-⇨ Format : Discussion avec deux examinateurs, avec le compte-rendu envoyé au préalable projeté au tableau
+| Épreuve | Durée | Préparation | Commentaire |
+|:-------:|:-----:|:-----------:|:-----------:|
+| Mathématiques | 45 min | - | Ne concerne pas l’ENS Rennes |
+| Informatique | 30 min | 30 min | - |
+| TP Algo | 20 min | 3h | Préparation sans examinateur |
+| TIPE | 40 min | - | Discussion avec deux examinateurs, avec le compte-rendu envoyé au préalable projeté au tableau |
 
 {{< admonition info "Coefficients" false >}}
 | Épreuve | ULM (info MPI) | Paris-Saclay | Lyon (I-MPI) | Rennes |
@@ -191,19 +160,15 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 
 ### Épreuves écrites
 
-**Mathématiques I et II :** `durée` 4h et 4h `coefficient` 18 et 18
-
-**Physique-Chimie I et II :** `durée` 4h et 4h `coefficient` 10 et 10
-
-**Informatique :** `durée` 4h `coefficient` 16
-
-**Français :** `durée` 4h `coefficient` 17
-
-⇨ Format : Résumé + Dissertation
-
-**Langue Vivante A :** `durée` 4h `coefficient` 11
-
-⇨ Format : Synthèse
+| Épreuve | Durée | Coefficient | Format |
+|:-------:|:-----:|:-----------:|:------:|
+| Mathématiques I | 4h | 18 | - |
+| Mathématiques II | 4h | 18 | - |
+| Physique-Chimie I | 4h | 10 | - |
+| Physique-Chimie II | 4h | 10 | - |
+| Informatique | 4h | 16 | - |
+| Français | 4h | 17 | Résumé + Dissertation |
+| Langue Vivante A | 4h | 11 | Synthèse |
 
 {{< admonition info "Coefficients différents" false >}}
 
@@ -219,29 +184,16 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 
 ### Épreuves orales
 
-**Mathématiques :** `durée` 30 min `coefficient` 18
-
-**Physique-Chimie :** `durée` 30 min `coefficient` 12
-
-**Mathématiques-Informatique :** `durée` 30 min `coefficient` 18
-
-⇨ Préparation : 30 min
-
-**Langue Vivante A :** `durée` 20 min `coefficient` 13
-
-⇨ Préparation : 20 min ∘ Document : Textuel
-
-**Langue Vivante B (facultative) :** `durée` 20 min `coefficient` 10
-
-⇨ Préparation : 20 min ∘ Document : Textuel ∘ Barre de prise en compte : 10/20
-
-**TP Informatique :** `durée` 3h `coefficient` 16
-
-**TP Physique-Chimie :** `durée` 3h `coefficient` 12
-
-**TIPE :** `durée` 30 min `coefficient` 11
-
-⇨ Format : 15 min exposé + 15 min questions
+| Épreuve | Durée | Coefficient | Préparation | Format |
+|:-------:|:-----:|:-----------:|:-----------:|:------:|
+| Mathématiques | 30 min | 18 | - | - |
+| Physique-Chimie | 30 min | 12 | - | - |
+| Mathématiques-Informatique | 30 min | 18 | 30 min | - |
+| Langue Vivante A | 20 min | 13 | 20 min | - |
+| Langue Vivante B (facultative) | 20 min | 10 | 20 min | Document textuel |
+| TP Informatique | 3h | 16 | - | - |
+| TP Physique-Chimie | 3h | 12 | - | - |
+| TIPE | 30 min | 11 | - | 15 min exposé + 15 min questions |
 
 {{< admonition info "Coefficients différents" false >}}
 
@@ -289,47 +241,28 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 
 ### Épreuves écrites
 
-**Mathématiques I et II :** `durée` 3h et 4h `coefficient` 4 et 5
-
-**Physique I et II :** `durée` 3h et 3h `coefficient` 3 et 3
-
-**Informatique I et II :** `durée` 3h et 4h `coefficient` 3 et 4
-
-**Français :** `durée` 3h `coefficient` 5
-
-⇨ Format : Dissertation
-
-**Langue Vivante A :** `durée` 1h30 `coefficient` 3
-
-⇨ Format : 1 traduction + 2 questions sur texte
+| Épreuve | Durée | Coefficient | Format |
+|:-------:|:-----:|:-----------:|:------:|
+| Mathématiques I | 3h | 4 | - |
+| Mathématiques II | 4h | 5 | - |
+| Physique I | 3h | 3 | - |
+| Physique II | 3h | 3 | - |
+| Informatique I | 3h | 3 | - |
+| Informatique II | 4h | 4 | - |
+| Français | 3h | 5 | Dissertation |
+| Langue Vivante A | 1h30 | 3 | 1 traduction + 2 questions sur texte |
 
 ### Épreuves orales
 
-**Mathématiques :** `durée` 1h `coefficient` 11
-
-⇨ Préparation : 15 min pour la première question ∘ Contenu : Minimum 2 questions
-
-**Physique :** `durée` 1h `coefficient` 7
-
-⇨ Préparation : 15 min pour la première question ∘ Contenu : Minimum 2 questions
-
-**Français :** `durée` 30 min `coefficient` 6
-
-⇨ Préparation : 30 min ∘ Répartition : 20 min exposé + 10 min questions ∘ Format : Analyse de texte + Dissertation sur l’un des aspects ou des enjeux du texte
-
-**Anglais :** `durée` 20 min `coefficient` 5
-
-⇨ Préparation : 20 min ∘ Contenu : Résumé + Commentaire ∘ Document : Textuel contemporain
-
-**Autre Langue Vivante (facultative) :** `durée` 20 min `coefficient` ?
-
-⇨ Préparation : 20 min ∘ Contenu : Résumé + Commentaire ∘ Document : Textuel contemporain
-
-**TP Informatique :** `durée` 3h30 `coefficient` 6
-
-⇨ Contenu : Combine programmation sur ordinateur et échange avec un ou plusieurs examinateurs ∘ Finalité : Élaboration d’un compte-rendu
-
-**TIPE :** `durée` 30 min `coefficient` 6
+| Épreuve | Durée | Coefficient | Préparation | Contenu |
+|:-------:|:-----:|:-----------:|:-----------:|:-------:|
+| Mathématiques | 1h | 11 | 15 min (pour la 1ère question) | Minimum 2 questions |
+| Physique | 1h | 7 | 15 min (pour la 1ère question) | Minimum 2 questions |
+| Français | 30 min | 6 | 30 min | 20 min exposé + 10 min questions ∘ Analyse de texte + Dissertation sur l’un des aspects ou des enjeux du texte |
+| Anglais | 20 min | 5 | 20 min | Résumé + Commentaire sur un texte contemporain |
+| Autre Langue Vivante (facultative) | 20 min | ? | 20 min | Résumé + Commentaire sur un texte contemporain |
+| TP Informatique | 3h30 | 6 | - | Combine programmation sur ordinateur et échange avec un ou plusieurs examinateurs ∘ Élaboration d’un compte-rendu |
+| TIPE | 30 min | 6 | - | 15 min exposé + 15 min questions |
 
 ## Concours Mines Télécom
 
@@ -396,39 +329,23 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 
 #### Admissible Série 1
 
-**Mathématiques :** `durée` 30 min `coefficient` 8
-
-⇨ Format : 2 exercices
-
-**Informatique :** `durée` 30 min `coefficient` 8
-
-⇨ Préparation : 15 min de lecture du sujet en amont
-
-**Langue Vivante A  :** `durée` 20 min `coefficient` 7
-
-⇨ Format : Rapide présentation + Commentaire d'un document iconographique + Jeu de rôle
-
-**Entretien :** `durée` 20 min `coefficient` 7
-
-⇨ Première partie : "Imaginer un produit ou un service qui réponde à un défi de société au moyen d’une technologie spécifique." ➞ 1 enjeu sociétal (image) + 1 technologie au choix parmi 2 (image + nom) ∘ Note éliminatoire : Inférieure à 4
+| Épreuve | Durée | Coefficient | Préparation | Format |
+|:-------:|:-----:|:-----------:|:-----------:|:------:|
+| Mathématiques | 30 min | 8 | - | 2 exercices |
+| Informatique | 30 min | 8 | 15 min de lecture du sujet en amont | - |
+| Langue Vivante A | 20 min | 7 | - | Rapide présentation + Commentaire d'un document iconographique + Jeu de rôle |
+| Entretien (note <4 éliminatoire) | 20 min | 7 | - | Première partie : "Imaginer un produit ou un service qui réponde à un défi de société au moyen d’une technologie spécifique." ➞ 1 enjeu sociétal (image) + 1 technologie au choix parmi 2 (image + nom)|
 
 #### Admissible Série 2
 
-**Mathématiques :** `durée` 50 min `coefficient` 8
+| Épreuve | Durée | Coefficient | Format |
+|:-------:|:-----:|:-----------:|:------:|
+| Mathématiques | 50 min | 8 | 1 exercice + du cours |
+| Physique et Informatique | 50 min | 8 | QCM sur le programme d'informatique commum avec les MP, PC et PSI |
+| Anglais | 30 min | 7 | QCM de compréhension orale et écrite |
+| Entretien* | 20 min | 7 | Première partie : "Imaginer un produit ou un service qui réponde à un défi de société au moyen d’une technologie spécifique." ➞ 1 enjeu sociétal (image) + 1 technologie au choix parmi 2 (image + nom)|
 
-⇨ Format : 1 exercice + du cours
-
-**Physique et Informatique :** `durée` 50 min `coefficient` 8
-
-⇨ Format : QCM ∘ Programme : Ici, informatique = informatique pour tous
-
-**Anglais :** `durée` 30 min `coefficient` 7
-
-⇨ Format : QCM de compréhension orale et écrite
-
-**Entretien :** `durée` 20 min `coefficient` 7
-
-⇨ Première partie : "Imaginer un produit ou un service qui réponde à un défi de société au moyen d’une technologie spécifique." ➞ 1 enjeu sociétal (image) + 1 technologie au choix parmi 2 (image + nom) ∘ Note éliminatoire : Inférieure à 4
+\**Une note inférieure à 4/20 est éliminatoire.*
 
 ## Concours CCINP
 
@@ -521,21 +438,17 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 
 ### Épreuves écrites
 
-**Mathématiques I et II :** `durée` 4h et 4h `coefficient` 11 et 11
+| Épreuve | Durée | Coefficient | Format |
+|:-------:|:-----:|:-----------:|:------:|
+| Mathématiques I | 4h | 11 | - |
+| Mathématiques II | 4h | 11 | - |
+| Physique-Chimie | 4h | 11 | - |
+| Informatique | 4h | 12 | - |
+| Français | 4h | 9 | Résumé (100 mots) + Dissertation |
+| Langue Vivante A | 3h | 4 | - |
+| Langue Vivante B (facultative)* | 1h | 2 | QCM ∘ Document textuel |
 
-**Physique-Chimie :** `durée` 4h `coefficient` 11
-
-**Informatique :** `durée` 4h `coefficient` 12
-
-**Français :** `durée` 4h `coefficient` 9
-
-⇨ Format : Résumé (100 mots) + Dissertation
-
-**Langue Vivante A :** `durée` 3h `coefficient` 4
-
-**Langue Vivante B (facultative) :** `durée` 1h `coefficient` 2
-
-⇨ Format : QCM ∘ Document : Textuel ∘ Barre de prise en compte : 10/20 (sauf Lorraine INP - EEIGM)
+\**Barre de prise en compte : 10/20 (sauf Lorraine INP - EEIGM)*
 
 {{< admonition info "Coefficients différents" false >}}
 
@@ -551,23 +464,14 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 
 ### Épreuves orales
 
-**Mathématiques :** `durée` 30 min `coefficient` 8
-
-⇨ Préparation : 30 min ∘ Contenu : 1 exercice de la banque CCINP + 1 exercice sur un point différent du programme
-
-**Physique-Chimie :** `durée` 30 min `coefficient` 8
-
-⇨ Préparation : 30 min ∘ Contenu : 2 exercices sur des points différents du programme
-
-**Informatique :** `durée` 30 min `coefficient` 10
-
-⇨ Préparation : 30 min ∘ Contenu : 1 exercice type A (sur feuille, 8 pts) + 1 exercice type B (sur feuille et machine, 12 pts)
-
-**Langue Vivante A :** `durée` 30 min `coefficient` 6
-
-⇨ Préparation : 30 min ∘ Répartition : 14 à 20 min exposé (résumé + commentaire) + Questions ∘ Contenu : Document audio
-
-**TIPE :** `durée` 30 min `coefficient` 8
+| Épreuve | Durée | Coefficient | Préparation | Contenu |
+|:-------:|:-----:|:-----------:|:-----------:|:-------:|
+| Mathématiques | 30 min | 8 | 30 min | 1 exercice de la banque CCINP + 1 exercice sur un point différent du programme |
+| Physique-Chimie | 30 min | 8 | 30 min | 2 exercices sur des points différents du programme |
+| Informatique | 30 min | 10 | 30 min | 1 exercice type A (sur feuille, 8 pts) + 1 exercice type B (sur feuille et machine, 12 pts) |
+| Langue Vivante A | 30 min | 6 | 30 min | 14 à 20 min exposé (résumé + commentaire sur un document audio) + Questions |
+| Langue Vivante B (facultative) | 30 min | 4 | 30 min | Résumé + Commentaire sur un texte contemporain |
+| TIPE | 30 min | 8 | - | 15 min exposé + 15 min questions |
 
 {{< admonition info "Coefficients différents" false >}}
 
@@ -767,13 +671,10 @@ nombres de places sur la rubrique « Inter-filière » du scei. L’avancement d
 
 Les épreuves d'**Informatique**, de **Français-Philosophie** et de **Langue Vivante A** et **B** sont communes aux [épreuves du concours CCINP](https://prepas-mp2i.fr/concours/#épreuves-écrites-5).
 
-**Mathématiques :** `durée` 4h
-
-⇨ Format : 3 à 5 exercices indépendants ∘ Calculatrice : Interdite
-
-**Physique-Chimie :** `durée` 4h
-
-⇨ Format : Plusieurs parties souvent largement indépendantes ∘ Calculatrice : Autorisée
+| Épreuve | Durée | Format |
+|:-------:|:-----:|:------:|
+| Mathématiques | 4h | 3 à 5 exercices indépendants ∘ Calculatrice : Interdite |
+| Physique-Chimie | 4h | Plusieurs parties souvent largement indépendantes ∘ Calculatrice : Autorisée |
 
 {{< admonition info "Coefficients" false >}}
 | Épreuve | Polytech | AVENIR PREPAS | Ingeni'up | PUISSANCE ALPHA-CPGE | EIDD - Paris | EIL Côte d'Opale | IMT Nord Europe* |
@@ -790,13 +691,13 @@ Les épreuves d'**Informatique**, de **Français-Philosophie** et de **Langue Vi
 
 ### Épreuves orales
 
-**TIPE :** `durée` 30 min `coefficient` 8
+Pour les écoles du concours POLYTECH, seule l'épreuve commune de **TIPE** est à effectuer.
 
-⇨ Écoles : POLYTECH
+Pour les autres écoles, il y a un **entretien** affecté des coefficients suivants :
 
-**Entretien :** `coefficient` 9 / 10 / 14 / 20 / 10 / 15
-
-⇨ Écoles : AVENIR PREPAS / Ingéni'Up\* / PUISSANCE ALPHA CPGE / EIDD - Paris / EIL Côte d'Opale / IMT Nord Europe\*\*
+| AVENIR PREPAS | Ingéni'Up\* | PUISSANCE ALPHA CPGE | EIDD - Paris | EIL Côte d'Opale | IMT Nord Europe\*\* |
+|:-------------:|:---------:|:--------------------:|:------------:|:----------------:|:---------------:|
+| 9 | 10 | 14 | 20 | 10 | 15 |
 
 \**Uniquement pour ECAM EPMI, Icam Grand Paris Sud, Icam Lille, Icam Nantes, Icam Strasbourg-Europe et Icam Toulouse*
 
