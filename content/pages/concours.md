@@ -31,14 +31,16 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 ## Concours Polytechnique
 
 > {{< center >}}
-[Site officiel](https://www.polytechnique.edu) - [Notice du concours](https://gargantua.polytechnique.fr/siatel-web/app/linkto/mIb5YYWSPYY) - [Présentation de l'école](https://www.polytechnique.edu/ecole)
+[Site officiel][Polytechnique] - [Notice du concours](https://gargantua.polytechnique.fr/siatel-web/app/linkto/mIb5YYWSPYY) - [Présentation de l'école](https://www.polytechnique.edu/ecole)
 {{< /center >}}
 
 ### Détail des places
 
 | École | Nombre de places・24 |
 |:-----:|:--------------------:|
-| Polytechnique | 24 |
+| [Polytechnique] | 24 |
+
+[Polytechnique]: https://www.polytechnique.edu/
 
 ### Épreuves écrites
 
@@ -61,7 +63,6 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 | ADS | 40 min | 15 | 2h | 15 min exposé + 25 min entretien |
 | Français | 30 min | 8 | 45 min | Résumé + Commentaire |
 | Langue Vivante A | 20 min | 8 | 30 min | Résumé + Commentaire ∘ Document : Vidéo de 4 à 6 min |
-| Langue Vivante B (facultative) | 20 min | ? | 30 min | Résumé + Commentaire ∘ Document : Vidéo de 4 à 6 min |
 | Sport | - | 5 | - | - |
 
 ## Concours ENS
@@ -470,7 +471,6 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 | Physique-Chimie | 30 min | 8 | 30 min | 2 exercices sur des points différents du programme |
 | Informatique | 30 min | 10 | 30 min | 1 exercice type A (sur feuille, 8 pts) + 1 exercice type B (sur feuille et machine, 12 pts) |
 | Langue Vivante A | 30 min | 6 | 30 min | 14 à 20 min exposé (résumé + commentaire sur un document audio) + Questions |
-| Langue Vivante B (facultative) | 30 min | 4 | 30 min | Résumé + Commentaire sur un texte contemporain |
 | TIPE | 30 min | 8 | - | 15 min exposé + 15 min questions |
 
 {{< admonition info "Coefficients différents" false >}}
