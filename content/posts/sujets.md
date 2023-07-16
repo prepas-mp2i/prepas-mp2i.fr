@@ -24,20 +24,6 @@ Explorer les [sujets par filière](https://gargantua.polytechnique.fr/siatel-web
 | Français                  | [![XEULSR_FRANCAIS.pdf](/icons/download.ico)](/documents/sujets/2023/XEULSR_FRANCAIS.pdf) | À venir |
 | Anglais                   | [![XEULSR_ANGLAIS_Non_Officiel.pdf](/icons/download.ico)](XEULSR_ANGLAIS_Non_Officiel.pdf)      | À venir |
 
-{{< details "Cœfficients X/ENS" >}}
-| Épreuve | Polytechnique | ULM (info MPI) | Lyon (I-MPI) | Paris-Saclay | Rennes |
-|:-------:|:-------------:|:--------------:|:------------:|:------------:|:------:|
-| Mathématiques A           | 6 | -         | -       | -         | - |
-| Mathématiques B           | 6 | -         | -       | -         | - |
-| Mathématiques C           | - | 4         | 3       | 5         | 3 |
-| Informatique A            | - | -         | -       | -         | 4 |
-| Informatique C            | 9 | 4         | 6       | 5         | 5 |
-| Informatique Fondamentale | - | 4         | 4       | 5         | 3 |
-| Physique                  | 6 | -         | -       | -         | - |
-| Français-Philosophie      | 6 | 2 (adm)   | 2 (adm) | 2 (adm)   | 2 |
-| Langue vivante A          | 6 | 1,5 (adm) | 2 (adm) | 1,5 (adm) | 2 |
-{{< /details >}}
-
 ### Centrale-Supélec
 
 Découvrir les sujets, rapports et barres d'admissibilité [ici](https://www.concours-centrale-supelec.fr/CentraleSupelec/2023).
@@ -52,49 +38,35 @@ Découvrir les sujets, rapports et barres d'admissibilité [ici](https://www.con
 | Français-Philosophie | [![Centrale_FraPhilo.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_FraPhilo.pdf) | À venir |
 | Anglais              | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Anglais.pdf)    | À venir |
 
-{{< details "Cœfficients Centrale-Supélec" >}}
-| Épreuve | Centrales\* | Centrale Casablanca | ENSEA | EPF | ESTP |
-|:-------:|:-----------:|:-------------------:|:-----:|:---:|:----:|
-| Mathématiques 1      | 18 | 25 | 12 | 10 | 14 |
-| Mathématiques 2      | 18 | 25 | 12 | 10 | 14 |
-| Informatique         | 16 | 10 | 24 | 20 | 12 |
-| Physique 1           | 10 | 18 | 12 | 10 | 11 |
-| Physique 2           | 10 | 18 | 12 | 10 | 11 |
-| Français-Philosophie | 17 | 4  | 17 | 20 | 20 |
-| Langue vivante A     | 11 | -  | 11 | 20 | 18 |
-
-*\* CentraleSupélec, Centrale Lyon, SupOptique, Centrale Lille, Centrale Nantes, Centrale Méditerranée*
-{{< /details >}}
-
 ### Concours Commun Mines-Ponts
 
 Voir la page [annales](https://www.concoursminesponts.fr/page-6/) du site du concours CCMP.
 
-| Épreuve | Cœfficient | Sujet | Rapport |
-|:-------:|:-----------:|:-----:|:-------:|
-| Mathématiques 1      | 4 | [![CCMP_Maths-MPI-1.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Maths-MPI-1.pdf)               | À venir |
-| Mathématiques 2      | 5 | [![CCMP_Maths-MPI-2.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Maths-MPI-2.pdf)               | À venir |
-| Informatique 1       | 3 | [![CCMP_Informatique-MPI-1.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Informatique-MPI-1.pdf) | À venir |
-| Informatique 2       | 4 | [![CCMP_Informatique-MPI-2.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Informatique-MPI-2.pdf) | À venir |
-| Physique 1           | 3 | [![CCMP_Physique-MPI-1.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Physique-MPI-1.pdf)         | À venir |
-| Physique 2           | 3 | [![CCMP_Physique-MPI-2.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Physique-MPI-2.pdf)         | À venir |
-| Français-Philosophie | 5 | [![CCMP_Francais.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Francais.pdf)                     | À venir |
-| Langue vivante A     | 3 | [![CCMP_Langues.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Langues.pdf)                       | À venir |
+| Épreuve | Sujet | Rapport |
+|:-------:|:-----:|:-------:|
+| Mathématiques 1      | [![CCMP_Maths-MPI-1.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Maths-MPI-1.pdf)               | À venir |
+| Mathématiques 2      | [![CCMP_Maths-MPI-2.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Maths-MPI-2.pdf)               | À venir |
+| Informatique 1       | [![CCMP_Informatique-MPI-1.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Informatique-MPI-1.pdf) | À venir |
+| Informatique 2       | [![CCMP_Informatique-MPI-2.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Informatique-MPI-2.pdf) | À venir |
+| Physique 1           | [![CCMP_Physique-MPI-1.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Physique-MPI-1.pdf)         | À venir |
+| Physique 2           | [![CCMP_Physique-MPI-2.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Physique-MPI-2.pdf)         | À venir |
+| Français-Philosophie | [![CCMP_Francais.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Francais.pdf)                     | À venir |
+| Langue vivante A     | [![CCMP_Langues.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Langues.pdf)                       | À venir |
 
 ### CCINP
 
 Voir la page [épreuves écrites](https://www.concours-commun-inp.fr/fr/epreuves/les-epreuves-ecrites.html) du site du concours CCINP.
 
-| Épreuve | Cœfficient | Sujet | Rapport |
-|:-------:|:-----------:|:-----:|:-------:|
-| Mathématiques 1      | 11 | [![CCINP_MATHS_1.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_MATHS_1.pdf)         | À venir |
-| Mathématiques 2      | 11 | [![CCINP_MATHS_2.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_MATHS_2.pdf)         | À venir |
-| Informatique         | 12 | [![CCINP_INFO.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_INFO.pdf)               | À venir |
-| Physique-Chimie      | 11 | [![CCINP_PHYSCHIMIE.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_PHYSCHIMIE.pdf)   | À venir |
-| Français-Philosophie | 9  | [![CCINP_FRPHILO.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_FRPHILO.pdf)         | À venir |
-| Langue vivante A     | 4  | [![CCINP_ANGLAIS_LVA.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_ANGLAIS_LVA.pdf) | À venir |
+| Épreuve | Sujet | Rapport |
+|:-------:|:-----:|:-------:|
+| Mathématiques 1      | [![CCINP_MATHS_1.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_MATHS_1.pdf)         | À venir |
+| Mathématiques 2      | [![CCINP_MATHS_2.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_MATHS_2.pdf)         | À venir |
+| Informatique         | [![CCINP_INFO.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_INFO.pdf)               | À venir |
+| Physique-Chimie      | [![CCINP_PHYSCHIMIE.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_PHYSCHIMIE.pdf)   | À venir |
+| Français-Philosophie | [![CCINP_FRPHILO.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_FRPHILO.pdf)         | À venir |
+| Langue vivante A     | [![CCINP_ANGLAIS_LVA.pdf](/icons/download.ico)](/documents/sujets/2023/CCINP_ANGLAIS_LVA.pdf) | À venir |
 
-> *La langue vivante B est facultative avec un cœfficient de 2.*
+> *La langue vivante B est facultative.*
 
 ### E3A-Polytech
 
@@ -106,16 +78,3 @@ Voir la page [annales et rapports](https://www.e3a-polytech.fr/annales-et-rappor
 |:-------:|:-----:|:-------:| :-----: |
 | Mathématiques   | [![E3A_Maths_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Maths_MPI.pdf) | À venir | A venir |
 | Physique-Chimie | [![E3A_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Physique-Chimie_MPI.pdf) | [![E3A_Rapport_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Rapport_Physique-Chimie_MPI.pdf) | [![E3A_Correction_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Rapport_Physique-Chimie_MPI.pdf) |
-
-{{< details "Cœfficients E3A-Polytech" >}}
-| Épreuve | Polytech | AVENIR PREPAS | Ingeni'up | PUISSANCE ALPHA-CPGE | EIDD - Paris | EIL Côte d'Opale | IMT Nord Europe* |
-|:-------:|:--------:|:-------------:|:---------:|:--------------------:|:------------:|:----------------:|:---------------:|
-| Mathématiques                  | 8 | 6 | 5 | 8 | 8 | 5 | 9 |
-| Physique-Chimie                | 6 | 4 | 4 | 5 | 6 | 5 | 9 |
-| Informatique                   | 8 | 4 | 5 | 8 | 8 | 5 | 4 |
-| Français-Philosophie           | 5 | 3 | 3 | 3 | 5 | 4 | 5 |
-| Langue vivante A               | 5 | 3 | 2 | 3 | 5 | 4 | 5 |
-| Langue vivante B (facultative) | 2 | 1 | 1 | 1 |   | 4 | 2 |
-
-\**En partenariat avec Polyvia Formation*
-{{< /details >}}
