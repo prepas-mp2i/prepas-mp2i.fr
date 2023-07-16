@@ -31,7 +31,7 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 ## Concours Polytechnique
 
 > {{< center >}}
-[Site officiel][Polytechnique] - [Notice du concours](https://gargantua.polytechnique.fr/siatel-web/app/linkto/mIb5YYWSPYY) - [Présentation de l'école](https://www.polytechnique.edu/ecole)
+[Site officiel](https://www.polytechnique.edu/) - [Notice du concours](https://gargantua.polytechnique.fr/siatel-web/app/linkto/mIb5YYWSPYY) - [Présentation de l'école](https://www.polytechnique.edu/ecole)
 {{< /center >}}
 
 ### Détail des places
@@ -60,10 +60,12 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 | Mathématiques | 50 min | 23 | - | - |
 | Physique | 50 min | 20 | - | - |
 | Informatique | 50 min | 22 | - | - |
-| ADS | 40 min | 15 | 2h | 15 min exposé + 25 min entretien |
+| ADS* | 40 min | 15 | 2h | 15 min exposé + 25 min entretien |
 | Français | 30 min | 8 | 45 min | Résumé + Commentaire |
 | Langue Vivante A | 20 min | 8 | 30 min | Résumé + Commentaire ∘ Document : Vidéo de 4 à 6 min |
 | Sport | - | 5 | - | - |
+
+\**Analyse de Documents Scientifiques*
 
 ## Concours ENS
 

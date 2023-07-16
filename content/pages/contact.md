@@ -57,9 +57,9 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 Vous souhaitez discuter avec des étudiants de la filière ?
 Rejoignez notre serveur via ce magnifique bouton :
 {{< center >}}
-[![Discord](https://discordapp.com/api/guilds/872138069594214410/widget.png?style=banner2)](https://discord.gg/9p49Z5ZNtH)
+[![Discord](https://discordapp.com/api/guilds/872138069594214410/widget.png?style=banner2)](https://discord.gg/Mu439mBdsv)
 {{< /center >}}
 
 ## Participer
 
-Si vous souhaitez participer au projet, vous pouvez fork le projet sur [Github](https://github.com/prepas-mp2i/prepas-mp2i.fr).
+Si vous souhaitez contribuer au site web, vous pouvez fork le projet sur [Github](https://github.com/prepas-mp2i/prepas-mp2i.fr).
