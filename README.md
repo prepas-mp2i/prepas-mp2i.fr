@@ -29,4 +29,5 @@ hugo serve -e production
 N'hésitez pas à contacter [contact@prepas-mp2i.fr](mailto:contact@prepas-mp2i.fr) pour tout renseignement.
 
 ## Licence
+
 Ce projet est distribué sous la licence Mozilla Public License 2.0. Vous pouvez consulter les détails de cette licence dans le fichier [LICENSE](https://github.com/prepas-mp2i/prepas-mp2i.fr/blob/gohugo/LICENSE).
