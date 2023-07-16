@@ -4,7 +4,7 @@ subtitle: Découvrir les places, les épreuves
 date: 2022-07-10T13:59:24+02:00
 ---
 
-Les informations sur les concours pour la filière MPI ont été regroupées à partir des sites officiels des concours et des notices de ces derniers. Vous y trouverez les notices en question, le nombre de place pour chaque école et la liste des épreuves écrites et orales qu'il vous faudra affronter en fin de seconde année.
+Les informations sur les concours pour la filière MPI ont été regroupées à partir des sites officiels des concours et des notices de ces derniers. Vous y trouverez les notices en question, le nombre de places pour chaque école et la liste des épreuves écrites et orales qu'il vous faudra affronter en fin de seconde année.
 
 > Retrouvez les sujets des années précédentes sur [cette page](https://prepas-mp2i.fr/posts/sujets-des-concours-mpi).
 
@@ -68,7 +68,7 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 
 **Analyse de Documents Scientifiques (ADS) :** `durée` 40 min `coefficient` 15
 
-⇨ Préparation : 2h ∘ Format : 15 min exposé + 25 min entretient
+⇨ Préparation : 2h ∘ Format : 15 min exposé + 25 min entretien
 
 **Français :** `durée` 30 min `coefficient` 8
 
@@ -124,6 +124,8 @@ Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont com
 
 ### Épreuves orales
 
+L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytechnique](https://prepas-mp2i.fr/concours/#%C3%A9preuves-orales).
+
 **Mathématiques :** `durée` 45 min
 
 ⇨ Écoles : Ne concerne pas l'ENS Rennes
@@ -132,19 +134,13 @@ Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont com
 
 ⇨ Préparation : 30 min
 
-**Langue Vivante (épreuve commune avec Polytechnique) :** `durée` 20 min
-
-⇨ Préparation : 30 min ∘ Contenu : Résumé + Commentaire ∘ Document : Vidéo de 4 à 6 min
-
-⇨ Langue : Identique à celle choisie pour l'épreuve écrite
-
 **TP Algo :** `durée` 20 min
 
 ⇨ Préparation : 3h sur machine sans examinateur
 
 **TIPE :** `durée` 40 min
 
-⇨ Format : discussion avec deux examinateurs, avec le compte-rendu envoyé au préalable projeté au tableau
+⇨ Format : Discussion avec deux examinateurs, avec le compte-rendu envoyé au préalable projeté au tableau
 
 {{< admonition info "Coefficients" false >}}
 | Épreuve | ULM (info MPI) | Paris-Saclay | Lyon (I-MPI) | Rennes |
@@ -344,7 +340,7 @@ Elles sont identiques aux [épreuves du concours commun Mines-Ponts](https://pre
 
 Les épreuves orales sont divisées en **3 groupes** :
 
-- si vous êtes **également admissible à Mines-Ponts**, vous passez uniquement les oraux Mines-Ponts. Vos notes de mathématiques, d'informatique et d'anglais seront ajustées ; l'épreuve orale de français remplacera l'entretient.
+- si vous êtes **également admissible à Mines-Ponts**, vous passez uniquement les oraux Mines-Ponts. Vos notes de mathématiques, d'informatique et d'anglais seront ajustées ; l'épreuve orale de français remplacera l'entretien.
 - sinon, vous pouvez être **admissible en série 1**, c'est-à-dire avoir accès à toutes les écoles du concours Mines Télécom ;
 - ou être seulement **admissible en série 2**, ce qui vous donne un accès restreint à 6 écoles : Télécom Nancy, Télécom Saint-Étienne, ENSSAT, EIVP, ENSG Géologie et ENSG Géomatique.
 
@@ -366,7 +362,7 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 
 ⇨ Format : Rapide présentation + Commentaire d'un document iconographique + Jeu de rôle
 
-**Entretient :** `durée` 20 min `coefficient` 7
+**Entretien :** `durée` 20 min `coefficient` 7
 
 ⇨ Première partie : "Imaginer un produit ou un service qui réponde à un défi de société au moyen d’une technologie spécifique." ➞ 1 enjeu sociétal (image) + 1 technologie au choix parmi 2 (image + nom) ∘ Note éliminatoire : Inférieure à 4
 
@@ -495,7 +491,7 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 
 |                ENAC             |           École de l'Air et de l'Espace         |
 |:-------------------------------:|:-----------------------------------------------:|
-| 4・∅・4・5・∅ + 7 (entretient) | 8・8・8・∅・7 + 44 (entretient, anglais, sport) |
+| 4・∅・4・5・∅ + 7 (entretient) | 8・8・8・∅・7 + 44 (entretien, anglais, sport) |
 
 {{< /admonition >}}
 
