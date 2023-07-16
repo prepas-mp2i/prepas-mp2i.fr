@@ -8,9 +8,9 @@ Voici une liste non exhaustive de projets d'étudiants en MP2I ou MPI, n'hésite
 
 ## 2022-2023
 
-### crdevio
+### Clément Rouvroy (crdevio)
 
-- [avantlampii.cr-dev.io](https://avantlampii.cr-dev.io/) : Un document gratuit pour aborder sereinement l'informatique en classe préparatoire. Il possède des points de cours essentiels du programme de NSI et des exercices ouverts pour apprendre à réagir face à des exercices types.
+- [avantlampii.cr-dev.io](https://avantlampii.cr-dev.io/) : Un document gratuit pour aborder sereinement l'informatique en classe préparatoire. Il possède des points de cours essentiels du programme de NSI et des exercices ouverts pour apprendre à réagir face à des exercices types. Aucun hors-programme, aucune avance nette sur le programme, que de quoi bien commencer votre année !
 
 ## 2021-2022
 
