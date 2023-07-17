@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://prepas-mp2i.fr/"
 title = "Prépas MP2I/MPI"
 theme = "LoveIt"
 defaultContentLanguage = "fr"
@@ -119,7 +119,6 @@ staticDir = ["static", "assets"]
     Email = "contact@prepas-mp2i.fr"
     Discord = "Mu439mBdsv"
     
-
   [params.page]
     hiddenFromHomePage = false
     hiddenFromSearch = false
