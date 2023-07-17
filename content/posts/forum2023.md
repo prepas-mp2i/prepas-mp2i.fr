@@ -9,7 +9,12 @@ Le forum 2023 est terminé ! Comme l'année dernière, ce ne sont pas moins de 3
 Vous pouvez télécharger [le diaporama](/documents/diaporama_forum_2023.pdf) utilisé comme support en PDF.
 {{< /admonition >}}
 
-{{< figure caption="Réalisée par Carole (Aux Lazaristes)" src="/images/affiche_forum_2023.jpg" link="/documents/affiche_forum_2023.pdf" width="60%">}}
+{{< figure
+    caption="Réalisée par Carole (Aux Lazaristes)"
+    src="/images/affiche_forum_2023.jpg"
+    link="/documents/affiche_forum_2023.pdf"
+    width="60%"
+>}}
 
 ## Présentation
 

@@ -5,7 +5,7 @@ defaultContentLanguage = "fr"
 languageCode = "fr"
 enableRobotsTXT = true
 enableGitInfo = true
-staticDir = ["static", "assets"]
+enableEmoji = true
 
 [menu]
   [[menu.main]]

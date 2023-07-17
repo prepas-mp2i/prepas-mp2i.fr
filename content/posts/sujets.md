@@ -77,4 +77,4 @@ Voir la page [annales et rapports](https://www.e3a-polytech.fr/annales-et-rappor
 | Épreuve | Sujet | Rapport | Corrigé |
 |:-------:|:-----:|:-------:| :-----: |
 | Mathématiques   | [![E3A_Maths_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Maths_MPI.pdf) | À venir | A venir |
-| Physique-Chimie | [![E3A_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Physique-Chimie_MPI.pdf) | [![E3A_Rapport_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Rapport_Physique-Chimie_MPI.pdf) | [![E3A_Correction_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Rapport_Physique-Chimie_MPI.pdf) |
+| Physique-Chimie | [![E3A_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Physique-Chimie_MPI.pdf) | [![E3A_Rapport_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Rapport_Physique-Chimie_MPI.pdf) | [![E3A_Correction_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Correction_Physique-Chimie_MPI.pdf) |
