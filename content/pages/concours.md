@@ -9,7 +9,7 @@ Les informations sur les concours pour la filière MPI ont été regroupées à 
 > Retrouvez les sujets des années précédentes sur [cette page](https://prepas-mp2i.fr/posts/sujets-des-concours-mpi).
 
 {{< admonition warning "Attention !" true >}}
-Les notices, listes d'épreuves et nombres de places actuels correspondent à la **session 2023**.
+Les notices, listes d'épreuves et nombres de places actuels correspondent à la **session 2023**. Il y avait alors **814 élèves** qui passaient les concours.
 
 Les informations présentes sur cette page ne sont pas exhaustives ; elles permettent seulement un aperçu rapide, et ne sont pas nécessairement à jour. Référez-vous systématiquement aux notices de l'année en cours pour garantir la fiabilité et la précision de vos informations.
 {{< /admonition >}}
@@ -106,6 +106,8 @@ Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont com
 | Informatique Fondamentale | 4         | 5       | 4       | 3 |
 | Français-Philosophie      | 2 (adm)   | 2 (adm) | 2 (adm) | 2 |
 | Langue vivante            | 1,5 (adm) | 2 (adm) | 2 (adm) | 2 |
+
+\**adm : compte uniquement pour l'admission finale, pas pour l'admissibilité aux oraux.
 {{< /admonition >}}
 
 ### Épreuves orales
@@ -117,7 +119,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 | Mathématiques | 45 min | - | Ne concerne pas l’ENS Rennes |
 | Informatique | 30 min | 30 min | - |
 | TP Algo | 20 min | 3h | Préparation sans examinateur |
-| TIPE | 40 min | - | Discussion avec deux examinateurs, avec le compte-rendu envoyé au préalable projeté au tableau |
+| TIPE | 40 min | - | Discussion avec deux examinateurs, avec possibilité de projeter une présentation ou le rapport préalablement rendu au tableau |
 
 {{< admonition info "Coefficients" false >}}
 | Épreuve | ULM (info MPI) | Paris-Saclay | Lyon (I-MPI) | Rennes |
@@ -337,7 +339,7 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 | Mathématiques | 30 min | 8 | - | 2 exercices |
 | Informatique | 30 min | 8 | 15 min de lecture du sujet en amont | - |
 | Langue Vivante A | 20 min | 7 | - | Rapide présentation + Commentaire d'un document iconographique + Jeu de rôle |
-| Entretien (note <4 éliminatoire) | 20 min | 7 | - | Première partie : "Imaginer un produit ou un service qui réponde à un défi de société au moyen d’une technologie spécifique." ➞ 1 enjeu sociétal (image) + 1 technologie au choix parmi 2 (image + nom)|
+| Entretien | 20 min | 7 *(note < 4 éliminatoire)*| - | Première partie : "Imaginer un produit ou un service qui réponde à un défi de société au moyen d’une technologie spécifique." ➞ 1 enjeu sociétal (image) + 1 technologie au choix parmi 2 (image + nom)|
 
 #### Admissible Série 2
 
@@ -472,7 +474,7 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 | Mathématiques | 30 min | 8 | 30 min | 1 exercice de la banque CCINP + 1 exercice sur un point différent du programme |
 | Physique-Chimie | 30 min | 8 | 30 min | 2 exercices sur des points différents du programme |
 | Informatique | 30 min | 10 | 30 min | 1 exercice type A (sur feuille, 8 pts) + 1 exercice type B (sur feuille et machine, 12 pts) |
-| Langue Vivante A | 30 min | 6 | 30 min | 14 à 20 min exposé (résumé + commentaire sur un document audio) + Questions |
+| Langue Vivante A | 30 min | 6 | 30 min | 14 à 20 min exposé (résumé & commentaire sur un document audio) + Questions |
 | TIPE | 30 min | 8 | - | 15 min exposé + 15 min questions |
 
 {{< admonition info "Coefficients différents" false >}}
