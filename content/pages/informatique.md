@@ -15,12 +15,12 @@ Vous pouvez le télécharger [en cliquant ici](/documents/informatique_mp2i_et_m
 
 | Année | Cours | Travaux Dirigés | Travaux Pratiques |
 |:-----:|:-----:|:---------------:|:-----------------:|
-| MP2I・1<sup>er</sup> semestre | 2h | 1h | 1h |
-| MP2I・2<sup>nd</sup> semestre</br>*Voie Informatique* | 4h | 1h | 1h |
+| MP2I・semestre I | 2h | 1h | 1h |
+| MP2I・semestre II</br>*Voie Informatique* | 4h | 1h | 1h |
 | MPI | 4h | 1h | 1h |
 
-{{< admonition tip "MP2I・2ⁿᵈ semestre : Voie SI" true >}}
-Les élèves choisissant de se réorienter vers la SI au 2<sup>nd</sup> semestre de MP2I n'auront plus qu'**1h30 d'informatique tronc commun** par semaine.
+{{< admonition tip "MP2I・Second semestre : Voie SI" true >}}
+Les élèves choisissant de se réorienter vers la SI au second semestre de MP2I n'auront plus qu'**1h30 d'informatique tronc commun** par semaine.
 {{< /admonition >}}
 
 - **Cours** : cours théorique en classe entière, comme pour les mathématiques par exemple.
@@ -86,21 +86,20 @@ Le but principal des TP est de faire fonctionner un algorithme étudié en cours
 
 Pendant les TP, la programmation se fait en **C**  et en **OCaml**.
 
-{{< figure src="/images/logo_C.svg" title="logo du langage C" height="5%" width="5%" >}}{{< figure src="/images/logo_Ocaml.svg" title="Logo du langage OCaml" height="15%" width="15%" >}}
+{{< figure src="/images/logo_C.svg" caption="*Logo du langage C*" width="15%"  >}}
+{{< figure src="/images/logo_Ocaml.svg" caption="*Logo du langage OCaml*" width="40%" >}}
 
-> Retrouvez la documentation en ligne du [C](https://devdocs.io/c/) ainsi que le [Site Ocaml](https://ocaml.org/).
+> Retrouvez la documentation en ligne du [C](https://devdocs.io/c/) ainsi que le site [OCaml](https://ocaml.org/).
 
 On utilise quelquefois **Python** lors de TP de physique, mais c'est davantage une compétence de traitement de données que des algorithmes complexes.
 
-### Exemple
+### Exemples
 
 Voici un exemple classique de tâche pour lequel on va construire un algorithme : calculer les termes de la [suite de Fibonacci](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci). Pour rappel, les premiers termes de cette suite valent 0 et 1, puis on construit le terme suivant en additionnant les deux précédents.
 
 #### En Python
 
 Dans le chapitre récursivité, vous avez vraisemblablement déjà rencontré la suite de Fibonacci.
-
-</br>
 
 ```python
 def fibo(n):
@@ -118,8 +117,6 @@ def fibo(n):
 
 En "traduisant" simplement la syntaxe :
 
-</br>
-
 ```ocaml
 let rec fibo n = 
     if n = 0 then 0
@@ -127,18 +124,19 @@ let rec fibo n =
     else fibo (n-1) + fibo (n-2) 
     
 (* Les parenthèses ne sont pas systématiques en OCaml. 
-   On doit les utiliser lorsque notre expression n'est pas associative, pour dissocier les différents cas. 
-   Ici, nous voulons bien passer n-1 en paramètre, et non faire fibo n puis décrémenter le résultat. *)
+   On doit les utiliser lorsque notre expression n'est pas associative, 
+   pour dissocier les différents cas. 
+   Ici, nous voulons bien passer n-1 en paramètre, 
+   et non faire fibo n puis décrémenter le résultat. *)
 ```
-</br>
+
+___
 
 Cependant, le [pattern matching](https://ocaml.org/learn/tutorials/a_first_hour_with_ocaml.html#Pattern-matching) permet d'obtenir une écriture plus élégante pour ce genre de codes ; il est également poossible de préciser le type des paramètres utilisés ainsi que celui de l'expression renvoyée.
-</br>
-*(Il existe quelque chose de ressemblant en python, mais ça n'est que du sucre syntaxique)*
+
+(*Il existe quelque chose de ressemblant en python, mais ça n'est que du sucre syntaxique*)
 
 Ces optimisations syntaxiques permettent de déceler plus vite une incohérence, et donc de produire un code plus sécurisé en s'assurant qu'il réalise exactement ce que l'on veut. On dit qu'OCaml est [fortement typé](https://fr.wikipedia.org/wiki/Typage_fort).
-
-</br>
 
 ```ocaml
 (* La fonction fibo prend en paramètre un entier n, et renverra aussi un entier. *)
@@ -152,17 +150,14 @@ let rec fibo (n:int) : int =
     (* Ce filtre prend toute valeur de n, il permet d'effectuer un filtrage exhaustif.
        En conséquent, aucun autre filtre suivant ne sera pris en compte. *)
 ```
+
 </br>
 Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écriture est très proche de sa définition mathématique !
 <!-- TODO: Remplacer ou ajouter un exemple en OCaml plus simple, permettant d'introduire le langage de façon moins violente, une proposition avancée est l'utilisation d'une suite arithmético-géométrique. -->
 
-</br>
-
 Cependant, comme vous le verrez en cours, les algorithmes précédents sont peu efficaces, car ils calculent de nombreuses fois les mêmes termes (donc ils deviennent très vite lents lorsque la taille de l'entrée augmente) et peuvent finir par faire "exploser la pile d'appel".
 
 Afin de réduire la quantité de mémoire utilisée par le programme, il est possible d'appiquer le principe de [récursivité terminale](https://pcaboche.developpez.com/article/programmation-fonctionnelle/recursivite-terminale/), comme le fait l'exemple ci-dessous :
-
-</br>
 
 ```ocaml
 let fibo (n:int) : int =
@@ -175,36 +170,33 @@ let fibo (n:int) : int =
     in aux n 0 1 (* Et on renvoie sa valeur ici *)
 ```
 <!-- C'est peut-être un peu plus intuitif et représentatif des optimisations que peut faire le compilateur en termes d'OCaml récursif -->
-</br>
 
+___
 Dans le programme ci-dessus, chaque valeur de la suite est calculée une seule fois, et est stockée dans les arguments de la fonction auxiliaire. Cela nous permet d'atteindre une [complexité linéaire](https://cahier-de-prepa.fr/psi-michelet/download?id=239) en réduisant le nombre d'opérations effectuées par la fonction.
 
 #### En C
 
 Dans la même idée, il est possible d'écrire cette même fonction dans le langage C :
 
-</br>
-
 ```c
 int fibo(int n)
 {
-    /* En C, un double égal permet de comparer deux valeurs. Un simple égal est considéré comme une assignation.
-    Des parenthèses sont nécessaires autour de chaque expression logique. */
-    if (n == 0) /* On peut omettre les accolades si il y a qu'une seule expression dans le bloc */
+    /* En C, un double égal permet de comparer deux valeurs. 
+     * Un simple égal est considéré comme une assignation.
+     * Des parenthèses sont nécessaires autour de chaque expression logique. 
+     */
+    if (n == 0)      // On peut omettre les accolades si il y a qu'une seule expression dans le bloc
         return 0;
-    else if (n == 1) /* Pareil qu'en Python, on peut aussi omettre les else ici */
+    else if (n == 1) // Pareil qu'en Python, on peut aussi omettre les else ici
         return 1; 
     else
         return fibo(n - 1) + fibo(n - 2);
 }
-
-/* fonction main */
 ```
-</br>
 
-Ici, chaque appel à la fonction `fibo` recalcule chaque valeur de la suite, ce qui augmente l'usage en mémoire et la complexité du programme. Il est possible d'appliquer le même principe de récursivité terminale en C, avec le coût ajouté des arguments supplémentaires dans la signature de la fonction (il est impossible de définir des fonctions dans les fonctions en C). Si on cherche à l'optimiser un peu en appliquant la récursivité terminale, ça donnerait :
+Ici, chaque appel à la fonction `fibo` recalcule chaque valeur de la suite, ce qui augmente l'usage en mémoire et la complexité du programme. Il est possible d'appliquer le même principe de récursivité terminale en C, avec le coût ajouté des arguments supplémentaires dans la signature de la fonction (il est impossible de définir des fonctions dans les fonctions en C).
 
-</br>
+Si on cherche à l'optimiser un peu en appliquant la récursivité terminale, ça donnerait :
 
 ```c
 int fibo(int n, int n0, int n1)
@@ -216,18 +208,18 @@ int fibo(int n, int n0, int n1)
     return fibo(n-1, n1, n0+n1);
 }
 
-/* Ne vous souciez pas de ce que contient cette fonction, vous verrez tous les détails du fonctionnement du langage en cours :) */
+/* Ne vous souciez pas de ce que contient cette fonction, 
+ * vous verrez tous les détails du fonctionnement du langage en cours :) 
+ */
 int main()
 {
     int fibo10 = fibo(10, 0, 1); /* Correspond au premier appel récursif en OCaml */
     return 0;
 }
 ```
-</br>
 
+___
 Bien sûr, il est toujours possible d'aller un peu plus loin et de s'amuser avec le côté obscur de l'informatique :
-
-</br>
 
 ```c
 long int fibo(int n)
@@ -242,9 +234,7 @@ long int fibo(int n)
     return a;
 }
 ```
-</br>
 
 Ce code est en fait basé sur un [XOR swap](https://en.wikipedia.org/wiki/XOR_swap_algorithm). Comme quoi, on peut s'amuser en MP2I/MPI, même avec une tâche aussi simple !
 
-Ne prenez pas peur si vous ne savez écrire dans aucun de ces langages, leurs compilateurs respectifs vous accompagneront tout du long en vous indiquant les erreurs et comment les corriger :)
-
+Ne prenez pas peur si vous ne savez écrire dans aucun de ces langages, leurs compilateurs respectifs vous accompagneront tout du long en vous indiquant les erreurs et comment les corriger :wink:
