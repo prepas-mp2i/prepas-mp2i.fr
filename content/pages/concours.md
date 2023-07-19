@@ -20,7 +20,7 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 
 | Polytechnique | ENS | Centrale | Mines-Ponts | Mines Télécom | CCINP | E3A-Polytech |
 |:-------------:|:---:|:--------:|:-----------:|:-------------:|:-----:|:------------:|
-|      24       | 37  |   113    |     110     |      111      |  233  |     274+     |
+|      24       | 37  |   113    |     110     |      111      |  277  |     274+     |
 
 ### Répartition des coefficients
 
