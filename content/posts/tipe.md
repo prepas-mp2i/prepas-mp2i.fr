@@ -30,8 +30,8 @@ Le TIPE Tétraconcours se décompose en 4 documents principaux :
   4. Objectifs du TIPE (au maximum 100 mots)
   5. Liste de références bibliographiques (2 à 10 références)
 - Le **Déroulé Opérationnel du TIPE (DOT)**, qui sera également à remplir sur le site SCEI. Il s'agit de 4 à 8 jalons qui marquent les grandes étapes de votre TIPE. N'hésitez pas à  indiquer les fausses pistes, les changements de sujets, mais aussi et surtout les étapes majeures de votre avancée.
-- La **Présentation**, à téléverser au format PDF (note : les diapositives doievnt être au format 4:3). Il s'agit bien etendu de votre document principal puisque ce sera votre support pour l'épreuve orale. Son élaboration doit se faire en parallèle de l'avancement de votre TIPE, et doit être le reflet de votre travail, tout en restant syntéthique et visuel.
-- Les **Annexes** à apporter en mains propres au jury : bien qu'elles doivent apparaîtres sur les diapositives qui suivent la présentation, elles doivent également être remises au format papier (double exemplaire donc) à votre arrivée dans la salle. Elles peuvent contenir votre code, ou des informations complémentaires que vous n'avez jugées utile de mettre dans votre présentation.
+- La **Présentation**, à téléverser au format PDF (note : les diapositives doivent être au format 4:3). Il s'agit bien etendu de votre document principal puisque ce sera votre support pour l'épreuve orale. Son élaboration doit se faire en parallèle de l'avancement de votre TIPE, et doit être le reflet de votre travail, tout en restant syntéthique et visuel.
+- Les **Annexes** à apporter en mains propres au jury : bien qu'elles soient apparentes sur les diapositives qui suivent la présentation, elles doivent également être remises au format papier (double exemplaire donc) à votre arrivée dans la salle. Elles peuvent contenir votre code, ou des informations complémentaires que vous n'avez jugées utile de mettre dans votre présentation.
 
 ### Le calendrier
 
@@ -58,7 +58,7 @@ L'épreuve orale de TIPE se déroule à la même période que vos autres oraux. 
 
 Tout d'abord, **15 min de présentation**. C'est le moment de faire l'exposé de votre travail, un monologue que vous vous êtes déjà exercé à formuler auparavant. Vous aurez à votre disposition de quoi naviguer entre vos diapositives (usuellement les flèches directionnelles du clavier) qui seront déjà projettées au tableau à votre arrivée. Vous pouvez éventuellement apporter un pointeur laser si besoin. 
 
-Puis un **entretien de 15 min** avec les examinateurs, pendant lequel vous devrez répondre à leurs questions sur votre travail. Faites attention, vous devez être informés en profondeur de chaque notion que vous introduisez ou utilisez. Ils peuvent également vous demander de réafficher une diapositive en particulier, d'où la nécessité de la numérotation !
+Puis un **entretien de 15 min** avec les examinateurs, pendant lequel vous devrez répondre à leurs questions sur votre travail. Faites attention, vous devez être informé en profondeur de chaque notion que vous introduisez ou utilisez. Ils peuvent également vous demander de réafficher une diapositive en particulier, d'où la nécessité de la numérotation !
 
 ## Le TIPE ENS
 
