@@ -114,6 +114,7 @@ Pour la première promotion de la filière, le thème était une porte grande ou
 | Distribution optimale et maximale de biens à livrer au sein d’une ville | Seydou SENE | [![TIPE2023_Seydou.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Seydou.pdf) | [![MCOT2023_Seydou.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Seydou.pdf) | [1] |
 | Accélération du ray-tracing avec des Bounding Volume Hierarchies | Alaric | [![TIPE2023_Alaric.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Alaric.pdf) | [![MCOT2023_Alaric.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Alaric.pdf) | - |
 | L'impact des phénomènes physiques dans la cybersécurité | Flavio | [![TIPE2023_Flavio.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Flavio.pdf) | [![MCOT2023_Flavio.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Flavio.pdf) | - |
+| Optimisation de la collecte des déchets | *Anonyme* | [![TIPE2023_Anonyme1.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Anonyme1.pdf) | [![MCOT2023_Anonyme1.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Anonyme1.pdf) | - |
 
 [1] *La présentation est trop chargée pour être présentée en 15min.*
 
