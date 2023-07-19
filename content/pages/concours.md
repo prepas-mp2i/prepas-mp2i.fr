@@ -9,7 +9,7 @@ Les informations sur les concours pour la filière MPI ont été regroupées à 
 > Retrouvez les sujets des années précédentes sur [cette page](https://prepas-mp2i.fr/posts/sujets-des-concours-mpi).
 
 {{< admonition warning "Attention !" true >}}
-Les notices, listes d'épreuves et nombres de places actuels correspondent à la **session 2023**. Il y avait alors **814 élèves** qui passaient les concours.
+Les notices, listes d'épreuves et nombres de places actuels correspondent à la **session 2023**. Il y avait alors **812 élèves** qui passaient les concours.
 
 Les informations présentes sur cette page ne sont pas exhaustives ; elles permettent seulement un aperçu rapide, et ne sont pas nécessairement à jour. Référez-vous systématiquement aux notices de l'année en cours pour garantir la fiabilité et la précision de vos informations.
 {{< /admonition >}}
@@ -107,7 +107,7 @@ Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont com
 | Français-Philosophie      | 2 (adm)   | 2 (adm) | 2 (adm) | 2 |
 | Langue vivante            | 1,5 (adm) | 2 (adm) | 2 (adm) | 2 |
 
-\**adm : compte uniquement pour l'admission finale, pas pour l'admissibilité aux oraux.
+\**adm : compte uniquement pour l'admission finale, pas pour l'admissibilité aux oraux.*
 {{< /admonition >}}
 
 ### Épreuves orales
@@ -128,7 +128,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 | Informatique   | 4   | 5   | 5   | 5 |
 | Langue Vivante | 1.5 | 1.5 | 1.5 | 2 |
 | TP Algo        | 4   | 5   | 6.5 | 5 |
-| TIPE           | 1   | 3   | 2   | 5 |
+| [TIPE][TIPE]           | 1   | 3   | 2   | 5 |
 {{< /admonition >}}
 
 ## Concours Centrale
@@ -198,7 +198,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 | Langue Vivante B (facultative) | 20 min | 10 | 20 min | Document textuel |
 | TP Informatique | 3h | 16 | - | - |
 | TP Physique-Chimie | 3h | 12 | - | - |
-| TIPE | 30 min | 11 | - | 15 min exposé + 15 min questions |
+| [TIPE][TIPE] | 30 min | 11 | - | 15 min exposé + 15 min questions |
 
 {{< admonition info "Coefficients différents" false >}}
 
@@ -267,7 +267,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 | Anglais | 20 min | 5 | 20 min | Résumé + Commentaire sur un texte contemporain |
 | Autre Langue Vivante (facultative) | 20 min | ? | 20 min | Résumé + Commentaire sur un texte contemporain |
 | TP Informatique | 3h30 | 6 | - | Combine programmation sur ordinateur et échange avec un ou plusieurs examinateurs ∘ Élaboration d’un compte-rendu |
-| TIPE | 30 min | 6 | - | 15 min exposé + 15 min questions |
+| [TIPE][TIPE] | 30 min | 6 | - | 15 min exposé + 15 min questions |
 
 ## Concours Mines Télécom
 
@@ -339,7 +339,9 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 | Mathématiques | 30 min | 8 | - | 2 exercices |
 | Informatique | 30 min | 8 | 15 min de lecture du sujet en amont | - |
 | Langue Vivante A | 20 min | 7 | - | Rapide présentation + Commentaire d'un document iconographique + Jeu de rôle |
-| Entretien | 20 min | 7 *(note < 4 éliminatoire)*| - | Première partie : "Imaginer un produit ou un service qui réponde à un défi de société au moyen d’une technologie spécifique." ➞ 1 enjeu sociétal (image) + 1 technologie au choix parmi 2 (image + nom)|
+| Entretien | 20 min | 7* | - | Première partie : "Imaginer un produit ou un service qui réponde à un défi de société au moyen d’une technologie spécifique." ➞ 1 enjeu sociétal (image) + 1 technologie au choix parmi 2 (image + nom)|
+
+\**Une note inférieure à 4/20 est éliminatoire.*
 
 #### Admissible Série 2
 
@@ -348,7 +350,7 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 | Mathématiques | 50 min | 8 | 1 exercice + du cours |
 | Physique et Informatique | 50 min | 8 | QCM sur le programme d'informatique commum avec les MP, PC et PSI |
 | Anglais | 30 min | 7 | QCM de compréhension orale et écrite |
-| Entretien* | 20 min | 7 | Première partie : "Imaginer un produit ou un service qui réponde à un défi de société au moyen d’une technologie spécifique." ➞ 1 enjeu sociétal (image) + 1 technologie au choix parmi 2 (image + nom)|
+| Entretien | 20 min | 7* | Première partie : "Imaginer un produit ou un service qui réponde à un défi de société au moyen d’une technologie spécifique." ➞ 1 enjeu sociétal (image) + 1 technologie au choix parmi 2 (image + nom)|
 
 \**Une note inférieure à 4/20 est éliminatoire.*
 
@@ -475,7 +477,7 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 | Physique-Chimie | 30 min | 8 | 30 min | 2 exercices sur des points différents du programme |
 | Informatique | 30 min | 10 | 30 min | 1 exercice type A (sur feuille, 8 pts) + 1 exercice type B (sur feuille et machine, 12 pts) |
 | Langue Vivante A | 30 min | 6 | 30 min | 14 à 20 min exposé (résumé & commentaire sur un document audio) + Questions |
-| TIPE | 30 min | 8 | - | 15 min exposé + 15 min questions |
+| [TIPE][TIPE] | 30 min | 8 | - | 15 min exposé + 15 min questions |
 
 {{< admonition info "Coefficients différents" false >}}
 
@@ -695,7 +697,7 @@ Les épreuves d'**Informatique**, de **Français-Philosophie** et de **Langue Vi
 
 ### Épreuves orales
 
-Pour les écoles du concours POLYTECH, seule l'épreuve commune de **TIPE** est à effectuer.
+Pour les écoles du concours POLYTECH, seule l'épreuve commune de **[TIPE][TIPE]** est à effectuer.
 
 Pour les autres écoles, il y a un **entretien** affecté des coefficients suivants :
 
@@ -706,3 +708,5 @@ Pour les autres écoles, il y a un **entretien** affecté des coefficients suiva
 \**Uniquement pour ECAM EPMI, Icam Grand Paris Sud, Icam Lille, Icam Nantes, Icam Strasbourg-Europe et Icam Toulouse*
 
 \*\**En partenariat avec Polyvia Formation*
+
+[TIPE]: https://prepas-mp2i.fr/posts/tipe/
