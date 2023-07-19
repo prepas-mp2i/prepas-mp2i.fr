@@ -62,7 +62,23 @@ Puis un **entretien de 15 min** avec les examinateurs, pendant lequel vous devre
 
 ## Le TIPE ENS
 
-*En cours de rédaction...*
+Comme son nom l’indique, le TIPE ENS est une épreuve qui compte **uniquement pour les ENS**, et pour toutes les ENS. Il est nécessaire de préparer un projet pendant l’année de MPI (souvent commencé en fin de MP2I en pratique) pour pouvoir ensuite le présenter lors d’un oral de 40 min. Il est possible d’utiliser le même projet que pour le TIPE tétraconcours, ou bien d’en faire un autre totalement différent. La principale différence avec le TIPE Tétraconcours est l’étalement temporel : le premier rendu pour ce dernier est en janvier de l’année de MPI alors que celui du TIPE ENS n’est qu’une semaine après les résultats d’admissibilité (début Juin).
+
+
+### Le contenu
+
+Le corps TIPE ENS est le rapport. Il sera lu avant l’oral par le jury ; il n’est pas évalué en tant que tel mais peut être la base de questions posées pendant l’oral. Il consiste à présenter en environ 5 pages le travail effectué, et contient une introduction et une conclusion. L’introduction présente le problème étudié et l’état de la recherche / des résultats préliminaires / des hypothèses sur lesquels le travail va s’appuyer ; la conclusion est une réponse à la problématique donnée et peut proposer des perspectives d’amélioration. 
+Le contenu du corps du rapport dépend du sujet choisi. Si c’est un sujet expérimental, il faut décrire (images à l’appui) les expériences effectuées et les résultats obtenus ; si c’est un sujet plus théorique, on attend par exemple des preuves qui permettent d’aboutir au résultat final. Il est possible que le texte du rapport soit assez proche d’une retranscription de ce qui est dit pendant la présentation du TIPE Tétraconcours. Cependant, le rapport avec le thème de l’année peut être éludé. De plus il doit s’appuyer sur une bibliographie (qui est souvent celle mentionnée dans le MCOT).
+
+### Le calendrier
+
+Un élève admissible à au moins une ENS reçoit le jour des résultats d'admissibilité un mail qui lui fournit un lien sur lequel il devra envoyer son rapport. Il doit d’abord confirmer sa matière principale, et s’il y a lieu une matière secondaire. Le délai pour envoyer son rapport est d’environ une dizaine de jours. Il est conseillé de commencer à le préparer à l’avance car cette période (durant la préparation aux oraux) peut être chargée.
+
+### L'épreuve oral
+
+L’oral dure 40 à 45 minutes et se fait sans préparation. Le candidat fournit un diaporama (qui n’est pas forcément celui utilisé au Tétraconcours) sur une clef USB. Il est conseillé d’amener un exemplaire papier de son rapport pour pouvoir s’y référer, mais ce n’est pas obligatoire. Le candidat présente un exposé, et les deux examinateurs l’interrompent pour poser des questions.
+
+Les questions portent sur le travail effectué, mais aussi sur des notions annexes ou théoriques derrière les résultats utilisés. Par exemple, dans le cas de l’étude d’un algorithme, le jury peut demander le principe des preuves de terminaison et validité, de détailler son fonctionnement sur un exemple, d’éventuels résultats qu’il utilise, ce qu’il se passe dans un cas particulier, comment attaquer l’algorithme... Il est également nécessaire de bien connaître sa bibliographie, étant donné que les questions peuvent s’y référer.
 
 ## Ressources
 
@@ -115,8 +131,10 @@ Pour la première promotion de la filière, le thème était une porte grande ou
 | Accélération du ray-tracing avec des Bounding Volume Hierarchies | Alaric | [![TIPE2023_Alaric.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Alaric.pdf) | [![MCOT2023_Alaric.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Alaric.pdf) | - |
 | L'impact des phénomènes physiques dans la cybersécurité | Flavio | [![TIPE2023_Flavio.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Flavio.pdf) | [![MCOT2023_Flavio.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Flavio.pdf) | - |
 | Optimisation de la collecte des déchets | *Anonyme* | [![TIPE2023_Anonyme1.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Anonyme1.pdf) | [![MCOT2023_Anonyme1.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Anonyme1.pdf) | - |
+| Résolution de niveaux du Sokoban | Valentin CARREZ |  [![TIPE2023_Valentin.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Valentin.pdf) | [![MCOT2023_Valentin.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Valentin.pdf) | [GitHub](https://github.com/PoulpoGaz/sokoshell) [2] |
 
 [1] *La présentation est trop chargée pour être présentée en 15min.*
+[2] *Ce TIPE a été réalisé en binôme.*
 
 #### ENS
 
