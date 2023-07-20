@@ -72,11 +72,11 @@ Puis un **entretien de 15 min** avec les examinateurs, pendant lequel vous devre
 
 Comme son nom l’indique, le TIPE ENS est une épreuve qui compte **uniquement pour les ENS**, et pour toutes les ENS. Il est nécessaire de préparer un projet pendant l’année de MPI (souvent commencé en fin de MP2I en pratique) pour pouvoir ensuite le présenter lors d’un oral de 40 min. Il est possible d’utiliser le même projet que pour le TIPE tétraconcours, ou bien d’en faire un autre totalement différent. La principale différence avec le TIPE Tétraconcours est l’étalement temporel : le premier rendu pour ce dernier est en janvier de l’année de MPI alors que celui du TIPE ENS n’est qu’une semaine après les résultats d’admissibilité (début juin).
 
-> Le TIPE ENS n'a pas besooin d'être en lien avec le thème de l'année !
+> Le TIPE ENS n'a pas besoin d'être en lien avec le thème de l'année !
 
 ### Le contenu
 
-Le corps TIPE ENS est le **rapport**. Il sera lu avant l’oral par le jury ; il n’est pas évalué en tant que tel mais peut être la base de questions posées pendant l’oral. Il consiste à **présenter en environ 5 pages le travail effectué**, et contient une introduction et une conclusion. L’introduction présente le problème étudié et l’état de la recherche / des résultats préliminaires / des hypothèses sur lesquels le travail va s’appuyer ; la conclusion est une réponse à la problématique donnée et peut proposer des perspectives d’amélioration.
+Le corps du TIPE ENS est le **rapport**. Il sera lu avant l’oral par le jury ; il n’est pas évalué en tant que tel mais peut être la base de questions posées pendant l’oral. Il consiste à **présenter en environ 5 pages le travail effectué**, et contient une introduction et une conclusion. L’introduction présente le problème étudié et l’état de la recherche / des résultats préliminaires / des hypothèses sur lesquels le travail va s’appuyer ; la conclusion est une réponse à la problématique donnée et peut proposer des perspectives d’amélioration.
 Le contenu du corps du rapport dépend du sujet choisi. Si c’est un sujet expérimental, il faut décrire (images à l’appui) les expériences effectuées et les résultats obtenus ; si c’est un sujet plus théorique, on attend par exemple des preuves qui permettent d’aboutir au résultat final. Il est possible que le texte du rapport soit assez proche d’une retranscription de ce qui est dit pendant la présentation du TIPE Tétraconcours. Cependant, **le lien avec le thème de l’année peut être éludé**. De plus il doit s’appuyer sur une bibliographie (qui est souvent celle mentionnée dans le MCOT).
 
 ### Le calendrier
