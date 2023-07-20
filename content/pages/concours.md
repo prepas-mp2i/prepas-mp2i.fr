@@ -24,7 +24,7 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 
 ### Répartition des coefficients
 
-{{< figure src="/images/coefficients.png" >}}
+{{< figure src="/images/coefficients.png" class="invert" >}}
 
 \**Sauf certaines écoles, consulter les bandeaux "Coefficients différents" pour plus d'informations.*
 
