@@ -26,9 +26,11 @@ Des professeurs interviendront éventuellement sur différents stands.
 
 ### Retour en image
 
-{{< figure src="/images/salle5_forum_2023.png" width="100%"
+{{< figure
+    src="/images/salle5_forum_2023.png" width="100%"
     title="Stand 5 du forum 2023"
-    caption="Antonin, Hugo, Oscar et Margaux répondents aux questions posées par les lycéens" >}}
+    caption="Antonin, Hugo, Oscar et Margaux répondents aux questions posées par les lycéens"
+>}}
 
 ## Organisation
 
@@ -38,7 +40,12 @@ Il s'organisera autour de différents stands composés de 2 ou 3 établissements
 
 ### Planning
 
-{{< figure src="/images/planning_forum_2023.png" width="100%" title="Répartition des établissements selon les différents créneaux " >}}
+{{< figure
+    src="/images/planning_forum_2023.png"
+    title="Répartition des établissements selon les différents créneaux"
+    width="100%"
+    class="invert"
+>}}
 
 ## Accès aux stands
 

@@ -1,3 +1,11 @@
 figure {
     display: table-cell !important;
 }
+
+body {
+    &[theme=dark] {
+        .invert {
+            filter: invert(83.14%);
+        }
+    }
+}

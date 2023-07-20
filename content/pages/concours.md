@@ -711,4 +711,3 @@ Pour les autres écoles, il y a un **entretien** affecté des coefficients suiva
 
 [TIPE]: https://prepas-mp2i.fr/posts/tipe/#le-tipe-tétraconcours
 [TIPEENS]: https://prepas-mp2i.fr/posts/tipe/#le-tipe-ens
-

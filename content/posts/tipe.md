@@ -17,16 +17,19 @@ Centrale・Mines-Pont・CCINP・Polytech
 
 Le TIPE (ou **Travail d'Initiative Personnelle Encadré**) est un travail à effectuer tout au long de la classe préparatoire, en vue d'une évaluation à la même période que les autres épreuves orales. Il consiste à répondre à une problématique que vous choisissez, en lien avec le thème de l'année. Cela peut se faire à l'aide de documentation mais aussi et surtout d'un apport personnel (code informatique, expériences, calculs...). Ce dernier point est essentiel, si vous n'apportez rien de personnel à votre réponse vous êtes sur la mauvaise voie. Bien sûr, n'hésitez pas à demander conseil à vos professeurs : ils sont là pour vous accompagner lors du développement de votre TIPE, tout en ne le faisant pas à votre place évidemment.
 
----
+{{< newline >}}
+
 {{< figure
     caption="Graphique de présentation du TIPE sur SCEI"
     src="/images/TIPE_Graphique.png"
     link="/documents/TIPE_Graphique.pdf"
+    class="invert"
 >}}
 
 ### Le contenu
 
 Le TIPE Tétraconcours se décompose en 4 documents principaux :
+
 - La **Mise en Cohérence des Objectifs du TIPE (MCOT)**, qui sera à remplir directement sur le site SCEI. Elle comprend 5 parties :
   1. Positionnements thématiques et mots-clés (français et anglais) rangés par ordre décroissant de prioriré. En MPI, vos positionnements  thématiques peuvent se trouver en Mathématiques, Informatique ou Physique.
   2. Bibliographie commentée (au maximum 650 mots)
@@ -40,7 +43,8 @@ Le TIPE Tétraconcours se décompose en 4 documents principaux :
 ### Le calendrier
 
 Le TIPE se compose de plusieurs grandes phases officielles (dates variant selon les années) :
-- **Mars MP2I :** Annonce officielle du thème 
+
+- **Mars MP2I :** Annonce officielle du thème
 - **Janvier MPI :** ÉTAPE 1・Titre et MCOT
   - Saisie du Titre
   - Déclaration du professeur encadrant
@@ -60,7 +64,7 @@ Le TIPE se compose de plusieurs grandes phases officielles (dates variant selon 
 
 L'épreuve orale de TIPE se déroule à la même période que vos autres oraux. Elle se déroule en deux parties, avec un jurys composé de 2 membres :
 
-Tout d'abord, **15 min de présentation**. C'est le moment de faire l'exposé de votre travail, un monologue que vous vous êtes déjà exercé à formuler auparavant. Vous aurez à votre disposition de quoi naviguer entre vos diapositives (usuellement les flèches directionnelles du clavier) qui seront déjà projettées au tableau à votre arrivée. Vous pouvez éventuellement apporter un pointeur laser si besoin. 
+Tout d'abord, **15 min de présentation**. C'est le moment de faire l'exposé de votre travail, un monologue que vous vous êtes déjà exercé à formuler auparavant. Vous aurez à votre disposition de quoi naviguer entre vos diapositives (usuellement les flèches directionnelles du clavier) qui seront déjà projettées au tableau à votre arrivée. Vous pouvez éventuellement apporter un pointeur laser si besoin.
 
 Puis un **entretien de 15 min** avec les examinateurs, pendant lequel vous devrez répondre à leurs questions sur votre travail. Faites attention, vous devez être informé en profondeur de chaque notion que vous introduisez ou utilisez. Ils peuvent également vous demander de réafficher une diapositive en particulier, d'où la nécessité de la numérotation !
 
@@ -72,7 +76,7 @@ Comme son nom l’indique, le TIPE ENS est une épreuve qui compte **uniquement 
 
 ### Le contenu
 
-Le corps TIPE ENS est le **rapport**. Il sera lu avant l’oral par le jury ; il n’est pas évalué en tant que tel mais peut être la base de questions posées pendant l’oral. Il consiste à **présenter en environ 5 pages le travail effectué**, et contient une introduction et une conclusion. L’introduction présente le problème étudié et l’état de la recherche / des résultats préliminaires / des hypothèses sur lesquels le travail va s’appuyer ; la conclusion est une réponse à la problématique donnée et peut proposer des perspectives d’amélioration. 
+Le corps TIPE ENS est le **rapport**. Il sera lu avant l’oral par le jury ; il n’est pas évalué en tant que tel mais peut être la base de questions posées pendant l’oral. Il consiste à **présenter en environ 5 pages le travail effectué**, et contient une introduction et une conclusion. L’introduction présente le problème étudié et l’état de la recherche / des résultats préliminaires / des hypothèses sur lesquels le travail va s’appuyer ; la conclusion est une réponse à la problématique donnée et peut proposer des perspectives d’amélioration.
 Le contenu du corps du rapport dépend du sujet choisi. Si c’est un sujet expérimental, il faut décrire (images à l’appui) les expériences effectuées et les résultats obtenus ; si c’est un sujet plus théorique, on attend par exemple des preuves qui permettent d’aboutir au résultat final. Il est possible que le texte du rapport soit assez proche d’une retranscription de ce qui est dit pendant la présentation du TIPE Tétraconcours. Cependant, **le lien avec le thème de l’année peut être éludé**. De plus il doit s’appuyer sur une bibliographie (qui est souvent celle mentionnée dans le MCOT).
 
 ### Le calendrier
@@ -114,8 +118,8 @@ Les exemples présentés ici sont de vrais  TIPE d'étudiants en MPI. Les droits
 
 ### 2024 : Jeux et sport
 
-Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été à Paris ! 
-
+Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été à Paris !
+{{< newline >}}
 *Exemples disponibles à l'été 2024*
 
 ### 2023 : La ville
@@ -150,5 +154,3 @@ Pour la première promotion de la filière, le thème était une porte grande ou
 | Utilisation de l’algorithme de Kuhn pour l’attribution de logements étudiants | Carole VACHERAND | [![TIPEENS2023_Carole.pdf](/icons/document.ico)](/documents/TIPE/TIPEENS2023_Carole.pdf) |
 | Modélisation du phénomène d’îlot de chaleur urbain | Alexis FARGEAT | [![TIPEENS2023_Alexis.pdf](/icons/document.ico)](/documents/TIPE/TIPEENS2023_Alexis.pdf) |
 | Optimisation de la tournée d’un livreur grâce à un algorithme génétique | @Axiome | [![TIPEENS2023_Axiome.pdf](/icons/document.ico)](/documents/TIPE/TIPEENS2023_Axiome.pdf) |
-
-

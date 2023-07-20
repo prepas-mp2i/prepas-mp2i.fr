@@ -62,7 +62,11 @@ Voici les volumes horaires du second semestre qui changent selon l'option :
 
 Voici un récapitulatif des différentes filières en deuxième année:
 
-{{< figure src="/images/deuxieme_annee.svg" title="Spécialités en deuxième année" >}}
+{{< figure
+    src="/images/deuxieme_annee.svg"
+    title="Spécialités en deuxième année"
+    class="invert"
+>}}
 
 ## La double inscription à l'université
 
@@ -88,7 +92,10 @@ Vous pouvez étudier plus en détail les statisques de Parcoursup concernant la 
 
 ## Les prépas MP2I en France
 
-{{< iframe src="https://www.google.com/maps/d/embed?mid=1cr1d3lHYMqQFVDYJbwgtv6cxHTwCofw&ehbc=2E312F" height=500px >}}
+{{< iframe
+    src="https://www.google.com/maps/d/embed?mid=1cr1d3lHYMqQFVDYJbwgtv6cxHTwCofw&ehbc=2E312F"
+    height=500px
+>}}
 
 ### Légende
 

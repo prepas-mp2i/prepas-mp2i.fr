@@ -86,7 +86,7 @@ Le but principal des TP est de faire fonctionner un algorithme étudié en cours
 
 Pendant les TP, la programmation se fait en **C**  et en **OCaml**.
 
-{{< figure src="/images/logo_C.svg" caption="*Logo du langage C*" width="15%"  >}}
+{{< figure src="/images/logo_C.svg" caption="*Logo du langage C*" width="15%" >}}
 {{< figure src="/images/logo_Ocaml.svg" caption="*Logo du langage OCaml*" width="40%" >}}
 
 > Retrouvez la documentation en ligne du [C](https://devdocs.io/c/) ainsi que le site [OCaml](https://ocaml.org/).
@@ -130,7 +130,7 @@ let rec fibo n =
    et non faire fibo n puis décrémenter le résultat. *)
 ```
 
-___
+{{< newline >}}
 
 Cependant, le [pattern matching](https://ocaml.org/learn/tutorials/a_first_hour_with_ocaml.html#Pattern-matching) permet d'obtenir une écriture plus élégante pour ce genre de codes ; il est également poossible de préciser le type des paramètres utilisés ainsi que celui de l'expression renvoyée.
 
@@ -171,7 +171,7 @@ let fibo (n:int) : int =
 ```
 <!-- C'est peut-être un peu plus intuitif et représentatif des optimisations que peut faire le compilateur en termes d'OCaml récursif -->
 
-___
+{{< newline >}}
 Dans le programme ci-dessus, chaque valeur de la suite est calculée une seule fois, et est stockée dans les arguments de la fonction auxiliaire. Cela nous permet d'atteindre une [complexité linéaire](https://cahier-de-prepa.fr/psi-michelet/download?id=239) en réduisant le nombre d'opérations effectuées par la fonction.
 
 #### En C
@@ -218,7 +218,7 @@ int main()
 }
 ```
 
-___
+{{< newline >}}
 Bien sûr, il est toujours possible d'aller un peu plus loin et de s'amuser avec le côté obscur de l'informatique :
 
 ```c
