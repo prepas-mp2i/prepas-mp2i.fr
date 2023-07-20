@@ -62,7 +62,7 @@ De nombreux sites web proposent du contenu de qualité, ce sont des ressources i
 
 * [France-IOI] est un site proposant à travers de nombreux exercices d'apprendre la programmation et l'algorithmique. Les exercices sont de niveaux extrêmement variés et chacun pourra progresser grâce à ce site.
 
-* [Le projet Euler] est une collection de problèmes entre info et maths. Si vous aimez les nombres (arithmétique, nombres premiers ...) et coder pour résoudre des problèmes, ce site est fait pour vous ! Il y a plus de 700 problèmes, allant de très facile à clairement infaisable.
+* [Le projet Euler] est une collection de problèmes entre informatique et mathématiques. Si vous aimez les nombres (arithmétique, nombres premiers ...) et coder pour résoudre des problèmes, ce site est fait pour vous ! Il y a plus de 700 problèmes, allant de très facile à clairement infaisable.
 
 ### Prépa Shelter
 
@@ -92,9 +92,9 @@ Un [serveur Discord](https://discord.gg/TGQSrnCxK2) est mis à disposition pour 
 
 Les concours sont un excellent moyen de progresser en se questionnant sur des exercices que l'on ne sait pas toujours résoudre. C'est également l'occasion de se tester, et de se mesurer aux autres participants.
 
-Enfin, la participation à des concours et notamment de bons résultats à ceux-ci est un véritable atout pour votre dossier car il vous permet de vous distinguer des autres candidats.
+Enfin, participer à des concours et également obtenir de bons résultats à ceux-ci sont un véritable atout pour votre dossier, car ils vous permettent de vous distinguer des autres candidats.
 
-* [Olympiades de Mathématiques] : Accessibles pour les élèves de Première, les Olympiades de maths sont composées d'un sujet national (2h) et d'un sujet académique (2h).
+* [Olympiades de Mathématiques] : Accessibles pour les élèves de Première, elles sont composées d'un sujet national (2h) et d'un sujet académique (2h).
 
 * [TFJM] : Le Tournoi Français des Jeunes Mathématiciens propose de réfléchir en équipe sur des problèmes de recherche.
 
@@ -104,6 +104,6 @@ Enfin, la participation à des concours et notamment de bons résultats à ceux-
 
 * [Algoréa] : Un concours d'informatique en plusieurs tours, organisé par France IOI, dans lesquels il faut résoudre en temps limité des problèmes d'algorithmique de difficulté croissante.
 
-* [Prologin] : Organisé par EPITA, les deux premieres étapes de Prologin sont similaires à Algoréa. La finale (36h) consiste à concevoir un programme capable de s'adapter à un jeu conçu pour l'occasion.
+* [Prologin] : Organisé par EPITA, les deux premières étapes de Prologin sont similaires à Algoréa. La finale (36h) consiste à concevoir un programme capable de s'adapter à un jeu conçu pour l'occasion.
 
 * [Concours Général] : Accessible en Terminale, le Concours Général des lycées et des métiers est proposé pour toutes les spécialités enseignées au lycée. En mathématiques, il est réputé pour être difficile.

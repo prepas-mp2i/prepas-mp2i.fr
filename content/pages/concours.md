@@ -119,7 +119,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 | Mathématiques | 45 min | - | Ne concerne pas l’ENS Rennes |
 | Informatique | 30 min | 30 min | - |
 | TP Algo | 20 min | 3h | Préparation sans examinateur |
-| [TIPE][TIPE] | 40 min | - | Discussion avec deux examinateurs, avec possibilité de projeter une présentation ou le rapport préalablement rendu au tableau |
+| [TIPE][TIPEENS] | 40 min | - | Discussion avec deux examinateurs, avec possibilité de projeter une présentation ou le rapport préalablement rendu au tableau |
 
 {{< admonition info "Coefficients" false >}}
 | Épreuve | ULM (info MPI) | Paris-Saclay | Lyon (I-MPI) | Rennes |
@@ -128,7 +128,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 | Informatique   | 4   | 5   | 5   | 5 |
 | Langue Vivante | 1.5 | 1.5 | 1.5 | 2 |
 | TP Algo        | 4   | 5   | 6.5 | 5 |
-| [TIPE][TIPE]           | 1   | 3   | 2   | 5 |
+| [TIPE][TIPEENS]           | 1   | 3   | 2   | 5 |
 {{< /admonition >}}
 
 ## Concours Centrale
@@ -208,7 +208,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 
 {{< /admonition >}}
 
-## Concours Commun Mines-Ponts
+## Concours Mines-Ponts
 
 > {{< center >}}
 [Site officiel](https://www.concoursminesponts.fr) - [Notice du concours](https://www.concoursminesponts.fr/resources/Reglement-2023.pdf) - [Liste des écoles](https://www.concoursminesponts.fr/page-1/)
@@ -709,4 +709,6 @@ Pour les autres écoles, il y a un **entretien** affecté des coefficients suiva
 
 \*\**En partenariat avec Polyvia Formation*
 
-[TIPE]: https://prepas-mp2i.fr/posts/tipe/
+[TIPE]: https://prepas-mp2i.fr/posts/tipe/#le-tipe-tétraconcours
+[TIPEENS]: https://prepas-mp2i.fr/posts/tipe/#le-tipe-ens
+
