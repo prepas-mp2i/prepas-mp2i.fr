@@ -404,7 +404,7 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 [ENAC Toulouse - Ingénieurs]: https://www.enac.fr/fr
 [ENGEES Strasbourg]: https://engees.unistra.fr/
 [ENSAI Rennes]: https://www.ensai.fr/
-[ENSGTI Pau]: https://www.ensgti.univ-pau.fr/
+[ENSGTI Pau]: https://ensgti.univ-pau.fr/
 [ENSICAEN]: https://www.ensicaen.fr/
 [Grenoble INP - Ense3]: https://ense3.grenoble-inp.fr/
 [Grenoble INP - Ensimag]: https://ensimag.grenoble-inp.fr/
