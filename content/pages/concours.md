@@ -311,7 +311,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 [ENTPE]: https://www.entpe.fr/
 [ENSTA Bretagne - filière sous statut étudiant]: https://www.ensta-bretagne.fr/fr/la-formation-dingenieur-generaliste-ensta-bretagne
 [ENSTA Bretagne - filière sous statut IETA]: https://www.ensta-bretagne.fr/fr/formation-dingenieur-des-etudes-et-techniques-darmement-statut-militaire
-[ENSSAT - Lannion]: https://enssat.univ-rennes1.fr/
+[ENSSAT - Lannion]: https://www.enssat.fr/
 [ENSIIE]: https://www.ensiie.fr/
 [ENSG]: https://www.ensg.eu/
 [EIVP]: https://www.eivp-paris.fr/

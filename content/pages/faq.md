@@ -87,7 +87,7 @@ Je préciserais que les vacances avant l'entrée en première année sont aussi 
 ## L'admission
 
 {{< admonition quote "Quelles sont les meilleures MP2I ?" false >}}
-La question n'a pas vraiment de sens puisque "meilleures" dépend de chacun, se référer plutôt à "Comment départager mon choix entre les différents lycées ?".
+La question n'a pas vraiment de sens puisque "meilleures" dépend de chacun. La question à réellement se poser est "Comment départager mon choix entre les différents lycées ?" : on vous répond [ici](https://prepas-mp2i.fr/admission/#phase-de-v%C5%93ux--comment-choisir-son-futur-%C3%A9tablissement).
 
 {{< right >}} *Étudiants en MP2I/MPI* {{< /right >}}
 {{< /admonition >}}

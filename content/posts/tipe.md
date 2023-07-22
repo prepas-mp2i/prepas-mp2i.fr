@@ -109,6 +109,7 @@ Quelques conseils supplémentaires pour votre présentation :
 - Indiquer clairement votre nom, votre numéro de candidat scei et le thème de l'année sur la première diapositive.
 - Numérotez vos diapositives.
 - Ne surchargez pas visuellement. Les membres du jury doivent pouvoir vous écouter attentivement en même temps qu'ils observent la diapositive. N'hésitez surtout pas à faire plusieurs diapositives pour un même point d'étude.
+- Si vous avez réalisé des expériences vous-mêmes, prenez-en des photographies ; le bonus, c'est que vous apparaissiez de mannière explicite sur au moins l'une d'elle, pour montrer qu'il s'agit bien de votre expérience.
 
 ## Exemples
 
