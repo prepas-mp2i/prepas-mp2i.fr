@@ -86,10 +86,6 @@ Voici les chiffres cumulés pour l'année 2021 :
 - Rang moyen du dernier admis : 309
 - Taux d'admission moyen : 24,63%
 
-{{< admonition tip "Pour approfondir " true >}}
-Vous pouvez étudier plus en détail les statisques de Parcoursup concernant la MP2I à [cette adresse](https://colab.research.google.com/drive/1CaLyq1azazLa3682fGXkIn8g3O-qlqdO#scrollTo=IuZEl7m7LYUV).
-{{< /admonition >}}
-
 ## Les prépas MP2I en France
 
 {{< iframe

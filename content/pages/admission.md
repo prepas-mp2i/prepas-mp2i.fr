@@ -9,7 +9,7 @@ Vous êtes en Terminale, l'étape décisive et stressante de passage en études 
 
 La bonne nouvelle, c'est qu'on est aussi passé par là ! Spécialités privilégiées, cas particuliers ... on vous dit ce qu'il en est réellement.
 
-## Quelles spécialités choisir pour une MP2I ?
+## Les spécialités à privilégier
 
 ### Les Mathématiques et l'option Maths Expertes
 
@@ -52,7 +52,7 @@ Si vous faites des choix de formations sélectives - et les classes préparatoir
 Faites toujours quelques vœux très ambitieux, vous vous sous-estimez peut-être. Si vous avez été pris.e dans une prépa très sélective, c'est qu'elle considère que vous avez le niveau pour y aller, alors ne vous censurez pas et soyez sûr.es que ces prépas seront ravies de vous acceuillir !
 {{< /admonition >}}
 
-### Phase de vœux : comment choisir son futur établissement
+### Phase de formulation des voeux
 
 Quelle prépa me convient mieux ? Dans quelle mesure le niveau d'une prépa est-il un critère pour départager mes vœux ? Comment tout cela affecte mes choix sur Parcoursup ? Nous répondons à vos questions ! En effet, il faut considérer de nombreux facteurs pour orienter son choix de prépa :
 
@@ -66,7 +66,7 @@ Quelle prépa me convient mieux ? Dans quelle mesure le niveau d'une prépa est-
 
 C'est l'un des principaux points de cette partie, si ce n'est le point à retenir.
 
-On le répète constamment : **ce sont les étudiants qui font la prépa**, et pas l'inverse. On trouve d'excellents professeurs dans toutes les prépas, même parmi les moins sélectives. Les professeurs savent s'adapter aux niveaux de leurs élèves pour leur fournir une préparation en adéquation aux concours qu'ils visent. Gardez à l'esprit que tous les établissements vous forment aux mêmes concours et ont le même programme comme ligne directrice.
+On le répète constamment : ce sont les étudiants qui font la prépa. On trouve d'excellents professeurs dans toutes les prépas, même parmi les moins sélectives. Les professeurs savent s'adapter aux niveaux de leurs élèves pour leur fournir une préparation en adéquation aux concours qu'ils visent. Gardez à l'esprit que tous les établissements vous forment aux mêmes concours et ont le même programme comme ligne directrice.
 
 #### Les classements
 
@@ -76,7 +76,7 @@ Remarquons aussi que les classements des premières années de la filière MPI s
 
 #### Une classe adaptée à son niveau
 
-Il ne faut pas oublier que dans **toutes les prépas**, les élèves sont d'un **niveau hétérogène**. Actuellement, de nombreuseux lycées fonctionnent avec des **classes MPI/MPI\*** : les cours sont les mêmes pour tous, mais les Travaux Dirigés peuvent se faire en demi-groupe *étoile* ou *non-étoile*, les Devoirs Maisons et les Devoirs Surveillés sont différenciés (parfois au choix des élèves). Cela signifie que des élèves d'un niveau certes différent du niveau moyen de la prépa peuvent néanmoins réussir à leur niveau et s'épanouir.
+Il ne faut pas oublier que dans toutes les prépas, les élèves sont d'un niveau hétérogène. Actuellement, de nombreuseux lycées fonctionnent avec des **classes MPI/MPI\*** : les cours sont les mêmes pour tous, mais les Travaux Dirigés peuvent se faire en demi-groupe *étoile* ou *non-étoile*, les Devoirs Maisons et les Devoirs Surveillés sont différenciés (parfois au choix des élèves). Cela signifie que des élèves d'un niveau certes différent du niveau moyen de la prépa peuvent néanmoins réussir à leur niveau et s'épanouir.
 
 Cependant, le niveau d'une prépa reste un critère important : les élèves se sentent mieux dans des classes qui correspondent à leur niveau, car cela facilite l'entraide et/ou l'émulation. L'effet du niveau de la classe sur la motivation varie d'un élève à l'autre : certains préféreront être dans une classe d'un niveau légèrement plus élevé pour les inciter à travailler plus, tandis que d'autres perçoivent comme plus encourageant de se situer au-dessus de la moyenne de classe.
 
@@ -84,17 +84,17 @@ Cependant, le niveau d'une prépa reste un critère important : les élèves se 
 
 Le premier critère de choix d'une prépa est le cadre de vie, car vous allez devoir vous en accomoder pendant 2 ans (si ce n'est 3). Le niveau d'une prépa est moins important, mais n'est pas un critère à reléguer au second plan, car la formation doit être adaptée à vos capacités.
 
-### Phase de réponses : comment réagir
+### Phase de réponses
 
 Pas d’inquiétude si vous n’êtes accepté.e dans aucune formation durant les premiers jours, les places se libèrent vite. Dans quelques cas, certains peuvent recevoir des propositions d’admission après les premiers jours de rentrée et choisir de changer de formation à ce moment, donc ne découragez pas si vous vous retrouvez longtemps en file d’attente, vous avez toujours vos chances.
 
 {{< admonition tip "Savoir ce qu'on veut" true >}}
-Pour pouvoir être plus au clair, et ne pas avoir à choisir une orientation en 48h, il est conseillé de faire un **classement rapide de ce que vous désirez avant le lancement de la procédure**, pour ne pas être pris.e au dépourvu.
+Pour pouvoir être plus au clair, et ne pas avoir à choisir une orientation en 48h, il est conseillé de faire un classement rapide de ce que vous désirez avant le lancement de la procédure, pour ne pas être pris.e au dépourvu.
 {{< /admonition >}}
 
 Si une formation vous accepte, partez du principe que vous avez le niveau pour réussir. Les écarts de niveau entre les élèves sont souvent rattrapés dès le premier semestre. Soyez optimiste : avec suffisamment de motivation, vous avez une énorme marge de progression sur les deux années à venir.
 
-### Lettres de motivation et projet de formation motivé
+### Lettres de motivation
 
 Les lettres de motivation sont très importantes, surtout si vous avez un profil particulier (lycée étranger, une spécialité fortement recommandée que vous n'avez pas prise, mais dont vous avez rattrapé le programme, si vous êtes au CNED...).
 Le plus important c'est répondre à la question "Pourquoi cette filière ?". Mettez-vous à la place du jury, dire que vous êtes motivé.e c'est bien, mais il en faudra plus pour convaincre. Votre appétence pour telle ou telle science, vos projets, vos ambitions professionnelles, etc, sont des critères bien plus importants pour cerner votre profil. Il est également déconseillé de vanter les mérites de l'établissement que vous visez, s'ils sont géniaux, ils le savent, pas besoin de leur dire, vantez plutôt vos qualités. Orthographe correcte exigée évidemment, faites-vous relire par un tiers (prof, parent...).
@@ -103,7 +103,7 @@ Le plus important c'est répondre à la question "Pourquoi cette filière ?". Me
 Que vous ne fassiez pas douze lettres différentes pour chaque MP2I à laquelle vous postulez est compréhensible ; cependant, il est conseillé (voir nécessaire) de rédiger une lettre par filière à laquelle voous postulez : vous n'allez pas mettre les mêmes arguments au premier plan.
 {{< /admonition >}}
 
-### Les internats, comment ça fonctionne ?
+### L'internat
 
 Les critères pour être admis en internat concernent majoritairement les appréciations des bulletins, l’éloignement et les critères sociaux, mais chaque lycée est libre de sélectionner les dossiers selon ses propres critères. Il est fortement conseillé de demander toutes les formations avec et sans internat, ces deux options ne comptant de toute façon que pour un seul sous-vœu.
 Ayez toujours en tête que vous ne serez pas forcément pris à l'internat, regardez les résidences étudiantes alentours et les alternatives économiques existantes proposées dans les lycées, comme le régime interne-externé par exemple.
