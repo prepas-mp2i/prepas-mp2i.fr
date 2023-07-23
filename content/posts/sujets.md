@@ -30,13 +30,13 @@ Découvrir les sujets, rapports et barres d'admissibilité [ici](https://www.con
 
 | Épreuve | Sujet | Rapport |
 |:-------:|:-----:|:-------:|
-| Mathématiques 1      | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Maths1.pdf)     | À venir |
-| Mathématiques 2      | [![Centrale_Maths2.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Maths2.pdf)     | À venir |
+| Mathématiques 1      | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Maths1.pdf)     | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/rapports/2023/Centrale_Maths1.pdf) |
+| Mathématiques 2      | [![Centrale_Maths2.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Maths2.pdf)     | [![Centrale_Maths2.pdf](/icons/download.ico)](/documents/rapports/2023/Centrale_Maths2.pdf) |
 | Informatique         | [![Centrale_Info.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Info.pdf)         | À venir |
 | Physique 1           | [![Centrale_Phys1.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Phys1.pdf)       | À venir |
-| Physique 2           | [![Centrale_Phys2.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Phys2.pdf)       | À venir |
-| Français-Philosophie | [![Centrale_FraPhilo.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_FraPhilo.pdf) | À venir |
-| Anglais              | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Anglais.pdf)    | À venir |
+| Physique 2           | [![Centrale_Phys2.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Phys2.pdf)       | [![Centrale_PC2.pdf](/icons/download.ico)](/documents/rapports/2023/Centrale_PC2.pdf) |
+| Français-Philosophie | [![Centrale_FraPhilo.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_FraPhilo.pdf) | [![Centrale_Redaction.pdf](/icons/download.ico)](/documents/rapportss/2023/Centrale_Redaction.pdf) |
+| Anglais              | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Anglais.pdf)    | [![Centrale_Anglais.pdf](/icons/download.ico)](/documents/rapports/2023/Centrale_Anglais.pdf) |
 
 ### Concours Commun Mines-Ponts
 

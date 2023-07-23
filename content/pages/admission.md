@@ -4,10 +4,10 @@ subtitle: Choix des spécialités au lycée et Parcoursup
 date: 2021-12-20T00:05:32+01:00
 ---
 
-Vous êtes en Seconde ou en Première générale, la prépa vous intéresse mais vous ne savez pas quelles spécialités choisir ? Même si ce choix doit rester motivé par le goût, il est important pour votre poursuite d'études.
+Vous êtes en Seconde ou en Première générale, la classe préparatoire de MP2I vous intéresse mais vous ne savez pas quelles spécialités suivre ? Même si ce choix doit rester motivé par le goût, il est important pour votre poursuite d'études.
 Vous êtes en Terminale, l'étape décisive et stressante de passage en études supérieures s'approche. Parcoursup oblige !
 
-La bonne nouvelle, c'est qu'on est aussi passé par là ! Spécialités privilégiées, cas particuliers ... on vous dit ce qu'il en est réellement.
+La bonne nouvelle, c'est qu'on est aussi passé par là ! Spécialités privilégiées, dilemnes de vœux ... on vous dit ce qu'il en est réellement.
 
 ## Les spécialités à privilégier
 
@@ -52,7 +52,7 @@ Si vous faites des choix de formations sélectives - et les classes préparatoir
 Faites toujours quelques vœux très ambitieux, vous vous sous-estimez peut-être. Si vous avez été pris.e dans une prépa très sélective, c'est qu'elle considère que vous avez le niveau pour y aller, alors ne vous censurez pas et soyez sûr.es que ces prépas seront ravies de vous acceuillir !
 {{< /admonition >}}
 
-### Phase de formulation des voeux
+### Comment choisir sa prépa
 
 Quelle prépa me convient mieux ? Dans quelle mesure le niveau d'une prépa est-il un critère pour départager mes vœux ? Comment tout cela affecte mes choix sur Parcoursup ? Nous répondons à vos questions ! En effet, il faut considérer de nombreux facteurs pour orienter son choix de prépa :
 
@@ -84,16 +84,6 @@ Cependant, le niveau d'une prépa reste un critère important : les élèves se 
 
 Le premier critère de choix d'une prépa est le cadre de vie, car vous allez devoir vous en accomoder pendant 2 ans (si ce n'est 3). Le niveau d'une prépa est moins important, mais n'est pas un critère à reléguer au second plan, car la formation doit être adaptée à vos capacités.
 
-### Phase de réponses
-
-Pas d’inquiétude si vous n’êtes accepté.e dans aucune formation durant les premiers jours, les places se libèrent vite. Dans quelques cas, certains peuvent recevoir des propositions d’admission après les premiers jours de rentrée et choisir de changer de formation à ce moment, donc ne découragez pas si vous vous retrouvez longtemps en file d’attente, vous avez toujours vos chances.
-
-{{< admonition tip "Savoir ce qu'on veut" true >}}
-Pour pouvoir être plus au clair, et ne pas avoir à choisir une orientation en 48h, il est conseillé de faire un classement rapide de ce que vous désirez avant le lancement de la procédure, pour ne pas être pris.e au dépourvu.
-{{< /admonition >}}
-
-Si une formation vous accepte, partez du principe que vous avez le niveau pour réussir. Les écarts de niveau entre les élèves sont souvent rattrapés dès le premier semestre. Soyez optimiste : avec suffisamment de motivation, vous avez une énorme marge de progression sur les deux années à venir.
-
 ### Lettres de motivation
 
 Les lettres de motivation sont très importantes, surtout si vous avez un profil particulier (lycée étranger, une spécialité fortement recommandée que vous n'avez pas prise, mais dont vous avez rattrapé le programme, si vous êtes au CNED...).
@@ -107,6 +97,16 @@ Que vous ne fassiez pas douze lettres différentes pour chaque MP2I à laquelle 
 
 Les critères pour être admis en internat concernent majoritairement les appréciations des bulletins, l’éloignement et les critères sociaux, mais chaque lycée est libre de sélectionner les dossiers selon ses propres critères. Il est fortement conseillé de demander toutes les formations avec et sans internat, ces deux options ne comptant de toute façon que pour un seul sous-vœu.
 Ayez toujours en tête que vous ne serez pas forcément pris à l'internat, regardez les résidences étudiantes alentours et les alternatives économiques existantes proposées dans les lycées, comme le régime interne-externé par exemple.
+
+### Phase de réponses
+
+Pas d’inquiétude si vous n’êtes accepté.e dans aucune formation durant les premiers jours, les places se libèrent vite. Dans quelques cas, certains peuvent recevoir des propositions d’admission après les premiers jours de rentrée et choisir de changer de formation à ce moment, donc ne découragez pas si vous vous retrouvez longtemps en file d’attente, vous avez toujours vos chances.
+
+{{< admonition tip "Savoir ce qu'on veut" true >}}
+Pour pouvoir être plus au clair, et ne pas avoir à choisir une orientation en 48h, il est conseillé de faire un classement rapide de ce que vous désirez avant le lancement de la procédure, pour ne pas être pris.e au dépourvu.
+{{< /admonition >}}
+
+Si une formation vous accepte, partez du principe que vous avez le niveau pour réussir. Les écarts de niveau entre les élèves sont souvent rattrapés dès le premier semestre. Soyez optimiste : avec suffisamment de motivation, vous avez une énorme marge de progression sur les deux années à venir.
 
 ## Lycées proposant la filière MP2I
 
