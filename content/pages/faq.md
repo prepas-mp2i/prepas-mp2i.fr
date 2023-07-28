@@ -13,12 +13,6 @@ Sauf si vous ressentez une grosse lacune sur un chapitre en particulier, je lais
 {{< right >}} *Paul, MPI lycée Aux Lazaristes, Lyon (2023)* {{< /right >}}
 {{< /admonition >}}
 
-{{< admonition quote "Pourquoi es-tu allé en prépa mp2i" false >}}
-Je ne savais pas trop quoi faire après le BAC mais j'étais intéressé par la recherche et donc les ENS. Si la prépa me plaisait pas je pouvais toujours aller à la fac. Je voyais la prépa comme 2 années de licence ++ avec possibilité de faire une école d'ingénieur après. Le choix de la MP2I s'est fait un peu au hasard : c'était nouveau, j'étais intéressé par l'info et j'ai été pris relativement rapidement sur Parcoursup à Champollion.
-
-{{< right >}} *Aeddan, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
-{{< /admonition >}}
-
 {{< admonition quote "La prépa c'est dur ?" false >}}
 La prépa ça n'a rien à voir avec ce qu'on a vécu avant et il est très difficile de se la représenter si on y est pas déjà familier.
 La difficulté de la prépa, c'est qu'il n'y a pas de répit, et ce dès la rentrée: prendre du retard ou des mauvaises habitudes pendant les 3 premiers mois peut être une lacune que l'on traînera jusqu'aux concours, question de mental et d'effet boule de neige.
@@ -31,7 +25,7 @@ Oui dans le sens où la charge de travail est constante, conséquente et donc é
 {{< right >}} *Aeddan, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
 {{< /admonition >}}
 
-{{< admonition quote "C'est quoi une colle/ Kholle ?" false >}}
+{{< admonition quote "C'est quoi une colle/ khôlle ?" false >}}
 Il y a 2 types de colles, les colles scientifiques et les colles d’anglais. Pour les colles scientifiques, on est par trinôme devant une personne qu’on appelle colleur. On divise le tableau en trois et on a pour commencer, chacun une «question de cours» généralement, soit le professeur donne une liste de questions que le colleur doit poser soit le colleur est libre, il peut aussi ne pas en poser. Puis les exercices s’enchaînent, entre 1 à 3 par colle généralement. Le but c’est d’avoir un moment privilégié pour résoudre un exercice en étant accompagné et guidé si on bloque, de comprendre et d’approfondir le cours et si on est vraiment largué, de savoir de quoi on parle depuis 1 ou 2 semaines. On passe tous en même temps en parlant à tour de rôle, on a chacun des sujets différents. C’est une bonne part de notre occupation, se préparer aux colles en apprenant son cours et en faisant des exos, on en a 2 fois par semaine. 1 colle de maths  3 semaines sur 4, une colle d’info si pas maths, une colle de physique 1 semaine sur 2 en alternant avec les colles d’anglais. Et 2-3 fois dans l’année on a une colle de français (on ne la détaillera pas)
 
 Les colles d’anglais c’est cette fois ci chacun son tour, on a 20 minutes de préparation sur un texte  ou audio (anglais) et on doit faire résumé + commentaire (en anglais). Ensuite on a un passage de 20 minutes, on doit parler en continu 10-12 minutes et ensuite on a un entretien (questions réponses en anglais), puis un compte rendu du colleur sur notre prestation, en anglais ou français selon le colleur et notre niveau. Ça sert à rien de conseiller quelqu’un  sur une langue qu’il ne parle manifestement pas bien.
@@ -42,7 +36,7 @@ Les colleurs font un compte rendu à nos professeurs, qui sont donc au courant d
 {{< /admonition >}}
 
 {{< admonition quote "Comment trouves-tu les colles ?" false >}}
-Stressant. C'est utile pour bien apprendre son cours. Honnêtement je ne sais pas comment j'ai survécu 2 ans de colles
+Stressant. C'est utile pour bien apprendre son cours. Honnêtement je ne sais pas comment j'ai survécu 2 ans de colles.
 
 {{< right >}} *Adel, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
 
@@ -62,23 +56,8 @@ Si tu comptes préparer les ENS, parle du TIPE ENS avec tes profs et revois tes 
 Comme un grand oral mais niveau prépa en y mettant beaucoup plus de temps de curiosité et d'implication personnelle (pas comme le grand oral quoi)
 
 {{< right >}} *Jules, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
-{{< /admonition >}}
 
-{{< admonition quote "Quel rythme de travail as-tu le week-end" false >}}
-Je commence à travailler vers 9h finis vers 22- 23. Je prends au moins 2h de pause par repas. Et 2- 3 h de pause en tout pour les pauses que je prends impulsivement. 
-Ceci varie si j'ai d'autre chose à faire (genre les courses + ménage), je me débrouille pour le faire le samedi
-Au total le WE j'essaie de prendre une soirée ou une matinée pour moi ou je fais rien (souvent juste après les DS).
-
-{{< right >}} *Adel, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
-
-Souvent le week end je faisais pas grand chose, relire et ficher le cours qu’il reste et je finissais les TPs d’info ou projet d’info, j’avançais les DM en semaine parce que je les faisait à 2. Je fais peu le week-end parce que je travaille bien plus en semaine, le lycée ferme à 22H30 donc j’y restais en faisant tous ce qui était DM, exos, cours et preuves etc...
-
-{{< right >}} *Garance, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
-
-En première année, 6h par jour, en 2e année, zéro (mais je bossais beaucoup la semaine).
-Ce qui compte, ce n'est pas le volume horaire brut, mais la qualité du travail pendant ces heures. Mieux vaut ne rien faire le WE et être sur les starting blocks la semaine que de se forcer à travailler en étant contre-productif.
-
-{{< right >}} *Le petit Parisien, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
+:(fas fa-solid fa-lightbulb fa-fw): **Pour plus d'information sur les TIPE, c'est par [ici](https://prepas-mp2i.fr/posts/tipe/).**
 {{< /admonition >}}
 
 {{< admonition quote "As-tu continué une LVB en prépa ?" false >}}
@@ -135,7 +114,7 @@ Non non les geeks savent être amis avec les non nerd + être un nerd n'est pas 
 {{< right >}} *Adel, MPI lycée Champollion, Grenoble (2023)* {{< /right >}}
 {{< /admonition >}}
 
-## L'environnement
+## L'environnement et l'emploi du temps
 
 {{< admonition quote "Quel est ton rythme de sommeil ?" false >}}
 Pour réussir, il faut être en bonne santé. Et pour être en bonne santé, il faut dormir.
@@ -144,6 +123,23 @@ Travailler tard pour dormir en cours est contre productif. En général, je tabl
 Les professeurs, les anciens élèves et moi-même vous l’assurent : le sommeil régulier est la clé.
 
 {{< right >}} *Pacôme G., MP2I lycée Descartes, Tours (2021)* {{< /right >}}
+{{< /admonition >}}
+
+{{< admonition quote "Quel rythme de travail as-tu le week-end ?" false >}}
+Je commence à travailler vers 9h finis vers 22- 23. Je prends au moins 2h de pause par repas. Et 2- 3 h de pause en tout pour les pauses que je prends impulsivement. 
+Ceci varie si j'ai d'autre chose à faire (genre les courses + ménage), je me débrouille pour le faire le samedi
+Au total le WE j'essaie de prendre une soirée ou une matinée pour moi ou je fais rien (souvent juste après les DS).
+
+{{< right >}} *Adel, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
+
+Souvent le week end je faisais pas grand chose, relire et ficher le cours qu’il reste et je finissais les TPs d’info ou projet d’info, j’avançais les DM en semaine parce que je les faisait à 2. Je fais peu le week-end parce que je travaille bien plus en semaine, le lycée ferme à 22H30 donc j’y restais en faisant tous ce qui était DM, exos, cours et preuves etc...
+
+{{< right >}} *Garance, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
+
+En première année, 6h par jour, en 2e année, zéro (mais je bossais beaucoup la semaine).
+Ce qui compte, ce n'est pas le volume horaire brut, mais la qualité du travail pendant ces heures. Mieux vaut ne rien faire le WE et être sur les starting blocks la semaine que de se forcer à travailler en étant contre-productif.
+
+{{< right >}} *Le petit Parisien, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
 {{< /admonition >}}
 
 {{< admonition quote "L'internat est-il un avantage ?" false >}}
@@ -182,8 +178,14 @@ Je préciserais que les vacances avant l'entrée en première année sont aussi 
 
 ## L'admission
 
+{{< admonition quote "MP2I ou MPSI : que choisir ?" true >}}
+Cette traditionnelle question a enfin fait son chemin dans votre esprit. Mais comment y répondre ? On vous éclaire sur les différences entre ces deux filières dans [ce post](https://prepas-mp2i.fr/posts/mp2i-vs-mpsi/).
+
+{{< right >}} *Étudiants en MP2I/MPI* {{< /right >}}
+{{< /admonition >}}
+
 {{< admonition quote "Quelles sont les meilleures MP2I ?" false >}}
-La question n'a pas vraiment de sens puisque "meilleures" dépend de chacun. La question à réellement se poser est "Comment départager mon choix entre les différents lycées ?" : on vous répond [ici](https://prepas-mp2i.fr/admission/#phase-de-v%C5%93ux--comment-choisir-son-futur-%C3%A9tablissement).
+La question n'a pas vraiment de sens puisque "meilleures" dépend de chacun. La question à réellement se poser est "Comment départager mon choix entre les différents lycées ?" : on vous répond [ici](https://prepas-mp2i.fr/admission/#comment-choisir-sa-pr%C3%A9pa).
 
 {{< right >}} *Étudiants en MP2I/MPI* {{< /right >}}
 {{< /admonition >}}
@@ -194,4 +196,10 @@ Ainsi, les critères essentiels concernent l'emplacement, le logement, l'accès 
 Il faut simplement faire en sorte de réunir les conditions de travail qui vous seront optimales afin de pouvoir vivre sainement et progresser le plus.
 
 {{< right >}} *Nathan, MPI lycée Sant-Louis, Paris VIe. (2022)* {{< /right >}}
+{{< /admonition >}}
+
+{{< admonition quote "Pourquoi es-tu allé.e en prépa MP2I ?" false >}}
+Je ne savais pas trop quoi faire après le BAC mais j'étais intéressé par la recherche et donc les ENS. Si la prépa me plaisait pas je pouvais toujours aller à la fac. Je voyais la prépa comme 2 années de licence ++ avec possibilité de faire une école d'ingénieur après. Le choix de la MP2I s'est fait un peu au hasard : c'était nouveau, j'étais intéressé par l'info et j'ai été pris relativement rapidement sur Parcoursup à Champollion.
+
+{{< right >}} *Aeddan, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
 {{< /admonition >}}
