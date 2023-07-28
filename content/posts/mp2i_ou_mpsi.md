@@ -1,7 +1,7 @@
 ---
 title: "MP2I ou MPSI ?"
 subtitle: Comment choisir la filière qui vous conviendra le mieux ?
-slug: mp2i-vs-mpsi
+slug: mp2i-ou-mpsi
 date: 2023-07-27T00:13:00+01:00
 ---
 
@@ -19,7 +19,7 @@ Je prends l'exemple Mathématiques et NSI qui réduit la fenêtre MPSI, tandis q
 
 Bien sûr j'ai reçu des propositions d'admissions, mais entre MP2I et MPSI pour le même établissement j'avais quand même 800 places d'écart ! [...] je pense que le choix de spécialités n'y est pas pour rien.
 
-<i class="fa -solid fa-lightbulb"></i> *Il avait les spécialités Mathématiques et NSI en Terminale.*
+:(fas fa-lightbulb): *Il avait les spécialités Mathématiques et NSI en Terminale.*
 {{< /admonition >}}
 
 Pour entrer en **MP2I**, nous vous renvoyons à [cette page](https://prepas-mp2i.fr/admission/#les-sp%C3%A9cialit%C3%A9s-%C3%A0-privil%C3%A9gier).
@@ -54,9 +54,9 @@ Concernant les Mathématiques, le programme est strictement identique ; celui de
 
 Selon votre filière en première année, vous ne pourrez pas accéder aux mêmes cursus de seconde année : c'est un paramètre important à prendre en compte dans votre décision, car selon votre choix vous ne passerez pas les mêmes épreuves aux concours (plus de détails [ici](https://prepas-mp2i.fr/concours/) pour les concours en MPI) et n'aurez pas forcément accès aux mêmes grandes écoles ou filières au sein de celles-ci.
 
-En **MP2I**, vous serez naturellement amené.e à poursuivre en **MPI**, sauf si vous choisissez finalement de vous réorienter au second semestre en SI et Chimie, auquel cas vous aurez accès aux classes **MP** et **PSI**.
+En **MP2I**, vous serez naturellement amené.e à poursuivre en MPI, sauf si vous choisissez finalement de vous réorienter au second semestre en SI et Chimie, auquel cas vous aurez accès aux classes MP et PSI.
 
-En **MPSI**, le cursus commun est de poursuivre en **MP**, mais il est également possible de faire sa seconde année en **PSI** à condition d'avoir choisi l'option SI renforcée au second semestre.
+En **MPSI**, le cursus commun est de poursuivre en MP, mais il est également possible de faire sa seconde année en PSI à condition d'avoir choisi l'option SI renforcée au second semestre.
 
 {{< admonition warning "Fausse bonne idée" true >}}
 Avant que vous ne commenciez à faire quelques plans farfelus : si vous souhaitez poursuivre en MP en seconde année (et encore plus en PSI), ne jouez pas la carte du MP2I "réorienté" comme par magie ! Vous avez tout à y perdre puisque vous n'aurez pas suivi la même année que les élèves prédéstinés à ces filières, bien que le second semestre soit là pour vous remettre à niveau. La possibilité de se réorienter est là pour permettre aux élèves de MP2I qui ne se sentent finalement pas à l'aise avec l'informatique de ne pas se retrouver dans une impasse scolaire.
@@ -77,7 +77,7 @@ J'ai un  peu caricaturé, je voulais dire que même en étant milieu de classe e
 {{< /admonition >}}
 
 {{< admonition quote "Gaspard, ancien étudiant en MPI à Victor Hugo (2023)" true>}}
-Personnellement je savais déjà que je voulais faire une prépa, me connaissant je n'aurais pas beaucoup bossé en fac et garder l'aspect plus généraliste de la prépa me bottait pas mal, vu que je ne savais pas trop ce que je voulais faire. 
+Personnellement je savais déjà que je voulais faire une prépa, me connaissant je n'aurais pas beaucoup bossé en fac et garder l'aspect plus généraliste de la prépa me bottait pas mal, vu que je ne savais pas trop ce que je voulais faire.
 Vu que la NSI et l'option info que j'avais faites au lycée m'avaient bien plu, je me suis dit qu'une prépa avec de l'info pourrait me plaire.
 
 Deux ans après je ne regrette pas du tout, surtout que si j'avais dû choisir une filière en fac par exemple, je me serais orienté sur des maths ou de la physique, au lieu de l'informatique qui m'intéresse beaucoup plus maintenant.
@@ -86,4 +86,3 @@ Deux ans après je ne regrette pas du tout, surtout que si j'avais dû choisir u
 {{< admonition quote "Ayman, futur étudiant en MP2I à Louis le Grand (2023)" true >}}
 Pour ma part j'ai beaucoup hésité, car à la base je ne pensais absolument pas pouvoir être pris en MP2I donc j'avais juste réfléchi à aller en MPSI. Finalement j'ai eu la chance (ou pas) d'être pris en MP2I et en MPSI dans la même prépa... L'hésitation fut intense mais j'ai fini par choisir la MP2I car c'était l'aventure.
 {{< /admonition >}}
-
