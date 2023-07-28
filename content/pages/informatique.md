@@ -86,8 +86,8 @@ Le but principal des TP est de faire fonctionner un algorithme étudié en cours
 
 Pendant les TP, la programmation se fait en **C**  et en **OCaml**.
 
-{{< figure src="/images/logo_C.svg" caption="*Logo du langage C*" width="15%" >}}
-{{< figure src="/images/logo_Ocaml.svg" caption="*Logo du langage OCaml*" width="40%" >}}
+{{< figure src="/images/logo_C.svg" caption="*Logo du langage C*" width="15%" class="figure-cell" >}}
+{{< figure src="/images/logo_Ocaml.svg" caption="*Logo du langage OCaml*" width="40%" class="figure-cell" >}}
 
 > Retrouvez la documentation en ligne du [C](https://devdocs.io/c/) ainsi que le site [OCaml](https://ocaml.org/).
 
