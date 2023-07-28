@@ -126,7 +126,7 @@ Les professeurs, les anciens élèves et moi-même vous l’assurent : le sommei
 {{< /admonition >}}
 
 {{< admonition quote "Quel rythme de travail as-tu le week-end ?" false >}}
-Je commence à travailler vers 9h finis vers 22- 23. Je prends au moins 2h de pause par repas. Et 2- 3 h de pause en tout pour les pauses que je prends impulsivement. 
+Je commence à travailler vers 9h finis vers 22- 23. Je prends au moins 2h de pause par repas. Et 2- 3 h de pause en tout pour les pauses que je prends impulsivement.
 Ceci varie si j'ai d'autre chose à faire (genre les courses + ménage), je me débrouille pour le faire le samedi
 Au total le WE j'essaie de prendre une soirée ou une matinée pour moi ou je fais rien (souvent juste après les DS).
 
@@ -178,7 +178,7 @@ Je préciserais que les vacances avant l'entrée en première année sont aussi 
 
 ## L'admission
 
-{{< admonition quote "MP2I ou MPSI : que choisir ?" true >}}
+{{< admonition quote "MP2I ou MPSI : que choisir ?" false >}}
 Cette traditionnelle question a enfin fait son chemin dans votre esprit. Mais comment y répondre ? On vous éclaire sur les différences entre ces deux filières dans [ce post](https://prepas-mp2i.fr/posts/mp2i-vs-mpsi/).
 
 {{< right >}} *Étudiants en MP2I/MPI* {{< /right >}}
