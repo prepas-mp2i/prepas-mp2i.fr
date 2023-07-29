@@ -2,6 +2,8 @@
 title: Comment poursuivre en MP2I après le lycée
 subtitle: Choix des spécialités au lycée et Parcoursup
 date: 2021-12-20T00:05:32+01:00
+categories:
+    - Orientation
 ---
 
 Vous êtes en Seconde ou en Première générale, la classe préparatoire de MP2I vous intéresse mais vous ne savez pas quelles spécialités suivre ? Même si ce choix doit rester motivé par le goût, il est important pour votre poursuite d'études.

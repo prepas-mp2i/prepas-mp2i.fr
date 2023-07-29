@@ -3,6 +3,9 @@ title: "Le TIPE en MPI"
 subtitle: À quoi peut ressembler un TIPE dans notre filière ?
 slug: tipe
 date: 2023-07-18T00:15:00+01:00
+categories:
+    - MPI
+    - Concours
 ---
 
 ## Le TIPE Tétraconcours

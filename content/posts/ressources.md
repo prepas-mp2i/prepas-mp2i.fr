@@ -3,6 +3,8 @@ title: Liens, livres et concours recommandés
 subtitle: S'intéresser, apprendre et s'exercer
 slug: ressources
 date: 2021-12-20T00:09:11+01:00
+categories:
+    - Ressources
 ---
 
 

@@ -2,6 +2,9 @@
 title: Sujets des concours MPI
 subtitle: Entraînez-vous sur les sujets passés
 date: 2023-04-29T23:18:58+02:00
+categories:
+    - MPI
+    - Concours
 ---
 
 > Retrouvez une compilation d'exercices oraux dans la [Base d'épreuves orales scientifiques de concours aux grandes écoles](https://beos.prepas.org) (BEOS).

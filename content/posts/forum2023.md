@@ -2,6 +2,8 @@
 title: Forum 2023 des étudiants en MP2I/MPI
 url: /forum/
 date: 2023-01-21T13:30:00+01:00
+categories:
+    - Évènements
 ---
 
 {{< admonition info "Forum terminé" >}}

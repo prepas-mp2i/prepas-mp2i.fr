@@ -2,6 +2,8 @@
 title: Concours MPI
 subtitle: Découvrir les places, les épreuves
 date: 2022-07-10T13:59:24+02:00
+categories:
+    - Concours
 ---
 
 Les informations sur les concours pour la filière MPI ont été regroupées à partir des sites officiels des concours et des notices de ces derniers. Vous y trouverez les notices en question, le nombre de places pour chaque école et la liste des épreuves écrites et orales qu'il vous faudra affronter en fin de seconde année.

@@ -2,6 +2,9 @@
 title: Les classes préparatoires MP2I et MPI
 subtitle: Vue par les étudiants en MP2I et MPI
 date: 2021-12-20T00:07:18+01:00
+categories:
+    - MP2I
+    - MPI
 ---
 
 ## Les classes préparatoires aux grandes écoles (CPGE)

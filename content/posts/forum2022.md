@@ -2,6 +2,8 @@
 title: Forum 2022 des étudiants en MP2I
 slug: forum-2022
 date: 2022-02-14T16:45:31+01:00
+categories:
+    - Évènements
 ---
 
 {{< admonition info "Forum terminé" true >}}
