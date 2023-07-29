@@ -50,7 +50,7 @@ enableEmoji = true
     weight = 8
 
 [taxonomies]
-  category = 'categories'
+  category = "categories"
 
 [security]
   [security.exec]
@@ -152,7 +152,7 @@ enableEmoji = true
   pages = '/:filename'
 
 [author]
-  name = " Étudiants en MP2I/MPI"
+  name = "Étudiants en MP2I/MPI"
   email = "contact@prepas-mp2i.fr"
 
 [markup]

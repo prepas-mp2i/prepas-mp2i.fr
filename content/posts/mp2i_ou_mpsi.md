@@ -3,6 +3,7 @@ title: MP2I ou MPSI ?
 subtitle: Comment choisir la filière qui vous conviendra le mieux ?
 slug: mp2i-ou-mpsi
 date: 2023-07-27T00:13:00+01:00
+author: Nozae
 categories:
     - MP2I
     - Orientation
