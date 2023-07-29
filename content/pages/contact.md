@@ -1,5 +1,5 @@
 ---
-title: "Qui sommes-nous?"
+title: Qui sommes-nous?
 date: 2021-12-20T00:07:53+01:00
 ---
 
