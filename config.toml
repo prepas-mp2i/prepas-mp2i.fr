@@ -9,44 +9,8 @@ enableEmoji = true
 
 [menu]
   [[menu.main]]
-    name = "Catégories"
+    pre = """<i class="fas fa-folder-open fa-fw"></i>"""
     url = "/categories/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Filière"
-    url = "/filiere/"
-    weight = 2
-  
-  [[menu.main]]
-    name = "Informatique"
-    url = "/informatique/"
-    weight = 3
-
-  [[menu.main]]
-    name = "Admission"
-    url = "/admission/"
-    weight = 4
-  
-  [[menu.main]]
-    name = "Concours"
-    url = "/concours/"
-    weight = 5
-  
-  # EVENT
-  [[menu.main]]
-    name = "Forum"
-    url = "/forum/"
-    weight = 6
-  
-  [[menu.main]]
-    name = "F.A.Q"
-    url = "/faq/"
-    weight = 7
-
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
     weight = 8
 
 [taxonomies]
@@ -83,9 +47,7 @@ enableEmoji = true
     mobileMode = "auto"
 
     [params.header.title]
-      logo = ""
       name = "PREPAS MP2I/MPI"
-      # add extra information before the name (HTML supported), such as icons
       pre = """<img src='/images/logo.png' alt='Logo' height=25px 
                     style='margin-bottom:-5px;margin-right:5px'>"""
       typeit = true  # typeit animation for title name
@@ -116,7 +78,6 @@ enableEmoji = true
       subtitle = "Bienvenue sur le site des classes préparatoires MP2I/MPI !"
       typeit = true
       social = true
-      disclaimer = ""
 
     [params.home.posts]
       enable = true
@@ -152,7 +113,7 @@ enableEmoji = true
   pages = '/:filename'
 
 [author]
-  name = "Étudiants en MP2I/MPI"
+  name = "Étudiants"
   email = "contact@prepas-mp2i.fr"
 
 [markup]

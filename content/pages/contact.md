@@ -1,5 +1,10 @@
 ---
-title: Qui sommes-nous?
+title: Contact
+url: /contact
+menu:
+    main:
+        name: Contact
+        weight: 7
 date: 2021-12-20T00:07:53+01:00
 ---
 

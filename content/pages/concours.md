@@ -1,7 +1,12 @@
 ---
 title: Concours MPI
 subtitle: Découvrir les places, les épreuves
+url: /concours
 date: 2022-07-10T13:59:24+02:00
+menu:
+    main:
+        name: Concours
+        weight: 4
 categories:
     - Concours
 ---

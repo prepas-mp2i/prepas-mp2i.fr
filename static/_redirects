@@ -1,5 +1,6 @@
 # Redirect requests from /mp2i (page moved) to /filiere (Permanent redirection)
 /mp2i /filiere 301
+/admission /rejoindre 301
 
 # 404 custom page
 /* /404.html 404

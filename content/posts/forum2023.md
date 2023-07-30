@@ -1,8 +1,12 @@
 ---
 title: Forum 2023 des étudiants en MP2I/MPI
-url: /forum/
+url: /forum
 date: 2023-01-21T13:30:00+01:00
 author: Adridri
+menu:
+    main:
+        name: Forum
+        weight: 5
 categories:
     - Évènements
 ---

@@ -1,6 +1,11 @@
 ---
-title: "Foire Aux Questions"
+title: Foire Aux Questions
+url: /faq
 date: 2022-01-29T19:00:59+01:00
+menu:
+    main:
+        name: FAQ
+        weight: 6
 ---
 
 Vous avez une question à poser ? Si jamais elle n'est pas déjà référencée, vous pouvez nous contacter via [la page de contact](https://prepas-mp2i.fr/contact/).
