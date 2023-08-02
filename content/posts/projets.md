@@ -2,11 +2,12 @@
 title: Projets personnels d'étudiants
 slug: projets-personnels
 date: 2021-12-20T00:08:50+01:00
+summary: Voici une liste non exhaustive de projets d'étudiants en MP2I ou MPI, n'hésitez pas à les soutenir ! D'autres projets se rajouteront au fur et à mesure ; n'hésitez pas à nous contacter pour y faire figurer le vôtre.
 categories:
     - Ressources
 ---
 
-Voici une liste non exhaustive de projets d'étudiants en MP2I ou MPI, n'hésitez pas à les soutenir ! D'autres projets se rajouteront au fur et à mesure!
+Voici une liste non exhaustive de projets d'étudiants en MP2I ou MPI, n'hésitez pas à les soutenir ! D'autres projets se rajouteront au fur et à mesure !
 
 ## 2022-2023
 

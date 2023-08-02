@@ -4,8 +4,7 @@ subtitle: Une brève introduction à cette matière magique !
 url: /informatique
 date: 2021-12-20T00:07:18+01:00
 categories:
-    - MP2I
-    - MPI
+    - MP2I/MPI
 menu:
     main:
         name: Informatique

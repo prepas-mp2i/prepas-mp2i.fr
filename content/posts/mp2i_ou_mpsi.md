@@ -3,9 +3,9 @@ title: MP2I ou MPSI ?
 subtitle: Comment choisir la filière qui vous conviendra le mieux ?
 slug: mp2i-ou-mpsi
 date: 2023-07-27T00:13:00+01:00
-author: Nozae
+author: Nozaé
+summary: "Vous êtes au lycée, vous aimez les sciences, vous souhaitez poursuivre en classe préparatoire, mais une question subsiste : MP2I ou MPSI ? Comment choisir la filière qui vous conviendra le mieux ? On vous informe de toutes les différences entre ces deux filières dans ce post."
 categories:
-    - MP2I
     - Orientation
 ---
 
@@ -45,12 +45,12 @@ Concernant les Mathématiques, le programme est strictement identique ; celui de
 | Filière  | Semestre | Maths | Physique | Chimie | Info Spé | Info TC | SI | LV1 | Français-Philo | TIPE |
 |:--------:|:--------:|:-----:|:--------:|:------:|:--------:|:------:|:--:|:---:|:--------------:|:----:|
 | **MP2I** | I | 12 | 6.5 | 0 | 4 | 0 | 2 | 2 | 2 | 0 |
-|   | II (Info) | 12 | 6.5 | 0 | 6 | 0 | 0 | 2 | 2 | 2 |
-|   | II (SI) | 12 | 6.5 | 2 | 0 | 2 | 4 | 2 | 2 | 2 |
+| 〃 | II (Info) | 12 | 6.5 | 0 | 6 | 0 | 0 | 2 | 2 | 2 |
+| 〃 | II (SI) | 12 | 6.5 | 2 | 0 | 2 | 4 | 2 | 2 | 2 |
 | **MPSI** | I | 12 | 6 | 2 | 0 | 1.5 | 2 | 2 | 2 | 0 |
-|   | II (Info) | 12 | 6 | 2 | 0 | 4 | 0 | 2 | 2 | 2 |
-|   | II (SI légère) | 12 | 6 | 2 | 0 | 2 | 2 | 2 | 2 | 2 |
-|   | II (SI renforcée) | 12 | 6 | 2 | 0 | 0 | 4 | 2 | 2 | 2 |
+| 〃 | II (Info) | 12 | 6 | 2 | 0 | 4 | 0 | 2 | 2 | 2 |
+| 〃 | II (SI légère) | 12 | 6 | 2 | 0 | 2 | 2 | 2 | 2 | 2 |
+| 〃 | II (SI renforcée) | 12 | 6 | 2 | 0 | 0 | 4 | 2 | 2 | 2 |
 
 *À noter que les heures de Physique et de Chimie ne sont pas distinguées en MPSI.*
 
@@ -58,7 +58,7 @@ Concernant les Mathématiques, le programme est strictement identique ; celui de
 
 {{< figure
     src="/images/deuxieme_annee_mp2i_mpsi.svg"
-    title="Orientation en deuxième année"
+    title=" "
     width="100%"
     class="invert"
 >}}
@@ -71,11 +71,11 @@ Avant que vous ne commenciez à faire quelques plans farfelus : si vous souhaite
 
 ## Témoignages d'étudiants
 
-{{< admonition quote "Gaëtan, futur étudiant en MP2I à Descartes (2023)" false >}}
+{{< admonition quote "Gaëtan, futur étudiant en MP2I à Descartes (2023)" true >}}
 Je voulais suivre une formation scientifique intensive, surtout en mathématiques, mais sans pour autant abandonner mes deux autres spécialités de Terminale et Première. Penchant (nettement) plus pour l'informatique que la physique-chimie, la MP2I me paraissait être le meilleur choix. Et puis, ne sachant pas trop si à l'avenir je préférerais travailler dans les maths ou bien l'info, deux années lors desquelles des domaines différents de ces deux matières seront abordés me paraissent plus utiles que deux années de maths avec une grande quantité de physique-chimie, et vite fait de l'info.
 {{< /admonition >}}
 
-{{< admonition quote "Clément, ancien étudiant en MPI à Faidherbe (2023)" false >}}
+{{< admonition quote "Clément, ancien étudiant en MPI à Faidherbe (2023)" true >}}
 Avant on pouvait hésiter entre L1 Info et prépa MPSI car il y avait peu d'informatique, aujourd'hui par la MP2I on peut vraiment partir en prépa même si on est animé par l'informatique plus que les mathématiques. Les coefficients aux concours permettent de rebattre les cartes et ça ne se joue pas juste à "qui est le meilleur en mathématiques" mais bien à "qui manie le mieux informatique, mathématiques & autres quêtes de la prépa". Je pense que c'est une fillière qui vient vraiment apporter du neuf dans l'équilibre des classes préparatoires et qui permet à de nouveaux profils de réussir.
 
 *Puis il a ajouté :*
@@ -83,13 +83,13 @@ Avant on pouvait hésiter entre L1 Info et prépa MPSI car il y avait peu d'info
 J'ai un  peu caricaturé, je voulais dire que même en étant milieu de classe en maths, on pouvait vraiment réussir en MP2I, la où c'est plus compliqué en MPSI.
 {{< /admonition >}}
 
-{{< admonition quote "Gaspard, ancien étudiant en MPI à Victor Hugo (2023)" false >}}
+{{< admonition quote "Gaspard, ancien étudiant en MPI à Victor Hugo (2023)" true >}}
 Personnellement je savais déjà que je voulais faire une prépa, me connaissant je n'aurais pas beaucoup bossé en fac et garder l'aspect plus généraliste de la prépa me bottait pas mal, vu que je ne savais pas trop ce que je voulais faire.
 Vu que la NSI et l'option info que j'avais faites au lycée m'avaient bien plu, je me suis dit qu'une prépa avec de l'info pourrait me plaire.
 
 Deux ans après je ne regrette pas du tout, surtout que si j'avais dû choisir une filière en fac par exemple, je me serais orienté sur des maths ou de la physique, au lieu de l'informatique qui m'intéresse beaucoup plus maintenant.
 {{< /admonition >}}
 
-{{< admonition quote "Ayman, futur étudiant en MP2I à Louis le Grand (2023)" false >}}
+{{< admonition quote "Ayman, futur étudiant en MP2I à Louis le Grand (2023)" true >}}
 Pour ma part j'ai beaucoup hésité, car à la base je ne pensais absolument pas pouvoir être pris en MP2I donc j'avais juste réfléchi à aller en MPSI. Finalement j'ai eu la chance (ou pas) d'être pris en MP2I et en MPSI dans la même prépa... L'hésitation fut intense mais j'ai fini par choisir la MP2I car c'était l'aventure.
 {{< /admonition >}}

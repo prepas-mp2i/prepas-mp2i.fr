@@ -6,6 +6,8 @@ menu:
         name: Contact
         weight: 7
 date: 2021-12-20T00:07:53+01:00
+categories :
+    - Ressources
 ---
 
 Nous sommes des étudiants actuellement en MP2I/MPI provenant des quatre coins de la France. Notre objectif en créant ce site est d'aider les futurs bacheliers à faire leur choix concernant leur orientation, mais aussi de présenter, de notre point de vue, cette filière encore méconnue qui fait maintenant partie de notre quotidien.

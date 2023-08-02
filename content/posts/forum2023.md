@@ -3,6 +3,7 @@ title: Forum 2023 des étudiants en MP2I/MPI
 url: /forum
 date: 2023-01-21T13:30:00+01:00
 author: Adridri
+summary: Le forum 2023 est terminé ! Comme l'année dernière, ce ne sont pas moins de 300 élèves ou parents d'élèves qui y ont assisté. En attendant l'édition 2024, vous pouvez télécharger le diaporama utilisé comme support en PDF.
 menu:
     main:
         name: Forum
