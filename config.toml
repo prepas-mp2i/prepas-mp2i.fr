@@ -1,47 +1,20 @@
-baseURL = "/"
+baseURL = "https://prepas-mp2i.fr/"
 title = "Prépas MP2I/MPI"
 theme = "LoveIt"
 defaultContentLanguage = "fr"
 languageCode = "fr"
 enableRobotsTXT = true
 enableGitInfo = true
+enableEmoji = true
 
 [menu]
   [[menu.main]]
-    name = "MP2I"
-    url = "/mp2i/"
-    weight = 1
-  
-  [[menu.main]]
-    name = "Informatique"
-    url = "/informatique/"
-    weight = 2
+    pre = """<i class="fas fa-folder-open fa-fw"></i>"""
+    url = "/categories/"
+    weight = 8
 
-  [[menu.main]]
-    name = "Admission"
-    url = "/admission/"
-    weight = 3
-  
-  [[menu.main]]
-    name = "Ressources"
-    url = "/ressources/"
-    weight = 4
-  
-  # EVENT
-  [[menu.main]]
-    name = "Forum"
-    url = "/forum/"
-    weight = 5
-  
-  [[menu.main]]
-    name = "F.A.Q"
-    url = "/faq/"
-    weight = 6
-
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 7
+[taxonomies]
+  category = "categories"
 
 [security]
   [security.exec]
@@ -49,8 +22,8 @@ enableGitInfo = true
 
 [params]
   version = "0.2.X"
-  description = "Site des classes préparatoires MP2I"
-  keywords = ["Theme", "Hugo", "MP2I", "Prépa"]
+  description = "Site des classes préparatoires MP2I/MPI"
+  keywords = ["Theme", "Hugo", "MP2I", "MPI", "Prépa"]
   defaultTheme = "auto"
   gitRepo = "https://github.com/prepas-mp2i/prepas-mp2i.fr/"
   dateFormat = "02/01/2006"
@@ -74,9 +47,7 @@ enableGitInfo = true
     mobileMode = "auto"
 
     [params.header.title]
-      logo = ""
       name = "PREPAS MP2I/MPI"
-      # add extra information before the name (HTML supported), such as icons
       pre = """<img src='/images/logo.png' alt='Logo' height=25px 
                     style='margin-bottom:-5px;margin-right:5px'>"""
       typeit = true  # typeit animation for title name
@@ -104,10 +75,9 @@ enableGitInfo = true
       enable = true
       avatarURL = "/images/logo.png"
       title = "Prépas MP2I/MPI"
-      subtitle = "Bienvenue sur le site des classes préparatoires MP2I !"
+      subtitle = "Bienvenue sur le site des classes préparatoires MP2I/MPI !"
       typeit = true
       social = true
-      disclaimer = ""
 
     [params.home.posts]
       enable = true
@@ -116,7 +86,8 @@ enableGitInfo = true
   [params.social]
     GitHub = "prepas-mp2i/prepas-mp2i.fr"
     Email = "contact@prepas-mp2i.fr"
-
+    Discord = "Mu439mBdsv"
+    
   [params.page]
     hiddenFromHomePage = false
     hiddenFromSearch = false
@@ -142,7 +113,7 @@ enableGitInfo = true
   pages = '/:filename'
 
 [author]
-  name = " Étudiants en MP2I/MPI"
+  name = "Étudiants"
   email = "contact@prepas-mp2i.fr"
 
 [markup]

@@ -1,7 +1,14 @@
 ---
 title: Forum 2023 des étudiants en MP2I/MPI
-url: /forum/
+url: /forum
 date: 2023-01-21T13:30:00+01:00
+author: Adridri
+menu:
+    main:
+        name: Forum
+        weight: 5
+categories:
+    - Évènements
 ---
 
 {{< admonition info "Forum terminé" >}}
@@ -9,7 +16,12 @@ Le forum 2023 est terminé ! Comme l'année dernière, ce ne sont pas moins de 3
 Vous pouvez télécharger [le diaporama](/documents/diaporama_forum_2023.pdf) utilisé comme support en PDF.
 {{< /admonition >}}
 
-{{< figure caption="Réalisée par Carole (Aux Lazaristes)" src="/images/affiche_forum_2023.jpg" link="/documents/affiche_forum_2023.pdf" width="60%">}}
+{{< figure
+    caption="Réalisée par Carole (Aux Lazaristes)"
+    src="/images/affiche_forum_2023.jpg"
+    link="/documents/affiche_forum_2023.pdf"
+    width="60%"
+>}}
 
 ## Présentation
 
@@ -21,9 +33,12 @@ Des professeurs interviendront éventuellement sur différents stands.
 
 ### Retour en image
 
-{{< figure src="/images/salle5_forum_2023.png" width="100%"
+{{< figure
+    src="/images/salle5_forum_2023.png"
+    width="100%"
     title="Stand 5 du forum 2023"
-    caption="Antonin, Hugo, Oscar et Margaux répondents aux questions posées par les lycéens" >}}
+    caption="Antonin, Hugo, Oscar et Margaux répondents aux questions posées par les lycéens"
+>}}
 
 ## Organisation
 
@@ -33,7 +48,12 @@ Il s'organisera autour de différents stands composés de 2 ou 3 établissements
 
 ### Planning
 
-{{< figure src="/images/planning_forum_2023.png" width="100%" title="Répartition des établissements selon les différents créneaux " >}}
+{{< figure
+    src="/images/planning_forum_2023.png"
+    title="Répartition des établissements selon les différents créneaux"
+    width="100%"
+    class="invert"
+>}}
 
 ## Accès aux stands
 

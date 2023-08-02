@@ -2,6 +2,9 @@
 title: Forum 2022 des étudiants en MP2I
 slug: forum-2022
 date: 2022-02-14T16:45:31+01:00
+author: Adridri
+categories:
+    - Évènements
 ---
 
 {{< admonition info "Forum terminé" true >}}
@@ -37,7 +40,11 @@ On vous présentera le fonctionnement des stands ainsi que les dernières nouvel
 
 ### Rotation des stands (15h - 18h)
 
-{{< figure src="/images/planning_forum_2022.png" width="100%" title="Répartition des établissements selon les différents créneaux " >}}
+{{< figure
+    src="/images/planning_forum_2022.png"
+    title="Répartition des établissements selon les différents créneaux"
+    width="100%"
+>}}
 
 Vous trouverez ci dessous les liens pour rejoindre le stand de votre choix :
 

@@ -1,0 +1,25 @@
+# 001: Github
+github:
+  Weight: 1
+  Prefix: https://github.com/
+  Title: GitHub
+  Newtab: true
+  Icon:
+    Class: fab fa-github-alt fa-fw
+
+# 002: Email
+email:
+  Weight: 2
+  Template: mailto:%v
+  Title: Email
+  Icon:
+    Class: far fa-envelope fa-fw
+
+# 003: Discord
+discord:
+  Weight: 3
+  Prefix: https://discord.gg/
+  Title: Discord
+  Newtab: true
+  Icon:
+    Src: /svg/discord.svg
