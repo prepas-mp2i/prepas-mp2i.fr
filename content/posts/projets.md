@@ -9,11 +9,23 @@ categories:
 
 Voici une liste non exhaustive de projets d'étudiants en MP2I ou MPI, n'hésitez pas à les soutenir ! D'autres projets se rajouteront au fur et à mesure !
 
+{{< admonition tip "Note aux MP2I/MPI" true >}}
+Si vous êtes en MP2I ou MPI et que vous souhaitez soumettre un de vos projets, envoyez-nous un mail à [contact@prepas-mp2i.fr](mailto:contact@prepas-mp2i.fr).
+{{< /admonition >}}
+
 ## 2022-2023
 
 ### Clément Rouvroy (crdevio)
 
 - [avantlampii.cr-dev.io](https://avantlampii.cr-dev.io/) : Un document gratuit pour aborder sereinement l'informatique en classe préparatoire. Il possède des points de cours essentiels du programme de NSI et des exercices ouverts pour apprendre à réagir face à des exercices types. Aucun hors-programme, aucune avance nette sur le programme, que de quoi bien commencer votre année !
+
+### Aubin Sionville 
+
+- [asionville.fr](http://asionville.fr/mpi/fiches/) : Des fiches LaTeX ultra synthétiques des différents cours de MP2I et MPI, comprenant le strict minimum des notions abordée ainsi que les formules à connaître.
+
+### Hugo Salou
+
+- [revisions](http://167.99.84.84/revisions) : Des cours ultra complets de MP2I et MPI ainsi que des fiches récapitulatives exhaustives parfois sous forme de mind map. 
 
 ## 2021-2022
 
@@ -34,6 +46,3 @@ Voici une liste non exhaustive de projets d'étudiants en MP2I ou MPI, n'hésite
 
 - [simu_corp_souple](https://github.com/Sh3xe/simu_corp_souple)
 
-{{< admonition tip "Note aux MP2I/MPI" true >}}
-Si vous êtes en MP2I ou MPI et que vous souhaitez soumettre un de vos projets, envoyez-nous un mail à [contact@prepas-mp2i.fr](mailto:contact@prepas-mp2i.fr).
-{{< /admonition >}}
