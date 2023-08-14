@@ -97,7 +97,7 @@ Les lettres de motivation sont très importantes, surtout si vous avez un profil
 Le plus important c'est répondre à la question "Pourquoi cette filière ?". Mettez-vous à la place du jury, dire que vous êtes motivé.e c'est bien, mais il en faudra plus pour convaincre. Votre appétence pour telle ou telle science, vos projets, vos ambitions professionnelles, etc, sont des critères bien plus importants pour cerner votre profil. Il est également déconseillé de vanter les mérites de l'établissement que vous visez, s'ils sont géniaux, ils le savent, pas besoin de leur dire, vantez plutôt vos qualités. Orthographe correcte exigée évidemment, faites-vous relire par un tiers (prof, parent...).
 
 {{< admonition warning "Lettres de motivation par filière" true>}}
-Que vous ne fassiez pas douze lettres différentes pour chaque MP2I à laquelle vous postulez est compréhensible ; cependant, il est conseillé (voir nécessaire) de rédiger une lettre par filière à laquelle voous postulez : vous n'allez pas mettre les mêmes arguments au premier plan.
+Que vous ne fassiez pas douze lettres différentes pour chaque MP2I à laquelle vous postulez est compréhensible ; cependant, il est conseillé (voire nécessaire) de rédiger une lettre par filière à laquelle vous postulez : vous n'allez pas mettre les mêmes arguments au premier plan.
 {{< /admonition >}}
 
 ### L'internat
