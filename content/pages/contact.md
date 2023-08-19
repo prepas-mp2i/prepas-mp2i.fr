@@ -55,7 +55,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Pierre De Fermat | Toulouse | [mp2i.fermat@gmx.com](mailto:mp2i.fermat@gmx.com)
 | Henri Poincaré | Nancy | [louis.delion1007@gmail.com](mailto:louis.delion1007@gmail.com)
 | Saint-Louis | Paris 06 | [fusetim.log@gmx.com](mailto:fusetim.log@gmx.com)
-| Thiers | Marseille 01 | [indisponible](mailto:)
+| Thiers | Marseille 01 | [elowarp@gmail.com](mailto:elowarp@gmail.com)
 | Victor Hugo | Besançon | [alexis.chavy@protonmail.com](mailto:alexis.chavy@protonmail.com)
 | Lesage | Vannes | [victorjean2@icloud.com](mailto:victorjean2@icloud.com)
 
