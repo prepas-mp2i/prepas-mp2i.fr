@@ -35,6 +35,10 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 
 \**Sauf certaines écoles, consulter les bandeaux "Coefficients différents" pour plus d'informations.*
 
+### Statistiques
+
+- [Année 2023](https://www.scei-concours.fr/stat2023/mpi.html)
+
 ## Concours Polytechnique
 
 > {{< center >}}
