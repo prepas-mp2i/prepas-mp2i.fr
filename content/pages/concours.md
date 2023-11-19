@@ -145,7 +145,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 ## Concours Centrale
 
 > {{< center >}}
-[Site officiel](https://www.concours-centrale-supelec.fr) - [Notice du concours](https://www.concours-centrale-supelec.fr/CentraleSupelec/Notices/CCS-2023-MPI.pdf) - [Liste des écoles](https://www.concours-centrale-supelec.fr/liens)
+[Site officiel](https://www.concours-centrale-supelec.fr) - [Notice du concours](https://www.concours-centrale-supelec.fr/CentraleSupelec/Notices/CCS-2023-MPI.pdf)
 {{< /center >}}
 
 ### Détail des places
