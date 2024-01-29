@@ -13,7 +13,7 @@ menu:
 
 ## Les classes préparatoires aux grandes écoles (CPGE)
 
-Ici, nous ne parlerons pas de [la prépa intégrée en école d'ingénieur](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Principaux-domaines-d-etudes/Les-ecoles-d-ingenieurs/Les-prepas-integrees-en-ecole-d-ingenieurs), qui s'effectue en 2 ans au sein d'une école d'ingénieur.
+Ici, nous ne parlerons pas de [la prépa intégrée en école d'ingénieur](https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-ecoles-d-ingenieurs/les-prepas-integrees-en-ecole-d-ingenieurs), qui s'effectue en 2 ans au sein d'une école d'ingénieur.
 
 La prépa classique (CPGE) est rattachée à un lycée, c'est une formation théorique très complète. Elle se fait en 2 ans et permet de rejoindre les écoles d'ingénieurs et les licences (L3) les plus prestigieuses, après un concours en fin de seconde année.
 Les classes ne dépassent pas 48 élèves et ceux-ci sont accompagnés et très encadrés par les professeurs.
@@ -38,7 +38,7 @@ Après une classe préparatoire, intégrée ou non, vous avez la possibilité de
 poursuivre en master (bac+5), puis éventuellement en doctorat (bac+8). Mais également de poursuivre en licence, ou dans des universités à l'étranger.
 
 {{< admonition tip "Formations en informatique" true >}}
-Il existe plein d'autres cursus pour faire de l'informatique, les voici [à cette adresse](https://cien.gouv.mc/content/download/430778/4871791/file/Les%20Fili%C3%A8res%20de%20l%27informatique%202021.pdf).
+Il existe plein d'autres cursus pour faire de l'informatique, les voici [à cette adresse](https://cien.gouv.mc/content/download/90346/file/Les%20diff%C3%A9rentes%20fili%C3%A8res%20de%20l%27informatique%202022.pdf?inLanguage=fre-FR&version=3).
 {{< /admonition >}}
 
 ## Le programme en MP2I
