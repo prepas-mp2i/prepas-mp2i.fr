@@ -16,7 +16,7 @@ Les informations sur les concours pour la filière MPI ont été regroupées à 
 > Retrouvez les sujets des années précédentes sur [cette page](https://prepas-mp2i.fr/posts/sujets-des-concours-mpi).
 
 {{< admonition warning "Attention !" true >}}
-Les notices, listes d'épreuves et nombres de places actuels correspondent à la **session 2023**. Il y avait alors **812 élèves** qui passaient les concours.
+Le détail des épreuve ainsi que les nombres de places aux ENS correspondent à la **session 2023**.
 
 Les informations présentes sur cette page ne sont pas exhaustives ; elles permettent seulement un aperçu rapide, et ne sont pas nécessairement à jour. Référez-vous systématiquement aux notices de l'année en cours pour garantir la fiabilité et la précision de vos informations.
 {{< /admonition >}}
@@ -27,7 +27,7 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 
 | Polytechnique | ENS | Centrale | Mines-Ponts | Mines Télécom | CCINP | E3A-Polytech |
 |:-------------:|:---:|:--------:|:-----------:|:-------------:|:-----:|:------------:|
-|      24       | 37  |   113    |     110     |      111      |  277  |     274+     |
+|      24       | (37)|   118    |     124     |      141      |  224  |     161+     |
 
 ### Répartition des coefficients
 
@@ -42,7 +42,7 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 ## Concours Polytechnique
 
 > {{< center >}}
-[Site officiel](https://www.polytechnique.edu/) - [Notice du concours](https://gargantua.polytechnique.fr/siatel-web/app/linkto/mIb5YYWSPYY) - [Présentation de l'école](https://www.polytechnique.edu/ecole)
+[Site officiel](https://www.polytechnique.edu/) - [Notice du concours](https://gargantua.polytechnique.fr/siatel-web/app/linkto/SnJPVWdZZEVTVFF0M29TU3E5ajYzUkxqd1dheXlaaGpTbmhsOGk4ZVZjV2tQUzNNenV4cVRBOG01UzJUdUh5WXNwcThuck00R09BPQ) - [Présentation de l'école](https://www.polytechnique.edu/ecole)
 {{< /center >}}
 
 ### Détail des places
@@ -81,10 +81,10 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 ## Concours ENS
 
 > {{< center >}}
-Site officiel [Ulm](https://www.ens.psl.eu) / [Paris-Saclay](https://ens-paris-saclay.fr) / [Lyon](https://www.ens-lyon.fr) / [Rennes](https://www.ens-rennes.fr) - [Notice du concours](https://www.ens-lyon.fr/sites/default/files/2023-01/Notice2023_ENS.pdf)
+Site officiel [Ulm](https://www.ens.psl.eu) / [Paris-Saclay](https://ens-paris-saclay.fr) / [Lyon](https://www.ens-lyon.fr) / [Rennes](https://www.ens-rennes.fr) - [Notice du concours](https://ens-paris-saclay.fr/sites/default/files/CONCOURS/CONCOURS_2024/2024_Notice_Inter_ENS.pdf)
 {{< /center >}}
 
-### Détail des places
+### Détail des places (!2023!)
 
 | École | Nombre de places・37 |
 |:-----:|:--------------------:|
@@ -109,14 +109,14 @@ Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont com
 | Informatique Fondamentale | 4h | - |
 
 {{< admonition info "Coefficients" false >}}
-| Épreuve | ULM (info MPI) | Paris-Saclay | Lyon (I-MPI) | Rennes |
-|:-------:|:--------------:|:------------:|:------------:|:------:|
-| Mathématiques C           | 4         | 5       | 3       | 3 |
-| Informatique A            |           |         |         | 4 |
-| Informatique C            | 4         | 5       | 6       | 5 |
-| Informatique Fondamentale | 4         | 5       | 4       | 3 |
-| Français-Philosophie      | 2 (adm)   | 2 (adm) | 2 (adm) | 2 |
-| Langue vivante            | 1,5 (adm) | 2 (adm) | 2 (adm) | 2 |
+|          Épreuve          | ULM (info MPI) | Paris-Saclay | Lyon (I-MPI) | Rennes |
+| :-----------------------: | :------------: | :----------: | :----------: | :----: |
+|      Mathématiques C      |       4        |      5       |      3       |   3    |
+|      Informatique A       |                |              |              |   4    |
+|      Informatique C       |       4        |      5       |      6       |   5    |
+| Informatique Fondamentale |       4        |      5       |      4       |   3    |
+|   Français-Philosophie    |    2 (adm)     |   2 (adm)    |   2 (adm)    |   2    |
+|      Langue vivante       |   1,5 (adm)    |  1,5 (adm)   |   2 (adm)    |   2    |
 
 \**adm : compte uniquement pour l'admission finale, pas pour l'admissibilité aux oraux.*
 {{< /admonition >}}
@@ -145,12 +145,12 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 ## Concours Centrale
 
 > {{< center >}}
-[Site officiel](https://www.concours-centrale-supelec.fr) - [Notice du concours](https://www.concours-centrale-supelec.fr/CentraleSupelec/Notices/CCS-2023-MPI.pdf)
+[Site officiel](https://www.concours-centrale-supelec.fr) - [Notice du concours](https://www.concours-centrale-supelec.fr/CentraleSupelec/Notices/CCS-2024-MPI.pdf)
 {{< /center >}}
 
 ### Détail des places
 
-| École | Nombre de places・113 |
+| École | Nombre de places・118 |
 |:-----:|:----------------:|
 | [CentraleSupélec] | 32 |
 | [Centrale Lyon] | 15 |
@@ -159,6 +159,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 | [Centrale Méditerranée] | 10 |
 | [Centrale Casablanca] | 2 |
 | [SupOptique] | 8 |
+| [École navale] | 5 |
 | [ENSEA] | 15 |
 | [EPF] | 6 |
 | [ESTP] | 10 |
@@ -170,6 +171,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 [Centrale Méditerranée]: https://www.centrale-marseille.fr/
 [Centrale Casablanca]: https://centrale-casablanca.ma/
 [SupOptique]: https://www.supoptique.fr/
+[École navale]: https://www.lamarinerecrute.fr/metiers-et-formations/formations/ecole-navale
 [ENSEA]: https://www.ensea.fr/
 [EPF]: https://www.epf.fr/
 [ESTP]: https://www.estp.fr/
@@ -194,7 +196,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 
 | EPF | ESTP |
 |:---:|:----:|
-| 10・10・10・10・20・20・20 | 14・14・11・11・12・20・18 |
+| 10・10・10・10・20・20・20 | 16・16・16・16・16・10・10 |
 
 {{< /admonition >}}
 
@@ -215,32 +217,31 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 
 | Centrale Casablanca | ESTP |
 |:-------------------:|:----:|
-| 19・13・19・13・∅・12・11・13 | ∅・∅・∅・15・∅・∅・∅・10 |
+| 19・13・19・13・∅・12・11・13 | ∅・∅・∅・10・∅・∅・∅・15 |
 
 {{< /admonition >}}
 
 ## Concours Mines-Ponts
 
 > {{< center >}}
-[Site officiel](https://www.concoursminesponts.fr) - [Notice du concours](https://www.concoursminesponts.fr/resources/Reglement-2023.pdf) - [Liste des écoles](https://www.concoursminesponts.fr/page-1/)
+[Site officiel](https://www.concoursminesponts.fr) - [Notice du concours](https://www.concoursminesponts.fr/resources/Reglement-2024.pdf) - [Liste des écoles](https://www.concoursminesponts.fr/page-1/)
 {{< /center >}}
 
 ### Détail des places
 
-| École | Nombre de places・110 |
+| École | Nombre de places・124 |
 |:-----:|:----------------:|
 | [École des Ponts ParisTech] | 5 |
 | [ISAE-SUPAERO] | 10 |
 | [ENSTA Paris] | 10 |
 | [ENSTA Paris - Apprentissage] | 1 |
-| [Télécom Paris] | 28 |
+| [Télécom Paris] | 35 |
 | [Télécom Paris - Apprentissage] | 1 |
-| [Mines Paris] | 5 |
-| [Mines Saint-Étienne] | 10 |
+| [Mines Paris] | 4 |
+| [Mines Saint-Étienne] | 20 |
 | [Mines Nancy] | 8 |
 | [IMT Atlantique] | 20 |
 | [ENSAE Paris] | 10 |
-| [Chimie ParisTech] | 2 |
 
 [École des Ponts ParisTech]: https://www.ecoledesponts.fr/
 [ISAE-SUPAERO]: https://www.isae-supaero.fr/
@@ -253,7 +254,6 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 [Mines Nancy]: https://mines-nancy.univ-lorraine.fr/
 [IMT Atlantique]: https://www.imt-atlantique.fr/
 [ENSAE Paris]: https://www.ensae.fr/
-[Chimie ParisTech]: https://www.chimieparistech.psl.eu/
 
 ### Épreuves écrites
 
@@ -288,27 +288,26 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 
 ### Détail des places
 
-| École | Nombre de places・111 |
+| École | Nombre de places・141 |
 |:-----:|:----------------:|
-| [Télécom SudParis] | 12 |
-| [Télécom Saint-Étienne] | 5 |
+| [Télécom SudParis] | 24 |
+| [Télécom Saint-Étienne] | 7 |
 | [Télécom Physique Strasbourg - Informatique et Réseaux] | 10 |
-| [Télécom Nancy] | 15 |
+| [Télécom Nancy] | 26 |
 | [Mines-Saint-Étienne - ISMIN] | 5 |
 | [IMT Nord Europe] | 4 |
 | [IMT Mines Alès] | 5 |
 | [IMT Mines Albi] | 5 |
-| [EURECOM] | 10 |
+| [EURECOM] | 13 |
 | [ENTPE - Étudiants][ENTPE] | 2 |
-| [ENTPE - Fonctionnaire][ENTPE] | 2 |
-| [ENSTA Bretagne - filière sous statut étudiant] | 6 |
+| [ENTPE - Fonctionnaire][ENTPE] | 3 |
+| [ENSTA Bretagne - filière sous statut étudiant] | 3 |
 | [ENSTA Bretagne - filière sous statut IETA] | 3 |
-| [ENSSAT - Lannion] | 8 |
-| [ENSIIE] | 10 |
+| [ENSSAT - Lannion] | 12 |
+| [ENSIIE] | 12 |
 | [ENSG - Géologie][ENSG] | 2 |
-| [ENSG - Géomatique - Civils][ENSG]  | 2 |
-| [ENSG - Géomatique - Fonctionnaire][ENSG]  | 1 |
-| [EIVP - Filière sous statut étudiant][EIVP] | 4 |
+| [ENSG - Géomatique - Civils][ENSG]  | 3 |
+| [ENSG - Géomatique - Fonctionnaire][ENSG]  | 2 |
 
 [Télécom SudParis]: https://www.telecom-sudparis.eu/
 [Télécom Saint-Étienne]: https://www.telecom-st-etienne.fr/
@@ -325,7 +324,6 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 [ENSSAT - Lannion]: https://www.enssat.fr/
 [ENSIIE]: https://www.ensiie.fr/
 [ENSG]: https://www.ensg.eu/
-[EIVP]: https://www.eivp-paris.fr/
 
 ### Épreuves écrites
 
@@ -333,76 +331,63 @@ Elles sont identiques aux [épreuves du concours commun Mines-Ponts](https://pre
 
 ### Épreuves orales
 
-Les épreuves orales sont divisées en **3 groupes** :
+Les épreuves orales sont divisées en **2 groupes** :
 
 - si vous êtes **également admissible à Mines-Ponts**, vous passez uniquement les oraux Mines-Ponts. Vos notes de mathématiques, d'informatique et d'anglais seront ajustées ; l'épreuve orale de français remplacera l'entretien.
-- sinon, vous pouvez être **admissible en série 1**, c'est-à-dire avoir accès à toutes les écoles du concours Mines Télécom ;
-- ou être seulement **admissible en série 2**, ce qui vous donne un accès restreint à 6 écoles : Télécom Nancy, Télécom Saint-Étienne, ENSSAT, EIVP, ENSG Géologie et ENSG Géomatique.
+- sinon, vous pouvez être **admissible uniquement à Mines Télécom**, c'est-à-dire avoir accès à toutes les écoles du concours Mines Télécom.
 
 #### Admissible Mines-Ponts
 
 Les candidats passent uniquement les [épreuves orales du concours commun Mines-Ponts](https://prepas-mp2i.fr/concours/#épreuves-orales-3).
 
-#### Admissible Série 1
+#### Admissible Mines Télécom uniquement
 
 | Épreuve | Durée | Coefficient | Préparation | Format |
 |:-------:|:-----:|:-----------:|:-----------:|:------:|
 | Mathématiques | 30 min | 8 | - | 2 exercices |
 | Informatique | 30 min | 8 | 15 min de lecture du sujet en amont | - |
-| Langue Vivante A | 20 min | 7 | - | Rapide présentation + Commentaire d'un document iconographique + Jeu de rôle |
+| Anglais | 20 min | 7* | - | Rapide présentation + Commentaire d'un document iconographique + Jeu de rôle |
 | Entretien | 20 min | 7* | - | Première partie : "Imaginer un produit ou un service qui réponde à un défi de société au moyen d’une technologie spécifique." ➞ 1 enjeu sociétal (image) + 1 technologie au choix parmi 2 (image + nom)|
-
-\**Une note inférieure à 4/20 est éliminatoire.*
-
-#### Admissible Série 2
-
-| Épreuve | Durée | Coefficient | Format |
-|:-------:|:-----:|:-----------:|:------:|
-| Mathématiques | 50 min | 8 | 1 exercice + du cours |
-| Physique et Informatique | 50 min | 8 | QCM sur le programme d'informatique commum avec les MP, PC et PSI |
-| Anglais | 30 min | 7 | QCM de compréhension orale et écrite |
-| Entretien | 20 min | 7* | Première partie : "Imaginer un produit ou un service qui réponde à un défi de société au moyen d’une technologie spécifique." ➞ 1 enjeu sociétal (image) + 1 technologie au choix parmi 2 (image + nom)|
 
 \**Une note inférieure à 4/20 est éliminatoire.*
 
 ## Concours CCINP
 
 > {{< center >}}
-[Site officiel](https://www.concours-commun-inp.fr/fr/index.html) - [Notice du concours](https://www.concours-commun-inp.fr/_resource/CCINP-notice-2023-MAJ25-05.pdf?download=false) - [Liste des écoles](https://www.concours-commun-inp.fr/fr/les-ecoles.html)
+[Site officiel](https://www.concours-commun-inp.fr/fr/index.html) - [Notice du concours](https://www.concours-commun-inp.fr/_resource/CCINP-notice-2024_V30-11-23.pdf?) - [Liste des écoles](https://www.concours-commun-inp.fr/fr/les-ecoles.html)
 {{< /center >}}
 
 ### Détail des places
 
 #### Écoles CCINP
 
-| École | Nombre de places・233 |
+| École | Nombre de places・202 |
 |:-----:|:----------------:|
 | [Bordeaux INP - ENSC Cognitique] | 5 |
-| [Bordeaux INP - ENSEIRB - MATMECA] | 25 |
+| [Bordeaux INP - ENSEIRB - MATMECA] | 18 |
 | [Bordeaux INP - ENSPIMA] | 1 |
 | [Clermont Auvergne INP - ISIMA] | 20 |
 | [Clermont Auvergne INP - Sigma] | 4 |
-| [CPE Lyon] | 12 |
-| [CY Tech Cergy - Pau] | 15 |
-| [ENAC Toulouse - Ingénieurs] | 10 |
+| [CPE Lyon] | 6 |
+| [CY Tech Cergy - Pau] | 12 |
+| [ENAC Toulouse - Ingénieurs] | 6 |
 | [ENGEES Strasbourg] | 2 |
-| [ENSAI Rennes - Civil][ENSAI Rennes] | 7 |
-| [ENSAI Rennes - Fonctionnaire][ENSAI Rennes] | 2 |
-| [ENSGTI Pau] | 2 |
-| [ENSICAEN] | 5 |
+| [ENSAI Rennes - Civil][ENSAI Rennes] | 8 |
+| [ENSAI Rennes - Fonctionnaire][ENSAI Rennes] | 3 |
+| [ENSICAEN] | 3 |
 | [Grenoble INP - Ense3] | 5 |
 | [Grenoble INP - Ensimag] | 40 |
 | [Grenoble INP - Esisar] | 6 |
-| [Grenoble INP - Pagora] | 5 |
+| [Grenoble INP - Pagora] | 1 |
 | [Grenoble INP - Phelma] | 5 |
-| [ISAE-ENSMA Poitiers] | 2 |
+| [ISAE-ENSMA Poitiers] | 3 |
 | [ISAE-Supméca Paris] | 1 |
-| [Lorraine INP - ENSEM] | 11 |
-| [Lorraine INP - ENSIC] | 5 |
-| [SeaTech Toulon] | 5 |
-| [SUPMICROTECH - ENSMM] | 10 |
+| [Lorraine INP - ENSEM] | 5 |
+| [Lorraine INP - ENSIC] | 3 |
+| [SeaTech Toulon] | 2 |
+| [SUPMICROTECH - ENSMM] | 5 |
 | [TELECOM PHYSIQUE Strasbourg] | 10 |
-| [Toulouse INP - ENSEEIHT] | 16 |
+| [Toulouse INP - ENSEEIHT] | 26 |
 | [Toulouse INP - ENSIACET] | 2 |
 
 [Bordeaux INP - ENSC Cognitique]: https://ensc.bordeaux-inp.fr/fr
@@ -415,7 +400,6 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 [ENAC Toulouse - Ingénieurs]: https://www.enac.fr/fr
 [ENGEES Strasbourg]: https://engees.unistra.fr/
 [ENSAI Rennes]: https://www.ensai.fr/
-[ENSGTI Pau]: https://ensgti.univ-pau.fr/
 [ENSICAEN]: https://www.ensicaen.fr/
 [Grenoble INP - Ense3]: https://ense3.grenoble-inp.fr/
 [Grenoble INP - Ensimag]: https://ensimag.grenoble-inp.fr/
@@ -434,22 +418,20 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 
 #### Écoles en banque d'épreuve
 
-| École | Nombre de places・44 |
+| École | Nombre de places・22 |
 |:-----:|:----------------:|
-| [ENAC Toulouse - Contrôle Aérien] | 8 |
-| [ENSIL-ENSCI Limoges] | 9 |
+| [ENAC Toulouse - Contrôle Aérien] | 5 |
+| [ENSIL-ENSCI Limoges] | 4 |
 | [ENSISA Mulhouse] | 4 |
-| [EOST Strasbourg] | 6 |
-| [Grenoble INP - Génie Industriel] | 3 |
-| [Lorraine INP - ENSGSI] | 5 |
-| [Lorraine INP - ENSTIB] | 7 |
-| [École de l’Air et de l'Espace - Salon] | 2 |
+| [EOST Strasbourg] | 3 |
+| [Lorraine INP - ENSGSI] | 1 |
+| [Lorraine INP - ENSTIB] | 2 |
+| [École de l’Air et de l'Espace - Salon] | 3 |
 
 [ENAC Toulouse - Contrôle Aérien]: https://www.enac.fr/fr/mcta-controleur-aerien
 [ENSIL-ENSCI Limoges]: https://www.ensil-ensci.unilim.fr/
 [ENSISA Mulhouse]: https://www.ensisa.uha.fr/
 [EOST Strasbourg]: https://eost.unistra.fr/
-[Grenoble INP - Génie Industriel]: https://genie-industriel.grenoble-inp.fr/
 [Lorraine INP - ENSGSI]: https://ensgsi.univ-lorraine.fr/
 [Lorraine INP - ENSTIB]: https://enstib.univ-lorraine.fr/
 [École de l’Air et de l'Espace - Salon]: https://www.ecole-air-espace.fr/
@@ -494,72 +476,58 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 
 |                ENAC             |           École de l'Air et de l'Espace         |
 |:-------------------------------:|:-----------------------------------------------:|
-| 4・∅・4・5・∅ + 7 (entretient) | 8・8・8・∅・7 + 44 (entretien, anglais, sport) |
+| 4・∅・4・5・∅ + 7 (entretien) | 8・8・8・∅・7 + 44 (entretien, anglais, sport) |
 
 {{< /admonition >}}
 
 ## Concours E3A-Polytech
 
 > {{< center >}}
-[Site officiel](https://www.e3a-polytech.fr) - [Notice du concours](https://www.e3a-polytech.fr/wp-content/uploads/2022/12/Notice-2023-Banque-e3a-Polytech-VF-1.pdf) - [Liste des écoles](https://www.e3a-polytech.fr/ecoles)
+[Site officiel](https://www.e3a-polytech.fr) - [Notice du concours](https://www.e3a-polytech.fr/wp-content/uploads/2023/12/VF-Notice-2024-Banque-e3a-Polytech.pdf) - [Liste des écoles](https://www.e3a-polytech.fr/ecoles)
 {{< /center >}}
 
 ### Détail des places
 
 #### Concours POLYTECH
 
-| École | Spécialité | Nombre de places・160 |
+| École | Spécialité | Nombre de places・88 |
 |:-----:|:----------:|:----------------------:|
-| [Polytech Angers] | Systèmes Automatisés et Génie Informatique | 3 |
 | [Polytech Annecy-Chambéry] | Informatique Données Usages | 2 |
-| [Polytech Annecy-Chambéry] | Systèmes Numériques - Instrumentation | 2 |
-| [Polytech Clermont-Ferrand] | Génie Électrique | 3 |
-| [Polytech Clermont-Ferrand] | Ingénierie Mathématiques et Data Science | 5 |
-| [Polytech Grenoble] | Informatique | 4 |
-| [Polytech Grenoble] | Informatique et électronique des systèmes embarqués | 1 |
-| [Polytech Lille] | Informatique et statistique | 4 |
+| [Polytech Clermont] | Ingénierie Mathématiques et Data Science | 4 |
+| [Polytech Dijon] | Informatique et réseaux | 2 |
+| [Polytech Dijon] | Robotique | 2 |
+| [Polytech Grenoble] | Informatique | 2 |
+| [Polytech Grenoble] | Informatique et électronique des systèmes embarqués | 2 |
+| [Polytech Lille] | Informatique et statistique | 2 |
 | [Polytech Lille] | Systèmes embarqués | 3 |
 | [Polytech Lyon] | Génie Biomédical | 2 |
 | [Polytech Lyon] | Informatique | 3 |
-| [Polytech Lyon] | Mathématiques Appliquées et Modélisation | 3 |
-| [Polytech Marseille] | Génie Biomédical | 2 |
-| [Polytech Marseille] | Génie Industriel et Informatique | 3 |
+| [Polytech Lyon] | Mathématiques Appliquées et Modélisation | 2 |
+| [Polytech Marseille] | Génie Industriel et Informatique | 2 |
 | [Polytech Marseille] | Informatique | 3 |
 | [Polytech Marseille] | Microélectronique, Télécommunications | 2 |
 | [Polytech Montpellier] | Informatique et Gestion | 3 |
-| [Polytech Montpellier] | Mécanique et Interactions | 1 |
-| [Polytech Montpellier] | Microélectronique et Automatique | 2 |
-| [Polytech Nancy] | Énergie, Mécanique, Matériaux et Environnement | 2 |
-| [Polytech Nancy] | Informatique, Automatique, Robotique, Réseaux | 5 |
-| [Polytech Nantes] | Électronique et Technologies Numériques | 6 |
-| [Polytech Nantes] | Énergie électrique | 2 |
-| [Polytech Nantes] | Informatique | 7 |
-| [Polytech Nice Sophia] | Électronique | 2 |
-| [Polytech Nice Sophia] | Informatique | 6 |
-| [Polytech Nice Sophia] | Mathématiques Appliquées, Modélisation | 4 |
-| [Polytech Nice Sophia] | Systèmes Autonomes | 2 |
+| [Polytech Nancy] | Informatique, Automatique, Robotique, Réseaux | 2 |
+| [Polytech Nantes] | Électronique et Technologies Numériques | 1 |
+| [Polytech Nantes] | Informatique | 3 |
+| [Polytech Nice Sophia] | Informatique | 8 |
+| [Polytech Nice Sophia] | Mathématiques Appliquées, Modélisation | 3 |
 | [Polytech Orléans] | Génie Physique et Systèmes Embarqués | 3 |
-| [Polytech Paris-Saclay] | Électronique et Systèmes Robotisés | 2 |
 | [Polytech Paris-Saclay] | Informatique et Ingénierie Mathématique | 2 |
-| [Polytech Tours] | Électronique et Génié Électrique | 2 |
-| [Polytech Tours] | Informatique | 5 |
+| [Polytech Sorbone] | Électronique et Informatique | 2 |
+| [Polytech Tours] | Informatique | 3 |
 | [ENSIBS - Lorient] | Informatique et Cybersécurité | 6 |
-| [ENSIM - Le Mans] |   | 6 |
+| [ENSIM - Le Mans] |   | 3 |
 | [EPISEN - Créteil] | Système d'Information | 2 |
 | [EPISEN - Créteil] | Technologie pour la Santé | 3 |
-| [ESIR - Rennes] | Informatique | 4 |
-| [ESIREM - Dijon] | Informatique/Électronique | 2 |
-| [ESIREM - Dijon] | Robotique | 2 |
 | [ESIROI - La Réunion] |   | 2 |
 | [ESIX - Normandie - Caen] | Mécatronique et Systèmes Embarqués | 5 |
-| [ISAT - Nevers] | Département Infrastructures et Réseaux de Transports | 3 |
-| [ISEL - Le Havre] |   | 4 |
-| [ISTY - Vélizy] |   | 5 |
-| [SUP GALILÉE Villetaneuse] |   | 15 |
+| [ISEL - Le Havre] |   | 2 |
+| [ISTY - Vélizy] |   | 2 |
 
-[Polytech Angers]: http://www.polytech-angers.fr/fr/index.html
 [Polytech Annecy-Chambéry]: https://www.polytech.univ-smb.fr/
-[Polytech Clermont-Ferrand]: https://polytech-clermont.fr/
+[Polytech Clermont]: https://polytech-clermont.fr/
+[Polytech Dijon]: https://esirem.u-bourgogne.fr/historique
 [Polytech Grenoble]: https://www.polytech-grenoble.fr/
 [Polytech Lille]: https://www.polytech-lille.fr/
 [Polytech Lyon]: https://polytech.univ-lyon1.fr/
@@ -570,18 +538,15 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 [Polytech Nice Sophia]: https://www.polytechnice.fr/
 [Polytech Orléans]: https://www.univ-orleans.fr/
 [Polytech Paris-Saclay]: https://www.polytech.universite-paris-saclay.fr/
+[Polytech Sorbone]: https://www.polytech.sorbonne-universite.fr/
 [Polytech Tours]: https://www.polytech.univ-tours.fr/
 [ENSIBS - Lorient]: https://www-ensibs.univ-ubs.fr/fr/index.html
 [ENSIM - Le Mans]: https://ensim.univ-lemans.fr/fr/index.html
 [EPISEN - Créteil]: https://episen.u-pec.fr/
-[ESIR - Rennes]: https://esir.univ-rennes1.fr/
-[ESIREM - Dijon]: https://esirem.u-bourgogne.fr/
 [ESIROI - La Réunion]: https://esiroi.univ-reunion.fr/
 [ESIX - Normandie - Caen]: https://esix.unicaen.fr/
-[ISAT - Nevers]: https://www.isat.fr/
 [ISEL - Le Havre]: https://www.isel.fr/
 [ISTY - Vélizy]: https://www.isty.uvsq.fr/
-[SUP GALILÉE Villetaneuse]: https://www.sup-galilee.univ-paris13.fr/
 
 #### Concours Ingéni'Up
 
@@ -590,16 +555,12 @@ Une seule liste de candidats classés regroupe les quatre séries MP, MPI, PC et
 nombres de places sur la rubrique « Inter-filière » du scei. L’avancement des listes s’effectuera de façon groupée pour les quatre séries MP, MPI, PC et PSI.
 {{< /admonition >}}
 
-| École | Nombre de places・270 |
+| École | Nombre de places・202 |
 |:-----:|:----------------:|
-| [ECAM *La Salle*][ECAM La Salle] | 40 |
+| [ECAM *La Salle*][ECAM La Salle] | 20 |
 | [ECAM *Rennes*][ECAM Rennes] | 40 |
-| [ECAM-EPMI *Cergy-Pontoise*][ECAM-EPMI Cergy-Pontoise] | 57 |
-| [Icam *site de Grand Paris Sud*][Icam] | 12 |
-| [Icam *site de Lille*][Icam] | 8 |
-| [Icam *site de Nantes*][Icam] | 8 |
-| [Icam *site de Strasbourg-Europe*][Icam] | 30 |
-| [Icam *site de Toulouse*][Icam] | 8 |
+| [ECAM-EPMI *Cergy-Pontoise*][ECAM-EPMI Cergy-Pontoise] | 42 |
+| [Icam *site de Strasbourg-Europe*][Icam] | 33 |
 | [UniLaSalle *Amiens*][UniLaSalle] | 32 |
 | [UniLaSalle *Beauvais*][UniLaSalle] | 25 |
 | [UniLaSalle *Rennes*][UniLaSalle] | 5 |
@@ -618,24 +579,23 @@ Une seule liste de candidats classés regroupe les quatre séries MP, MPI, PC et
 nombres de places sur la rubrique « Inter-filière » du scei. L’avancement des listes s’effectuera de façon groupée pour les quatre séries MP, MPI, PC et PSI.
 {{< /admonition >}}
 
-| École | Nombre de places・483 |
+| École | Nombre de places・469 |
 |:-----:|:---------------------:|
-| [3il Ingénieurs Limoges][3il Ingénieurs] *- École d'Ingénieurs Informatique de Limoges* | 7 |
-| [EFREI Paris][EFREI] *- École d'Ingénieurs du Numérique* | 79 |
-| [ELISA Aerospace Bordeaux][ELISA Aerospace] *- École d'Ingénieurs des Sciences Aérospatiales* | 14 |
-| [ELISA Aerospace Hauts de France][ELISA Aerospace] *- École d'Ingénieurs des Sciences Aérospatiales* | 10 |
-| [ESAIP][ESAIP] *Angers-Aix-en-Provence* | 25 |
+| [3il Ingénieurs Limoges][3il Ingénieurs] *- École d'Ingénieurs Informatique de Limoges* | 6 |
+| [EFREI Paris][EFREI] *- École d'Ingénieurs du Numérique* | 73 |
+| [ELISA Aerospace Bordeaux][ELISA Aerospace] *- École d'Ingénieurs des Sciences Aérospatiales* | 10 |
+| [ELISA Aerospace Hauts de France][ELISA Aerospace] *- École d'Ingénieurs des Sciences Aérospatiales* | 7 |
+| [ESAIP][ESAIP] *Angers-Aix-en-Provence* | 22 |
 | [ESEO][ESEO] *Angers - Paris Vélizy - Dijon* | 15 |
-| [ESIEA Paris/Laval][ESIEA] *- École d’Ingénieurs en Sciences et Technologies du Numérique* | 15 |
+| [ESIEA Paris/Laval][ESIEA] *- École d’Ingénieurs en Sciences et Technologies du Numérique* | 16 |
 | [ESIEE][ESIEE] *Paris* | 110 |
+| [ESIEE][ESIEE] *Paris – filière data – statut étudiant (1 an) + statut apprenti (2 ans)* | 20 |
 | [ESTIA Bidart][ESTIA] *- École Supérieure des Technologies Industrielles Avancées* | 50 |
-| [JUNIA HEI][JUNIA] *Lille* | 75 |
-| [JUNIA ISEN][JUNIA] *Lille* | 16 |
-| [ISEN Yncréa Méditerranée][ISEN Yncréa Méditerranée] *Toulon* | 21 |
-| [ISEN Yncréa Ouest][ISEN Yncréa Ouest] *Brest* | 6 |
-| [ISEN Yncréa Ouest][ISEN Yncréa Ouest] *Caen* | 6 |
-| [ISEN Yncréa Ouest][ISEN Yncréa Ouest] *Nantes* | 6 |
-| [ISEP][ISEP] *Paris* | 28 |
+| [JUNIA HEI][JUNIA] *Lille* | 72 |
+| [JUNIA ISEN][JUNIA] *Lille* | 13 |
+| [ISEN Yncréa Méditerranée][ISEN Yncréa Méditerranée] *Toulon* | 16 |
+| [ISEN Yncréa Ouest][ISEN Yncréa Ouest] *Brest - Caen - Nantes* | 18 |
+| [ISEP][ISEP] *Paris* | 21 |
 
 [3il Ingénieurs]: https://www.3il-ingenieurs.fr/
 [EFREI]: https://www.efrei.fr/
@@ -652,14 +612,16 @@ nombres de places sur la rubrique « Inter-filière » du scei. L’avancement d
 
 #### Concours AVENIR PRÉPAS
 
-| École | Formation | Nombre de places・45 |
+| École | Formation | Nombre de places・30 |
 |:-----:|:---------:|:--------------------:|
-| [EIGSI][EIGSI] *- École d'ingénieurs généralistes* | EIGSI La Rochelle | 10 |
+| [EIGSI][EIGSI] *- École d'ingénieurs généralistes* | EIGSI La Rochelle | 5 |
 | [EIGSI][EIGSI] *- École d'ingénieurs généralistes* | EIGSI Casablanca | 1 |
-| [ESIGELEC][ESIGELEC] *- Rouen/Poitiers* | École d'ingénieurs généralistes ∘ Rouen : statut étudiant et statut apprenti ∘ Poitiers : statut apprenti | 15 |
-| [ESILV][ESILV] *- Paris La Défense* | École d'ingénieurs généralistes | 15 |
-| [BUILDERS][BUILDERS] *- École d'ingénieurs génie civil & construction durable* | BUILDERS Caen | 2 |
-| [BUILDERS][BUILDERS] *- École d'ingénieurs génie civil & construction durable* | BUILDERS Lyon | 2 |
+| [ESIGELEC][ESIGELEC] *- Rouen/Poitiers* | École d'ingénieurs généralistes ∘ Rouen : statut étudiant et statut apprenti ∘ Poitiers : statut apprenti | 10 |
+| [ESILV][ESILV] *- Nantes* | École d’ingénieurs généralistes
+et technologies numériques | 2 |
+| [ESILV][ESILV] *- Paris La Défense* | École d'ingénieurs généralistes | 10 |
+| [BUILDERS][BUILDERS] *- École d'ingénieurs génie civil & construction durable* | BUILDERS Caen | 1 |
+| [BUILDERS][BUILDERS] *- École d'ingénieurs génie civil & construction durable* | BUILDERS Lyon | 1 |
 
 [EIGSI]: https://www.eigsi.fr/
 [ESIGELEC]: https://www.esigelec.fr/
@@ -668,19 +630,21 @@ nombres de places sur la rubrique « Inter-filière » du scei. L’avancement d
 
 #### Écoles indépendantes
 
-| École | Formation | Nombre de places・69 |
+| École | Formation | Nombre de places・43+ |
 |:-----:|:---------:|:--------------------:|
-| [EIDD][EIDD] *Paris* | École d'ingénieur Denis Diderot | 5 |
-| [EIL][EIL] *Côte d'Opale* | Cycle ingénieur spécialité Informatique (Calais) | 6 |
-| [EIL][EIL] *Côte d'Opale* | Cycle ingénieur spécialité Génie Industriel (Saint-Omer) | 6 |
-| [EIL][EIL] *Côte d'Opale* | Cycle ingénieur spécialité Génie Énergétique et Environnement (Dunkerque) | 6 |
+| [EIA][EIA] *Béthune* | Génie électrique | 2 |
+| [EIDD][EIDD] *Paris* | École d'ingénieur Denis Diderot | 55 (commun avec MP, PC et PSI) |
+| [EIJV][EIJV] *Amiens – Saint Quentin* | Cybersécurité | 8 |
+| [EIJV][EIJV] *Amiens – Saint Quentin* | Logistique Innovante | 5 |
+| [EIL][EIL] *Côte d'Opale* | Cycle ingénieur spécialité Informatique (Calais) | 5 |
+| [EIL][EIL] *Côte d'Opale* | Cycle ingénieur spécialité Génie Industriel (Saint-Omer) | 5 |
+| [EIL][EIL] *Côte d'Opale* | Cycle ingénieur spécialité Génie Énergétique et Environnement (Dunkerque) | 5 |
 | [EIL][EIL] *Côte d'Opale* | Cycle ingénieur spécialité Agroalimentaire (Boulogne-Sur-Mer) | 3 |
-| [EIL][EIL] *Côte d'Opale* | Cycle ingénieur spécialité Cybersécurité | 6 |
-| [EIL][EIL] *Côte d'Opale* | Cycle ingénieur spécialité Logistique | 6 |
-| [EIL][EIL] *Côte d'Opale* | Cycle ingénieur spécialité Génie Électrique | 6 |
-| [IMT Nord Europe][IMT Nord Europe - Polyvia Formation] *en partenariat avec Polyvia Formation* | Ingénieur de spécialité en plasturgie et matériaux composites | 25 |
+| [IMT Nord Europe][IMT Nord Europe - Polyvia Formation] *en partenariat avec Polyvia Formation* | Ingénieur de spécialité en plasturgie et matériaux composites | 10 |
 
+[EIA]: https://www.univ-artois.fr/eia
 [EIDD]: https://u-paris.fr/eidd/
+[EIJV]: https://eijv.u-picardie.fr/
 [EIL]: https://www.eilco-ulco.fr/
 [IMT Nord Europe - Polyvia Formation]: https://imt-nord-europe.fr/annuaire-formations/plasturgie-et-materiaux-composites/
 
