@@ -27,7 +27,7 @@ Cette édition accueillera à la fois des étudiants en MP2I, MPI, 5/2 (élèves
 
 ## Organisation
 
-Le forum des étudiants et étudiantes en MP2I/MPI se tiendra **le samedi 24 février 2024** à l'horaire qui sera défini prochainement.
+Le forum des étudiants et étudiantes en MP2I/MPI se tiendra **le samedi 24 février 2024 de 14h à 18h**.
 
 Il s'organisera autour de différents stands composés de 2 ou 3 établissements géographiquement proches qui tourneront toutes les heures afin que vous puissiez obtenir des réponses et des témoignages d'étudiants venants de prépas différentes.
 
