@@ -45,7 +45,7 @@ Les résultats du Bac dans ces spécialités mais aussi les appréciations ont u
 
 > Pour comprendre le fonctionnement de Parcoursup à toutes les étapes, allez consulter [sa FAQ](https://www.parcoursup.fr/index.php?desc=questions).
 >
-> Pour explorer les données de Parcoursup (2022), ça se passe [ici](https://data.enseignementsup-recherche.gouv.fr/pages/parcoursupdata/?disjunctive.fili&sort=tri).
+> Pour explorer les données de Parcoursup (2023), ça se passe [ici](https://data.enseignementsup-recherche.gouv.fr/pages/parcoursupdata/?disjunctive.fili&sort=tri).
 
 ### La MP2I sur Parcoursup
 
