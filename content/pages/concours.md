@@ -16,7 +16,7 @@ Les informations sur les concours pour la filière MPI ont été regroupées à 
 > Retrouvez les sujets des années précédentes sur [cette page](https://prepas-mp2i.fr/posts/sujets-des-concours-mpi).
 
 {{< admonition warning "Attention !" true >}}
-Le détail des épreuve ainsi que les nombres de places aux ENS correspondent à la **session 2023**.
+Le détail des épreuves ainsi que les nombres de places aux ENS correspondent à la **session 2023**.
 
 Les informations présentes sur cette page ne sont pas exhaustives ; elles permettent seulement un aperçu rapide, et ne sont pas nécessairement à jour. Référez-vous systématiquement aux notices de l'année en cours pour garantir la fiabilité et la précision de vos informations.
 {{< /admonition >}}
