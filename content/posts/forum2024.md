@@ -13,7 +13,8 @@ categories:
 ---
 
 {{< admonition info "Forum terminé" >}}
-Le forum 2024 est terminé ! Vous pouvez télécharger [le diaporama](/documents/diaporama_forum_2024.pdf) utilisé comme support en PDF.
+Le forum 2024 est terminé ! Cette année, plus de 200 lycéens ou parents d'élèves ont été informés. {{< newline >}}
+Vous pouvez télécharger [le diaporama](/documents/diaporama_forum_2024.pdf) utilisé comme support en PDF.
 {{< /admonition >}}
 
 {{< figure
@@ -28,6 +29,27 @@ Après une [édition 2023](/posts/forum-2023/) réussie, nous organisons à nouv
 En bref, il s'agit d'une journée portes ouvertes virtuelle via des visioconférences, où vous pourrez échanger avec des étudiants en MP2I et MPI de différents établissements. C'est ce qui rend ce forum virtuel unique en son genre !
 
 Cette édition accueillera à la fois des étudiants en MP2I, MPI, 5/2 (élèves ayant redoublé leur deuxième année pour repasser les concours) et école d'ingénieur provenant de MPI. Des professeurs interviendront éventuellement sur différents stands.
+
+### Retour en image
+
+{{< newline >}}
+{{< image
+    src="/images/stand2_forum_2024.png"
+    width="49%"
+>}}
+{{< image
+    src="/images/stand3_forum_2024.png"
+    width="49%"
+>}}
+{{< center >}}
+Emma et Nathan (Stand 2) et Clément, Corentin, Paul et Timothé (Stand 3)
+{{< /center >}}
+
+{{< figure
+    src="/images/stand5_forum_2024.png"
+    width="100%"
+    title="Olivier, Solène, Victor et Pierre sur le stand 5 du forum 2023"
+>}}
 
 ## Organisation
 
