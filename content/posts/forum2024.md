@@ -12,6 +12,10 @@ categories:
     - Évènements
 ---
 
+{{< admonition info "Forum terminé" >}}
+Le forum 2024 est terminé ! Vous pouvez télécharger [le diaporama](/documents/diaporama_forum_2024.pdf) utilisé comme support en PDF.
+{{< /admonition >}}
+
 {{< figure
     caption="Réalisée par Tristan (Fermat)"
     src="/images/affiche_forum_2024.jpg"
