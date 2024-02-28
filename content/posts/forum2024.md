@@ -14,7 +14,8 @@ categories:
 
 {{< admonition info "Forum terminé" >}}
 Le forum 2024 est terminé ! Cette année, plus de 200 lycéens ou parents d'élèves ont été informés. {{< newline >}}
-Vous pouvez télécharger [le diaporama](/documents/diaporama_forum_2024.pdf) utilisé comme support en PDF.
+Vous pouvez télécharger [le diaporama](/documents/diaporama_forum_2024.pdf) utilisé comme support en PDF. {{< newline >}}
+Vous pouvez aussi acceder au [compte rendu](https://docs.google.com/document/d/1sIXTFi1K0iQ9RcFgbOSIiSMHrXZmme1FRn_3LI3aCWw/edit?usp=sharing) qui reprend les questions et les réponses posées pendant le forum.
 {{< /admonition >}}
 
 {{< figure
