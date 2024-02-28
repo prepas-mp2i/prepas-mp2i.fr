@@ -41,7 +41,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Faidherbe | Lille | [mp2ifaidherbe.contact@gmail.com](mailto:mp2ifaidherbe.contact@gmail.com)
 | Fénelon Sainte-Marie | Paris 08 | [gaucheron.laurent@protonmail.com](mailto:gaucheron.laurent@protonmail.com)
 | Franklin Roosevelt | Reims | [quentin.constant@protonmail.com](mailto:quentin.constant@protonmail.com)
-| Gay-Lussac | Limoges | [contact@mp2igaylussac.fr](mailto:contact@mp2igaylussac.fr)
+| Gay-Lussac | Limoges | [contactmpigaylussac@gmail.com](mailto:contactmpigaylussac@gmail.com)
 | Henri Wallon | Valenciennes | [indisponible](mailto:)
 | Hoche | Versailles | [falafel.evrard@protonmail.com](mailto:falafel.evrard@protonmail.com)
 | Centre International de Valbonne | Valbonne | [jeremy.serievic.pro@gmail.com](mailto:jeremy.serievic.pro@gmail.com)
