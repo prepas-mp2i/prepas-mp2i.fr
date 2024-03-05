@@ -96,12 +96,12 @@ Voici les chiffres cumulés pour l'année 2021 :
 ## Les prépas MP2I en France
 
 {{< iframe
-    src="https://www.google.com/maps/d/embed?mid=1cr1d3lHYMqQFVDYJbwgtv6cxHTwCofw&ehbc=2E312F"
+    src="<https://www.google.com/maps/d/embed?mid=1pXdHQGWgtS2nt0b3GKk6wXcVqO6RuIY&ehbc=2E312F>"
     height=500px
 >}}
 
 ### Légende
 
-- *Rouge* : Lycées publics possédant une MP2I
+- *Vert* : Lycées publics possédant une MP2I
 - *Orange* : Lycées privés possédant une MP2I
-- *Vert* : Lycées ouvrant une MP2I à la rentrée 2023
+- *Bleu* : Lycées ouvrant une MP2I à la rentrée 2024
