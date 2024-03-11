@@ -45,7 +45,6 @@ La curiosité, la capacité d'émerveillement est une grande motivation à l'ent
 [AOPS]: https://artofproblemsolving.com/alcumus/problem
 [France-IOI]: http://www.france-ioi.org/
 [Le projet Euler]: https://projecteuler.net/
-[Fiches de révision numériques]: https://fiches.nathanfallet.me/
 
 **S'exercer**.
 Il est essentiel de mettre en pratique ce qu'on a appris, par des exercices ou des projets personnels. Les projets personnels sont une excellente manière de concrétiser vos connaissances.
@@ -80,9 +79,13 @@ Pour vous aider dans vos études, le site [prepashelter.com](https://prepashelte
 
 Un [serveur Discord](https://discord.gg/TGQSrnCxK2) est mis à disposition pour vous aider.
 
+{{< admonition warning "Site obsolète" true>}}
+Le site n'est plus mis à jour depuis Août 2022 et n'est plus actif. Vous ne pourrez donc plus trouver de cours particuliers ni les dernières annales.
+{{< /admonition >}}
+
 ### Outils de révision
 
-* [Fiches de révision numériques] : Fiches de révision [LaTeX Cards](https://latexcards.app/) niveau MP/MP* (le programme en mathématiques est le même que celui de MPI, et celui de physique contient quelques suppléments par rapport à la MPI)
+* Fiches de révision numériques (temporairement indisponible): Fiches de révision [LaTeX Cards](https://latexcards.app/) niveau MP/MP* (le programme en mathématiques est le même que celui de MPI, et celui de physique contient quelques suppléments par rapport à la MPI)
 
 ## Concourir
 
