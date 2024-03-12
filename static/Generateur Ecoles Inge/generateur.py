@@ -2,8 +2,8 @@ import json
 import csv
 
 def format_ecole(ecoles_conf, ecole):
-    markdown = f"\n## {ecole}"
-    
+    markdown = f"\n\n## {ecole}"
+
     if not ecole in ecoles_conf.keys():
         # print(f"Ecole {ecole} n'a pas d'informations renseignées dans ecoels.json")
         print('\t"', ecole, '":{},', sep="") # On affiche les lignes à rajouter dans ecoles.json si l'école n'est pas présente
@@ -11,12 +11,12 @@ def format_ecole(ecoles_conf, ecole):
     else:
         ecole_conf = ecoles_conf[ecole]
 
-    if "ville" in ecole_conf.keys():
+    if "Ville" in ecole_conf.keys():
         markdown += f" ({ecole_conf['Ville']})"
 
-    if "places" in ecole_conf.keys():
+    if "Places" in ecole_conf.keys():
         markdown += f" - ({ecole_conf['Places']}) places"
-    markdown += "\n"
+    markdown += "\n\n"
 
     return markdown
 
@@ -60,18 +60,17 @@ def main():
             par_ecoles[ecole] = []
         par_ecoles[ecole].append(temoignage)
 
-
     for ecole in sorted(list(par_ecoles.keys())):
         markdown += format_ecole(ecoles_conf, ecole)
-        
+
         eleves = par_ecoles[ecole]
 
-        markdown += '{{< admonition tip "Points positifs" false >}}'
+        markdown += '{{< admonition tip "Points positifs" false >}}\n'
         for eleve in eleves:
             markdown += format_temoignage("Positif", eleve)
         markdown += '{{< /admonition>}}'
 
-        markdown += '{{< admonition warning "Points négatifs" false >}}'
+        markdown += '{{< admonition warning "Points négatifs" false >}}\n'
         for eleve in eleves:
             markdown += format_temoignage("Negatif", eleve)
         markdown += '{{< /admonition>}}'
