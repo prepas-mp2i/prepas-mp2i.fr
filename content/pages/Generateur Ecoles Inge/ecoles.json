@@ -1,0 +1,13 @@
+{
+	"Centrale Nantes":{},
+	"CentraleSupélec":{"Ville":"Paris"},
+	"ENS Lyon":{},
+	"ENS Paris":{},
+	"ENSIIE":{"Ville":"Evry"},
+	"ISAE-Supaero":{"Ville":"Paris"},
+	"Isima":{"Ville":"Clermont-Ferrand"},
+	"Télécom Nancy":{},
+	"Télécom Paris":{},
+	"Télécom Physique Strasbourg":{},
+	"Télécom SudParis":{}
+}
