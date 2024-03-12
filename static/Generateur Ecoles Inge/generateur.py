@@ -79,7 +79,7 @@ def main():
     with open('footer.md', 'r') as fichier:
         markdown += fichier.read()
 
-    with open("../scei.md", "w+") as fichier:
+    with open("../../content/pages/scei.md", "w+") as fichier:
         fichier.write(markdown)
 
 if __name__ == "__main__":
