@@ -15,7 +15,7 @@ def format_ecole(ecoles_conf, ecole):
         markdown += f" ({ecole_conf['Ville']})"
 
     if "Places" in ecole_conf.keys():
-        markdown += f" - ({ecole_conf['Places']}) places"
+        markdown += f" - {ecole_conf['Places']} places"
     markdown += "\n\n"
 
     return markdown
