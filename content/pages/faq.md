@@ -202,7 +202,7 @@ Les critères à privilégier pour choisir une MP2I résident dans le cadre de v
 Ainsi, les critères essentiels concernent l'emplacement, le logement, l'accès à un internat (ou un système d'interne-externé), le fait d'être éloigné de ses proches.
 Il faut simplement faire en sorte de réunir les conditions de travail qui vous seront optimales afin de pouvoir vivre sainement et progresser le plus.
 
-{{< right >}} *Nathan, MPI lycée Sant-Louis, Paris VIe. (2022)* {{< /right >}}
+{{< right >}} *Nathan, MPI lycée Saint-Louis, Paris VIe. (2022)* {{< /right >}}
 {{< /admonition >}}
 
 {{< admonition quote "Pourquoi es-tu allé.e en prépa MP2I ?" false >}}

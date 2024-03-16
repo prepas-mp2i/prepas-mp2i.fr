@@ -14,7 +14,7 @@ menu:
 Vous êtes en Seconde ou en Première générale, la classe préparatoire de MP2I vous intéresse mais vous ne savez pas quelles spécialités suivre ? Même si ce choix doit rester motivé par le goût, il est important pour votre poursuite d'études.
 Vous êtes en Terminale, l'étape décisive et stressante de passage en études supérieures s'approche. Parcoursup oblige !
 
-La bonne nouvelle, c'est qu'on est aussi passé par là ! Spécialités privilégiées, dilemnes de vœux ... on vous dit ce qu'il en est réellement.
+La bonne nouvelle, c'est qu'on est aussi passé par là ! Spécialités privilégiées, dilemmes de vœux ... on vous dit ce qu'il en est réellement.
 
 ## Les spécialités à privilégier
 
@@ -52,7 +52,7 @@ Les résultats du Bac dans ces spécialités mais aussi les appréciations ont u
 Depuis décembre, vous avez accès au catalogue des formations disponibles avec leurs critères de sélection, en quoi elles consistent et leur sélectivité.
 Fin janvier, vous allez commencer à faire vos vœux, c'est le moment de se renseigner et d'aller aux portes ouvertes, en ligne ou en présentiel, rien de mieux que d'échanger avec les élèves pour se faire une idée de la formation. N'hésitez pas à nous rejoindre sur le [serveur discord des prépas MP2I/MPI](https://discord.com/invite/9p49Z5ZNtH) pour poser vos questions ! Nous organisons également des [forums](https://prepas-mp2i.fr/forum/) pendant lesquels des étudiants volontaires du serveur vous présentent la filière et répondent à vos interrogations.
 
-Il y a **30 MP2I** sur Parcoursup, répertoriées plus bas ; cela va de prépas très sélectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I, si c'est la formation que vous désirez absolument (vous n'irez pas tous et toutes à Louis le Grand, soyons réalistes, mais il faut garder de l'ambition).
+Il y a **38 MP2I** sur Parcoursup, répertoriées plus bas ; cela va de prépas très sélectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I, si c'est la formation que vous désirez absolument (vous n'irez pas tous et toutes à Louis le Grand, soyons réalistes, mais il faut garder de l'ambition).
 Si vous faites des choix de formations sélectives - et les classes préparatoires en font partie - il est très fortement recommandé de demander une licence en parallèle pour éviter de finir sans aucune formation.
 
 {{< admonition info "Ambition" true >}}
@@ -83,13 +83,13 @@ Remarquons aussi que les classements des premières années de la filière MPI s
 
 #### Une classe adaptée à son niveau
 
-Il ne faut pas oublier que dans toutes les prépas, les élèves sont d'un niveau hétérogène. Actuellement, de nombreuseux lycées fonctionnent avec des **classes MPI/MPI\*** : les cours sont les mêmes pour tous, mais les Travaux Dirigés peuvent se faire en demi-groupe *étoile* ou *non-étoile*, les Devoirs Maisons et les Devoirs Surveillés sont différenciés (parfois au choix des élèves). Cela signifie que des élèves d'un niveau certes différent du niveau moyen de la prépa peuvent néanmoins réussir à leur niveau et s'épanouir.
+Il ne faut pas oublier que dans toutes les prépas, les élèves sont d'un niveau hétérogène. Actuellement, de nombreux lycées fonctionnent avec des **classes MPI/MPI\*** : les cours sont les mêmes pour tous, mais les Travaux Dirigés peuvent se faire en demi-groupe *étoile* ou *non-étoile*, les Devoirs Maisons et les Devoirs Surveillés sont différenciés (parfois au choix des élèves). Cela signifie que des élèves d'un niveau certes différent du niveau moyen de la prépa peuvent néanmoins réussir à leur niveau et s'épanouir.
 
 Cependant, le niveau d'une prépa reste un critère important : les élèves se sentent mieux dans des classes qui correspondent à leur niveau, car cela facilite l'entraide et/ou l'émulation. L'effet du niveau de la classe sur la motivation varie d'un élève à l'autre : certains préféreront être dans une classe d'un niveau légèrement plus élevé pour les inciter à travailler plus, tandis que d'autres perçoivent comme plus encourageant de se situer au-dessus de la moyenne de classe.
 
 #### Conclusion
 
-Le premier critère de choix d'une prépa est le cadre de vie, car vous allez devoir vous en accomoder pendant 2 ans (si ce n'est 3). Le niveau d'une prépa est moins important, mais n'est pas un critère à reléguer au second plan, car la formation doit être adaptée à vos capacités.
+Le premier critère de choix d'une prépa est le cadre de vie, car vous allez devoir vous en accommoder pendant 2 ans (si ce n'est 3). Le niveau d'une prépa est moins important, mais n'est pas un critère à reléguer au second plan, car la formation doit être adaptée à vos capacités.
 
 ### Lettres de motivation
 
@@ -121,46 +121,49 @@ Voici la liste des établissements proposant la MP2I, classés par taux d'access
 
 | Type    | Lycée | Ville | Nombre de demandes | Rang du dernier admis | Internat |
 |:-------:|:-----:|:-----:|:-------------------:|:----------------------:|:------:|
-| Public | Louis Le Grand | Paris 05 | 2444 | 169 | Oui |
-| Public | Hoche | Versailles | 1811 | 223 | Oui |
-| Public | Saint-Louis | Paris 06 | 2633 | 190 | Oui |
-| Privé | Aux Lazaristes | Lyon 05 | 1258 | 156 | Oui |
-| Public | Général Clemenceau | Nantes | 1384 | 201 | Oui |
-| Public | Janson de Sailly | Paris 16 | 2648 | 566 | Oui |
-| Public | Pierre De Fermat | Toulouse | 2056 | 184 | Oui |
-| Public | Le Parc | Lyon 06 | 2518 | 244 | Oui |
-| Public | Montaigne | Bordeaux | 1804 | 320 | Oui |
-| Public | Champollion | Grenoble | 1516 | 337 | Oui |
-| Public | Kléber | Strasbourg | 1117 | 284 | Oui |
-| Public | Descartes | Tours | 1296 | 227 | Oui |
-| Public | Faidherbe | Lille | 1213 | 220 | Oui |
-| Public | Thiers | Marseille 01 | 1189 | 354 | Oui |
-| Privé | Fénelon Sainte-Marie | Paris 08 | 1254 | 464 | Non |
-| Public | Louis Thuillier | Amiens | 825 | 532 | Oui |
-| Public | Henri Wallon | Valenciennes | 744 | 272 | Oui |
-| Public | Gay-Lussac | Limoges | 711 | 152 | Oui |
-| Public | Centre International de Valbonne | Valbonne | 1080 | 252 | Oui |
-| Public | Carnot | Dijon | 1373 | 534 | Oui |
-| Public | Paul Valéry | Paris 12 | 2483 | 691 | Oui |
-| Public | Claude Fauriel | Saint-Etienne | 1312 | 604 | Oui |
-| Public | Victor Hugo | Besançon | 928 | 430 | Oui |
-| Public | Colbert | Tourcoing | 767 | 240 | Oui |
-| Public | Franklin Roosevelt | Reims | 1153 | 508 | Oui |
-| Public | Charles Coëffin | Baie-Mahault | 230 | 108 | Oui |
-| Public | Alain René Lesage | Vannes | 651 | 443 | Oui |
-| Public | Camille Guérin | Poitiers | 799 | 514 | Oui |
-| Public | Henri Poincaré | Nancy | 815 | 250 | Oui |
-| Public | Leconte de Lisle | Saint-Denis 974 | 160 | 115 | Oui |
+| Public | Louis Le Grand | Paris 05 | 3005 | 117 | Oui |
+| Public | Saint-Louis | Paris 06 | 2627 | 339 | Oui |
+| Public | Le Parc | Lyon 06 | 2439 | 295 | Oui |
+| Public | Hoche | Versailles | 2254 | 261 | Oui |
+| Public | Janson de Sailly | Paris 16 | 3113 | 493 | Oui |
+| Public | Général Clemenceau | Nantes | 1464 | 239 | Oui |
+| Public | Pierre De Fermat | Toulouse | 2106 | 322 | Oui |
+| Public | Montaigne | Bordeaux | 2056 | 381 | Oui |
+| Privé | Aux Lazaristes | Lyon 05 | 1324 | 247 | Oui |
+| Public | Kléber | Strasbourg | 1298 | 232 | Oui |
+| Public | Descartes | Tours | 1462 | 335 | Oui |
+| Public | La Martinière Monplaisir | Lyon 08 | 2061 | 521 | Oui |
+| Public | Faidherbe | Lille | 1390 | 469 | Oui |
+| Privé | Fénelon Sainte-Marie | Paris 08 | 1431 | 506 | Non |
+| Public | Gay-Lussac | Limoges | 690 | 214 | Oui |
+| Public | Champollion | Grenoble | 1612 | 659 | Oui |
+| Public | Paul Valéry | Paris 12 | 2358 | 944 | Oui |
+| Public | Thiers | Marseille 01 | 1403 | 406 | Oui |
+| Public | La Fayette | Clermont-Ferrand | 562 | 149 | Oui |
+| Public | Pierre Corneille | Rouen | 884 | 284 | Oui |
+| Public | Alain René Lesage | Vannes | 1454 | 385 | Oui |
+| Public | Henri Poincaré | Nancy | 1176 | 503 | Oui |
+| Public | Henri Wallon | Valenciennes | 731 | 218 | Oui |
+| Public | Berthollet | Annecy | 631 | 364 | Oui |
+| Public | Centre International de Valbonne | Valbonne | 819 | 337 | Oui |
+| Public | Joffre | Montpellier | 1489 | 585 | Oui |
+| Public | Carnot | Dijon | 1339 | 585 | Oui |
+| Public | Claude Fauriel | Saint-Etienne | 1339 | 506 | Oui |
+| Public | Colbert | Tourcoing | 1139 | 668 | Oui |
+| Public | Leconte de Lisle | Saint-Denis 974 | 225 | 130 | Oui |
+| Public | Victor Hugo | Besançon | 907 | 457 | Oui |
+| Public | Camille Guérin | Poitiers | 1431 | 641 | Oui |
+| Public | Franklin Roosevelt | Reims | 1031 | 623 | Oui |
+| Public | Louis Thuillier | Amiens | 1283 | 633 | Oui |
+| Public | Charles Coëffin | Baie-Mahault | 140 | 106 | Oui |
+| Privé | Frédéric Ozanam | Lille | 133 | 111 | Non |
+| Public | Guy Mollet | Arras | 293 | 218 | Oui |
+| Public | Alfred Kastler | Denain | 165 | 153 | Oui |
 
-À la rentrée 2023, 8 lycées ouvrent une classe MP2I en remplacement d'une MPSI :
+À la rentrée 2024, 2 lycées ouvrent une classe MP2I en remplacement d'une MPSI :
 
 | Type    | Lycée | Ville | Internat |
 |:-------:|:-----:|:-----:|:--------:|
-| Public | Alfred Kastler | Denain | Oui |
-| Public | La Martinière Monplaisir | Lyon 08 | Oui |
-| Public | La Fayette | Clermont-Ferrand | Oui |
-| Public | Berthollet | Annecy | Oui |
-| Privé | Frédéric Ozanam | Lille | Non |
-| Public | Pierre Corneille | Rouen | Oui |
-| Public | Joffre | Montpellier | Oui |
-| Public | Guy Mollet | Arras | Oui |
+
+| Privé | Jean XXIII | Montigny-lès-Metz | Non |
+| Public | Claude Bernard | Paris 16 | Oui |

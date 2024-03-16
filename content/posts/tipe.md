@@ -4,7 +4,7 @@ subtitle: À quoi peut ressembler un TIPE dans notre filière ?
 slug: tipe
 date: 2023-07-18T00:15:00+01:00
 author: Nozaé
-summary: Qu'est-ce que le Travail d'Initiative Personelle Encadré ? Comment préparer cette épreuve commune à de nombreux concours ? On vous éclaire la lanterne dans ce post dédié ! N'hésitez pas à consulter les exemples en bas de page.
+summary: Qu'est-ce que le Travail d'Initiative Personnelle Encadré ? Comment préparer cette épreuve commune à de nombreux concours ? On vous éclaire la lanterne dans ce post dédié ! N'hésitez pas à consulter les exemples en bas de page.
 categories:
     - Concours
 ---
@@ -35,13 +35,13 @@ Le TIPE (ou **Travail d'Initiative Personnelle Encadré**) est un travail à eff
 Le TIPE Tétraconcours se décompose en 4 documents principaux :
 
 - La **Mise en Cohérence des Objectifs du TIPE (MCOT)**, qui sera à remplir directement sur le site SCEI. Elle comprend 5 parties :
-  1. Positionnements thématiques et mots-clés (français et anglais) rangés par ordre décroissant de prioriré. En MPI, vos positionnements  thématiques peuvent se trouver en Mathématiques, Informatique ou Physique.
+  1. Positionnements thématiques et mots-clés (français et anglais) rangés par ordre décroissant de priorité. En MPI, vos positionnements  thématiques peuvent se trouver en Mathématiques, Informatique ou Physique.
   2. Bibliographie commentée (au maximum 650 mots)
   3. Problématique retenue (au maximum 50 mots)
   4. Objectifs du TIPE (au maximum 100 mots)
   5. Liste de références bibliographiques (2 à 10 références)
 - Le **Déroulé Opérationnel du TIPE (DOT)**, qui sera également à remplir sur le site SCEI. Il s'agit de 4 à 8 jalons qui marquent les grandes étapes de votre TIPE. N'hésitez pas à  indiquer les fausses pistes, les changements de sujets, mais aussi et surtout les étapes majeures de votre avancée.
-- La **Présentation**, à téléverser au format PDF (note : les diapositives doivent être au format 4:3). Il s'agit bien etendu de votre document principal puisque ce sera votre support pour l'épreuve orale. Son élaboration doit se faire en parallèle de l'avancement de votre TIPE, et doit être le reflet de votre travail, tout en restant syntéthique et visuel.
+- La **Présentation**, à téléverser au format PDF (note : les diapositives doivent être au format 4:3). Il s'agit bien étendu de votre document principal puisque ce sera votre support pour l'épreuve orale. Son élaboration doit se faire en parallèle de l'avancement de votre TIPE, et doit être le reflet de votre travail, tout en restant synthétique et visuel.
 - Les **Annexes** à apporter en mains propres au jury : bien qu'elles soient apparentes sur les diapositives qui suivent la présentation, elles doivent également être remises au format papier (double exemplaire donc) à votre arrivée dans la salle. Elles peuvent contenir votre code, ou des informations complémentaires à votre présentation que vous n'évoquez pas à l'oral.
 
 ### Le calendrier
@@ -68,7 +68,7 @@ Le TIPE se compose de plusieurs grandes phases officielles (dates variant selon 
 
 L'épreuve orale de TIPE se déroule à la même période que vos autres oraux. Elle se déroule en deux parties, avec un jurys composé de 2 membres :
 
-Tout d'abord, **15 min de présentation**. C'est le moment de faire l'exposé de votre travail, un monologue que vous vous êtes déjà exercé à formuler auparavant. Vous aurez à votre disposition de quoi naviguer entre vos diapositives (usuellement les flèches directionnelles du clavier) qui seront déjà projettées au tableau à votre arrivée. Vous pouvez éventuellement apporter un pointeur laser si besoin.
+Tout d'abord, **15 min de présentation**. C'est le moment de faire l'exposé de votre travail, un monologue que vous vous êtes déjà exercé à formuler auparavant. Vous aurez à votre disposition de quoi naviguer entre vos diapositives (usuellement les flèches directionnelles du clavier) qui seront déjà projetées au tableau à votre arrivée. Vous pouvez éventuellement apporter un pointeur laser si besoin.
 
 Puis un **entretien de 15 min** avec les examinateurs, pendant lequel vous devrez répondre à leurs questions sur votre travail. Faites attention, vous devez être informé en profondeur de chaque notion que vous introduisez ou utilisez. Ils peuvent également vous demander de réafficher une diapositive en particulier, d'où la nécessité de la numérotation !
 
@@ -113,7 +113,7 @@ Quelques conseils supplémentaires pour votre présentation :
 - Indiquer clairement votre nom, votre numéro de candidat scei et le thème de l'année sur la première diapositive.
 - Numérotez vos diapositives.
 - Ne surchargez pas visuellement. Les membres du jury doivent pouvoir vous écouter attentivement en même temps qu'ils observent la diapositive. N'hésitez surtout pas à faire plusieurs diapositives pour un même point d'étude.
-- Si vous avez réalisé des expériences vous-mêmes, prenez-en des photographies ; le bonus, c'est que vous apparaissiez de mannière explicite sur au moins l'une d'elle, pour montrer qu'il s'agit bien de votre expérience.
+- Si vous avez réalisé des expériences vous-mêmes, prenez-en des photographies ; le bonus, c'est que vous apparaissiez de manière explicite sur au moins l'une d'elle, pour montrer qu'il s'agit bien de votre expérience.
 
 ## Exemples
 

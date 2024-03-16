@@ -56,7 +56,7 @@ Un premier critère pour savoir si cette filière est faite pour vous est donc :
 | **Structures de données** | Types et abstraction | 1 |
 | 〃 | Structures de données séquentielles | 1 & 2 |
 | 〃 | Structures de données hiérarchiques | 2 |
-| 〃 | Strctures de données relationnelles | 2 |
+| 〃 | Structures de données relationnelles | 2 |
 | **Algorithmique** | Exploration exhaustive | 2 |
 | 〃 | Décomposition d'un problème en sous-problèmes | 2 |
 | 〃 | Algorithmique des textes | 2 |
@@ -139,7 +139,7 @@ let rec fibo n =
 
 {{< newline >}}
 
-Cependant, le [pattern matching](https://ocaml.org/learn/tutorials/a_first_hour_with_ocaml.html#Pattern-matching) permet d'obtenir une écriture plus élégante pour ce genre de codes ; il est également poossible de préciser le type des paramètres utilisés ainsi que celui de l'expression renvoyée.
+Cependant, le [pattern matching](https://ocaml.org/learn/tutorials/a_first_hour_with_ocaml.html#Pattern-matching) permet d'obtenir une écriture plus élégante pour ce genre de codes ; il est également possible de préciser le type des paramètres utilisés ainsi que celui de l'expression renvoyée.
 
 (*Il existe quelque chose de ressemblant en python, mais ça n'est que du sucre syntaxique*)
 
@@ -164,7 +164,7 @@ Vous verrez, quand vous aurez pratiqué ce langage, vous trouverez que son écri
 
 Cependant, comme vous le verrez en cours, les algorithmes précédents sont peu efficaces, car ils calculent de nombreuses fois les mêmes termes (donc ils deviennent très vite lents lorsque la taille de l'entrée augmente) et peuvent finir par faire "exploser la pile d'appel".
 
-Afin de réduire la quantité de mémoire utilisée par le programme, il est possible d'appiquer le principe de [récursivité terminale](https://pcaboche.developpez.com/article/programmation-fonctionnelle/recursivite-terminale/), comme le fait l'exemple ci-dessous :
+Afin de réduire la quantité de mémoire utilisée par le programme, il est possible d’appliquer le principe de [récursivité terminale](https://pcaboche.developpez.com/article/programmation-fonctionnelle/recursivite-terminale/), comme le fait l'exemple ci-dessous :
 
 ```ocaml
 let fibo (n:int) : int =

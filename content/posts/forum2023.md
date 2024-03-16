@@ -34,7 +34,7 @@ Des professeurs interviendront éventuellement sur différents stands.
     src="/images/salle5_forum_2023.png"
     width="100%"
     title="Stand 5 du forum 2023"
-    caption="Antonin, Hugo, Oscar et Margaux répondents aux questions posées par les lycéens"
+    caption="Antonin, Hugo, Oscar et Margaux répondent aux questions posées par les lycéens"
 >}}
 
 ## Organisation

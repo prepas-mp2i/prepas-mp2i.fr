@@ -15,7 +15,7 @@ Avant toute chose, sachez que ce post a uniquement pour but de vous informer sur
 
 ## Le choix des spécialités au lycée
 
-Bien entendu, vous ne serez jamais forcé.e d'aller dans l'une ou l'autre des filières selon votre parcours au lycée, car elles restent suffisamment similaires ; cependant, certains choix peuvent créer une différence entre vos admisssions en MP2I et MPSI. Bien entendu, un très bon élève n'aura aucun mal à accéder aux deux filières, quand bien même ses spécialités seraient plus orientées vers la MP2I ou la MPSI.
+Bien entendu, vous ne serez jamais forcé.e d'aller dans l'une ou l'autre des filières selon votre parcours au lycée, car elles restent suffisamment similaires ; cependant, certains choix peuvent créer une différence entre vos admissions en MP2I et MPSI. Bien entendu, un très bon élève n'aura aucun mal à accéder aux deux filières, quand bien même ses spécialités seraient plus orientées vers la MP2I ou la MPSI.
 
 {{< admonition quote "Raphaël, futur étudiant en MP2I à Fermat (2023)" true >}}
 Une fois en Terminale, les spécialités peuvent "forcer" une voie plus qu'une autre (bien sûr il y a toujours des exceptions, mais si on a pas un choix "optimal" on peut perdre pas mal de places).
@@ -66,7 +66,7 @@ Concernant les Mathématiques, le programme est strictement identique ; celui de
 Selon votre filière en première année, vous ne pourrez pas accéder aux mêmes cursus de seconde année : c'est un paramètre important à prendre en compte dans votre décision, car selon votre choix vous ne passerez pas les mêmes épreuves aux concours (plus de détails [ici](https://prepas-mp2i.fr/concours/) pour les concours en MPI) et n'aurez pas forcément accès aux mêmes grandes écoles ou filières au sein de celles-ci.
 
 {{< admonition warning "Fausse bonne idée" true >}}
-Avant que vous ne commenciez à faire quelques plans farfelus : si vous souhaitez poursuivre en MP en seconde année (et encore plus en PSI), ne jouez pas la carte du MP2I "réorienté" comme par magie ! Vous avez tout à y perdre puisque vous n'aurez pas suivi la même année que les élèves prédéstinés à ces filières, bien que le second semestre soit là pour vous remettre à niveau. La possibilité de se réorienter est là pour permettre aux élèves de MP2I qui ne se sentent finalement pas à l'aise avec l'informatique de ne pas se retrouver dans une impasse scolaire.
+Avant que vous ne commenciez à faire quelques plans farfelus : si vous souhaitez poursuivre en MP en seconde année (et encore plus en PSI), ne jouez pas la carte du MP2I "réorienté" comme par magie ! Vous avez tout à y perdre puisque vous n'aurez pas suivi la même année que les élèves prédestinés à ces filières, bien que le second semestre soit là pour vous remettre à niveau. La possibilité de se réorienter est là pour permettre aux élèves de MP2I qui ne se sentent finalement pas à l'aise avec l'informatique de ne pas se retrouver dans une impasse scolaire.
 {{< /admonition >}}
 
 ## Témoignages d'étudiants
@@ -76,7 +76,7 @@ Je voulais suivre une formation scientifique intensive, surtout en mathématique
 {{< /admonition >}}
 
 {{< admonition quote "Clément, ancien étudiant en MPI à Faidherbe (2023)" true >}}
-Avant on pouvait hésiter entre L1 Info et prépa MPSI car il y avait peu d'informatique, aujourd'hui par la MP2I on peut vraiment partir en prépa même si on est animé par l'informatique plus que les mathématiques. Les coefficients aux concours permettent de rebattre les cartes et ça ne se joue pas juste à "qui est le meilleur en mathématiques" mais bien à "qui manie le mieux informatique, mathématiques & autres quêtes de la prépa". Je pense que c'est une fillière qui vient vraiment apporter du neuf dans l'équilibre des classes préparatoires et qui permet à de nouveaux profils de réussir.
+Avant on pouvait hésiter entre L1 Info et prépa MPSI car il y avait peu d'informatique, aujourd'hui par la MP2I on peut vraiment partir en prépa même si on est animé par l'informatique plus que les mathématiques. Les coefficients aux concours permettent de rebattre les cartes et ça ne se joue pas juste à "qui est le meilleur en mathématiques" mais bien à "qui manie le mieux informatique, mathématiques & autres quêtes de la prépa". Je pense que c'est une filière qui vient vraiment apporter du neuf dans l'équilibre des classes préparatoires et qui permet à de nouveaux profils de réussir.
 
 *Puis il a ajouté :*
 
