@@ -164,6 +164,5 @@ Voici la liste des établissements proposant la MP2I, classés par taux d'access
 
 | Type    | Lycée | Ville | Internat |
 |:-------:|:-----:|:-----:|:--------:|
-
 | Privé | Jean XXIII | Montigny-lès-Metz | Non |
 | Public | Claude Bernard | Paris 16 | Oui |
