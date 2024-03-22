@@ -1,21 +1,14 @@
 ---
-title: Avis des intégré.es sur leurs écoles d'ingénieur.
+title: Avis des intégrés sur leur école d'ingénieur
 url: /scei
 date: 2024-03-12
-menu:
-    main:
-        name: SCEI
-        weight: 6
-categories :
+categories:
     - Orientation
 ---
 
-*Scei est la plateforme permettant aux élèves de deuxième année de classe préparatoire de formuler leurs vœux pour choisir leurs écoles d'ingénieur. Cette page s'adresse surtout aux élèves ayant déjà intégré la MP2I*
-
-Vous êtes en classe préparatoire MP2I/MPI ou vous souhaitez intégrer une école d'ingénieur en informatique ?
+SCEI est la plateforme permettant aux élèves de deuxième année de classe préparatoire de formuler leurs vœux pour choisir leurs écoles d'ingénieur. Cette page s'adresse surtout aux élèves ayant déjà intégré la MP2I.
 
 Retrouvez ici les témoignages d'anciens MPI sur leurs écoles ! Chacun à la possibilité d'y faire figurer un point positif et un point négatif.
-
 
 ## Centrale Nantes - 5 places
 
@@ -29,8 +22,8 @@ Le choix des options en seconde année est basé sur les notes en première ann�
 Les cours d'informatique tronc commun (programmation et algorithmique) sont triviaux pour un MPI: le programme a déjà été fait en MP2I/MPI. Ce qui permet d'avoir de bonnes notes et de ne pas se faire virer dans les campus de Metz ou Rennes. (Si vous faites partie des personnes qui ont la plus basse moyenne, l'administration vous éjecte hors du campus de Saclay (je crois que ce ne sera plus cas à partir de l'année prochaine)){{< right >}}*Anonyme*{{< /right >}}Plus grande école française à l'international
 Réseau alumni immense,
 Enseignement scientifique de grande qualité mais aussi très généraliste, vie associative intégrée au cursus, plein de cursus différents et plus ou moins professionnalisants
-Diplôme reconnu et recherché par les entreprises, réseau d'entreprises partenaires immense{{< right >}}*Mathis (mathis.bottinelli@gmail.com)*{{< /right >}}{{< /admonition>}}{{< admonition warning "Points négatifs" false >}}
-En 1ère année, les cours sont un peu "la carte": vous émettez des vœux (de peu intéressé à très intéressé) pour des cours. On vous attribue alors un cours pour "minimiser le mécontentement". Vous n'avez pas l'assurance d'avoir le cours de votre choix... Ainsi, vous pouvez vous voir refuser les deux seuls cours d'informatique (réseaux, sécurité et théorie de l'information){{< right >}}*Anonyme*{{< /right >}}Plus de travail que dans une école "moins sélective", tout en restant loin du rythme prépa ;){{< right >}}*Mathis (mathis.bottinelli@gmail.com)*{{< /right >}}{{< /admonition>}}
+Diplôme reconnu et recherché par les entreprises, réseau d'entreprises partenaires immense{{< right >}}*Mathis (<mathis.bottinelli@gmail.com>)*{{< /right >}}{{< /admonition>}}{{< admonition warning "Points négatifs" false >}}
+En 1ère année, les cours sont un peu "la carte": vous émettez des vœux (de peu intéressé à très intéressé) pour des cours. On vous attribue alors un cours pour "minimiser le mécontentement". Vous n'avez pas l'assurance d'avoir le cours de votre choix... Ainsi, vous pouvez vous voir refuser les deux seuls cours d'informatique (réseaux, sécurité et théorie de l'information){{< right >}}*Anonyme*{{< /right >}}Plus de travail que dans une école "moins sélective", tout en restant loin du rythme prépa{{< right >}}*Mathis (<mathis.bottinelli@gmail.com>)*{{< /right >}}{{< /admonition>}}
 
 ## ENS Lyon
 
@@ -45,14 +38,14 @@ Grande liberté dans le parcours (sauf au premier semestre), on choisit de faire
 
 On est mélangé avec des archéologues, des philosophes, des historiens, les conversations sont toujours très intéressantes.
 
-On a des rapports cordiaux avec nos profs, on les tutoie (pour la majorité), et il n'y a plus ce rapport de supériorité qu'il y avait en prépa / avant dans la scolarité. 
+On a des rapports cordiaux avec nos profs, on les tutoie (pour la majorité), et il n'y a plus ce rapport de supériorité qu'il y avait en prépa / avant dans la scolarité.
 
 On a plein d'activités extra-scolaires, des clubs de sports, de danses, d'œnologie (oui oui), une K-fêt qui est un bar tenu par les étudiants & à prix coûtants (2€50 la peinte...). On est logés dans Paris 05, soit à 3 pas du panthéon & à 1 pas de la rue Mouffetard, bref de quoi bien s'amuser.
 
-Aucune pression, on peut vraiment faire ce qu'on veut & profite de la vie et on valide quand mm{{< right >}}*Clément (clement@cr-dev.io / discord: crdevio)*{{< /right >}}{{< /admonition>}}{{< admonition warning "Points négatifs" false >}}
+Aucune pression, on peut vraiment faire ce qu'on veut & profite de la vie et on valide quand mm{{< right >}}*Clément (<clement@cr-dev.io> / discord: crdevio)*{{< /right >}}{{< /admonition>}}{{< admonition warning "Points négatifs" false >}}
 En info on est obligés de valider 24 ECTS hors département & 2 cours de maths (dont un de maths pur) et ça c'est une purge car les maths de Ulmites sont vraiment hardcore quand on est pas très bon en maths.
 
-Les salles de cours en info sont vraiment pas folles, c'est un campus historique tout ça tout ça mais ça empêche pas un minimum d'efficacité & de confort dans les salles: on a un putain de pilier au milieu de notre salle de classe qui empêche de voir correctement pour certains: c'est pas normal.{{< right >}}*Clément (clement@cr-dev.io / discord: crdevio)*{{< /right >}}{{< /admonition>}}
+Les salles de cours en info sont vraiment pas folles, c'est un campus historique tout ça tout ça mais ça empêche pas un minimum d'efficacité & de confort dans les salles: on a un putain de pilier au milieu de notre salle de classe qui empêche de voir correctement pour certains: c'est pas normal.{{< right >}}*Clément (<clement@cr-dev.io> / discord: crdevio)*{{< /right >}}{{< /admonition>}}
 
 ## ENSIIE (Evry) - 12 places
 
@@ -73,11 +66,11 @@ On à pas mal de cours chiant et les électifs arrivent vite{{< right >}}*Dimitr
 ## Isima (Clermont-Ferrand) - 20 places
 
 {{< admonition tip "Points positifs" false >}}
-Nous sommes ceux qui ont le moins de point faible dans cette école. Les maths et la physique sont le point faible des BUT, et l'informatique le point faible des prépas hormis MPI.{{< right >}}*Roseliande (Mail : c.roseliande@gmail.com)*{{< /right >}}L’Isima est pleinement orienté informatique. On retrouve le C et des notions de MP2I/MPI comme les automates, la programmation fonctionnelle, les graphs, les structures de données.
-Il y a également une approche plus concrète de l’informatique avec les processeurs, les traitements de signaux. 
-Toutes les matières ont un lien avec l’informatique.{{< right >}}*Théau (theau.wartel@etu.isima.fr)*{{< /right >}}Une très bonne ambiance dans l'école (150 élèves en première année) sur un campus très étudiant.{{< right >}}*Louis-Max Harter (louismax sur discord)*{{< /right >}}{{< /admonition>}}{{< admonition warning "Points négatifs" false >}}
-On a pas fait assez de TP en prépa je pense donc notre niveau en informatique reste inférieur à celui des BUT.{{< right >}}*Roseliande (Mail : c.roseliande@gmail.com)*{{< /right >}}Peu de nouveauté au début de l’année, les notions sont mal expliquées et les cours sont parfois compliqué à suivre.
-Les notions sont moins approfondies qu'en prépa.{{< right >}}*Théau (theau.wartel@etu.isima.fr)*{{< /right >}}Le parcours n'est pas différencié pour les MPI, et les cours étant obligatoires, cela est assez frustrant d'assister à autant de redites. (Peut-être qu'un parcours différencié sera mis en place l'année prochaine){{< right >}}*Louis-Max Harter (louismax sur discord)*{{< /right >}}{{< /admonition>}}
+Nous sommes ceux qui ont le moins de point faible dans cette école. Les maths et la physique sont le point faible des BUT, et l'informatique le point faible des prépas hormis MPI.{{< right >}}*Roseliande (<c.roseliande@gmail.com>)*{{< /right >}}L’Isima est pleinement orienté informatique. On retrouve le C et des notions de MP2I/MPI comme les automates, la programmation fonctionnelle, les graphs, les structures de données.
+Il y a également une approche plus concrète de l’informatique avec les processeurs, les traitements de signaux.
+Toutes les matières ont un lien avec l’informatique.{{< right >}}*Théau (<theau.wartel@etu.isima.fr>)*{{< /right >}}Une très bonne ambiance dans l'école (150 élèves en première année) sur un campus très étudiant.{{< right >}}*Louis-Max Harter (louismax sur discord)*{{< /right >}}{{< /admonition>}}{{< admonition warning "Points négatifs" false >}}
+On a pas fait assez de TP en prépa je pense donc notre niveau en informatique reste inférieur à celui des BUT.{{< right >}}*Roseliande (<c.roseliande@gmail.com>)*{{< /right >}}Peu de nouveauté au début de l’année, les notions sont mal expliquées et les cours sont parfois compliqué à suivre.
+Les notions sont moins approfondies qu'en prépa.{{< right >}}*Théau (<theau.wartel@etu.isima.fr>)*{{< /right >}}Le parcours n'est pas différencié pour les MPI, et les cours étant obligatoires, cela est assez frustrant d'assister à autant de redites. (Peut-être qu'un parcours différencié sera mis en place l'année prochaine){{< right >}}*Louis-Max Harter (louismax sur discord)*{{< /right >}}{{< /admonition>}}
 
 ## Télécom Nancy - 26 places
 
@@ -88,15 +81,16 @@ Pas beaucoup de mathématiques et beaucoup de rappels. On ne fera jamais autant 
 ## Télécom Paris - 35 places
 
 {{< admonition tip "Points positifs" false >}}
-Les cours d'informatique sont vraiment au rendez-vous : ils ont promis qu'ils adapteront pour les MPI, ils l'ont fait. Écriture d'un compilateur en Ocaml, théorie de la calculabilité (machines de Turing et lambda-calcul), contribution à un logiciel libre ... 
+Les cours d'informatique sont vraiment au rendez-vous : ils ont promis qu'ils adapteront pour les MPI, ils l'ont fait. Écriture d'un compilateur en Ocaml, théorie de la calculabilité (machines de Turing et lambda-calcul), contribution à un logiciel libre ...
 Il y a aussi pas mal de cours en traitement du signal, pour comprendre en profondeur Fourier, les filtres, les fibres optiques, le traitement du signal avec de l'optique entre autres.
-Les cours de SES sont aussi super intéressants: j'ai choisi anthropologie (on regarde des documentaires) et intelligence émotionnelle (apprendre à analyser ses émotions pour avoir des relations plus saines){{< right >}}*Antonin PERONNET @rambip (antonin.peronnet@protonmail.com)*{{< /right >}}{{< /admonition>}}{{< admonition warning "Points négatifs" false >}}
+Les cours de SES sont aussi super intéressants: j'ai choisi anthropologie (on regarde des documentaires) et intelligence émotionnelle (apprendre à analyser ses émotions pour avoir des relations plus saines){{< right >}}*Antonin PERONNET @rambip (<antonin.peronnet@protonmail.com>)*{{< /right >}}{{< /admonition>}}{{< admonition warning "Points négatifs" false >}}
 Le cadre de vie n'est franchement pas fou. Pour plusieurs raisons:
+
 - Le plateau de Saclay est connu pour être déprimant, avec aucun patrimoine ni loisir autre que la vie associative. Beaucoup de béton et pas grand-chose d'autre.
 - Le magasin le plus proche est un franprix super cher. Les restaurants universitaires sont biens mais galère si vous voulez vous faire un repas un soir.
 - Les infrastructures pour le sport sont partagées avec Polytechnique. À Centrale c'est mieux.
 
-Toutes ces petites choses font que parfois l'ambiance dans l'école est un peu triste, en particulier le weekend. Je dirais qu'on se sent un peu renfermé. Mais des étudiants se battent pour améliorer ça (vente de paniers de légumes, club potager ...), et ça fait plaisir.{{< right >}}*Antonin PERONNET @rambip (antonin.peronnet@protonmail.com)*{{< /right >}}{{< /admonition>}}
+Toutes ces petites choses font que parfois l'ambiance dans l'école est un peu triste, en particulier le weekend. Je dirais qu'on se sent un peu renfermé. Mais des étudiants se battent pour améliorer ça (vente de paniers de légumes, club potager ...), et ça fait plaisir.{{< right >}}*Antonin PERONNET @rambip (<antonin.peronnet@protonmail.com>)*{{< /right >}}{{< /admonition>}}
 
 ## Télécom Physique Strasbourg - 10 places
 
@@ -113,12 +107,13 @@ Peut-être un manque de liberté dans le choix des cours : en effet, le même pr
 ## Télécom SudParis - 24 places
 
 {{< admonition tip "Points positifs" false >}}
+
 - pour la première année : vraiment généraliste : équilibre physique/maths/info/autre (1/4-1/4-1/4-1/4)
 - grosse vie asso avec un foyer accessible h24 7j/7
 - campus join avec une école de commerce => rencontre de profils différents
-- pas mal pour la cyber 
-- pédagogie par projet (1 gros sur toute l'année sur un thème varié + 1 de développement sur un semestre){{< right >}}*Pacôme Giraudeau (discord : Pacôme ou Tel : 07 82 48 35 95 ou mail : pacome.giraudeau@telecom-sudparis.eu)*{{< /right >}}{{< /admonition>}}{{< admonition warning "Points négatifs" false >}}
+- pas mal pour la cybersécurité
+- pédagogie par projet (1 gros sur toute l'année sur un thème varié + 1 de développement sur un semestre){{< right >}}*Pacôme Giraudeau (discord : Pacôme ou Tel : 07 82 48 35 95 ou mail : <pacome.giraudeau@telecom-sudparis.eu>)*{{< /right >}}{{< /admonition>}}{{< admonition warning "Points négatifs" false >}}
 - la partie internationale est mal intégré dans le cursus
 - pour la première année : vraiment généraliste : équilibre physique/maths/info/autre (1/4-1/4-1/4-1/4)
 - certains cours peuvent paraitre inutiles (4h/semaine d'écologie au premier semestre, économie, droits, sciences humaines, ...)
-- l'administration peut être chiante, notamment car il y a une administration pour TST, une pour IMT-BS et une pour le Campus{{< right >}}*Pacôme Giraudeau (discord : Pacôme ou Tel : 07 82 48 35 95 ou mail : pacome.giraudeau@telecom-sudparis.eu)*{{< /right >}}{{< /admonition>}}
+- l'administration peut être chiante, notamment car il y a une administration pour TST, une pour IMT-BS et une pour le Campus{{< right >}}*Pacôme Giraudeau (discord : Pacôme ou Tel : 07 82 48 35 95 ou mail : <pacome.giraudeau@telecom-sudparis.eu>)*{{< /right >}}{{< /admonition>}}
