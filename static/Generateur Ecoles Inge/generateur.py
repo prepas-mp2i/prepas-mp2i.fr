@@ -26,7 +26,7 @@ def format_temoignage(categorie, temoignage):
     markdown += temoignage["Speudo"].strip()
 
     if temoignage["Contact"].strip() != "":
-        markdown += f" ({temoignage['Contact'].strip()})"
+        markdown += f" (<{temoignage['Contact'].strip()}>)"
 
     markdown += "*{{< /right >}}"
 
