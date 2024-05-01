@@ -6,6 +6,8 @@ menu:
     main:
         name: FAQ
         weight: 6
+tags:
+    - lycéenss
 categories :
     - Orientation
 ---
