@@ -33,6 +33,9 @@
                 <i class="far fa-calendar-alt fa-fw"></i>&nbsp;Publié le <time datetime="{{ . }}">{{ . }}</time>&nbsp;
             {{- end -}}
             <i class="far fa-clock fa-fw"></i>&nbsp;{{ T "readingTime" .ReadingTime }}&nbsp;
+            {{- with .Params.tags -}}
+            <i class="fa fa-user"></i>&nbsp;Pour les {{ delimit . " et les " }}&nbsp;
+            {{- end -}}
         </div>
 
         {{- /* Static TOC */ -}}

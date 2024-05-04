@@ -4,6 +4,8 @@ subtitle: Entraînez-vous sur les sujets passés
 date: 2023-04-29T23:18:58+02:00
 author: Adridri, Nozaé, Triw
 summary: Venez vous entraîner sur les sujets des années précédentes ! Vous retrouverez également l'accès à une banque d'exercices oraux. Bon courage ;)
+tags:
+    - préparationnaires
 categories:
     - Concours
 ---

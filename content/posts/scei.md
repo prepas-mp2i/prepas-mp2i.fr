@@ -2,6 +2,8 @@
 title: Avis des intégrés sur leur école d'ingénieur
 url: /scei
 date: 2024-03-12
+tags:
+    - préparationnaires
 categories:
     - Orientation
 ---

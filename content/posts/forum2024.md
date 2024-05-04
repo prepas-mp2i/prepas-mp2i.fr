@@ -8,6 +8,8 @@ menu:
     main:
         name: Forum
         weight: 5
+tags:
+    - lycéens
 categories:
     - Évènements
 ---

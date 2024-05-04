@@ -4,6 +4,8 @@ slug: forum-2022
 date: 2022-02-14T16:45:31+01:00
 author: Adridri
 summary: C'était au total plus de 17 établissements présents et plus de 300 visiteurs pour ce premier forum virtuel des MP2I ! Rendez-vous l'année prochaine, les premiers retours d'étudiants en MPI (deuxième année) seront là.
+tags:
+    - lycéens
 categories:
     - Évènements
 ---
