@@ -38,10 +38,6 @@ Retrouvez une compilation d'exercices oraux dans la [Base d'épreuves orales sci
 | Français                  | [![XEULSR_FRANCAIS.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MP-MPI-PC-SUJET-FRANCAIS-(XEULSR).pdf) | À venir |
 | Anglais                   | [![XEULSR_ANGLAIS_Non_Officiel.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MP-MPI-PC-PSI-SUJET-ANGLAIS-(XEULSR).pdf)      | À venir |
 
-| Épreuve orale | Sujets + Rapports |
-|:-------------:|:-----------------:|
-| Informatique inter-ENS | À venir |
-
 ### Centrale-Supélec
 
 | Épreuve | Sujet | Rapport |
@@ -111,7 +107,11 @@ Explorer les [sujets par filière](https://gargantua.polytechnique.fr/siatel-web
 
 | Épreuve orale | Sujets + Rapports |
 |:-------------:|:-----------------:|
-| Informatique inter-ENS | [![ENS_Oral_Info.pdf](/icons/download.ico)](/documents/rapports/2023/ENS_Oral_Info.pdf) |
+| Mathématiques | [![2023-MPI-RAPPORT-ADS-MATHEMATIQUES.pdf](/icons/download.ico)](/documents/rapports/2023/2023-MPI-RAPPORT-ADS-MATHEMATIQUES.pdf) |
+| Physique | [![2023-MPI-RAPPORT-ORAL-PHYSIQUE.pdf](/icons/download.ico)](/documents/rapports/2023/2023-MPI-RAPPORT-ORAL-PHYSIQUE.pdf) |
+| Informatique | [![2023-MPI-RAPPORT-ORAL-INFORMATIQUE.pdf](/icons/download.ico)](/documents/rapports/2023/2023-MPI-RAPPORT-ORAL-INFORMATIQUE.pdf) |
+| Informatique fondamentale inter-ENS | [![ENS_Oral_Info.pdf](/icons/download.ico)](/documents/rapports/2023/ENS_Oral_Info.pdf) |
+| Anglais | [![2023-MPI-RAPPORT-ORAL-ANGLAIS.pdf](/icons/download.ico)](/documents/rapports/2023/2023-MPI-RAPPORT-ORAL-ANGLAIS.pdf) |
 
 ### Centrale-Supélec
 
@@ -126,6 +126,8 @@ Découvrir les sujets, rapports et barres d'admissibilité [ici](https://www.con
 | Physique 2           | [![Centrale_Phys2.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Phys2.pdf)       | [![Centrale_PC2.pdf](/icons/download.ico)](/documents/rapports/2023/Centrale_PC2.pdf) |
 | Français-Philosophie | [![Centrale_FraPhilo.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_FraPhilo.pdf) | [![Centrale_Redaction.pdf](/icons/download.ico)](/documents/rapports/2023/Centrale_Redaction.pdf) |
 | Anglais              | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Anglais.pdf)    | [![Centrale_Anglais.pdf](/icons/download.ico)](/documents/rapports/2023/Centrale_Anglais.pdf) |
+
+> Le rapport du jury sur tous les oraux est ici à venir...
 
 ### Concours Commun Mines-Ponts
 
@@ -142,7 +144,9 @@ Voir la page [annales](https://www.concoursminesponts.fr/page-6/) du site du con
 | Français-Philosophie | [![CCMP_Francais.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Francais.pdf)                     |
 | Langue vivante A     | [![CCMP_Langues.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Langues.pdf)                       |
 
-Le rapport du jury sur tous les sujets est ici : [![Rapport-Final-Ecrit-2023_CCMP.pdf](/icons/download.ico)](/documents/rapports/2023/Rapport-Final-Ecrit-2023_CCMP.pdf)
+> Le rapport du jury sur tous les sujets est ici : [![Rapport-Final-Ecrit-2023_CCMP.pdf](/icons/download.ico)](/documents/rapports/2023/Rapport-Final-Ecrit-2023_CCMP.pdf)
+
+> Le rapport du jury sur tous les oraux est ici : [![Rapport-Final-Oral-2023-CCMP.pdf](/icons/download.ico)](/documents/rapports/2023/Rapport-Final-Oral-2023-CCMP.pdf)
 
 ### CCINP
 
