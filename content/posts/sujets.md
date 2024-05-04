@@ -127,7 +127,7 @@ Découvrir les sujets, rapports et barres d'admissibilité [ici](https://www.con
 | Français-Philosophie | [![Centrale_FraPhilo.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_FraPhilo.pdf) | [![Centrale_Redaction.pdf](/icons/download.ico)](/documents/rapports/2023/Centrale_Redaction.pdf) |
 | Anglais              | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Anglais.pdf)    | [![Centrale_Anglais.pdf](/icons/download.ico)](/documents/rapports/2023/Centrale_Anglais.pdf) |
 
-> Le rapport du jury sur tous les oraux est ici à venir...
+> Le rapport du jury sur tous les oraux est à venir...
 
 ### Concours Commun Mines-Ponts
 
