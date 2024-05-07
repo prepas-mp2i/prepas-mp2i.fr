@@ -7,6 +7,8 @@ menu:
     main:
         name: Concours
         weight: 4
+tags:
+    - préparationnaires
 categories:
     - Concours
 ---

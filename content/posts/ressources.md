@@ -4,6 +4,9 @@ subtitle: S'intéresser, apprendre et s'exercer
 slug: ressources
 date: 2021-12-20T00:09:11+01:00
 summary: Des livres traditionnels aux concours nationaux, en passant par les chaînes YouTube pédagogiques, vous trouverez ici de quoi vous divertir scientifiquement pendant vos vacances ou votre temps libre ‒ si vous en avez encore...
+tags:
+    - lycéens
+    - préparationnaires
 categories:
     - Ressources
 ---

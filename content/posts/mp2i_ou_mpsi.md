@@ -5,6 +5,8 @@ slug: mp2i-ou-mpsi
 date: 2023-07-27T00:13:00+01:00
 author: Nozaé
 summary: "Vous êtes au lycée, vous aimez les sciences, vous souhaitez poursuivre en classe préparatoire, mais une question subsiste : MP2I ou MPSI ? Comment choisir la filière qui vous conviendra le mieux ? On vous informe de toutes les différences entre ces deux filières dans ce post."
+tags:
+    - lycéens
 categories:
     - Orientation
 ---

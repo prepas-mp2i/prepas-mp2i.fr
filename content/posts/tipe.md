@@ -5,6 +5,9 @@ slug: tipe
 date: 2023-07-18T00:15:00+01:00
 author: Nozaé
 summary: Qu'est-ce que le Travail d'Initiative Personnelle Encadré ? Comment préparer cette épreuve commune à de nombreux concours ? On vous éclaire la lanterne dans ce post dédié ! N'hésitez pas à consulter les exemples en bas de page.
+tags:
+    - lycéens
+    - préparationnaires
 categories:
     - Concours
 ---
