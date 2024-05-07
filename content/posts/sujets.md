@@ -43,12 +43,12 @@ Retrouvez une compilation d'exercices oraux dans la [Base d'épreuves orales sci
 | Épreuve | Sujet | Rapport |
 |:-------:|:-----:|:-------:|
 | Mathématiques 1      | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-MATHS-1.pdf)     | À venir |
-| Mathématiques 2      | À venir  | À venir |
+| Mathématiques 2      | [![Centrale_Maths2.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-MATHS-2.pdf)  | À venir |
 | Informatique         | [![Centrale_Info.pdf](/icons/download.ico)](/documents/sujets/2024/Centrale_Info.pdf)         | À venir |
 | Physique 1           | [![Centrale_Phys1.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-PHYS-1.pdf)       | À venir |
-| Physique 2           | À venir       | À venir |
+| Physique 2           | [![Centrale_Phys2.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-PHYS-2.pdf)      | À venir |
 | Français-Philosophie | [![Centrale_FraPhilo.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-FRANCAIS.pdf) | À venir |
-| Anglais              | À venir  | À venir |
+| Anglais              | [![Centrale_Anglais.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-ANGLAIS.pdf)  | À venir |
 
 ### Concours Commun Mines-Ponts
 
