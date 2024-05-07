@@ -16,6 +16,12 @@ Voici une liste non exhaustive de projets d'étudiants en MP2I ou MPI, n'hésite
 Si vous êtes en MP2I ou MPI et que vous souhaitez soumettre un de vos projets, envoyez-nous un mail à [contact@prepas-mp2i.fr](mailto:contact@prepas-mp2i.fr).
 {{< /admonition >}}
 
+## 2023-2024
+
+### Adrien Jayat et Erwan Coubret
+
+- [Notebook Colaboratory](https://colab.research.google.com/drive/1dFDHVpDT78Z5cL08kRvnZQrT5cIc8o1I#scrollTo=p7d_m-SJZaeN) : Un outil pour analyser les données de Parcoursup, appliqué à la filière MP2I.
+
 ## 2022-2023
 
 ### Clément Rouvroy (crdevio)
