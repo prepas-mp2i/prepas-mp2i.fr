@@ -2,6 +2,8 @@
 title: L'association
 url: /association
 date: 2024-05-04T18:00:00+01:00
+tags:
+    - préparationnaires
 menu:
     main:
         name: L'association
