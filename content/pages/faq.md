@@ -91,7 +91,7 @@ L'objectif est de vous donner les bases et principes dans de nombreux domaines d
 Il y a une grosse partie de théorie dans le programme d'informatique de MP2I/MPI mais celle-ci permet aussi de faire beaucoup de pratique.
 Dans la grande majorité des chapitres, il y a des choses à coder.
 Mais la MP2I n'est pas la formation la plus adaptée pour apprendre seulement à coder.
-{{< right >}} *Jérémy, MPI, Centre International de Valbonne (2023)* {{< /right >}}
+{{< right >}} *Jeremy, MPI, Centre International de Valbonne (2023)* {{< /right >}}
 {{< /admonition >}}
 
 
