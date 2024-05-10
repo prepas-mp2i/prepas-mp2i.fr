@@ -85,6 +85,16 @@ N'ayant pas vraiment de préférence en particulier pour l'une ou l'autre matiè
 {{< right >}} *Lou Ann, MP2I lycée Champollion, Grenoble (2021)* {{< /right >}}
 {{< /admonition >}}
 
+{{< admonition quote "L'informatique en MP2I/MPI est elle seulement théorique ?" false >}}
+L'objectif est de vous donner les bases et principes dans de nombreux domaines de l'informatique réutilisables et adaptables indépendamment du contexte technologique (et en particulier des langages de programmation) dans lequel vous aurez à évoluer dans votre vie professionnelle. Le but est de vous apporter une connaissance solide des algorithmes et des problèmes classiques ainsi que des traits classiques des langages de programmation. L'objectif n'est pas de vous donner une capacité professionnelle dans les deux langages abordés (C et OCaml).
+{{< right >}} *Étudiants et professeurs de MP2I/MPI (2024)* {{< /right >}}
+Il y a une grosse partie de théorie dans le programme d'informatique de MP2I/MPI mais celle-ci permet aussi de faire beaucoup de pratique.
+Dans la grande majorité des chapitres, il y a des choses à coder.
+Mais la MP2I n'est pas la formation la plus adaptée pour apprendre seulement à coder.
+{{< right >}} *Jeremy, MPI, Centre International de Valbonne (2023)* {{< /right >}}
+{{< /admonition >}}
+
+
 ## Les étudiants
 
 {{< admonition quote "Y a-t-il beaucoup de filles en MP2I ?" false >}}
