@@ -43,8 +43,6 @@ Les résultats du Bac dans ces spécialités mais aussi les appréciations ont u
 
 ## Parcoursup
 
-<!-- TODO: Les bourses -->
-
 > Pour comprendre le fonctionnement de Parcoursup à toutes les étapes, allez consulter [sa FAQ](https://www.parcoursup.fr/index.php?desc=questions).
 >
 > Vous retrouverez [ici](https://colab.research.google.com/drive/1dFDHVpDT78Z5cL08kRvnZQrT5cIc8o1I#scrollTo=p7d_m-SJZaeN) un notebook pour explorer les données de Parcoursup pour la MP2I (2023)
@@ -58,7 +56,7 @@ Il y a **38 MP2I** sur Parcoursup, répertoriées plus bas ; cela va de prépas 
 Si vous faites des choix de formations sélectives - et les classes préparatoires en font partie - il est très fortement recommandé de demander une licence en parallèle pour éviter de finir sans aucune formation.
 
 {{< admonition info "Ambition" true >}}
-Faites toujours quelques vœux très ambitieux, vous vous sous-estimez peut-être. Si vous avez été pris.e dans une prépa très sélective, c'est qu'elle considère que vous avez le niveau pour y aller, alors ne vous censurez pas et soyez sûr.es que ces prépas seront ravies de vous acceuillir !
+Faites toujours quelques vœux très ambitieux, vous vous sous-estimez peut-être. Si vous avez été pris.e dans une prépa très sélective, c'est qu'elle considère que vous avez le niveau pour y aller, alors ne vous censurez pas et soyez sûr.es que ces prépas seront ravies de vous accueillir !
 {{< /admonition >}}
 
 ### Comment choisir sa prépa
@@ -93,7 +91,7 @@ Cependant, le niveau d'une prépa reste un critère important : les élèves se 
 
 Le premier critère de choix d'une prépa est le cadre de vie, car vous allez devoir vous en accommoder pendant 2 ans (si ce n'est 3). Le niveau d'une prépa est moins important, mais n'est pas un critère à reléguer au second plan, car la formation doit être adaptée à vos capacités.
 
-### Lettres de motivation
+### Les lettres de motivation
 
 Les lettres de motivation sont très importantes, surtout si vous avez un profil particulier (lycée étranger, une spécialité fortement recommandée que vous n'avez pas prise, mais dont vous avez rattrapé le programme, si vous êtes au CNED...).
 Le plus important c'est répondre à la question "Pourquoi cette filière ?". Mettez-vous à la place du jury, dire que vous êtes motivé.e c'est bien, mais il en faudra plus pour convaincre. Votre appétence pour telle ou telle science, vos projets, vos ambitions professionnelles, etc, sont des critères bien plus importants pour cerner votre profil. Il est également déconseillé de vanter les mérites de l'établissement que vous visez, s'ils sont géniaux, ils le savent, pas besoin de leur dire, vantez plutôt vos qualités. Orthographe correcte exigée évidemment, faites-vous relire par un tiers (prof, parent...).
@@ -107,7 +105,27 @@ Que vous ne fassiez pas douze lettres différentes pour chaque MP2I à laquelle 
 Les critères pour être admis en internat concernent majoritairement les appréciations des bulletins, l’éloignement et les critères sociaux, mais chaque lycée est libre de sélectionner les dossiers selon ses propres critères. Il est fortement conseillé de demander toutes les formations avec et sans internat, ces deux options ne comptant de toute façon que pour un seul sous-vœu.
 Ayez toujours en tête que vous ne serez pas forcément pris à l'internat, regardez les résidences étudiantes alentours et les alternatives économiques existantes proposées dans les lycées, comme le régime interne-externé par exemple.
 
-### Phase de réponses
+### Les bourses
+
+En temps qu'étudiant, vous pouvez demander une bourse sur critères sociaux. Elle vous permet de vous aider financièrement pour vos études supérieures. Elle est conditionné selon plusieurs critères :
+
+- Les études souhaités
+- L'âge
+- Les diplômes obtenus
+- La nationalité
+- Les ressources
+
+Vous pouvez calculer votre droit à la bourse sur [etudiant.gouv.fr](http://www.etudiant.gouv.fr/cid97527/simulateur-de-bourse.html).
+
+Plus d'informations sur [service-public.fr](https://www.service-public.fr/particuliers/vosdroits/F12214).
+
+> Il existe aussi d'autres types d'aides, comme des aides départementales et régionales. N'hésitez pas à vous renseigner en ligne sur vos droits !
+
+{{< admonition info "Les bourses pour Parcoursup" true >}}
+Les bourses ont aussi une influence sur les résultats de Parcoursup, en particulier pour une demande d'internat.
+{{< /admonition >}}
+
+### La phase de réponses
 
 Pas d’inquiétude si vous n’êtes accepté.e dans aucune formation durant les premiers jours, les places se libèrent vite. Dans quelques cas, certains peuvent recevoir des propositions d’admission après les premiers jours de rentrée et choisir de changer de formation à ce moment, donc ne découragez pas si vous vous retrouvez longtemps en file d’attente, vous avez toujours vos chances.
 
