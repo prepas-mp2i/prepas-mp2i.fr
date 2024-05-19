@@ -109,7 +109,7 @@ Ayez toujours en tête que vous ne serez pas forcément pris à l'internat, rega
 
 En temps qu'étudiant, vous pouvez demander une bourse sur critères sociaux. Elle vous permet de vous aider financièrement pour vos études supérieures. Elle est conditionné selon plusieurs critères :
 
-- Les études souhaités
+- Les études souhaitées
 - L'âge
 - Les diplômes obtenus
 - La nationalité
