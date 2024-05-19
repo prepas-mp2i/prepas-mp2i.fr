@@ -13,9 +13,9 @@ categories:
 ## Préface
 
 {{< admonition warning "Crédits et licence" true >}}
-Cette page est tiré d'un Google Docs accessible au lien suivant : [https://docs.google.com/document/d/1YLzINJacUIDGHh-oCUmNQhDRDgcu2qGL266AMBNEBgo/edit](https://docs.google.com/document/d/1YLzINJacUIDGHh-oCUmNQhDRDgcu2qGL266AMBNEBgo/edit)
+Cette page est tirée d'un Google Docs accessible au lien suivant : [https://docs.google.com/document/d/1YLzINJacUIDGHh-oCUmNQhDRDgcu2qGL266AMBNEBgo/edit](https://docs.google.com/document/d/1YLzINJacUIDGHh-oCUmNQhDRDgcu2qGL266AMBNEBgo/edit)
 
-Ce document - et cette page, *a fortiori* - est distribué sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Ce document - et cette page, *a fortiori* - sont distribués sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 {{< /admonition >}}
 Cette page regroupe des conseils et ressources utiles pour la candidature et l’admission aux ENS sur dossier. Il a été écrit principalement par Malo et Jonas, anciens élèves de MPI générale au lycée du Parc, admis sur dossier respectivement à l’ENS de Rennes et aux ENS de Lyon et Rennes (pour plus de détails, voir “[Contacts et retours d’expérience](#contacts-et-retours-dexpérience)”). D’autres élèves ayant candidaté ou été admis sur dossier l’ont enrichi de leurs retours d’expérience. N’hésitez pas à les contacter.
 
