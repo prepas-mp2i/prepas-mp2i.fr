@@ -124,7 +124,11 @@ Quelques conseils supplémentaires pour votre présentation :
 Les exemples présentés ici sont de vrais  TIPE d'étudiants en MPI. Les droits leurs sont réservés : merci de ne pas réutiliser ou plagier leurs travaux.
 {{< /admonition >}}
 
-### 2024 : Jeux et sport
+### 2025 : Transition, transformation, conversion
+
+*Exemples disponibles à l'été 2025*
+
+### 2024 : Jeux, sports
 
 Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été à Paris !
 {{< newline >}}
