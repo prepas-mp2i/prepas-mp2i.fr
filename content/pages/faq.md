@@ -27,11 +27,11 @@ La prépa ça n'a rien à voir avec ce qu'on a vécu avant et il est très diffi
 La difficulté de la prépa, c'est qu'il n'y a pas de répit, et ce dès la rentrée: prendre du retard ou des mauvaises habitudes pendant les 3 premiers mois peut être une lacune que l'on traînera jusqu'aux concours, question de mental et d'effet boule de neige.
 Donc oui la prépa c'est dur, c'est éprouvant mais on en ressort grandi.e et il ne faut pas avoir peur de se jeter dedans.
 
-{{< right >}} *Jules, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
+{{< right >}} *Jules, MPI lycée Champollion, Grenoble (2023)* {{< /right >}}
 
 Oui dans le sens où la charge de travail est constante, conséquente et donc éprouvante. J'ai eu des périodes pas très drôles, où j'en pouvais plus, mais ça arrive à tout le monde. Le tout est de savoir rebondir. Mais les personnes que tu rencontres sont fantastiques et t'aident à faire passer cette charge ❤
 
-{{< right >}} *Aeddan, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
+{{< right >}} *Aeddan, MPI lycée Champollion, Grenoble (2023)* {{< /right >}}
 {{< /admonition >}}
 
 {{< admonition quote "C'est quoi une colle/ khôlle ?" false >}}
@@ -41,17 +41,17 @@ Les colles d’anglais c’est cette fois ci chacun son tour, on a 20 minutes de
 
 Les colleurs font un compte rendu à nos professeurs, qui sont donc au courant de notre compréhension ou non du chapitre en cours et plus à même de connaître nos difficultés, même sur une classe de 48.
 
-{{< right >}} *Garance, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
+{{< right >}} *Garance, MPI lycée Champollion, Grenoble (2023)* {{< /right >}}
 {{< /admonition >}}
 
 {{< admonition quote "Comment trouves-tu les colles ?" false >}}
 Stressant. C'est utile pour bien apprendre son cours. Honnêtement je ne sais pas comment j'ai survécu 2 ans de colles.
 
-{{< right >}} *Adel, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
+{{< right >}} *Adel, MPI lycée Champollion, Grenoble (2023)* {{< /right >}}
 
 Stressant mais utile, c’est ça qui permet le plus d’encadrer les élèves en prépa, et ça permet aux élèves qui ont du mal à l’oral de s’améliorer pour ne pas être pris au dépourvu aux oraux des concours. L’avantage des colles aussi c’est qu’on en parle entre nous et ça permet de se souder et de se sociabiliser en vivant ces épreuves. Les colleurs ne sont pas horribles comme on peut le lire parfois, on est plus souvent déçu de nous quand on déprime après une colle plutôt qu’à cause d’un colleur. Souvent il y a 1 colleur par matière qui est assez exécrable mais ça permet aussi de bien réagir aux oraux lorsqu’on a quelqu’un de ce type.
 
-{{< right >}} *Garance, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
+{{< right >}} *Garance, MPI lycée Champollion, Grenoble (2023)* {{< /right >}}
 {{< /admonition >}}
 
 {{< admonition quote "C'est quoi le TIPE ?" false >}}
@@ -60,11 +60,11 @@ En te basant sur la frontière des cours de la spé, tu explores un sujet qui t'
 Ce qui compte, ce n'est pas d'avoir le sujet le plus putaclic, mais de montrer à ton jury (lorsque tu présenteras ton rapport) que tu as su faire preuve de la mentalité et la démarche d'un ingénieur / chercheur.
 Si tu comptes préparer les ENS, parle du TIPE ENS avec tes profs et revois tes objectifs parce que tu es pas prêt aux semaines de nuits blanches à déchiffrer des articles manuscrits en russe scannés à l'arrache pour trouver une biblio.
 
-{{< right >}} *Le petit Parisien, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
+{{< right >}} *Le petit Parisien, MPI lycée Champollion, Grenoble (2023)* {{< /right >}}
 
 Comme un grand oral mais niveau prépa en y mettant beaucoup plus de temps de curiosité et d'implication personnelle (pas comme le grand oral quoi)
 
-{{< right >}} *Jules, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
+{{< right >}} *Jules, MPI lycée Champollion, Grenoble (2023)* {{< /right >}}
 
 :(fas fa-solid fa-lightbulb fa-fw): **Pour plus d'information sur les TIPE, c'est par [ici](https://prepas-mp2i.fr/posts/tipe/).**
 {{< /admonition >}}
@@ -149,16 +149,16 @@ Je commence à travailler vers 9h finis vers 22- 23. Je prends au moins 2h de pa
 Ceci varie si j'ai d'autre chose à faire (genre les courses + ménage), je me débrouille pour le faire le samedi
 Au total le WE j'essaie de prendre une soirée ou une matinée pour moi ou je fais rien (souvent juste après les DS).
 
-{{< right >}} *Adel, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
+{{< right >}} *Adel, MPI lycée Champollion, Grenoble (2023)* {{< /right >}}
 
 Souvent le week end je faisais pas grand chose, relire et ficher le cours qu’il reste et je finissais les TPs d’info ou projet d’info, j’avançais les DM en semaine parce que je les faisait à 2. Je fais peu le week-end parce que je travaille bien plus en semaine, le lycée ferme à 22H30 donc j’y restais en faisant tous ce qui était DM, exos, cours et preuves etc...
 
-{{< right >}} *Garance, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
+{{< right >}} *Garance, MPI lycée Champollion, Grenoble (2023)* {{< /right >}}
 
 En première année, 6h par jour, en 2e année, zéro (mais je bossais beaucoup la semaine).
 Ce qui compte, ce n'est pas le volume horaire brut, mais la qualité du travail pendant ces heures. Mieux vaut ne rien faire le WE et être sur les starting blocks la semaine que de se forcer à travailler en étant contre-productif.
 
-{{< right >}} *Le petit Parisien, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
+{{< right >}} *Le petit Parisien, MPI lycée Champollion, Grenoble (2023)* {{< /right >}}
 {{< /admonition >}}
 
 {{< admonition quote "L'internat est-il un avantage ?" false >}}
@@ -176,7 +176,7 @@ Pas de la même manière qu'au lycée.
 Ils sont très stricts académiquement et ne tolèrent pas les bavardages etc. en cours (la prépa, c'est fait pour bosser).
 Mais surtout, ils sont là pour vous aider à préparer les concours : si vous leur montrez que vous serrez le mors, même si vous êtes dernier de la classe, ils vous écouteront et vous aideront dans vos problèmes. À l'inverse, un bon élève qui ne s'applique pas est très mal vu des profs.
 
-{{< right >}} *Le petit Parisien, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
+{{< right >}} *Le petit Parisien, MPI lycée Champollion, Grenoble (2023)* {{< /right >}}
 {{< /admonition >}}
 
 {{< admonition quote "Que conseillez-vous de faire pendant les vacances ?" false >}}
@@ -220,5 +220,19 @@ Il faut simplement faire en sorte de réunir les conditions de travail qui vous 
 {{< admonition quote "Pourquoi es-tu allé.e en prépa MP2I ?" false >}}
 Je ne savais pas trop quoi faire après le BAC mais j'étais intéressé par la recherche et donc les ENS. Si la prépa me plaisait pas je pouvais toujours aller à la fac. Je voyais la prépa comme 2 années de licence ++ avec possibilité de faire une école d'ingénieur après. Le choix de la MP2I s'est fait un peu au hasard : c'était nouveau, j'étais intéressé par l'info et j'ai été pris relativement rapidement sur Parcoursup à Champollion.
 
-{{< right >}} *Aeddan, MPI lycée Champollion, Grenoble(2023)* {{< /right >}}
+{{< right >}} *Aeddan, MPI lycée Champollion, Grenoble (2023)* {{< /right >}}
+{{< /admonition >}}
+
+## Les concours et les écoles
+
+{{< admonition quote "Quels sont les prix d’une école d’ingénieur post-prépa ?" false >}}
+L’avantage principal est que les frais de scolarité ne sont pas aussi exorbitants que ceux des écoles de commerce. Plusieurs écoles publiques sont abordables car le prix est fixé par le ministère de l’Enseignement Supérieur, qui l'indexe sur celui des universités, soit 601 €/an. C’est notamment le cas de la plupart des écoles relevant du concours CCINP, comme l'ENSIMAG et l'ENSEEIHT (N7) (deux très bonnes écoles d’informatique), ou encore certaines INSA et Arts et Métiers.
+
+Pour les ENS et Polytechnique, il n’y a pas de frais de scolarité (et elles peuvent même vous rémunérer contre un engagement décennal). Pour les autres écoles, le prix varie entre le plafond de 601 €/an et 4950 €/an pour l'ISAE-SupAéro, l'une des écoles publiques les plus chères.
+
+Il existe aussi de très bonnes écoles dont les frais de scolarité sont "raisonnables", entre 1500 € et 2500 € par an. C’est le cas de la plupart des écoles. Toutes les écoles du groupe Centrale ont des frais de scolarité fixés à 2500 €/an, sauf CentraleSupélec qui est à 3500 €/an.
+
+En résumé, il y a des écoles avec des tarifs très raisonnables, et d'autres autour de 2000 €/an qui sont de très bonnes écoles. Il est relativement "facile" d'obtenir des prêts étudiants (jusqu'à 7500 €), même si ce n'est pas idéal de devoir contracter un prêt au début de ses études. Celui-ci sera généralement remboursé rapidement. À mon avis, les écoles d’ingénieur publiques sont assez accessibles, surtout si on les compare aux écoles de commerce. De plus, les bourses et les aides de certaines écoles peuvent réduire, voire annuler les frais de scolarité. La vie étudiante n’est d’ailleurs pas prise en compte dans le prix des écoles.
+
+{{< right >}} *Maxime, MPI lycée Champollion, Grenoble (2024)* {{< /right >}}
 {{< /admonition >}}
