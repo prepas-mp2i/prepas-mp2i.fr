@@ -34,7 +34,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Carnot | Dijon | [margaux.richard@protonmail.com](mailto:margaux.richard@protonmail.com) |
 | Champollion | Grenoble | [atsdevou@gmail.com](mailto:atsdevou@gmail.com) |
 | Charles Coëffin | Baie-Malhaut  | [indisponible](mailto:) |
-| Claude Fauriel | Saint-Etienne | [mathiasr07@hotmail.fr](mailto:mathiasr07@hotmail.fr) |
+| Claude Fauriel | Saint-Etienne | [charlehenri.bonjour@gmail.com](mailto:charlehenri.bonjour@gmail.com) |
 | Clemenceau | Nantes | [gueguenpierre.pro@gmail.com](mailto:gueguenpierre.pro@gmail.com) |
 | Colbert | Tourcoing | [indisponible](mailto:) |
 | Descartes | Tours | [antoine@cardiles.fr](mailto:antoine@cardiles.fr) |
