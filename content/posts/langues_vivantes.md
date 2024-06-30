@@ -2,7 +2,7 @@
 title: Les langues vivantes en CPGE
 slug: langues-vivantes
 date: 2024-06-27T00:09:00+01:00
-summary: Peut-on prendre une autre langue en LV1 ? Quels concours proposent des épreuves LV2 ? Retrouvez les réponses à toutes vos questions sur les langues vivantes ici !
+summary: Peut-on prendre une autre langue en LV1 ? Quels concours proposent des épreuves de LV2 ? Retrouvez les réponses à toutes vos questions sur les langues vivantes ici !
 tags:
     - lycéens
 categories:

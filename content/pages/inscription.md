@@ -139,50 +139,72 @@ Si une formation vous accepte, partez du principe que vous avez le niveau pour r
 
 Voici la liste des établissements proposant la MP2I, classés par taux d'accessibilité selon les données 2023 de Parcoursup.
 
+Les nombres de demandes et rangs du dernier admis préssentés ci-dessous correspondent à la phase priincipale.
+
 | Type    | Lycée | Ville | Nombre de demandes | Rang du dernier admis | Internat |
 |:-------:|:-----:|:-----:|:-------------------:|:----------------------:|:------:|
-| Public | Louis Le Grand | Paris 05 | 3005 | 117 | Oui |
-| Public | Saint-Louis | Paris 06 | 2627 | 339 | Oui |
-| Public | Le Parc | Lyon 06 | 2439 | 295 | Oui |
-| Public | Hoche | Versailles | 2254 | 261 | Oui |
-| Public | Janson de Sailly | Paris 16 | 3113 | 493 | Oui |
-| Public | Général Clemenceau | Nantes | 1464 | 239 | Oui |
-| Public | Pierre De Fermat | Toulouse | 2106 | 322 | Oui |
-| Public | Montaigne | Bordeaux | 2056 | 381 | Oui |
-| Privé | Aux Lazaristes | Lyon 05 | 1324 | 247 | Oui |
-| Public | Kléber | Strasbourg | 1298 | 232 | Oui |
-| Public | Descartes | Tours | 1462 | 335 | Oui |
-| Public | La Martinière Monplaisir | Lyon 08 | 2061 | 521 | Oui |
-| Public | Faidherbe | Lille | 1390 | 469 | Oui |
-| Privé | Fénelon Sainte-Marie | Paris 08 | 1431 | 506 | Non |
-| Public | Gay-Lussac | Limoges | 690 | 214 | Oui |
-| Public | Champollion | Grenoble | 1612 | 659 | Oui |
-| Public | Paul Valéry | Paris 12 | 2358 | 944 | Oui |
-| Public | Thiers | Marseille 01 | 1403 | 406 | Oui |
-| Public | La Fayette | Clermont-Ferrand | 562 | 149 | Oui |
-| Public | Pierre Corneille | Rouen | 884 | 284 | Oui |
-| Public | Alain René Lesage | Vannes | 1454 | 385 | Oui |
-| Public | Henri Poincaré | Nancy | 1176 | 503 | Oui |
-| Public | Henri Wallon | Valenciennes | 731 | 218 | Oui |
-| Public | Berthollet | Annecy | 631 | 364 | Oui |
-| Public | Centre International de Valbonne | Valbonne | 819 | 337 | Oui |
-| Public | Joffre | Montpellier | 1489 | 585 | Oui |
-| Public | Carnot | Dijon | 1339 | 585 | Oui |
-| Public | Claude Fauriel | Saint-Etienne | 1339 | 506 | Oui |
-| Public | Colbert | Tourcoing | 1139 | 668 | Oui |
-| Public | Leconte de Lisle | Saint-Denis 974 | 225 | 130 | Oui |
-| Public | Victor Hugo | Besançon | 907 | 457 | Oui |
-| Public | Camille Guérin | Poitiers | 1431 | 641 | Oui |
-| Public | Franklin Roosevelt | Reims | 1031 | 623 | Oui |
-| Public | Louis Thuillier | Amiens | 1283 | 633 | Oui |
-| Public | Charles Coëffin | Baie-Mahault | 140 | 106 | Oui |
-| Privé | Frédéric Ozanam | Lille | 133 | 111 | Non |
-| Public | Guy Mollet | Arras | 293 | 218 | Oui |
-| Public | Alfred Kastler | Denain | 165 | 153 | Oui |
+| Public | [Louis Le Grand]                   | Paris 05 | 3005 | 117 | Oui |
+| Public | [Saint-Louis]                      | Paris 06 | 2627 | 339 | Oui |
+| Public | [Le Parc]                          | Lyon 06 | 2439 | 295 | Oui |
+| Public | [Hoche]                            | Versailles | 2254 | 261 | Oui |
+| Public | [Janson de Sailly]                 | Paris 16 | 3113 | 493 | Oui |
+| Public | [Clémenceau]                       | Nantes | 1464 | 239 | Oui |
+| Public | [Pierre De Fermat]                 | Toulouse | 2106 | 322 | Oui |
+| Public | [Montaigne]                        | Bordeaux | 2056 | 381 | Oui |
+| Privé  | [Aux Lazaristes]                   | Lyon 05 | 1324 | 247 | Oui |
+| Public | [Kléber]                           | Strasbourg | 1298 | 232 | Oui |
+| Public | [Descartes]                        | Tours | 1462 | 335 | Oui |
+| Public | [La Martinière Monplaisir]         | Lyon 08 | 2061 | 521 | Oui |
+| Public | [Faidherbe]                        | Lille | 1390 | 469 | Oui |
+| Privé  | [Fénelon Sainte-Marie]             | Paris 08 | 1431 | 506 | Non |
+| Public | [Gay-Lussac]                       | Limoges | 690 | 214 | Oui |
+| Public | [Champollion]                      | Grenoble | 1612 | 659 | Oui |
+| Public | [Paul Valéry]                      | Paris 12 | 2358 | 944 | Oui |
+| Public | [Thiers]                           | Marseille 01 | 1403 | 406 | Oui |
+| Public | [La Fayette]                       | Clermont-Ferrand | 562 | 149 | Oui |
+| Public | [Pierre Corneille]                 | Rouen | 884 | 284 | Oui |
+| Public | [Alain René Lesage]                | Vannes | 1454 | 385 | Oui |
+| Public | [Henri Poincaré]                   | Nancy | 1176 | 503 | Oui |
+| Public | [Henri Wallon]                     | Valenciennes | 731 | 218 | Oui |
+| Public | [Berthollet]                       | Annecy | 631 | 364 | Oui |
+| Public | [Centre International de Valbonne] | Valbonne | 819 | 337 | Oui |
+| Public | [Joffre]                           | Montpellier | 1489 | 585 | Oui |
+| Public | [Carnot]                           | Dijon | 1339 | 585 | Oui |
+| Public | [Claude Fauriel]                   | Saint-Etienne | 1339 | 506 | Oui |
+| Public | [Colbert]                          | Tourcoing | 1139 | 668 | Oui |
+| Public | [Leconte de Lisle]                 | Saint-Denis 974 | 225 | 130 | Oui |
+| Public | [Victor Hugo]                      | Besançon | 907 | 457 | Oui |
+| Public | [Camille Guérin]                   | Poitiers | 1431 | 641 | Oui |
+| Public | [Franklin Roosevelt]               | Reims | 1031 | 623 | Oui |
+| Public | [Louis Thuillier]                  | Amiens | 1283 | 633 | Oui |
+| Public | [Charles Coëffin]                  | Baie-Mahault | 140 | 106 | Oui |
+| Privé  | [Frédéric Ozanam]                  | Lille | 133 | 111 | Non |
+| Public | [Guy Mollet]                       | Arras | 293 | 218 | Oui |
+| Public | [Alfred Kastler]                   | Denain | 165 | 153 | Oui |
 
-À la rentrée 2024, 2 lycées ouvrent une classe MP2I en remplacement d'une MPSI :
+[Aux Lazaristes]: https://www.auxlazaristeslasalle.fr/
+[Clémenceau]: https://gclemenceau.paysdelaloire.e-lyco.fr/
+[Descartes]: https://www.lyc-descartes.fr/
+[Hoche]: https://lyc-hoche-versailles.ac-versailles.fr/
+[Janson de Sailly]: https://www.janson-de-sailly.fr/
+[Kléber]: https://lycee-kleber.com.fr/
+[La Martinière Monplaisir]: https://martiniere-monplaisir.ent.auvergnerhonealpes.fr/
+[Le Parc]: https://lyceeduparc.fr/ldp/
+[Louis Le Grand]: https://www.louislegrand.fr/
+[Montaigne]: https://montaigne-bordeaux.fr/
+[Pierre De Fermat]: https://fermat.mon-ent-occitanie.fr/
+[Saint-Louis]: https://pia.ac-paris.fr/serail/jcms/s1_2080097/fr/lycee-saint-louis
+
+À la rentrée 2024, 2 lycées ouvriront une classe MP2I en remplacement d'une MPSI :
 
 | Type    | Lycée | Ville | Internat |
 |:-------:|:-----:|:-----:|:--------:|
 | Privé | Jean XXIII | Montigny-lès-Metz | Non |
 | Public | Claude Bernard | Paris 16 | Oui |
+
+{{< admonition info "MP2I ayant une capacité d'accueil différente de 48 places" true >}}
+| Lycée          | Nombre de places |
+|:--------------:|:----------------:|
+| Alfred Kastler | 24 |
+
+{{< /admonition >}}
