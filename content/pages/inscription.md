@@ -141,8 +141,8 @@ Voici la liste des établissements proposant la MP2I, classés par taux d'access
 
 Les nombres de demandes et rangs du dernier admis préssentés ci-dessous correspondent à la phase priincipale.
 
-| Type    | Lycée | Ville | Nombre de demandes | Rang du dernier admis | Internat |
-|:-------:|:-----:|:-----:|:-------------------:|:----------------------:|:------:|
+| Type   | Lycée | Ville | Nombre de demandes | Rang du dernier admis | Internat |
+|:------:|:-----:|:-----:|:-------------------:|:----------------------:|:------:|
 | Public | [Louis Le Grand]                   | Paris 05 | 3005 | 117 | Oui |
 | Public | [Saint-Louis]                      | Paris 06 | 2627 | 339 | Oui |
 | Public | [Le Parc]                          | Lyon 06 | 2439 | 295 | Oui |
@@ -182,29 +182,69 @@ Les nombres de demandes et rangs du dernier admis préssentés ci-dessous corres
 | Public | [Guy Mollet]                       | Arras | 293 | 218 | Oui |
 | Public | [Alfred Kastler]                   | Denain | 165 | 153 | Oui |
 
+[Alain René Lesage]: https://lycee-lesage.fr/
+[Alfred Kastler]: https://lgt-alfred-kastler-denain.59.ac-lille.fr/s
 [Aux Lazaristes]: https://www.auxlazaristeslasalle.fr/
+[Berthollet]: https://lycee-berthollet-annecy.web.ac-grenoble.fr/
+[Carnot]: https://cpge-carnot.fr/
+[Camille Guérin]: https://lyc-camilleguerin.fr/
+[Centre International de Valbonne]: http://prepa.civfrance.com/
+[Champollion]: https://lycee-champollion.fr/
+[Charles Coëffin]: https://charlescoeffin.lyc.ac-guadeloupe.fr/
+[Claude Fauriel]: https://claude-fauriel.ent.auvergnerhonealpes.fr/
 [Clémenceau]: https://gclemenceau.paysdelaloire.e-lyco.fr/
+[Colbert]: https://www.lyceecolbert-tg.org/
 [Descartes]: https://www.lyc-descartes.fr/
+[Faidherbe]: https://www.faidherbe.org/
+[Fénelon Sainte-Marie]: https://www.fenelonsaintemarie.org/
+[Franklin Roosevelt]: https://lycee-roosevelt-reims.fr/
+[Frédéric Ozanam]: https://www.groupe-oec.fr/formations/classes-preparatoires/
+[Gay-Lussac]: https://www.lyc-gaylussac.ac-limoges.fr/
+[Guy Mollet]: https://lyceeguymollet.fr/
+[Henri Poincaré]: https://lycee-poincare.fr/
+[Henri Wallon]: https://lyceehenriwallon-valenciennes.fr/
 [Hoche]: https://lyc-hoche-versailles.ac-versailles.fr/
 [Janson de Sailly]: https://www.janson-de-sailly.fr/
+[Joffre]: https://lycee-joffre-montpellier.mon-ent-occitanie.fr/
 [Kléber]: https://lycee-kleber.com.fr/
+[La Fayette]: https://lycee-lafayette-clermont.fr/
 [La Martinière Monplaisir]: https://martiniere-monplaisir.ent.auvergnerhonealpes.fr/
 [Le Parc]: https://lyceeduparc.fr/ldp/
+[Leconte de Lisle]: https://etab.ac-reunion.fr/lyc-leconte-de-lisle/
 [Louis Le Grand]: https://www.louislegrand.fr/
+[Louis Thuillier]: https://louis-thuillier.ac-amiens.fr/
 [Montaigne]: https://montaigne-bordeaux.fr/
+[Paul Valéry]: https://www.cpge-pv.fr/
+[Pierre Corneille]: https://corneille-rouen.lycee.ac-normandie.fr/
 [Pierre De Fermat]: https://fermat.mon-ent-occitanie.fr/
 [Saint-Louis]: https://pia.ac-paris.fr/serail/jcms/s1_2080097/fr/lycee-saint-louis
+[Thiers]: https://www.site.ac-aix-marseille.fr/lyc-thiers/spip/
+[Victor Hugo]: http://lyceehugobesancon.org/LVH/
 
 À la rentrée 2024, 2 lycées ouvriront une classe MP2I en remplacement d'une MPSI :
 
-| Type    | Lycée | Ville | Internat |
-|:-------:|:-----:|:-----:|:--------:|
-| Privé | Jean XXIII | Montigny-lès-Metz | Non |
-| Public | Claude Bernard | Paris 16 | Oui |
+| Type   | Lycée            | Ville             | Internat |
+|:------:|:----------------:|:-----------------:|:--------:|
+| Privé  | [Jean XXIII]     | Montigny-lès-Metz | Non      |
+| Public | [Claude Bernard] | Paris 16          | Oui      |
+
+[Claude Bernard]: https://pia.ac-paris.fr/serail/jcms/s2_544112/fr/accueil
+[Jean XXIII]: https://www.metzcampus.fr/campus/pole-superieur-jean-xxiii/
 
 {{< admonition info "MP2I ayant une capacité d'accueil différente de 48 places" true >}}
-| Lycée          | Nombre de places |
-|:--------------:|:----------------:|
-| Alfred Kastler | 24 |
+| Lycée            | Nombre de places |
+|:----------------:|:----------------:|
+| Alfred Kastler   | 24 |
+| Aux Lazaristes   | 10 |
+| Charles Coeffin  | 23 |
+| Colbert          | 24 |
+| Frédéric Ozanam  | 30 |
+| Gay-Lussac       | 24 |
+| Guy Mollet       | 24 |
+| Henri allon      | 24 |
+| La Fayette       | 24 |
+| Leconte de Lisle | 24 |
+| Saint-Louis      | 47 |
+| Victor Hugo      | 45 |
 
 {{< /admonition >}}
