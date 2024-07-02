@@ -107,7 +107,7 @@ Ayez toujours en tête que vous ne serez pas forcément pris à l'internat, rega
 
 ### Les bourses
 
-En temps qu'étudiant, vous pouvez demander une bourse sur critères sociaux. Elle vous permet de vous aider financièrement pour vos études supérieures. Elle est conditionné selon plusieurs critères :
+En temps qu'étudiant, vous pouvez demander une bourse sur critères sociaux. Elle vous permet de vous aider financièrement pour vos études supérieures. Elle est conditionnée selon plusieurs critères :
 
 - Les études souhaitées
 - L'âge
@@ -139,7 +139,7 @@ Si une formation vous accepte, partez du principe que vous avez le niveau pour r
 
 Voici la liste des établissements proposant la MP2I, classés par taux d'accessibilité selon les données 2023 de Parcoursup.
 
-Les nombres de demandes et rangs du dernier admis préssentés ci-dessous correspondent à la phase priincipale.
+Les nombres de demandes et rangs du dernier admis présentés ci-dessous correspondent à la phase principale.
 
 | Type   | Lycée | Ville | Nombre de demandes | Rang du dernier admis | Internat |
 |:------:|:-----:|:-----:|:-------------------:|:----------------------:|:------:|
@@ -231,7 +231,7 @@ Les nombres de demandes et rangs du dernier admis préssentés ci-dessous corres
 [Claude Bernard]: https://pia.ac-paris.fr/serail/jcms/s2_544112/fr/accueil
 [Jean XXIII]: https://www.metzcampus.fr/campus/pole-superieur-jean-xxiii/
 
-{{< admonition info "MP2I ayant une capacité d'accueil différente de 48 places" true >}}
+{{< admonition info "MP2I ayant une capacité d'accueil différente de 48 places" false >}}
 | Lycée            | Nombre de places |
 |:----------------:|:----------------:|
 | Alfred Kastler   | 24 |
