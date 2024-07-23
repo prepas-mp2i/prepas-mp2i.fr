@@ -23,6 +23,7 @@ enableEmoji = true
 [params]
   version = "0.2.X"
   description = "Site des classes préparatoires MP2I/MPI"
+  detailedDescription = "Site des classes préparatoires MP2I/MPI, créé par des étudiants pour aider les futurs bacheliers à s'orienter et à découvrir cette filière scientifique méconnue. Découvrez notre perspective et toutes les informations nécessaires pour faire votre choix !"
   keywords = ["Theme", "Hugo", "MP2I", "MPI", "Prépa"]
   defaultTheme = "auto"
   gitRepo = "https://github.com/prepas-mp2i/prepas-mp2i.fr/"
