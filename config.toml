@@ -18,7 +18,7 @@ enableEmoji = true
 
 [security]
   [security.exec]
-    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', 'rst2html.py']
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', 'rst2html.py', '^git$']
 
 [params]
   version = "0.2.X"
