@@ -53,8 +53,6 @@ Une question ? Un problème ? Vous pouvez nous contacter sur le [serveur Discord
 
 ## Documents relatifs à l'association
 
-Procès verbal de l'assemblée constitutive :
+**Règlement intérieur** : [![Règlement intérieur](/icons/download.ico)](/documents/association/Reglement_interieur.pdf)
 
-Règlement intérieur :
-
-Status :
+**Status** : [![Status](/icons/download.ico)](/documents/association/Status.pdf)
