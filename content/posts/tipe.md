@@ -133,6 +133,14 @@ Les exemples présentés ici sont de vrais  TIPE d'étudiants en MPI. Les droits
 Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été à Paris !
 {{< newline >}}
 *Exemples disponibles à l'été 2024*
+<!-- (Pour ne pas mettre seulement 1 exemple)
+#### Tétraconcours
+
+| Titre | Étudiant.e | Présentation | MCOT | Autres |
+|:-----:|:--------:|:------------:|:----:|:------:|
+| Optimisation de la trajectoire idéale sur un circuit de sport
+automobile | Alois Denoiseux | [![TIPE2024_Alois.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2024_Alois.pdf) | [![MCOT2024_Alois.pdf](/icons/document.ico)](/documents/TIPE/MCOT2024_Alois.pdf) | [Github](https://github.com/Al0den/car-neural-network) |
+-->
 
 ### 2023 : La ville
 
