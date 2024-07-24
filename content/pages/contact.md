@@ -30,34 +30,35 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 
 |         Lycée          |     Ville     |      Mail     |
 |:----------------------:|:-------------:|:-------------:|
-| Aux Lazaristes | Lyon 05 | [indisponible](mailto:)
-| Carnot | Dijon | [margaux.richard@protonmail.com](mailto:margaux.richard@protonmail.com)
-| Champollion | Grenoble | [atsdevou@gmail.com](mailto:atsdevou@gmail.com)
-| Charles Coëffin | Baie-Malhaut  | [indisponible](mailto:)
-| Claude Fauriel | Saint-Etienne | [mathiasr07@hotmail.fr](mailto:mathiasr07@hotmail.fr)
-| Clemenceau | Nantes | [gueguenpierre.pro@gmail.com](mailto:gueguenpierre.pro@gmail.com)
-| Colbert | Tourcoing | [indisponible](mailto:)
-| Descartes | Tours | [louis-max.h@protonmail.com](mailto:louis-max.h@protonmail.com)
-| Faidherbe | Lille | [mp2ifaidherbe.contact@gmail.com](mailto:mp2ifaidherbe.contact@gmail.com)
-| Fénelon Sainte-Marie | Paris 08 | [gaucheron.laurent@protonmail.com](mailto:gaucheron.laurent@protonmail.com)
-| Franklin Roosevelt | Reims | [quentin.constant@protonmail.com](mailto:quentin.constant@protonmail.com)
-| Gay-Lussac | Limoges | [contactmpigaylussac@gmail.com](mailto:contactmpigaylussac@gmail.com)
-| Henri Wallon | Valenciennes | [indisponible](mailto:)
-| Hoche | Versailles | [falafel.evrard@protonmail.com](mailto:falafel.evrard@protonmail.com)
-| Centre International de Valbonne | Valbonne | [jeremy.serievic.pro@gmail.com](mailto:jeremy.serievic.pro@gmail.com)
-| Janson De Sailly | Paris 16 | [corti.flavio@protonmail.com](mailto:corti.flavio@protonmail.com)
-| Kléber | Strasbourg | [guillaume.steinmetz@protonmail.com](mailto:guillaume.steinmetz@protonmail.com)
-| Le Parc | Lyon 06 | [younesi.maths@gmail.com](mailto:younesi.maths@gmail.com)
-| Louis Le Grand | Paris 05 | [aurelienchen@outlook.com](mailto:aurelienchen@outlook.com)
-| Louis Thuillier | Amiens | [titouan.leveque@protonmail.com](mailto:titouan.leveque@protonmail.com)
-| Montaigne | Bordeaux | [alessandre.laguierce@protonmail.com](mailto:alessandre.laguierce@protonmail.com)
-| Paul Valery | Paris 12 | [alexis@liteapp.fr](mailto:alexis@liteapp.fr)
-| Pierre De Fermat | Toulouse | [mp2i.fermat@gmx.com](mailto:mp2i.fermat@gmx.com)
-| Henri Poincaré | Nancy | [louis.delion1007@gmail.com](mailto:louis.delion1007@gmail.com)
-| Saint-Louis | Paris 06 | [fusetim.log@gmx.com](mailto:fusetim.log@gmx.com)
-| Thiers | Marseille 01 | [elowarp@gmail.com](mailto:elowarp@gmail.com)
-| Victor Hugo | Besançon | [alexis.chavy@protonmail.com](mailto:alexis.chavy@protonmail.com)
-| Lesage | Vannes | [victorjean2@icloud.com](mailto:victorjean2@icloud.com)
+| Aux Lazaristes | Lyon 05 | [indisponible](mailto:) |
+| Carnot | Dijon | [margaux.richard@protonmail.com](mailto:margaux.richard@protonmail.com) |
+| Champollion | Grenoble | [atsdevou@gmail.com](mailto:atsdevou@gmail.com) |
+| Charles Coëffin | Baie-Malhaut  | [indisponible](mailto:) |
+| Claude Fauriel | Saint-Etienne | [charlehenri.bonjour@gmail.com](mailto:charlehenri.bonjour@gmail.com) |
+| Clemenceau | Nantes | [gueguenpierre.pro@gmail.com](mailto:gueguenpierre.pro@gmail.com) |
+| Colbert | Tourcoing | [indisponible](mailto:) |
+| Descartes | Tours | [antoine@cardiles.fr](mailto:antoine@cardiles.fr) |
+| Faidherbe | Lille | [mp2ifaidherbe.contact@gmail.com](mailto:mp2ifaidherbe.contact@gmail.com) |
+| Fénelon Sainte-Marie | Paris 08 | [aloisdenoiseux@gmail.com](mailto:aloisdenoiseux@gmail.com) |
+| Franklin Roosevelt | Reims | [quentin.constant@protonmail.com](mailto:quentin.constant@protonmail.com) |
+| Gay-Lussac | Limoges | [loictrinquet@gmail.com](mailto:loictrinquet@gmail.com) |
+| Henri Wallon | Valenciennes | [indisponible](mailto:) |
+| Hoche | Versailles | [falafel.evrard@protonmail.com](mailto:falafel.evrard@protonmail.com) |
+| Centre International de Valbonne | Valbonne | [jeremy.serievic.pro@gmail.com](mailto:jeremy.serievic.pro@gmail.com) |
+| Janson De Sailly | Paris 16 | [corti.flavio@protonmail.com](mailto:corti.flavio@protonmail.com) |
+| Joffre | Montpellier | [tibestarthur@gmail.com](mailto:tibestarthur@gmail.com) |
+| Kléber | Strasbourg | [pierredethurens@gmail.com](mailto:pierredethurens@gmail.com) |
+| Le Parc | Lyon 06 | [younesi.maths@gmail.com](mailto:younesi.maths@gmail.com) |
+| Louis Le Grand | Paris 05 | [aurelienchen@outlook.com](mailto:aurelienchen@outlook.com) |
+| Louis Thuillier | Amiens | [titouan.leveque@protonmail.com](mailto:titouan.leveque@protonmail.com) |
+| Montaigne | Bordeaux | [alessandre.laguierce@protonmail.com](mailto:alessandre.laguierce@protonmail.com) |
+| Paul Valery | Paris 12 | [leloup05a@gmail.com](mailto:leloup05a@gmail.com) |
+| Pierre De Fermat | Toulouse | [raphael.farenc@gmail.com](mailto:raphael.farenc@gmail.com) |
+| Henri Poincaré | Nancy | [louis.delion1007@gmail.com](mailto:louis.delion1007@gmail.com) |
+| Saint-Louis | Paris 06 | [fusetim.log@gmx.com](mailto:fusetim.log@gmx.com) |
+| Thiers | Marseille 01 | [elowarp@gmail.com](mailto:elowarp@gmail.com) |
+| Victor Hugo | Besançon | [alexis.chavy@protonmail.com](mailto:alexis.chavy@protonmail.com) |
+| Lesage | Vannes | [k.guerin29460@gmail.com](mailto:k.guerin29460@gmail.com) |
 
 ## Discord
 

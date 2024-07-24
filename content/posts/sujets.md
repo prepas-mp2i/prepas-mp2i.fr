@@ -56,13 +56,13 @@ Retrouvez une compilation d'exercices oraux dans la [Base d'épreuves orales sci
 
 | Épreuve | Sujet |
 |:-------:|:-----:|
-| Mathématiques 1      | À venir |
-| Mathématiques 2      | À venir |
-| Informatique 1       | À venir |
-| Informatique 2       | À venir |
-| Physique 1           | À venir |
-| Physique 2           | À venir |
-| Français-Philosophie | À venir |
+| Mathématiques 1      | [![Mines-Maths-MPI-1.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-Maths-MPI-1.pdf) |
+| Mathématiques 2      | [![Mines-Maths-MPI-2.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-Maths-MPI-2.pdf) |
+| Informatique 1       | [![Mines-INFO-1-MPI.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-INFO-1-MPI.pdf) |
+| Informatique 2       |[![Mines-INFO-2-MPI.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-INFO-2-MPI.pdf) |
+| Physique 1           | [![Mines-Physique-MPI-1-2024.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-Physique-MPI-1-2024.pdf) |
+| Physique 2           | [![Mines-Physique-MPI-2-2024.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-Physique-MPI-2-2024.pdf) |
+| Français-Philosophie | [![Mines-Francais.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-Francais.pdf) |
 | Langue vivante A     | À venir |
 
 Le rapport du jury sur tous les sujets est à venir...
