@@ -15,7 +15,7 @@ categories:
 ## Le TIPE Tétraconcours
 
 > {{< center >}}
-[Page SCEI](https://www.scei-concours.fr/tipe.php) - [FAQ](https://www.scei-concours.fr/faq/page_d_aide_-_tipe.html) - [Attendus pédagogiques](https://www.scei-concours.fr/pdf/AttendusPedagogiques_2023-decembre.pdf) (2023)
+[Page SCEI](https://www.scei-concours.fr/tipe.php) - [FAQ](https://www.scei-concours.fr/faq/page_d_aide_-_tipe.html) - [Attendus pédagogiques](https://www.scei-concours.fr/pdf/2024_Attendus_Pedagogiques_Final.pdf) (2024)
 {{< /center >}}
 
 {{< admonition info "Concours incluant l'épreuve de TIPE Tétraconcours" true >}}
@@ -131,16 +131,20 @@ Les exemples présentés ici sont de vrais  TIPE d'étudiants en MPI. Les droits
 ### 2024 : Jeux, sports
 
 Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été à Paris !
-{{< newline >}}
-*Exemples disponibles à l'été 2024*
-<!-- (Pour ne pas mettre seulement 1 exemple)
+
+*Proposez-nous le vôtre par [mail](mailto:contact@prepas-mp2i.fr) ou sur notre [discord](https://discord.gg/Mu439mBdsv) !*
+
 #### Tétraconcours
 
 | Titre | Étudiant.e | Présentation | MCOT | Autres |
 |:-----:|:--------:|:------------:|:----:|:------:|
-| Optimisation de la trajectoire idéale sur un circuit de sport
-automobile | Alois Denoiseux | [![TIPE2024_Alois.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2024_Alois.pdf) | [![MCOT2024_Alois.pdf](/icons/document.ico)](/documents/TIPE/MCOT2024_Alois.pdf) | [Github](https://github.com/Al0den/car-neural-network) |
--->
+| Optimisation de la trajectoire idéale sur un circuit de sport automobile | Alois DENOISEUX | [![TIPE2024_Alois.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2024_Alois.pdf) | [![MCOT2024_Alois.pdf](/icons/document.ico)](/documents/TIPE/MCOT2024_Alois.pdf) | [Github](https://github.com/Al0den/car-neural-network) |
+
+#### ENS
+
+| Titre | Étudiant.e | Rapport | Remarque |
+|:-----:|:----------:|:-------:|:--------:|
+| Le lemme local de Lovasz, version algorithmique | Alice TOSEL | [![TIPEENS2024_Alice.pdf](/icons/document.ico)](/documents/TIPE/TIPEENS2024_Alice.pdf) | Erreurs mineures dans des schémas et une définition |
 
 ### 2023 : La ville
 
