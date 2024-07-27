@@ -27,7 +27,10 @@ Les objectifs de l'association sont :
 
 L'association est ouverte à tous les étudiants actuels de CPGE MP2I et MPI, ainsi qu'aux anciens étudiants de CPGE MP2I et/ou MPI.
 
-> Vous pouvez adhérer à l'association via ce lien : Disponible prochainement
+{{< style "text-align:center; font-size: 2rem; margin: 1em" >}}
+**[Adhérer à l'association](https://www.helloasso.com/associations/association-des-etudiants-en-classes-preparatoires-aux-grandes-ecoles-mp2i-mpi/adhesions/adhesion-annuelle/widget)** 
+{{< /style >}}
+
 
 {{< admonition info "Professeurs" true >}}
 Le titre de "Membre Honoraire" peut être accordé sur demande aux professeurs de classes de MP2I/MPI ou aux professeurs d'écoles accessibles aux étudiants de MP2I/MPI
@@ -45,11 +48,11 @@ Une question ? Un problème ? Vous pouvez nous contacter sur le [serveur Discord
 
 **Secrétaire générale** : Nozaé (nozae)
 
-**Secrétaire spécialisé Marketing** : Adam (.linghun)
+**Secrétaire spécialisé Marketing** : Emma (lambdaniris)
 
 **Secrétaire Spécialisé Site** : Tristan (triw12)
 
-**Secrétaire Spécialisé Communication** : Emma (lambdaniris)
+**Secrétaire Spécialisé Communication** : Adam (.linghun)
 
 ## Documents relatifs à l'association
 
