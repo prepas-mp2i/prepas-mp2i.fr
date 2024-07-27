@@ -138,13 +138,14 @@ Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été 
 
 | Titre | Étudiant.e | Présentation | MCOT | Autres |
 |:-----:|:--------:|:------------:|:----:|:------:|
-| Optimisation de la trajectoire idéale sur un circuit de sport automobile | Alois DENOISEUX | [![TIPE2024_Alois.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2024_Alois.pdf) | [![MCOT2024_Alois.pdf](/icons/document.ico)](/documents/TIPE/MCOT2024_Alois.pdf) | [Github](https://github.com/Al0den/car-neural-network) |
+| Optimisation de la trajectoire idéale sur un circuit de sport automobile | Alois DENOISEUX | [![TIPE_Alois_Denoiseux.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Alois_Denoiseux.pdf) | [![MCOT_Alois_Denoiseux.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Alois_Denoiseux.pdf) | [Github](https://github.com/Al0den/car-neural-network) |
+| Génération de trajectoires automobiles sur circuit | Pierre GUEGUEN | [![TIPE_Pierre_Gueguen.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Pierre_Gueguen.pdf) | [![MCOT_Pierre_Gueguen.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Pierre_Gueguen.pdf) | - |
 
 #### ENS
 
 | Titre | Étudiant.e | Rapport | Remarque |
 |:-----:|:----------:|:-------:|:--------:|
-| Le lemme local de Lovasz, version algorithmique | Alice TOSEL | [![TIPEENS2024_Alice.pdf](/icons/document.ico)](/documents/TIPE/TIPEENS2024_Alice.pdf) | Erreurs mineures dans des schémas et une définition |
+| Le lemme local de Lovasz, version algorithmique | Alice TOSEL | [![TIPEENS_Alice_Tosel.pdf](/icons/document.ico)](/documents/TIPE/2024/TIPEENS_Alice_Tosel.pdf) | Erreurs mineures dans des schémas et une définition |
 
 ### 2023 : La ville
 
@@ -154,19 +155,19 @@ Pour la première promotion de la filière, le thème était une porte grande ou
 
 | Titre | Étudiant.e | Présentation | MCOT | Autres |
 |:-----:|:--------:|:------------:|:----:|:------:|
-| Conception d'un protocole adapté aux objets connectés dans un réseau dense | Timothée | [![TIPE2023_Thimothée.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Timothée.pdf) | [![MCOT2023_Thimothée.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Timothée.pdf) | [Annexes](/documents/TIPE/Annexes2023_Timothée.pdf) |
-| Attaques par canaux auxiliaires | Maël HOSTETTLER | [![TIPE2023_Mael.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Mael.pdf) | [![MCOT2023_Mael.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Mael.pdf) | - |
-| Attaques sur RSA | @lasercata |[![TIPE2023_lasercata.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_lasercata.pdf) | [![MCOT2023_lasercata.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_lasercata.pdf)| [GitHub](https://github.com/lasercata/RSA_attacks_TIPE) |
-| Aquaplaning et Pneumatiques Slicks | Aubin SIONVILLE | [![TIPE2023_Aubin.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Aubin.pdf) | [![MCOT2023_Aubin.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Aubin.pdf) | - |
-| Optimisation d'une livraison de colis par biomimétisme | Eliot CLERC | [![TIPE2023_Eliot.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Eliot.pdf) | [![MCOT2023_Eliot.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Eliot.pdf) | - |
-| Comment optimiser la tournée d’un livreur ? | @Axiome | [![TIPE2023_Axiome.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Axiome.pdf) | [![MCOT2023_Axiome.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Axiome.pdf) | TIPE ENS disponible |
-| Distribution optimale et maximale de biens à livrer au sein d’une ville | Seydou SENE | [![TIPE2023_Seydou.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Seydou.pdf) | [![MCOT2023_Seydou.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Seydou.pdf) | [1] |
-| Accélération du ray-tracing avec des Bounding Volume Hierarchies | Alaric | [![TIPE2023_Alaric.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Alaric.pdf) | [![MCOT2023_Alaric.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Alaric.pdf) | [GitHub](https://github.com/ala89/ray-tracer) |
-| L'impact des phénomènes physiques dans la cybersécurité | Flavio | [![TIPE2023_Flavio.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Flavio.pdf) | [![MCOT2023_Flavio.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Flavio.pdf) | - |
-| Modéliser les mouvements de foules afin de jauger les risques de haute densité de population dans un espace restreint | Leïla IKSIL | [![TIPE2023_Leila.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Leila.pdf) | [![MCOT2023_Leila.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Leila.pdf) | TIPE ENS Disponible |
-| Optimisation de la collecte des déchets | *Anonyme* | [![TIPE2023_Anonyme1.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Anonyme1.pdf) | [![MCOT2023_Anonyme1.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Anonyme1.pdf) | - |
-| Résolution de niveaux du Sokoban | Valentin CARREZ</br>&</br>*Anonyme* |  [![TIPE2023_Valentin.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Valentin.pdf)</br>[![TIPE2023_Anonyme2.pdf](/icons/gallery.ico)](/documents/TIPE/TIPE2023_Anonyme2.pdf) | [![MCOT2023_Valentin.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Valentin.pdf)</br>- | [GitHub](https://github.com/PoulpoGaz/sokoshell) |
-| Étude théorique et heuristique du problème d'optimisation Weighted MAX-SAT et application à la répartition d'individus dans des logements en ville | Nathan RAPIN | - | [![MCOT2023_Nathan.pdf](/icons/document.ico)](/documents/TIPE/MCOT2023_Nathan.pdf) | - |
+| Conception d'un protocole adapté aux objets connectés dans un réseau dense | Timothée | [![TIPE_Thimothée.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Timothée.pdf) | [![MCOT_Thimothée.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Timothée.pdf) | [Annexes](/documents/TIPE/2023/Annexes_Timothée.pdf) |
+| Attaques par canaux auxiliaires | Maël HOSTETTLER | [![TIPE_Mael_Hostettler.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Mael_Hostettler.pdf) | [![MCOT_Mael_Hostettler.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Mael_Hostettler.pdf) | - |
+| Attaques sur RSA | @lasercata |[![TIPE_lasercata.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_lasercata.pdf) | [![MCOT_lasercata.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_lasercata.pdf)| [GitHub](https://github.com/lasercata/RSA_attacks_TIPE) |
+| Aquaplaning et Pneumatiques Slicks | Aubin SIONVILLE | [![TIPE_Aubin_Sionville.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Aubin_Sionville.pdf) | [![MCOT_Aubin_Sionville.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Aubin_Sionville.pdf) | - |
+| Optimisation d'une livraison de colis par biomimétisme | Eliot CLERC | [![TIPE_Eliot_Clerc.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Eliot_Clerc.pdf) | [![MCOT_Eliot_Clerc.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Eliot_Clerc.pdf) | - |
+| Comment optimiser la tournée d’un livreur ? | @Axiome | [![TIPE_Axiome.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Axiome.pdf) | [![MCOT_Axiome.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Axiome.pdf) | TIPE ENS disponible |
+| Distribution optimale et maximale de biens à livrer au sein d’une ville | Seydou SENE | [![TIPE_Seydou_Sene.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Seydou_Sene.pdf) | [![MCOT_Seydou_Sene.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Seydou_Sene.pdf) | [1] |
+| Accélération du ray-tracing avec des Bounding Volume Hierarchies | Alaric | [![TIPE_Alaric.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Alaric.pdf) | [![MCOT_Alaric.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Alaric.pdf) | [GitHub](https://github.com/ala89/ray-tracer) |
+| L'impact des phénomènes physiques dans la cybersécurité | Flavio | [![TIPE_Flavio.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Flavio.pdf) | [![MCOT_Flavio.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Flavio.pdf) | - |
+| Modéliser les mouvements de foules afin de jauger les risques de haute densité de population dans un espace restreint | Leïla IKSIL | [![TIPE_Leila.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Leila.pdf) | [![MCOT_Leila.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Leila.pdf) | TIPE ENS Disponible |
+| Optimisation de la collecte des déchets | *Anonyme* | [![TIPE_Anonyme_1.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Anonyme_1.pdf) | [![MCOT_Anonyme_1.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Anonyme_1.pdf) | - |
+| Résolution de niveaux du Sokoban | Valentin CARREZ</br>&</br>*Anonyme* |  [![TIPE_Valentin_Carrez.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Valentin_Carrez.pdf)</br>[![TIPE_Anonyme_2.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Anonyme_2.pdf) | [![MCOT_Valentin_Carrez.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Valentin_Carrez.pdf)</br>- | [GitHub](https://github.com/PoulpoGaz/sokoshell) |
+| Étude théorique et heuristique du problème d'optimisation Weighted MAX-SAT et application à la répartition d'individus dans des logements en ville | Nathan RAPIN | - | [![MCOT_Nathan_Rapin.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Nathan_Rapin.pdf) | - |
 
 [1] *La présentation est trop chargée pour être présentée en 15min.*
 
@@ -174,7 +175,7 @@ Pour la première promotion de la filière, le thème était une porte grande ou
 
 | Titre | Étudiant.e | Rapport |
 |:-----:|:----------:|:-------:|
-| Utilisation de l’algorithme de Kuhn pour l’attribution de logements étudiants | Carole VACHERAND | [![TIPEENS2023_Carole.pdf](/icons/document.ico)](/documents/TIPE/TIPEENS2023_Carole.pdf) |
-| Modélisation du phénomène d’îlot de chaleur urbain | Alexis FARGEAT | [![TIPEENS2023_Alexis.pdf](/icons/document.ico)](/documents/TIPE/TIPEENS2023_Alexis.pdf) |
-| Optimisation de la tournée d’un livreur grâce à un algorithme génétique | @Axiome | [![TIPEENS2023_Axiome.pdf](/icons/document.ico)](/documents/TIPE/TIPEENS2023_Axiome.pdf) |
-| Comment les modélisations peuvent-elles nous permettre de réduire les risques de mouvement de foule ou de foule compacte ? | Leïla IKSIL | [![TIPEENS2023_Leila.pdf](/icons/document.ico)](/documents/TIPE/TIPEENS2023_Leila.pdf) |
+| Utilisation de l’algorithme de Kuhn pour l’attribution de logements étudiants | Carole VACHERAND | [![TIPEENS_Carole.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Carole.pdf) |
+| Modélisation du phénomène d’îlot de chaleur urbain | Alexis FARGEAT | [![TIPEENS_Alexis.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Alexis.pdf) |
+| Optimisation de la tournée d’un livreur grâce à un algorithme génétique | @Axiome | [![TIPEENS_Axiome.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Axiome.pdf) |
+| Comment les modélisations peuvent-elles nous permettre de réduire les risques de mouvement de foule ou de foule compacte ? | Leïla IKSIL | [![TIPEENS_Leila.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Leila.pdf) |
