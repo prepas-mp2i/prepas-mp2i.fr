@@ -147,7 +147,6 @@ Voir la page [annales](https://www.concoursminesponts.fr/page-6/) du site du con
 | Langue vivante A     | [![CCMP_Langues.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Langues.pdf)                       |
 
 > Le rapport du jury sur tous les sujets est ici : [![Rapport-Final-Ecrit-2023_CCMP.pdf](/icons/download.ico)](/documents/rapports/2023/Rapport-Final-Ecrit-2023_CCMP.pdf)
-
 > Le rapport du jury sur tous les oraux est ici : [![Rapport-Final-Oral-2023-CCMP.pdf](/icons/download.ico)](/documents/rapports/2023/Rapport-Final-Oral-2023-CCMP.pdf)
 
 ### CCINP

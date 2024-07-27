@@ -13,7 +13,7 @@ categories:
 ## Préface
 
 {{< admonition warning "Crédits et licence" true >}}
-Cette page est tirée d'un Google Docs accessible au lien suivant : [https://docs.google.com/document/d/1YLzINJacUIDGHh-oCUmNQhDRDgcu2qGL266AMBNEBgo/edit](https://docs.google.com/document/d/1YLzINJacUIDGHh-oCUmNQhDRDgcu2qGL266AMBNEBgo/edit)
+Cette page est tirée d'un Google Docs accessible [ici](https://docs.google.com/document/d/1YLzINJacUIDGHh-oCUmNQhDRDgcu2qGL266AMBNEBgo/edit).
 
 Ce document - et cette page, *a fortiori* - sont distribués sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 {{< /admonition >}}

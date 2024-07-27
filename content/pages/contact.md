@@ -35,7 +35,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Champollion | Grenoble | [atsdevou@gmail.com](mailto:atsdevou@gmail.com) |
 | Charles Coëffin | Baie-Malhaut  | [indisponible](mailto:) |
 | Claude Fauriel | Saint-Etienne | [charlehenri.bonjour@gmail.com](mailto:charlehenri.bonjour@gmail.com) |
-| Clemenceau | Nantes | [gueguenpierre.pro@gmail.com](mailto:gueguenpierre.pro@gmail.com) |
+| Clemenceau | Nantes | [gabrielletolub@gmail.com](mailto:gabrielletolub@gmail.com) |
 | Colbert | Tourcoing | [indisponible](mailto:) |
 | Descartes | Tours | [antoine@cardiles.fr](mailto:antoine@cardiles.fr) |
 | Faidherbe | Lille | [mp2ifaidherbe.contact@gmail.com](mailto:mp2ifaidherbe.contact@gmail.com) |
@@ -49,7 +49,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Joffre | Montpellier | [tibestarthur@gmail.com](mailto:tibestarthur@gmail.com) |
 | Kléber | Strasbourg | [pierredethurens@gmail.com](mailto:pierredethurens@gmail.com) |
 | Le Parc | Lyon 06 | [younesi.maths@gmail.com](mailto:younesi.maths@gmail.com) |
-| Louis Le Grand | Paris 05 | [aurelienchen@outlook.com](mailto:aurelienchen@outlook.com) |
+| Louis Le Grand | Paris 05 | [mp2i.llg@gmail.com](mailto:mp2i.llg@gmail.com) |
 | Louis Thuillier | Amiens | [titouan.leveque@protonmail.com](mailto:titouan.leveque@protonmail.com) |
 | Montaigne | Bordeaux | [alessandre.laguierce@protonmail.com](mailto:alessandre.laguierce@protonmail.com) |
 | Paul Valery | Paris 12 | [leloup05a@gmail.com](mailto:leloup05a@gmail.com) |
