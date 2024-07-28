@@ -11,7 +11,7 @@ enableEmoji = true
   [[menu.main]]
     pre = """<i class="fas fa-folder-open fa-fw"></i>"""
     url = "/categories/"
-    weight = 8
+    weight = 9
 
 [taxonomies]
   category = "categories"
