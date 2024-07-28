@@ -42,17 +42,11 @@ Une question ? Un problème ? Vous pouvez nous contacter sur le [serveur Discord
 
 ## Composition du conseil d'administration
 
-**Président & trésorier** : Jeremy (jejeworld)
-
-**Vices-présidents** : Adrien (.adridri.) et Antoine C (dani_leriston)
-
-**Secrétaire générale** : Nozaé (nozae)
-
-**Secrétaire spécialisé Marketing** : Emma (lambdaniris)
-
-**Secrétaire Spécialisé Site** : Tristan (triw12)
-
-**Secrétaire Spécialisé Communication** : Adam (.linghun)
+{{< figure
+    caption="Diagramme de gestion de l'association"
+    src="/images/organigramme.png"
+    class="invert"
+>}}
 
 ## Documents relatifs à l'association
 
