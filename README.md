@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Ce site web à pour but de mettre en avant la filière MP2I/MPI.
+Ce site web a pour but de mettre en avant la filière MP2I/MPI.
 
 Nous voulons y rassembler les premiers témoignages ainsi que des informations et des conseils sur cette nouvelle filière !
 
