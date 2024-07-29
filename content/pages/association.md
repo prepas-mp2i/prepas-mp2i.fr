@@ -50,4 +50,4 @@ Une question ? Un problème ? Vous pouvez nous contacter sur le [serveur Discord
 ## Documents relatifs à l'association
 
 - [Règlement intérieur](/documents/association/Reglement_interieur.pdf)
-- [Status](/documents/association/Statuts.pdf)
+- [Statuts](/documents/association/Statuts.pdf)
