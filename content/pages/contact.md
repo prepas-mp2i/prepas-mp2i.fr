@@ -6,7 +6,7 @@ menu:
         name: Contact
         weight: 8
 date: 2021-12-20T00:07:53+01:00
-categories :
+categories:
     - Ressources
 ---
 

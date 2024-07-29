@@ -1,18 +1,18 @@
 ---
-title: L'association
+title: L'association des étudiants en CPGE MP2I/MPI
 url: /association
 date: 2024-05-04T18:00:00+01:00
 tags:
     - préparationnaires
 menu:
     main:
-        name: L'association
+        name: Association
         weight: 7
 categories:
     - Ressources
 ---
 
-L'association des Étudiants en Classes Préparatoires aux Grandes Écoles MP2I/MPI "Étudiants en CPGE MP2I/MPI" est une association de loi 1901 à but non lucratif rassemblant de nombreux étudiants étant ou ayant été en classe préparatoires MP2I/MPI.
+L'association des Étudiants en Classes Préparatoires aux Grandes Écoles MP2I/MPI est une association de loi 1901 à but non lucratif rassemblant de nombreux étudiants étant ou ayant été en classe préparatoires MP2I/MPI.
 
 ## Objectifs
 
@@ -27,10 +27,9 @@ Les objectifs de l'association sont :
 
 L'association est ouverte à tous les étudiants actuels de CPGE MP2I et MPI, ainsi qu'aux anciens étudiants de CPGE MP2I et/ou MPI.
 
-{{< style "text-align:center; font-size: 2rem; margin: 1em" >}}
-**[Adhérer à l'association](https://www.helloasso.com/associations/association-des-etudiants-en-classes-preparatoires-aux-grandes-ecoles-mp2i-mpi/adhesions/adhesion-annuelle/widget)** 
+{{< style "text-align:center; font-size: 1.5em; margin: 1em" >}}
+**[Adhérer à l'association](https://www.helloasso.com/associations/association-des-etudiants-en-classes-preparatoires-aux-grandes-ecoles-mp2i-mpi/adhesions/adhesion-annuelle/widget)**
 {{< /style >}}
-
 
 {{< admonition info "Professeurs" true >}}
 Le titre de "Membre Honoraire" peut être accordé sur demande aux professeurs de classes de MP2I/MPI ou aux professeurs d'écoles accessibles aux étudiants de MP2I/MPI
@@ -50,6 +49,5 @@ Une question ? Un problème ? Vous pouvez nous contacter sur le [serveur Discord
 
 ## Documents relatifs à l'association
 
-**Règlement intérieur** : [![Règlement intérieur](/icons/download.ico)](/documents/association/Reglement_interieur.pdf)
-
-**Status** : [![Status](/icons/download.ico)](/documents/association/Status.pdf)
+- [Règlement intérieur](/documents/association/Reglement_interieur.pdf)
+- [Status](/documents/association/Status.pdf)

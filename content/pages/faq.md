@@ -94,7 +94,6 @@ Mais la MP2I n'est pas la formation la plus adaptée pour apprendre seulement à
 {{< right >}} *Jeremy, MPI, Centre International de Valbonne (2023)* {{< /right >}}
 {{< /admonition >}}
 
-
 ## Les étudiants
 
 {{< admonition quote "Y a-t-il beaucoup de filles en MP2I ?" false >}}

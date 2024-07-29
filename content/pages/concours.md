@@ -141,7 +141,8 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 | Informatique   | 4   | 5   | 5   | 5 |
 | Langue Vivante | 1.5 | 1.5 | 1.5 | 2 |
 | TP Algo        | 4   | 5   | 6.5 | 5 |
-| [TIPE][TIPEENS]           | 1   | 3   | 2   | 5 |
+| [TIPE][TIPEENS] | 1   | 3   | 2   | 5 |
+
 {{< /admonition >}}
 
 ## Concours Centrale
@@ -619,8 +620,7 @@ nombres de places sur la rubrique « Inter-filière » du scei. L’avancement d
 | [EIGSI][EIGSI] *- École d'ingénieurs généralistes* | EIGSI La Rochelle | 5 |
 | [EIGSI][EIGSI] *- École d'ingénieurs généralistes* | EIGSI Casablanca | 1 |
 | [ESIGELEC][ESIGELEC] *- Rouen/Poitiers* | École d'ingénieurs généralistes ∘ Rouen : statut étudiant et statut apprenti ∘ Poitiers : statut apprenti | 10 |
-| [ESILV][ESILV] *- Nantes* | École d’ingénieurs généralistes
-et technologies numériques | 2 |
+| [ESILV][ESILV] *- Nantes* | École d’ingénieurs généralistes et technologies numériques | 2 |
 | [ESILV][ESILV] *- Paris La Défense* | École d'ingénieurs généralistes | 10 |
 | [BUILDERS][BUILDERS] *- École d'ingénieurs génie civil & construction durable* | BUILDERS Caen | 1 |
 | [BUILDERS][BUILDERS] *- École d'ingénieurs génie civil & construction durable* | BUILDERS Lyon | 1 |
