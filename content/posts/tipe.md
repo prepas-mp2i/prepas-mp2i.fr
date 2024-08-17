@@ -138,7 +138,7 @@ Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été 
 
 | Titre | Étudiant.e | Présentation | MCOT | Autres |
 |:-----:|:--------:|:------------:|:----:|:------:|
-| Optimisation de la trajectoire idéale sur un circuit de sport automobile | Alois DENOISEUX | [![TIPE_Alois_Denoiseux.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Alois_Denoiseux.pdf) | [![MCOT_Alois_Denoiseux.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Alois_Denoiseux.pdf) | [Github](https://github.com/Al0den/car-neural-network) |
+| Optimisation de la trajectoire idéale sur un circuit de sport automobile | Alois DENOISEUX | [![TIPE_Alois_Denoiseux.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Alois_Denoiseux.pdf)[^1] | [![MCOT_Alois_Denoiseux.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Alois_Denoiseux.pdf) | [Github](https://github.com/Al0den/car-neural-network) |
 | Génération de trajectoires automobiles sur circuit | Pierre GUEGUEN | [![TIPE_Pierre_Gueguen.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Pierre_Gueguen.pdf) | [![MCOT_Pierre_Gueguen.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Pierre_Gueguen.pdf) | - |
 | La place de la radiosité dans la quête du réalisme virtuel | Marc BETOUS | [![TIPE_Marc_Betous.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Marc_Betous.pdf) | [![MCOT_Marc_Betous.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Marc_Betous.pdf) | - |
 
@@ -180,3 +180,5 @@ Pour la première promotion de la filière, le thème était une porte grande ou
 | Modélisation du phénomène d’îlot de chaleur urbain | Alexis FARGEAT | [![TIPEENS_Alexis.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Alexis.pdf) |
 | Optimisation de la tournée d’un livreur grâce à un algorithme génétique | @Axiome | [![TIPEENS_Axiome.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Axiome.pdf) |
 | Comment les modélisations peuvent-elles nous permettre de réduire les risques de mouvement de foule ou de foule compacte ? | Leïla IKSIL | [![TIPEENS_Leila.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Leila.pdf) |
+
+[^1]: ERRATUM : Slide 7, la force aérodynamqiue doit être vers le sol
