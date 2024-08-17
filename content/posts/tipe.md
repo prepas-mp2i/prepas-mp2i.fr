@@ -162,7 +162,7 @@ Pour la première promotion de la filière, le thème était une porte grande ou
 | Aquaplaning et Pneumatiques Slicks | Aubin SIONVILLE | [![TIPE_Aubin_Sionville.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Aubin_Sionville.pdf) | [![MCOT_Aubin_Sionville.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Aubin_Sionville.pdf) | - |
 | Optimisation d'une livraison de colis par biomimétisme | Eliot CLERC | [![TIPE_Eliot_Clerc.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Eliot_Clerc.pdf) | [![MCOT_Eliot_Clerc.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Eliot_Clerc.pdf) | - |
 | Comment optimiser la tournée d’un livreur ? | @Axiome | [![TIPE_Axiome.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Axiome.pdf) | [![MCOT_Axiome.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Axiome.pdf) | TIPE ENS disponible |
-| Distribution optimale et maximale de biens à livrer au sein d’une ville | Seydou SENE | [![TIPE_Seydou_Sene.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Seydou_Sene.pdf) | [![MCOT_Seydou_Sene.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Seydou_Sene.pdf) | [1] |
+| Distribution optimale et maximale de biens à livrer au sein d’une ville | Seydou SENE | [![TIPE_Seydou_Sene.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Seydou_Sene.pdf) | [![MCOT_Seydou_Sene.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Seydou_Sene.pdf) | [^2] |
 | Accélération du ray-tracing avec des Bounding Volume Hierarchies | Alaric | [![TIPE_Alaric.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Alaric.pdf) | [![MCOT_Alaric.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Alaric.pdf) | [GitHub](https://github.com/ala89/ray-tracer) |
 | L'impact des phénomènes physiques dans la cybersécurité | Flavio | [![TIPE_Flavio.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Flavio.pdf) | [![MCOT_Flavio.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Flavio.pdf) | - |
 | Modéliser les mouvements de foules afin de jauger les risques de haute densité de population dans un espace restreint | Leïla IKSIL | [![TIPE_Leila.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Leila.pdf) | [![MCOT_Leila.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Leila.pdf) | TIPE ENS Disponible |
@@ -170,7 +170,6 @@ Pour la première promotion de la filière, le thème était une porte grande ou
 | Résolution de niveaux du Sokoban | Valentin CARREZ</br>&</br>*Anonyme* |  [![TIPE_Valentin_Carrez.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Valentin_Carrez.pdf)</br>[![TIPE_Anonyme_2.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Anonyme_2.pdf) | [![MCOT_Valentin_Carrez.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Valentin_Carrez.pdf)</br>- | [GitHub](https://github.com/PoulpoGaz/sokoshell) |
 | Étude théorique et heuristique du problème d'optimisation Weighted MAX-SAT et application à la répartition d'individus dans des logements en ville | Nathan RAPIN | - | [![MCOT_Nathan_Rapin.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Nathan_Rapin.pdf) | - |
 
-[1] *La présentation est trop chargée pour être présentée en 15min.*
 
 #### ENS
 
@@ -182,3 +181,4 @@ Pour la première promotion de la filière, le thème était une porte grande ou
 | Comment les modélisations peuvent-elles nous permettre de réduire les risques de mouvement de foule ou de foule compacte ? | Leïla IKSIL | [![TIPEENS_Leila.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Leila.pdf) |
 
 [^1]: ERRATUM : Slide 7, la force aérodynamqiue doit être vers le sol
+[^2]: La présentation est trop chargée pour être présentée en 15min.
