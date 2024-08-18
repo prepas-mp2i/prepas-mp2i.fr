@@ -141,7 +141,7 @@ Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été 
 | Optimisation de la trajectoire idéale sur un circuit de sport automobile | Alois DENOISEUX | [![TIPE_Alois_Denoiseux.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Alois_Denoiseux.pdf)[^1] | [![MCOT_Alois_Denoiseux.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Alois_Denoiseux.pdf) | [Github](https://github.com/Al0den/car-neural-network) |
 | Génération de trajectoires automobiles sur circuit | Pierre GUEGUEN | [![TIPE_Pierre_Gueguen.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Pierre_Gueguen.pdf) | [![MCOT_Pierre_Gueguen.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Pierre_Gueguen.pdf) | - |
 | La place de la radiosité dans la quête du réalisme virtuel | Marc BETOUS | [![TIPE_Marc_Betous.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Marc_Betous.pdf) | [![MCOT_Marc_Betous.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Marc_Betous.pdf) | - |
-| Reconnaissance et séparation de notes et d'accords dans un fichier audio musical par analyse spectrale | Florentin NOGUES | [![TIPE_Florentin_Nogues.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Florentin_Nogues.pdf) | [![MCOT_Florentin_Nogues.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Florentin_Nogues.pdf) | - |
+| Reconnaissance et séparation de notes et d'accords dans un fichier audio musical par analyse spectrale | Florentin NOGUES </br>&</br> *Anonyme* </br>&</br> *Anonyme* | [![TIPE_Florentin_Nogues.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Florentin_Nogues.pdf) | [![MCOT_Florentin_Nogues.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Florentin_Nogues.pdf) | - |
 #### ENS
 
 | Titre | Étudiant.e | Rapport | Remarque |
