@@ -141,7 +141,8 @@ Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été 
 | Optimisation de la trajectoire idéale sur un circuit de sport automobile | Alois DENOISEUX | [![TIPE_Alois_Denoiseux.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Alois_Denoiseux.pdf)[^1] | [![MCOT_Alois_Denoiseux.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Alois_Denoiseux.pdf) | [Github](https://github.com/Al0den/car-neural-network) |
 | Génération de trajectoires automobiles sur circuit | Pierre GUEGUEN | [![TIPE_Pierre_Gueguen.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Pierre_Gueguen.pdf) | [![MCOT_Pierre_Gueguen.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Pierre_Gueguen.pdf) | - |
 | La place de la radiosité dans la quête du réalisme virtuel | Marc BETOUS | [![TIPE_Marc_Betous.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Marc_Betous.pdf) | [![MCOT_Marc_Betous.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Marc_Betous.pdf) | - |
-| Reconnaissance et séparation de notes et d'accords dans un fichier audio musical par analyse spectrale | Florentin NOGUES </br>&</br> *Anonyme* </br>&</br> *Anonyme* | [![TIPE_Florentin_Nogues.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Florentin_Nogues.pdf) | [![MCOT_Florentin_Nogues.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Florentin_Nogues.pdf) | - |
+| Reconnaissance et séparation de notes et d'accords dans un fichier audio musical par analyse spectrale | Florentin NOGUES | [![TIPE_Florentin_Nogues.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Florentin_Nogues.pdf) | [![MCOT_Florentin_Nogues.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Florentin_Nogues.pdf) | TIPE réalisé à 3 |
+
 #### ENS
 
 | Titre | Étudiant.e | Rapport | Remarque |
@@ -169,7 +170,6 @@ Pour la première promotion de la filière, le thème était une porte grande ou
 | Optimisation de la collecte des déchets | *Anonyme* | [![TIPE_Anonyme_1.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Anonyme_1.pdf) | [![MCOT_Anonyme_1.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Anonyme_1.pdf) | - |
 | Résolution de niveaux du Sokoban | Valentin CARREZ</br>&</br>*Anonyme* |  [![TIPE_Valentin_Carrez.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Valentin_Carrez.pdf)</br>[![TIPE_Anonyme_2.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Anonyme_2.pdf) | [![MCOT_Valentin_Carrez.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Valentin_Carrez.pdf)</br>- | [GitHub](https://github.com/PoulpoGaz/sokoshell) |
 | Étude théorique et heuristique du problème d'optimisation Weighted MAX-SAT et application à la répartition d'individus dans des logements en ville | Nathan RAPIN | - | [![MCOT_Nathan_Rapin.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Nathan_Rapin.pdf) | - |
-
 
 #### ENS
 
