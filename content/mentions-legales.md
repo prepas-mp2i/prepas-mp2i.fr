@@ -10,24 +10,24 @@ Ces dernières sont accessibles sur le site à la rubrique « Mentions légales 
 
 ## ARTICLE 1 - EDITION
 
-L'édition du site est assurée par le collectif Prépas MP2I, dont l'adresse mail est contact@prepas-mp2i.fr, via le service d'hébergement de projets [Github](https://github.com/). Ce collectif regroupe des dizaines d'étudiants en Classe Préparatoire aux Grandes Ecoles, filière MP2I (Mathématiques Physique Informatique et Ingénierie) et MPI (Mathématiques Physique Informatique).
+L'édition du site est assurée par le collectif Prépas MP2I, dont l'adresse mail est <contact@prepas-mp2i.fr>, via le service d'hébergement de projets [Github](https://github.com/). Ce collectif regroupe des dizaines d'étudiants en Classe Préparatoire aux Grandes Ecoles, filière MP2I (Mathématiques Physique Informatique et Ingénierie) et MPI (Mathématiques Physique Informatique).
 
 Le projet associé au site est Open Source et l'édition est accessible à l'adresse [https://github.com/prepas-mp2i/prepas-mp2i.fr](https://github.com/prepas-mp2i/prepas-mp2i.fr).
 
 ## ARTICLE 2 - HEBERGEMENT
 
-L'hébergement du site est assuré par JAYAT Adrien, dont l'adresse mail est adrien.jayat@protonmail.com.
+L'hébergement du site est assuré par JAYAT Adrien, dont l'adresse mail est <adrien@prepas-mp2i.fr>.
 
-Le site est hébergé sur [InterPlanetary File System (IPFS)](https://fr.wikipedia.org/wiki/InterPlanetary_File_System), un protocole de stockage réseau Peer to Peer (P2P), et [Filecoin](https://filecoin.io/), un réseau de stockage décentralisé basé sur la blockchain.
-Le service [Fleek](https://fleek.co/) est utilisé pour le déploiement du site sur Internet.
+Le site est hébergé chez [OVH SAS](https://ovh.com/), société française située au 2 rue Kellermann, 59100 Roubaix, France.
 
 ## ARTICLE 3 - ACCES AU SITE
 
 L'accès au site est gratuit et sans condition de durée via le protocole HTTP, à l'URL [https://prepas-mp2i.fr](https://prepas-mp2i.fr).
-Le site est accessible sur IPFS via le service [IPNS](https://docs.ipfs.tech/concepts/ipns/), à l'URL [ipns://prepas-mp2i.fr/](ipns://prepas-mp2i.fr/).
 
 Le nom de domaine prepas-mp2i.fr a été acquis le 2 février 2022 chez la société [OVH SAS](https://ovh.com/), qui se réserve le droit de suspendre l'accès au nom de domaine prepas-mp2i.fr.
-La gestion de la zone DNS, qui comprend les sous domaines du site et ses redirections, est gérée par le service [Cloudflare](https://www.cloudflare.com/).
+La gestion de la zone DNS, qui comprend les sous domaines du site et ses redirections, est également gérée par OVH.
+
+En cas de panne ou de défaillance, le service [Cloudflare](https://www.cloudflare.com/) peut-être utilisé pour la zone DNS et l'hébergement du site.
 
 ## ARTICLE 4 - COLLECTE DES DONNEES
 
