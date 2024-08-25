@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://prepas-mp2i.fr"  # baseURL shouldn't contains path
 title = "Prépas MP2I/MPI"
 theme = "LoveIt"
 defaultContentLanguage = "fr"
