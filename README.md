@@ -2,11 +2,10 @@
 
 ## Introduction
 
-Ce site web a pour but de mettre en avant la filière MP2I/MPI.
+Ce site web a pour but de mettre en avant la filière MP2I/MPI et d'informer les lycéens ou actuels préparationnaires.
+Il est maintenu par une communauté d'étudiants ou d'anciens étudiants en MP2I/MPI.
 
-Nous voulons y rassembler les premiers témoignages ainsi que des informations et des conseils sur cette nouvelle filière !
-
-Vous pouvez commencer à fork le projet pour y contribuer.
+Vous pouvez cloner ou fork le projet pour y contribuer.
 
 ## Setup
 

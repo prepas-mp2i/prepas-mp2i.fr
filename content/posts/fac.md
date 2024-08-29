@@ -1,6 +1,6 @@
 ---
-title: Avis des intégrés sur leur non-école d'ingénieur
-url: /fac
+title: Avis des intégrés sur leur formation hors SCEI
+slug: /fac
 date: 2024-08-29
 tags:
     - préparationnaires
@@ -12,14 +12,14 @@ Car il est aussi possible de candidater à d'autres formations que celles propos
 
 Par exemple, les universités recrutent sur dossier, via un site "ecandidat" propre à chaque université. Il faut alors être attentif aux période de campagne pour déposer son dossier (à la même manière que les ENS dossier).
 
-Pour voir les intégrations par scei, voir [ici](/scei).
+Pour voir les intégrations par SCEI, voir [ici](/scei).
 
 ## Magistère d'Informatique, université Paris-Saclay
 
-{{< admonition note "Présentation du magistère en général" false >}} <!-- On pourra mettre la présentation en dehors s'il y a d'autres témoignages de magistère --> 
+{{< admonition note "Présentation du Magistère en général" false >}} <!-- On pourra mettre la présentation en dehors s'il y a d'autres témoignages de magistère -->
 Le [magistère](https://fr.wikipedia.org/wiki/Magist%C3%A8re_(dipl%C3%B4me)) est une formation universitaire en trois ans (3ème année de Licence, 1ère année de Master, 2ème année de Master) accessible après deux années de licence ou équivalent (deux années de prépa par exemple ! ).
 
-Elle s'appuie sur les cursus classique (pour faire 60 ECTS par année) et délivre en plus un "diplôme universitaire" d'un nombre variable d'ECTS (autour de 30). 
+Elle s'appuie sur les cursus classique (pour faire 60 ECTS par année) et délivre en plus un "diplôme universitaire" d'un nombre variable d'ECTS (autour de 30).
 
 C'est donc une formation qui se veut "plus poussée" que les cursus traditionnels de la fac, permettant de suivre des cours souvent assez avancés. Il faut donc être à l'aise sa formation initiale, mais les étudiants sortant de prépa correspondent souvent à ce profil.
 
@@ -28,7 +28,8 @@ Les magistères existent dans plusieurs matières par exemple Mathématiques, Ph
 
 {{< admonition note "Présentation du Magistère d'informatique" false >}}
 
-Le magistère d'informatique (supposé de Paris-Saclay) a pour vocation de former à la recherche, dans différents domaines : 
+Le magistère d'informatique (supposé de Paris-Saclay) a pour vocation de former à la recherche, dans différents domaines :
+
 - informatique théorique (logique, théorie des compilateurs, langages de programmation et sémantique ...) en suivant par exemple en master [le MPRI](https://wikimpri.dptinfo.ens-cachan.fr/doku.php).
 - Intelligence Artificielle en continuant par exemple en master 1 IA puis en M2 le [MVA](https://www.master-mva.com/) (attention contrairement au MPRI, l'accès au MVA en M2 n'est pas dû de droit, il est même très sélectif, mais le magistère constitue une bonne préparation).
 - ...
@@ -38,39 +39,39 @@ En L3 nous pouvons choisir des cours pour commencer à nous orienter vers un mas
 Voici des listes non exhaustive des cours disponibles (peut varier selon les années), certains sont obligatoires.
 
 Les cours suivants sont aussi dans le tronc commun des licences 3 classiques, ils sont donc assez lents mais restent intéressant :
-- Algorithmique, 
+
+- Algorithmique,
 - Logique pour l'Informatique
 - Génie Logiciel Avancé
 - Programmation Fonctionnelle Avancée
 
 Les cours suivants sont exclusifs aux magistères et licence double diplômes, certains sont plus challengeant (informatique théorique) :
-- Compilation 
+
+- Compilation
 - Informatique Théorique
 - Optimisation
 - Introduction à l'Apprentissage Statistique
 - Algorithmes Distribués
 
-Les deux cours suivants sont en communs avec l'ENS Paris-Saclay, ils peuvent demander du travail (surtout lambda-calcul) : 
+Les deux cours suivants sont en communs avec l'ENS Paris-Saclay, ils peuvent demander du travail (surtout lambda-calcul) :
+
 - Lambda-Calcul
 - Programmation Avancée
 
-Au même titre qu'une Unité d'Enseignement (UE), nous pouvons suivre au second semetre un Travaux d'Encadrement à la Recherche (TER). Nous contactons un chercheur d'un laboratoire proche de l'université (LISN, LMF) ou même plus loin (certains sont allés à la Sorbonne), afin de travailler sur un sujet choisi par vous même ou proposé par l'encadrant, au rythme d'une demie-journée par semaine. Il précède souvent le stage (mais pas forcément), qui lui est obligatoire, et d'une durée d'au moins deux mois (afin que nous soyons payés) à partir de mai. 
+Au même titre qu'une Unité d'Enseignement (UE), nous pouvons suivre au second semetre un Travaux d'Encadrement à la Recherche (TER). Nous contactons un chercheur d'un laboratoire proche de l'université (LISN, LMF) ou même plus loin (certains sont allés à la Sorbonne), afin de travailler sur un sujet choisi par vous même ou proposé par l'encadrant, au rythme d'une demie-journée par semaine. Il précède souvent le stage (mais pas forcément), qui lui est obligatoire, et d'une durée d'au moins deux mois (afin que nous soyons payés) à partir de mai.
 
 Il n'est pas possible de suivre le magistère d'informatique en plus d'une formation dans une école (les cours sont trop différents pour pouvoir faire les deux en même temps).
 {{< /admonition >}}
 
 {{< admonition tip "Points positifs" false >}}
-Ce sont de très petites promos (mon année nous étions 20). 
+Ce sont de très petites promos (mon année nous étions 20).
 
 Pour les cours, quand c'est en commun avec les L3 nous sommes nombreux, mais ça arrive assez peu souvent, et plus du tout à partir du second semestre. Ainsi il y a peu de cours en amphi, le reste du temps nous sommes dans des salles de classe pour ~50 personnes max.
 {{< /admonition >}}
 
 {{< admonition warning "Points négatifs" false >}}
-Bien que nous puissons faire beaucoup de sport et gratuitement ou presque (par exemple 40 euros l'abonnement à l'année pour les 4 salles  de musculation), la vie étudiante est bien moins développée qu'en école. Il faut avoir des copains dans les écoles voisines pour s'amuser (je recommande les centraliens). 
+Bien que nous puissons faire beaucoup de sport et gratuitement ou presque (par exemple 40 euros l'abonnement à l'année pour les 4 salles  de musculation), la vie étudiante est bien moins développée qu'en école. Il faut avoir des copains dans les écoles voisines pour s'amuser (je recommande les centraliens).
 {{< /admonition >}}
-
-
-
 
 {{< admonition abstract "Témoignage" false >}}
 Je m'appelle Adrien, et mon choix de parcours en études supérieures s'est principalement construit autour de l'informatique.
@@ -98,8 +99,6 @@ Finalement, suite à des préférences personnelles concernant les cours, j'ai d
 
 En conclusion, je voudrais adresser aux (futurs) étudiants ayant un profil assez proche du mien le message suivant : Les compétences développées en prépa valent le coup. Pouvoir suivre des cours dans des matières variées est une chance. Il faut être ouvert et accepter de toutes les travailler (au moins pour ces deux années), même si l'on a plus de mal avec certaines qu'avec d'autres. C'est le contrat de la prépa.
 
-Puisque je n'avais pas eu beaucoup d'informations par la prépa pour le parcours que j'ai suivi (ce qui est compréhensible, car il est un peu atypique), vous pouvez me contacter à mon adresse (personnelle) : adrien.no@proton.me. Je serai heureux de répondre à vos interrogations.
+Puisque je n'avais pas eu beaucoup d'informations par la prépa pour le parcours que j'ai suivi (ce qui est compréhensible, car il est un peu atypique), vous pouvez me contacter à mon adresse (personnelle) : <adrien.no@proton.me>. Je serai heureux de répondre à vos interrogations.
 {{< right >}} *Adrien, MPI lycée International de Valbonne, (2023)* {{< /right >}}
 {{< /admonition >}}
-
-
