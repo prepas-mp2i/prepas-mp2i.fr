@@ -12,6 +12,8 @@ SCEI est la plateforme permettant aux élèves de deuxième année de classe pr�
 
 Retrouvez ici les témoignages d'anciens MPI sur leurs écoles ! Chacun a la possibilité d'y faire figurer un point positif et un point négatif.
 
+Pour les intégrations hors-scei, voir [ici](/fac).
+
 ## Centrale Nantes - 5 places
 
 {{< admonition tip "Points positifs" false >}}
