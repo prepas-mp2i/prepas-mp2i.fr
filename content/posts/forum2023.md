@@ -11,14 +11,14 @@ categories:
 ---
 
 {{< admonition info "Forum terminé" >}}
-Le forum 2023 est terminé ! Comme l'année dernière, ce ne sont pas moins de 300 élèves ou parents d'élèves qui y ont assisté.
-Vous pouvez télécharger [le diaporama](/documents/diaporama_forum_2023.pdf) utilisé comme support en PDF.
+Le forum 2023 est terminé ! Comme l'année dernière, ce ne sont pas moins de 300 élèves et parents d'élèves qui y ont assisté.
+Vous pouvez télécharger [le diaporama](/documents/forum/diaporama_2023.pdf) utilisé comme support en PDF.
 {{< /admonition >}}
 
 {{< figure
     caption="Réalisée par Carole (Aux Lazaristes)"
-    src="/images/affiche_forum_2023.jpg"
-    link="/documents/affiche_forum_2023.pdf"
+    src="/images/forum/affiche_2023.jpg"
+    link="/documents/forum/affiche_2023.pdf"
     width="60%"
 >}}
 
@@ -33,7 +33,7 @@ Des professeurs interviendront éventuellement sur différents stands.
 ### Retour en image
 
 {{< figure
-    src="/images/salle5_forum_2023.png"
+    src="/images/forum/salle5_2023.png"
     width="100%"
     title="Stand 5 du forum 2023"
     caption="Antonin, Hugo, Oscar et Margaux répondent aux questions posées par les lycéens"
@@ -48,7 +48,7 @@ Il s'organisera autour de différents stands composés de 2 ou 3 établissements
 ### Planning
 
 {{< figure
-    src="/images/planning_forum_2023.png"
+    src="/images/forum/planning_2023.png"
     title="Répartition des établissements selon les différents créneaux"
     width="100%"
     class="invert"
@@ -57,8 +57,23 @@ Il s'organisera autour de différents stands composés de 2 ou 3 établissements
 ## Accès aux stands
 
 Vous trouverez ci-dessous les liens vers les différentes visioconférences :
-| [Accueil](https://visio-agents.education.fr/meeting/signin/173035/creator/96179/hash/4ea91a86df0b01f4604f24340e26386b80902a9f) | [Stand 1](https://visio-agents.education.fr/meeting/signin/173016/creator/96179/hash/5ffb83b8c8d250281f5eeb1b7db456491fca5361) | [Stand 2](https://visio-agents.education.fr/meeting/signin/173019/creator/96179/hash/e056a701f6b4b1b2b24f0b4ea292abe252702141) | [Stand 3](https://visio-agents.education.fr/meeting/signin/173021/creator/96179/hash/98ea85dd3cf04b6b0981fe051af0dd28aa1a63f4) | [Stand 4](https://visio-agents.education.fr/meeting/signin/173029/creator/96179/hash/d234d57a5971ee71e49fef1aaf1e44c9bab266da) | [Stand 5](https://visio-agents.education.fr/meeting/signin/173025/creator/96179/hash/d4eb6b3336325c361d40c15af8ff92c0cc208a51) | [Stand 6](https://visio-agents.education.fr/meeting/signin/173027/creator/96179/hash/a70a8d876d6de8c7dcecfb3e66e8362cc34850eb) |
-| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+
+| [Accueil][Accueil] | [Stand 1][Stand1] | [Stand 2][Stand2] | [Stand 3][Stand3] | [Stand 4][Stand4] | [Stand 5][Stand5] | [Stand 6][Stand6] |
+| ------------------ | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+
+[Accueil]: <https://visio-agents.education.fr/meeting/signin/173035/creator/96179/hash/4ea91a86df0b01f4604f24340e26386b80902a9f> "Accueil"
+
+[Stand1]: <https://visio-agents.education.fr/meeting/signin/173016/creator/96179/hash/5ffb83b8c8d250281f5eeb1b7db456491fca5361> "Stand 1"
+
+[Stand2]: <https://visio-agents.education.fr/meeting/signin/173019/creator/96179/hash/e056a701f6b4b1b2b24f0b4ea292abe252702141> "Stand 2"
+
+[Stand3]: <https://visio-agents.education.fr/meeting/signin/173021/creator/96179/hash/98ea85dd3cf04b6b0981fe051af0dd28aa1a63f4> "Stand 3"
+
+[Stand4]: <https://visio-agents.education.fr/meeting/signin/173029/creator/96179/hash/d234d57a5971ee71e49fef1aaf1e44c9bab266da> "Stand 4"
+
+[Stand5]: <https://visio-agents.education.fr/meeting/signin/173025/creator/96179/hash/d4eb6b3336325c361d40c15af8ff92c0cc208a51> "Stand 5"
+
+[Stand6]: <https://visio-agents.education.fr/meeting/signin/173027/creator/96179/hash/a70a8d876d6de8c7dcecfb3e66e8362cc34850eb> "Stand 6"
 
 {{< admonition warning "Fermeture des stands 1 et 2 après 17h" true >}}
 Le stands 1 et 2 seront fermés après 17h, les intervenants des établissements concernés se déplaceront dans les stands 3 à 6.

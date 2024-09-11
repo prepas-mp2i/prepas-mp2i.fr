@@ -15,15 +15,15 @@ categories:
 ---
 
 {{< admonition info "Forum terminé" >}}
-Le forum 2024 est terminé ! Cette année, plus de 200 lycéens ou parents d'élèves ont été informés. {{< newline >}}
-Vous pouvez télécharger [le diaporama](/documents/diaporama_forum_2024.pdf) utilisé comme support en PDF. {{< newline >}}
+Le forum 2024 est terminé ! Cette année, plus de 200 lycéens et parents d'élèves ont été informés. {{< newline >}}
+Vous pouvez télécharger [le diaporama](/documents/forum/diaporama_2024.pdf) utilisé comme support en PDF. {{< newline >}}
 Vous pouvez aussi accéder au [compte rendu](https://docs.google.com/document/d/1sIXTFi1K0iQ9RcFgbOSIiSMHrXZmme1FRn_3LI3aCWw/edit?usp=sharing) qui reprend les questions et les réponses posées pendant le forum.
 {{< /admonition >}}
 
 {{< figure
     caption="Réalisée par Tristan (Fermat)"
-    src="/images/affiche_forum_2024.jpg"
-    link="/documents/affiche_forum_2024.pdf"
+    src="/images/forum/affiche_2024.jpg"
+    link="/documents/forum/affiche_2024.pdf"
 >}}
 
 ## Présentation
@@ -37,11 +37,11 @@ Cette édition accueillera à la fois des étudiants en MP2I, MPI, 5/2 (élèves
 
 {{< newline >}}
 {{< image
-    src="/images/stand2_forum_2024.png"
+    src="/images/forum/stand2_2024.png"
     width="49%"
 >}}
 {{< image
-    src="/images/stand3_forum_2024.png"
+    src="/images/forum/stand3_2024.png"
     width="49%"
 >}}
 {{< center >}}
@@ -49,7 +49,7 @@ Emma et Nathan (Stand 2) et Clément, Corentin, Paul et Timothé (Stand 3)
 {{< /center >}}
 
 {{< figure
-    src="/images/stand5_forum_2024.png"
+    src="/images/forum/stand5_2024.png"
     width="100%"
     title="Olivier, Solène, Victor et Pierre sur le stand 5 du forum 2023"
 >}}
@@ -63,7 +63,7 @@ Il s'organisera autour de différents stands composés de 2 ou 3 établissements
 ### Planning
 
 {{< figure
-    src="/images/planning_forum_2024.png"
+    src="/images/forum/planning_2024.png"
     title="Répartition des établissements selon les différents créneaux"
     width="100%"
     class="invert"
@@ -72,8 +72,9 @@ Il s'organisera autour de différents stands composés de 2 ou 3 établissements
 ### Accès aux stands
 
 Vous trouverez ci-dessous les liens vers les différentes visioconférences :
+
 | [Accueil][Accueil] | [Stand 1][Stand1] | [Stand 2][Stand2] | [Stand 3][Stand3] | [Stand 4][Stand4] | [Stand 5][Stand5] |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+| ------------------ | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
 
 [Accueil]: <https://visio-agents.education.fr/meeting/signin/303212/creator/96179/hash/0d589c5c42406ba1d47945947cedf1a30ab2f5ef> "Accueil"
 
