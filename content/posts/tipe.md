@@ -142,12 +142,14 @@ Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été 
 | Génération de trajectoires automobiles sur circuit | Pierre GUEGUEN | [![TIPE_Pierre_Gueguen.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Pierre_Gueguen.pdf) | [![MCOT_Pierre_Gueguen.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Pierre_Gueguen.pdf) | - |
 | La place de la radiosité dans la quête du réalisme virtuel | Marc BETOUS | [![TIPE_Marc_Betous.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Marc_Betous.pdf) | [![MCOT_Marc_Betous.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Marc_Betous.pdf) | - |
 | Reconnaissance et séparation de notes et d'accords dans un fichier audio musical par analyse spectrale | Florentin NOGUES | [![TIPE_Florentin_Nogues.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Florentin_Nogues.pdf) | [![MCOT_Florentin_Nogues.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Florentin_Nogues.pdf) | TIPE réalisé à 3 |
+| Le théorème de Szemerédi-Trotter et les jeux Maker-Breaker | Paul RAPHAEL | [![TIPE_Paul_Raphael.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Paul_Raphael.pdf) | [![MCOT_Paul_Raphael.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Paul_Raphael.pdf) | TIPE ENS disponible |
 
 #### ENS
 
 | Titre | Étudiant.e | Rapport | Remarque |
 |:-----:|:----------:|:-------:|:--------:|
 | Le lemme local de Lovasz, version algorithmique | Alice TOSEL | [![TIPEENS_Alice_Tosel.pdf](/icons/document.ico)](/documents/TIPE/2024/TIPEENS_Alice_Tosel.pdf) | Erreurs mineures dans des schémas et une définition |
+| Le Théorème de Szemerédi–Trotter et les jeux Constructeur-Destructeur | Paul RAPHAEL | [![TIPEENS_Paul_Raphael.pdf](/icons/document.ico)](/documents/TIPE/2024/TIPEENS_Paul_Raphael.pdf) | - |
 
 ### 2023 : La ville
 
