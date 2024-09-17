@@ -20,4 +20,4 @@ draft: true
 
 ## Les langues vivantes dans les écoles d'ingénieurs
 
-Dans la plupart des écoles d'ingénieurs, une deuxième langue vivante est obligatoire parmi celles proposées par l'établissement. Elle est alors prise en compte dans les ECTS et comptera pour 2 heures par semaine en moyenne.
+Dans la plupart des écoles d'ingénieurs, une deuxième langue vivante est obligatoire parmi celles proposées par l'établissement. Elle est alors prise en compte pour le diplôme et comptera pour 2 heures par semaine en moyenne. Pour les diplômes d'ingénieurs accrédités par la CTI (Comission des Titres d'Igénieurs), l'obtention du niveau B2 lors d'une certification est requise - mais le niveau C1 est largement recommandé.
