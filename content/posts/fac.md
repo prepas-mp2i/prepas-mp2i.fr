@@ -10,7 +10,7 @@ categories:
 
 Car il est aussi possible de candidater à d'autres formations que celles proposées par SCEI, vous trouverez ici des témoignages d'étudiants n'ayant pas intégré via SCEI.
 
-Par exemple, les universités recrutent sur dossier, via un site "ecandidat" propre à chaque université. Il faut alors être attentif aux période de campagne pour déposer son dossier (à la même manière que les ENS dossier).
+Par exemple, les universités recrutent sur dossier, via un site "ecandidat" propre à chaque université. Il faut alors être attentif aux période de campagne pour déposer son dossier (à la même manière que les dossiers ENS).
 
 Pour voir les intégrations par SCEI, voir [ici](/scei).
 
@@ -23,7 +23,7 @@ Elle s'appuie sur les cursus classiques (pour faire 60 ECTS par année) et déli
 
 C'est donc une formation qui se veut "plus poussée" que les cursus traditionnels de la fac, permettant de suivre des cours souvent assez avancés. Il faut donc être à l'aise sa formation initiale, mais les étudiants sortant de prépa correspondent souvent à ce profil.
 
-Les magistères existent dans plusieurs matières par exemple Mathématiques, Physique ou Informatique. Il est parfois possible de suivre un magistère en parallèle d'une école d'ingénieur, par exemple suivre le magistère de mathématiques de Paris-Saclay en étant à Centrale Paris ou encore l'ENSAE, ou bien suivre le magistère de physique de Paris-Saclay pendant une formation à Sup'Optique.
+Les magistères existent dans plusieurs matières, par exemple, en Mathématiques, en Physique ou en Informatique. Il est parfois possible de suivre un magistère en parallèle d'une école d'ingénieur, par exemple suivre le magistère de mathématiques de Paris-Saclay en étant à Centrale Paris ou encore l'ENSAE, ou bien suivre le magistère de physique de Paris-Saclay pendant une formation à Sup'Optique.
 {{< /admonition >}}
 
 {{< admonition abstract "Présentation du Magistère d'informatique" false >}}
@@ -58,7 +58,7 @@ Les deux cours suivants sont en communs avec l'ENS Paris-Saclay, ils peuvent dem
 - Lambda-Calcul
 - Programmation Avancée
 
-Au même titre qu'une Unité d'Enseignement (UE), nous pouvons suivre au second semetre un Travail d'Encadrement à la Recherche (TER). Nous contactons un chercheur d'un laboratoire proche de l'université (LISN, LMF) ou même plus loin (certains sont allés à la Sorbonne) afin de travailler sur un sujet choisi par vous-même ou proposé par l'encadrant, au rythme d'une demie-journée par semaine. Il précède souvent le stage (mais pas forcément) qui, lui, est obligatoire, et d'une durée d'au moins deux mois (afin que nous soyons payés) à partir de mai.
+Au même titre qu'une Unité d'Enseignement (UE), nous pouvons suivre au second semestre un Travail d'Encadrement à la Recherche (TER). Nous contactons un chercheur d'un laboratoire proche de l'université (LISN, LMF) ou même plus loin (certains sont allés à la Sorbonne) afin de travailler sur un sujet choisi par vous-même ou proposé par l'encadrant, au rythme d'une demi-journée par semaine. Il précède souvent le stage (mais pas forcément) qui, lui, est obligatoire, et d'une durée d'au moins deux mois (afin que nous soyons payés) à partir de mai.
 
 Il n'est pas possible de suivre le magistère d'informatique en plus d'une formation dans une école (les cours sont trop différents pour pouvoir faire les deux en même temps).
 {{< /admonition >}}
@@ -96,7 +96,7 @@ L'adaptation depuis la prépa s'est plutôt bien passée, pourvu que l'on ait l'
 
 Je dirais que les difficultés rencontrées pendant la prépa m'ont permis cette fois-ci de bien réussir mon année (j'avais appris à mieux me connaître, mes méthodes de travail étaient plus au point).
 
-Finalement, suite à des préférences personnelles concernant les cours, j'ai décidé d'arrêter le magistère de Paris-Saclay l'an prochain (il est surtout intéressant la première année), pour intégrer le MPRI de l'Institut Polytechnique de Paris, dont les cours sont assurés par l'École Polytechnique. (Concernant le fonctionnement du MPRI, chaque établissement s'occupe de la formation en M1, et c'est le M2 qui est commun et se passe à l'université Paris VII.)
+Finalement, suite à des préférences personnelles concernant les cours, j'ai décidé d'arrêter le magistère de Paris-Saclay l'an prochain (il est surtout intéressant la première année), pour intégrer le MPRI de l'Institut Polytechnique de Paris, dont les cours sont assurés par l'École Polytechnique. (Concernant le fonctionnement du MPRI, chaque établissement s'occupe de la formation en M1, et c'est le M2 qui est commun et qui se passe à l'université Paris VII.)
 
 En conclusion, je voudrais adresser aux (futurs) étudiants ayant un profil assez proche du mien le message suivant : Les compétences développées en prépa valent le coup. Pouvoir suivre des cours dans des matières variées est une chance. Il faut être ouvert et accepter de toutes les travailler (au moins pour ces deux années), même si l'on a plus de mal avec certaines qu'avec d'autres. C'est le contrat de la prépa.
 
