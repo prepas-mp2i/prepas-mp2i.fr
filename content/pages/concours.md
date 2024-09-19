@@ -314,7 +314,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 
 [Télécom SudParis]: https://www.telecom-sudparis.eu/
 [Télécom Saint-Étienne]: https://www.telecom-st-etienne.fr/
-[Télécom Physique Strasbourg - Informatique et Réseaux]: https://www.telecom-physique.fr/
+[Télécom Physique Strasbourg - Informatique et Réseaux]: https://www.telecom-physique.fr/formation/departement-informatique-et-reseaux/
 [Télécom Nancy]: https://telecomnancy.univ-lorraine.fr/
 [Mines-Saint-Étienne - ISMIN]: https://www.mines-stetienne.fr/
 [IMT Nord Europe]: https://www.imt-lille-douai.fr/
@@ -357,7 +357,7 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 ## Concours CCINP
 
 > {{< center >}}
-[Site officiel](https://www.concours-commun-inp.fr/fr/index.html) - [Notice du concours](https://www.concours-commun-inp.fr/_resource/CCINP-notice-2024_V30-11-23.pdf?) - [Liste des écoles](https://www.concours-commun-inp.fr/fr/les-ecoles.html)
+[Site officiel](https://www.concours-commun-inp.fr/fr/index.html) - [Notice du concours](https://www.concours-commun-inp.fr/_resource/CCINP-notice-2024_V13_28-02-24.pdf) - [Liste des écoles](https://www.concours-commun-inp.fr/fr/les-ecoles.html)
 {{< /center >}}
 
 ### Détail des places
@@ -389,7 +389,7 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 | [Lorraine INP - ENSIC] | 3 |
 | [SeaTech Toulon] | 2 |
 | [SUPMICROTECH - ENSMM] | 5 |
-| [TELECOM PHYSIQUE Strasbourg] | 10 |
+| [Télécom Physique Strasbourg - Généraliste] | 10 |
 | [Toulouse INP - ENSEEIHT] | 26 |
 | [Toulouse INP - ENSIACET] | 2 |
 
@@ -415,7 +415,7 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 [Lorraine INP - ENSIC]: https://ensic.univ-lorraine.fr/
 [SeaTech Toulon]: https://www.seatech.fr/
 [SUPMICROTECH - ENSMM]: https://www.ens2m.fr/
-[TELECOM PHYSIQUE Strasbourg]: https://www.telecom-physique.fr/
+[Télécom Physique Strasbourg - Généraliste]: https://www.telecom-physique.fr/formation/departement-physique/
 [Toulouse INP - ENSEEIHT]: https://www.enseeiht.fr/
 [Toulouse INP - ENSIACET]: https://www.ensiacet.fr/
 
