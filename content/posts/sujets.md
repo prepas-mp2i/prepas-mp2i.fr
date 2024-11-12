@@ -30,15 +30,15 @@ Retrouvez une compilation d'exercices oraux dans la [Base d'épreuves orales sci
 
 | Épreuve | Sujet | Rapport |
 |:-------:|:-----:|:-------:|
-| Mathématiques A           | [![XLSR_MATHS_A.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MPI-SUJET-MATHS-A-(XLSR).pdf)       | À venir |
-| Mathématiques B           | [![X_MATHS_B.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MP-MPI-SUJET-MATHS-B-(X).pdf)             | À venir |
+| Mathématiques A           | [![XLSR_MATHS_A.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MPI-SUJET-MATHS-A-(XLSR).pdf)       | [![2024-MPI-RAPPORT-ECRIT-MATHEMATIQUES-A-(XLSR).pdf](/icons/download.ico)](/documents/rapports/2024/2024-MPI-RAPPORT-ECRIT-MATHEMATIQUES-A-(XLSR).pdf) |
+| Mathématiques B           | [![X_MATHS_B.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MP-MPI-SUJET-MATHS-B-(X).pdf)             | [![2024_MPI_RAPPORT_ECRIT_DE_MATHS_B_(X).pdf](/icons/download.ico)](/documents/rapports/2024/2024_MPI_RAPPORT_ECRIT_DE_MATHS_B_(X).pdf) |
 | Mathématiques C           | [![ULSR_MATHS_C.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MPI-SUJET-MATHS-C-(ULSR).pdf)       | À venir |
 | Informatique A            | [![XULSR_INFO_A.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MPI-SUJET-INFORMATIQUE-A-(XULSR).pdf)       | À venir |
 | Informatique C            | [![XULSR_INFO_C.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MPI-SUJET-INFORMATIQUE-C-(XULSR).pdf)       | À venir |
 | Informatique fondamentale | [![ULSR_InfoFonda.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MPI-SUJET-INFO-FONDAMENTALE-(ULSR).pdf)   | À venir |
-| Physique                  | [![X_PHYSIQUE.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MPI-SUJET-PHYSIQUE-MPI-(X).pdf)           | À venir |
+| Physique                  | [![X_PHYSIQUE.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MPI-SUJET-PHYSIQUE-MPI-(X).pdf)           | [![2024_MPI_RAPPORT_ECRIT_PHYSIQUE_(X).pdf](/icons/download.ico)](/documents/rapports/2024/2024_MPI_RAPPORT_ECRIT_PHYSIQUE_(X).pdf) |
 | Français                  | [![XEULSR_FRANCAIS.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MP-MPI-PC-SUJET-FRANCAIS-(XEULSR).pdf) | À venir |
-| Anglais                   | [![XEULSR_ANGLAIS_Non_Officiel.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MP-MPI-PC-PSI-SUJET-ANGLAIS-(XEULSR).pdf)      | À venir |
+| Anglais                   | [![XEULSR_ANGLAIS_Non_Officiel.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MP-MPI-PC-PSI-SUJET-ANGLAIS-(XEULSR).pdf)      | [![2024_MPI_RAPPORT_ECRIT_ANGLAIS_(XEULSR).pdf](/icons/download.ico)](/documents/rapports/2024/2024_MPI_RAPPORT_ECRIT_ANGLAIS_(XEULSR).pdf) |
 
 ### Centrale-Supélec
 
@@ -65,18 +65,18 @@ Retrouvez une compilation d'exercices oraux dans la [Base d'épreuves orales sci
 | Français-Philosophie | [![Mines-Francais.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-Francais.pdf) |
 | Langue vivante A     | À venir |
 
-Le rapport du jury sur tous les sujets est à venir...
+> Le rapport du jury sur tous les sujets est ici : [![Rapport-Final-Ecrit-2024_CCMP.pdf](/icons/download.ico)](/documents/rapports/2024/Rapport-Final-Ecrit-2024_CCMP.pdf)
 
 ### CCINP
 
 | Épreuve | Sujet | Rapport |
 |:-------:|:-----:|:-------:|
-| Mathématiques 1      | [![CCINP_MATHS_1.pdf](/icons/download.ico)](/documents/sujets/2024/CCINP-MATHS-1.pdf)         | À venir |
-| Mathématiques 2      | [![CCINP_MATHS_2.pdf](/icons/download.ico)](/documents/sujets/2024/CCINP-MATHS-2.pdf)         | À venir |
-| Informatique         | [![CCINP_INFO.pdf](/icons/download.ico)](/documents/sujets/2024/CCINP-INFO.pdf)               | À venir |
-| Physique-Chimie      | [![CCINP_PHYSCHIMIE.pdf](/icons/download.ico)](/documents/sujets/2024/CCINP-PHYS.pdf)   | À venir |
-| Français-Philosophie | [![CCINP_FRPHILO.pdf](/icons/download.ico)](/documents/sujets/2024/CCINP-FRANCAIS.pdf)         | À venir |
-| Langue vivante A     | [![CCINP_ANGLAIS_LVA.pdf](/icons/download.ico)](/documents/sujets/2024/CCINP-ANGLAIS.pdf) | À venir |
+| Mathématiques 1      | [![CCINP_MATHS_1.pdf](/icons/download.ico)](/documents/sujets/2024/CCINP-MATHS-1.pdf)         | [![CCINP_MATHS_1_ECRIT.pdf](/icons/download.ico)](/documents/rapports/2024/CCINP_MATHS_1_ECRIT.pdf) |
+| Mathématiques 2      | [![CCINP_MATHS_2.pdf](/icons/download.ico)](/documents/sujets/2024/CCINP-MATHS-2.pdf)         | [![CCINP_MATHS_2_ECRIT.pdf](/icons/download.ico)](/documents/rapports/2024/CCINP_MATHS_2_ECRIT.pdf) |
+| Informatique         | [![CCINP_INFO.pdf](/icons/download.ico)](/documents/sujets/2024/CCINP-INFO.pdf)               | [![CCINP_INFO_ECRIT.pdf](/icons/download.ico)](/documents/rapports/2024/CCINP_INFO_ECRIT.pdf) |
+| Physique-Chimie      | [![CCINP_PHYSCHIMIE.pdf](/icons/download.ico)](/documents/sujets/2024/CCINP-PHYS.pdf)   | [![CCINP_PHYSCHIMIE_ECRIT.pdf](/icons/download.ico)](/documents/rapports/2024/CCINP_PHYSCHIMIE_ECRIT.pdf) |
+| Français-Philosophie | [![CCINP_FRPHILO.pdf](/icons/download.ico)](/documents/sujets/2024/CCINP-FRANCAIS.pdf)         | [![CCINP_Rapport_FrPh_2024.pdf](/icons/download.ico)](/documents/rapports/2024/CCINP_Rapport_FrPh_2024.pdf) |
+| Langue vivante A     | [![CCINP_ANGLAIS_LVA.pdf](/icons/download.ico)](/documents/sujets/2024/CCINP-ANGLAIS.pdf) | [![CCINP_LVA_ECRIT.pdf](/icons/download.ico)](/documents/rapports/2024/CCINP_LVA_ECRIT.pdf) |
 
 > *La langue vivante B est facultative.*
 
@@ -86,8 +86,8 @@ Le rapport du jury sur tous les sujets est à venir...
 
 | Épreuve | Sujet | Rapport | Corrigé |
 |:-------:|:-----:|:-------:| :-----: |
-| Mathématiques   | À venir | À venir | À venir |
-| Physique-Chimie | À venir | À venir | À venir |
+| Mathématiques   | Dans le rapport | [![Rapport_corrigee_maths_E3A_Polytech.pdf](/icons/download.ico)](/documents/rapports/2024/Rapport_corrigee_maths_E3A_Polytech.pdf) | Dans le rapport|
+| Physique-Chimie | A venir ? | [![E3A_Rapport_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/rapports/2024/E3A_Rapport_Physique-Chimie_MPI.pdf) | [![E3A_Correction_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/rapports/2024/E3A_Correction_Physique-Chimie_MPI.pdf) |
 
 ## 2023
 
@@ -179,4 +179,4 @@ Voir la page [annales et rapports](https://www.e3a-polytech.fr/annales-et-rappor
 | Épreuve | Sujet | Rapport | Corrigé |
 |:-------:|:-----:|:-------:| :-----: |
 | Mathématiques   | [![E3A_Maths_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Maths_MPI.pdf) | [![Rapport_corrigee_maths_E3A_Polytech.pdf](/icons/download.ico)](/documents/rapports/2023/Rapport_corrigee_maths_E3A_Polytech.pdf) ||
-| Physique-Chimie | [![E3A_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Physique-Chimie_MPI.pdf) | [![E3A_Rapport_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Rapport_Physique-Chimie_MPI.pdf) | [![E3A_Correction_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Correction_Physique-Chimie_MPI.pdf) |
+| Physique-Chimie | [![E3A_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2023/E3A_Physique-Chimie_MPI.pdf) | [![E3A_Rapport_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/rapports/2023/E3A_Rapport_Physique-Chimie_MPI.pdf) | [![E3A_Correction_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/rapports/2023/E3A_Correction_Physique-Chimie_MPI.pdf) |

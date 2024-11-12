@@ -40,6 +40,7 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 ### Statistiques
 
 - [Année 2023](https://www.scei-concours.fr/stat2023/mpi.html)
+- [Année 2024](https://www.scei-concours.fr/stat2024/mpi.html)
 
 ## Concours Polytechnique
 
