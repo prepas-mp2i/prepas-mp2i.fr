@@ -51,7 +51,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Le Parc | Lyon 06 | [younesi.maths@gmail.com](mailto:younesi.maths@gmail.com) |
 | Louis Le Grand | Paris 05 | [mp2i.llg@gmail.com](mailto:mp2i.llg@gmail.com) |
 | Louis Thuillier | Amiens | [titouan.leveque@protonmail.com](mailto:titouan.leveque@protonmail.com) |
-| Montaigne | Bordeaux | [alessandre.laguierce@protonmail.com](mailto:alessandre.laguierce@protonmail.com) |
+| Montaigne | Bordeaux | [albin.comet@laposte.net](mailto:albin.comet@laposte.net) |
 | Paul Valery | Paris 12 | [leloup05a@gmail.com](mailto:leloup05a@gmail.com) |
 | Pierre De Fermat | Toulouse | [raphael.farenc@gmail.com](mailto:raphael.farenc@gmail.com) |
 | Henri Poincaré | Nancy | [louis.delion1007@gmail.com](mailto:louis.delion1007@gmail.com) |
