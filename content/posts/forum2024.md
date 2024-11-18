@@ -1,6 +1,7 @@
 ---
 title: Forum 2024 des étudiants en MP2I/MPI
 url: /forum
+slug: forum-2024
 date: 2024-01-23T20:42:00+01:00
 author: Alain PIALLAT, Adridri
 summary: Page de présentation du forum 2024. Vous y trouverez toutes les informations concernant le forum de la filière MPI-MP2I, édition 2024.
