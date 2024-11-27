@@ -1,6 +1,5 @@
 ---
 title: Forum 2024 des étudiants en MP2I/MPI
-url: /forum
 slug: forum-2024
 date: 2024-01-23T20:42:00+01:00
 author: Alain PIALLAT, Adridri
