@@ -31,7 +31,7 @@ Les cours dispensés en Maths Expertes se rapprochent également plus des cours 
 
 ### La NSI et la Physique-Chimie
 
-Hormis quelques rares exceptions, pour intégrer une classe préparatoire scientifique vous devrez avoir suivi au moins deux spécialités scientifiques en Terminale, si possible trois en Première, mais ce n’est pas essentiel.
+Hormis quelques rares exceptions, pour intégrer une classe préparatoire scientifique vous devrez avoir suivi au moins deux spécialités scientifiques en Terminale, si possible trois en Première.
 
 La MP2I se démarque de la MPSI et de la PCSI car elle repose principalement sur trois matières au lieu de deux : les Mathématiques, la Physique et l’Informatique. Pour mettre toutes les chances de votre côté, il est donc recommandé de choisir les spécialités Physique-Chimie et NSI (Numérique et Sciences Informatiques) en classe de Première pour ne pas se retrouver plus tard avec de trop grandes lacunes dans l’une ou l’autre de ces matières.
 
@@ -221,7 +221,7 @@ Les nombres de demandes et rangs du dernier admis présentés ci-dessous corresp
 [Thiers]: https://www.site.ac-aix-marseille.fr/lyc-thiers/spip/
 [Victor Hugo]: http://lyceehugobesancon.org/LVH/
 
-À la rentrée 2024, 2 lycées ouvriront une classe MP2I en remplacement d'une MPSI :
+À la rentrée 2024, 2 lycées ouvriront une classe MP2I :
 
 | Type   | Lycée            | Ville             | Internat |
 |:------:|:----------------:|:-----------------:|:--------:|
