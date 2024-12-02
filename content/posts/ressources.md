@@ -86,10 +86,6 @@ Un [serveur Discord](https://discord.gg/TGQSrnCxK2) est mis à disposition pour 
 Le site n'est plus mis à jour depuis Août 2022 et n'est plus actif. Vous ne pourrez donc plus trouver de cours particuliers ni les dernières annales.
 {{< /admonition >}}
 
-### Outils de révision
-
-* Fiches de révision numériques (temporairement indisponible): Fiches de révision [LaTeX Cards](https://latexcards.app/) niveau MP/MP* (le programme en mathématiques est le même que celui de MPI, et celui de physique contient quelques suppléments par rapport à la MPI)
-
 ## Concourir
 
 [Olympiades de Mathématiques]: https://www.education.gouv.fr/les-olympiades-nationales-de-mathematiques-5732
