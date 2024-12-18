@@ -16,6 +16,12 @@ categories:
 draft: true
 ---
 
+{{< figure
+    caption="Réalisée par Emma"
+    src="/images/forum/affiche_2025.png"
+    link="/documents/forum/affiche_2025.png"
+>}}
+
 ## Présentation
 
 Après une [édition 2024](/posts/forum-2024/) une nouvelle fois réussie, nous organisons à nouveau un forum virtuel le samedi 22 février 2025 !
