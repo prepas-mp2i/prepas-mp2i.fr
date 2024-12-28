@@ -18,8 +18,6 @@ Les informations sur les concours pour la filière MPI ont été regroupées à 
 > Retrouvez les sujets des années précédentes sur [cette page](https://prepas-mp2i.fr/posts/sujets-des-concours-mpi).
 
 {{< admonition warning "Attention !" true >}}
-Le détail des épreuves ainsi que les nombres de places aux ENS correspondent à la **session 2023**.
-
 Les informations présentes sur cette page ne sont pas exhaustives ; elles permettent seulement un aperçu rapide, et ne sont pas nécessairement à jour. Référez-vous systématiquement aux notices de l'année en cours pour garantir la fiabilité et la précision de vos informations.
 {{< /admonition >}}
 
@@ -29,7 +27,7 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 
 | Polytechnique | ENS | Centrale | Mines-Ponts | Mines Télécom | CCINP | E3A-Polytech |
 |:-------------:|:---:|:--------:|:-----------:|:-------------:|:-----:|:------------:|
-|      24       | (37)|   118    |     124     |      141      |  224  |     161+     |
+|      24       | 37  |   118    |     124     |      141      |  224  |     161+     |
 
 ### Répartition des coefficients
 
@@ -112,6 +110,7 @@ Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont com
 | Informatique Fondamentale | 4h | - |
 
 {{< admonition info "Coefficients" false >}}
+
 |          Épreuve          | ULM (info MPI) | Paris-Saclay | Lyon (I-MPI) | Rennes |
 | :-----------------------: | :------------: | :----------: | :----------: | :----: |
 |      Mathématiques C      |       4        |      5       |      3       |   3    |
@@ -136,6 +135,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 | [TIPE][TIPEENS] | 40 min | - | Discussion avec deux examinateurs, avec possibilité de projeter une présentation ou le rapport préalablement rendu au tableau |
 
 {{< admonition info "Coefficients" false >}}
+
 | Épreuve | ULM (info MPI) | Paris-Saclay | Lyon (I-MPI) | Rennes |
 |:-------:|:--------------:|:------------:|:------------:|:------:|
 | Mathématiques  | 4   | 5   | 3.5 | - |
@@ -661,6 +661,7 @@ Les épreuves d'**Informatique**, de **Français-Philosophie** et de **Langue Vi
 | Physique-Chimie | 4h | Plusieurs parties souvent largement indépendantes ∘ Calculatrice : Autorisée |
 
 {{< admonition info "Coefficients" false >}}
+
 | Épreuve | Polytech | AVENIR PREPAS | Ingeni'up | PUISSANCE ALPHA-CPGE | EIDD - Paris | EIL Côte d'Opale | IMT Nord Europe* |
 |:-------:|:--------:|:-------------:|:---------:|:--------------------:|:------------:|:----------------:|:---------------:|
 | Mathématiques                  | 8 | 6 | 5 | 8 | 8 | 5 | 9 |

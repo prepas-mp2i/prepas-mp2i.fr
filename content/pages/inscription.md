@@ -107,7 +107,7 @@ Ayez toujours en tête que vous ne serez pas forcément pris à l'internat, rega
 
 ### Les bourses
 
-En temps qu'étudiant, vous pouvez demander une bourse sur critères sociaux. Elle vous permet de vous aider financièrement pour vos études supérieures. Elle est conditionnée selon plusieurs critères :
+En temps qu'étudiant.e, vous pouvez demander une bourse sur critères sociaux. Elle vous permet de vous aider financièrement pour vos études supérieures. Elle est conditionnée selon plusieurs critères :
 
 - Les études souhaitées
 - L'âge
@@ -232,6 +232,7 @@ Les nombres de demandes et rangs du dernier admis présentés ci-dessous corresp
 [Jean XXIII]: https://www.metzcampus.fr/campus/pole-superieur-jean-xxiii/
 
 {{< admonition info "MP2I ayant une capacité d'accueil différente de 48 places" false >}}
+
 | Lycée            | Nombre de places |
 |:----------------:|:----------------:|
 | Alfred Kastler   | 24 |
