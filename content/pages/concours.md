@@ -113,12 +113,13 @@ Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont com
 
 |          Épreuve          | ULM (info MPI) | Paris-Saclay | Lyon (I-MPI) | Rennes |
 | :-----------------------: | :------------: | :----------: | :----------: | :----: |
-|      Mathématiques C      |       4        |      5       |      3       |   3    |
-|      Informatique A       |                |              |              |   4    |
-|      Informatique C       |       4        |      5       |      6       |   5    |
+|      Mathématiques C      |       5        |      3       |      4       |   3    |
+|      Informatique A       |                |      3       |              |   4    |
+|      Informatique C       |       5        |      5       |      5       |   5    |
 | Informatique Fondamentale |       4        |      5       |      4       |   3    |
-|   Français-Philosophie    |    2 (adm)     |   2 (adm)    |   2 (adm)    |   2    |
-|      Langue vivante       |   1,5 (adm)    |  1,5 (adm)   |   2 (adm)    |   2    |
+|        Physique MPI       |       2        |              |              |        |
+|   Français-Philosophie    |    8 (adm)     |   2 (adm)    |   2 (adm)    |   2    |
+|      Langue vivante       |    3 (adm)     |  1,5 (adm)   |   2 (adm)    |   2    |
 
 \**adm : compte uniquement pour l'admission finale, pas pour l'admissibilité aux oraux.*
 {{< /admonition >}}
@@ -138,11 +139,11 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 
 | Épreuve | ULM (info MPI) | Paris-Saclay | Lyon (I-MPI) | Rennes |
 |:-------:|:--------------:|:------------:|:------------:|:------:|
-| Mathématiques  | 4   | 5   | 3.5 | - |
-| Informatique   | 4   | 5   | 5   | 5 |
-| Langue Vivante | 1.5 | 1.5 | 1.5 | 2 |
-| TP Algo        | 4   | 5   | 6.5 | 5 |
-| [TIPE][TIPEENS] | 1   | 3   | 2   | 5 |
+| Mathématiques  | 20   | 5   | 4   | - |
+| Informatique   | 20   | 5   | 5   | 5 |
+| Langue Vivante | 3    | 1.5 | 1.5 | 2 |
+| TP Algo        | 20   | 6   | 6   | 5 |
+| [TIPE][TIPEENS] |     | 2   | 2   | 5 |
 
 {{< /admonition >}}
 
