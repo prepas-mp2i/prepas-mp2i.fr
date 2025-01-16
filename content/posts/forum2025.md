@@ -50,7 +50,7 @@ Vous pouvez poser vos questions sur le [Discord](https://discord.gg/Mu439mBdsv) 
 
 > Vous êtes un étudiant de en MP2I ou en MPI et vous souhaitez présenter la filière ? Signalez vous sur le Discord !
 
-Cette année, déjà 8 prépas MP2I/MPI ont annoncé leur présence ! Vous trouverez ci-dessous la liste des 12 intervenants et intervenantes qui se sont proposés :
+Cette année, déjà 8 prépas MP2I/MPI ont annoncé leur présence ! Vous trouverez ci-dessous la liste des 13 intervenants et intervenantes qui se sont proposés :
 
 | MP2I | MP2I | MPI | MP2I | Intégré (M1 Maths UFR) | Intégré (INSA Toulouse) | MPI | Intégrée (ENSG-Géomatique) | MP2I | MP2I | MP2I | MP2I | Intégré (Ulm) |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
