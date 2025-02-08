@@ -95,9 +95,10 @@ Le but principal des TP est de faire fonctionner un algorithme étudié en cours
 
 Pendant les TP, la programmation se fait en **C**  et en **OCaml**.
 
-{{< figure src="/images/logo_C.svg" caption="*Logo du langage C*" width="15%" class="figure-cell" >}}
-{{< figure src="/images/logo_Ocaml.svg" caption="*Logo du langage OCaml*" width="40%" class="figure-cell" >}}
-
+{{< center >}}
+{{< image src="/images/logo_C.svg" width="10%" >}}
+{{< image src="/images/logo_Ocaml.svg" width="36%" >}}
+{{< /center >}}
 > Retrouvez la documentation en ligne du [C](https://devdocs.io/c/) ainsi que le site [OCaml](https://ocaml.org/).
 
 On utilise quelquefois **Python** lors de TP de physique, mais c'est davantage une compétence de traitement de données que des algorithmes complexes.
