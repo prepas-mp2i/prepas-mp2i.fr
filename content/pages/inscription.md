@@ -39,7 +39,9 @@ Une de ces deux spécialités peut être conservée au choix en Terminale. Bien 
 
 Les résultats du Bac dans ces spécialités mais aussi les appréciations ont un gros impact : si on voit que vous êtes travailleur.euse, cela jouera vraiment en votre faveur.
 
-*Nota Bene* : Il reste possible dans certains rares cas d'intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie en Première, mais ce choix ne garantit pas une place en CPGE et risque d'entrainer un retard difficile à combler par la suite. En revanche il est possible de ne pas avoir suivi la spécialité NSI, qui n'est pas disponible dans tous les établissements.
+{{< admonition info "Pas de panique" >}}
+Il reste possible dans certains rares cas d'intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie en Première, mais ce choix ne garantit pas une place en CPGE et risque d'entrainer un retard difficile à combler par la suite. En revanche il est possible de ne pas avoir suivi la spécialité NSI, qui n'est pas disponible dans tous les établissements.
+{{< /admonition >}}
 
 ## Parcoursup
 
