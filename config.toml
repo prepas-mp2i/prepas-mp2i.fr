@@ -31,6 +31,8 @@ enableEmoji = true
 
   [params.author]
     name = "Étudiants"
+    email = "contact@prepas-mp2i.fr"
+    link = "/contact"
 
   [params.app]
     title = "Prépas MP2I/MPI"
