@@ -29,6 +29,9 @@ enableEmoji = true
   gitRepo = "https://github.com/prepas-mp2i/prepas-mp2i.fr/"
   dateFormat = "02/01/2006"
 
+  [params.author]
+    name = "Étudiants"
+
   [params.app]
     title = "Prépas MP2I/MPI"
     noFavicon = false
