@@ -98,6 +98,8 @@ enableEmoji = true
     hiddenFromHomePage = false
     hiddenFromSearch = false
     fontawesome = true
+    [params.page.share]
+      enable = false
 
   [params.analytics]
     enable = true
