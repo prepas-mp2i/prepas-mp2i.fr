@@ -195,17 +195,13 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 
 {{< admonition info "Coefficients différents" false >}}
 
-| Centrale Casablanca | ENSEA |
-|:-------------------:|:-----:|
-| 25・25・18・18・10・4・∅ | 12・12・12・12・24・17・11 |
+| Centrale Casablanca | ENSEA | Ecole navale |
+|:-------------------:|:-----:|:------------:|
+| 25・25・18・18・10・4・∅ | 12・12・12・12・24・17・11 | 14・14・14・14・14・19・11 |
 
 | EPF | ESTP |
 |:---:|:----:|
 | 10・10・10・10・20・20・20 | 16・16・16・16・16・10・10 |
-
-| Ecole navale |
-|:---:|
-| 14・14・14・14・14・19・11 |
 
 {{< /admonition >}}
 
@@ -637,7 +633,7 @@ nombres de places sur la rubrique « Inter-filière » du scei. L’avancement d
 
 #### Écoles indépendantes
 
-| École | Formation | Nombre de places・43+ |
+| École | Formation | Nombre de places・36+ |
 |:-----:|:---------:|:--------------------:|
 | [EIA][EIA] *Béthune* | Génie électrique | 1 |
 | [EIA][EIA] *Béthune* | Bâtiment - Énergie | 1 |
