@@ -36,7 +36,12 @@ Il s'organisera autour de différents stands composés de 2 ou 3 établissements
 
 ### Planning
 
-A venir...
+{{< figure
+    src="/images/forum/planning_2025.png"
+    title="Répartition des établissements selon les différents créneaux"
+    width="100%"
+    class="invert"
+>}}
 
 ### Accès aux stands
 
