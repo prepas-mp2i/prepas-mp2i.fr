@@ -46,7 +46,7 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 [Site officiel](https://www.polytechnique.edu/) - [Notice du concours](https://www.polytechnique.edu/admission-cycle-ingenieur/sites/admission/files/content/Notice%20du%20concours%202025%20publi%C3%A9e.pdf) - [Présentation de l'école](https://www.polytechnique.edu/ecole)
 {{< /center >}}
 
-### Détail des places (!2024!)
+### Détail des places
 
 | École | Nombre de places・24 |
 |:-----:|:--------------------:|
