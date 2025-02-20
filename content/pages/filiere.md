@@ -106,4 +106,4 @@ Voici les chiffres cumulés pour l'année 2023 :
 
 - *Vert* : Lycées publics possédant une MP2I
 - *Orange* : Lycées privés possédant une MP2I
-- *Bleu* : Lycées ouvrant une MP2I à la rentrée 2024
+- *Bleu* : Lycées ouvrant une MP2I à la rentrée 2025
