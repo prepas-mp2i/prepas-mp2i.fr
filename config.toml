@@ -29,6 +29,11 @@ enableEmoji = true
   gitRepo = "https://github.com/prepas-mp2i/prepas-mp2i.fr/"
   dateFormat = "02/01/2006"
 
+  [params.author]
+    name = "Étudiants"
+    email = "contact@prepas-mp2i.fr"
+    link = "/contact"
+
   [params.app]
     title = "Prépas MP2I/MPI"
     noFavicon = false
@@ -93,6 +98,8 @@ enableEmoji = true
     hiddenFromHomePage = false
     hiddenFromSearch = false
     fontawesome = true
+    [params.page.share]
+      enable = false
 
   [params.analytics]
     enable = true
