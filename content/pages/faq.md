@@ -203,7 +203,7 @@ On vous apporte une réponse détaillée sur les différences entre ces deux fil
 {{< /admonition >}}
 
 {{< admonition quote "Quelles sont les meilleures MP2I ?" false >}}
-La question n'a pas vraiment de sens puisque "meilleures" dépend de chacun. La question à réellement se poser est "Comment départager mon choix entre les différents lycées ?" : on vous répond [ici](https://prepas-mp2i.fr/admission/#comment-choisir-sa-pr%C3%A9pa).
+La question n'a pas vraiment de sens puisque "meilleures" dépend de chacun. La question à réellement se poser est "Comment départager mon choix entre les différents lycées ?" : on vous répond [ici](https://prepas-mp2i.fr/inscription/#comment-choisir-sa-pr%C3%A9pa).
 
 {{< right >}} *Étudiants en MP2I/MPI* {{< /right >}}
 {{< /admonition >}}

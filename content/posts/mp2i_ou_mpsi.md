@@ -28,7 +28,7 @@ Bien sûr j'ai reçu des propositions d'admissions, mais entre MP2I et MPSI pour
 :(fas fa-lightbulb): *Il avait les spécialités Mathématiques et NSI en Terminale.*
 {{< /admonition >}}
 
-Pour entrer en **MP2I**, nous vous renvoyons à [cette page](https://prepas-mp2i.fr/admission/#les-sp%C3%A9cialit%C3%A9s-%C3%A0-privil%C3%A9gier).
+Pour entrer en **MP2I**, nous vous renvoyons à [cette page](https://prepas-mp2i.fr/inscription/#les-sp%C3%A9cialit%C3%A9s-%C3%A0-privil%C3%A9gier).
 
 Pour entrer en **MPSI**, le parcours le plus logique (même si, encore une fois, ce n'est pas le seul possible) est de prendre en Première les spécialités Mathématiques, Physique-Chimie et SI (ou NSI si vous visez déjà l'option informatique), puis de conserver Mathématiques et Physique-Chimie en Terminale, sans oublier l'option Mathématiques expertes.
 
