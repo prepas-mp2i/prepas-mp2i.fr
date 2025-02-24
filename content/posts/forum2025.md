@@ -15,6 +15,12 @@ categories:
     - Évènements
 ---
 
+{{< admonition info "Forum terminé" >}}
+Le forum 2025 est terminé ! Cette année, plus de 50 lycéens et parents d'élèves ont pu être informés grâce au forum ! {{< newline >}}
+Vous pouvez télécharger [le diaporama](/documents/forum/diaporama_2025.pdf) utilisé comme support en PDF. {{< newline >}}
+Vous pouvez aussi faire un retour sur l'évenement en temps que spectateur [ici](https://docs.google.com/document/d/1GA4UH0Xu4TuGZMXSeOW74NqVcszdE-kl-nd946U6m1w)
+{{< /admonition >}}
+
 {{< figure
     caption="Réalisée par Emma"
     src="/images/forum/affiche_2025.png"
