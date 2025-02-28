@@ -24,9 +24,9 @@ Si vous êtes ou étiez en MP2I ou MPI et que vous souhaitez soumettre un de vos
 
 ## 2022-2023
 
-### Clément Rouvroy (crdevio)
+### Clément Rouvroy (crvrfr)
 
-- [avantlampii.cr-dev.io](https://avantlampii.cr-dev.io/) : Un document gratuit pour aborder sereinement l'informatique en classe préparatoire. Il possède des points de cours essentiels du programme de NSI et des exercices ouverts pour apprendre à réagir face à des exercices types. Aucun hors-programme, aucune avance nette sur le programme, que de quoi bien commencer votre année !
+- [www.normalesup.org/~rouvroy/post/avantlamp2i.html](https://www.normalesup.org/~rouvroy/post/avantlamp2i) : Un document gratuit pour aborder sereinement l'informatique en classe préparatoire. Il possède des points de cours essentiels du programme de NSI et des exercices ouverts pour apprendre à réagir face à des exercices types. Aucun hors-programme, aucune avance nette sur le programme, que de quoi bien commencer votre année !
 
 ### Aubin Sionville
 
