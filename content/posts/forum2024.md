@@ -47,7 +47,7 @@ Emma et Nathan (Stand 2) et Clément, Corentin, Paul et Timothé (Stand 3)
 {{< figure
     src="/images/forum/stand5_2024.png"
     width="100%"
-    title="Olivier, Solène, Victor et Pierre sur le stand 5 du forum 2023"
+    title="Olivier, Solène, Victor et Pierre sur le stand 5 du forum 2024"
 >}}
 
 ## Organisation

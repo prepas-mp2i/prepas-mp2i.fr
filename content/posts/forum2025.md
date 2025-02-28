@@ -34,6 +34,27 @@ En bref, il s'agit d'une journée portes ouvertes virtuelle via des visioconfér
 
 Cette édition accueillera à la fois des étudiants en MP2I, MPI, 5/2 (élèves ayant redoublé leur deuxième année pour repasser les concours) et école d'ingénieur provenant de MPI. Des professeurs interviendront éventuellement sur différents stands.
 
+### Retour en image
+
+{{< newline >}}
+{{< image
+    src="/images/forum/stand_2025_1.png"
+    width="49%"
+>}}
+{{< image
+    src="/images/forum/stand_2025_2.png"
+    width="49%"
+>}}
+{{< center >}}
+Clément, Cyril et Simon présentant le principe de colle sur un stand | Eliott, Paul et Samuel sur un autre stand
+{{< /center >}}
+
+{{< figure
+    src="/images/forum/stand_2025_3.png"
+    width="100%"
+    title="Albin et Ernest sur un stand du forum 2025"
+>}}
+
 ## Organisation
 
 Le forum des étudiants et étudiantes en MP2I/MPI se tiendra **le samedi 22 février 2025 de 14h à 17h**.
