@@ -18,6 +18,10 @@ Vous êtes en Terminale, l'étape décisive et stressante de passage en études 
 
 La bonne nouvelle, c'est qu'on est aussi passé par là ! Spécialités privilégiées, dilemmes de vœux ... on vous dit ce qu'il en est réellement.
 
+## Immersion dans une classe préparatoire
+
+Il est possible de participer à des journées d'immersion dans les prépas pour se rendre compte de ce qui vous attend. Cela vous permettra de voir si vous êtes prêt à vous investir dans une telle formation. Vous pouvez directement vous renseigner auprès de vos professeurs ou sur le site de l'établissement pour s'inscrire.
+
 ## Les spécialités à privilégier
 
 ### Les Mathématiques et l'option Maths Expertes

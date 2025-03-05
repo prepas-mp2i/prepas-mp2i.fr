@@ -150,8 +150,6 @@ Voir la page [annales](https://www.concoursminesponts.fr/page-6/) du site du con
 
 > Le rapport du jury sur tous les sujets est ici : [![Rapport-Final-Ecrit-2023_CCMP.pdf](/icons/download.ico)](/documents/rapports/2023/Rapport-Final-Ecrit-2023_CCMP.pdf)
 
-> Le rapport du jury sur tous les oraux est ici : [![Rapport-Final-Oral-2023-CCMP.pdf](/icons/download.ico)](/documents/rapports/2023/Rapport-Final-Oral-2023-CCMP.pdf)
-
 ### CCINP
 
 Voir la page [épreuves écrites](https://www.concours-commun-inp.fr/fr/epreuves/les-epreuves-ecrites.html) du site du concours CCINP.

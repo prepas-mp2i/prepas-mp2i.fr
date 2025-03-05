@@ -64,6 +64,7 @@ La MPI étant la filière privilégiée après une MP2I, les places en S.I. sont
 Le choix de la S.I en MP2I est destiné aux élèves qui souhaitent aller en MP ou en PSI, ou pour ceux qui se rendent compte que la manière dont est abordée l'informatique ne leur convient pas.
 
 Voici les volumes horaires du second semestre qui changent selon l'option :
+
 | Option          | Maths | Physique | Chimie | Info |  SI | TIPE | LV1 | Philo-Lettres |
 |:---------------:|:-----:|:--------:|:------:|:----:|:---:|:----:|:---:|:-------------:|
 |   Informatique  |  12   |    6.5   |    0   |   6  |  0  |   2  |  2  |       2       |
@@ -98,7 +99,7 @@ Voici les chiffres cumulés pour l'année 2023 :
 ## Les prépas MP2I en France
 
 {{< iframe
-    src="https://www.google.com/maps/d/embed?mid=1pXdHQGWgtS2nt0b3GKk6wXcVqO6RuIY&ehbc=2E312F"
+    src="<https://www.google.com/maps/d/embed?mid=1pXdHQGWgtS2nt0b3GKk6wXcVqO6RuIY&ehbc=2E312F>"
     height=500px
 >}}
 
