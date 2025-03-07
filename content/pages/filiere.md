@@ -99,7 +99,7 @@ Voici les chiffres cumulés pour l'année 2023 :
 ## Les prépas MP2I en France
 
 {{< iframe
-    src="<https://www.google.com/maps/d/embed?mid=1pXdHQGWgtS2nt0b3GKk6wXcVqO6RuIY&ehbc=2E312F>"
+    src="https://www.google.com/maps/d/embed?mid=1pXdHQGWgtS2nt0b3GKk6wXcVqO6RuIY&ehbc=2E312F"
     height=500px
 >}}
 
