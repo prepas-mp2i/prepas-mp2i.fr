@@ -38,7 +38,7 @@ Réseau alumni immense ;
 Enseignement scientifique de grande qualité mais aussi très généraliste, vie associative intégrée au cursus, plein de cursus différents et plus ou moins professionnalisants ;
 
 Diplôme reconnu et recherché par les entreprises, réseau d'entreprises partenaires immense.
-{{< right >}}*Mathis (<mathis.bottinelli@gmail.com>)*{{< /right >}}
+{{< right >}}*Mathis*{{< /right >}}
 {{< /admonition>}}
 
 {{< admonition failure "Points négatifs" false >}}
