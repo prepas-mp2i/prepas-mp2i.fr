@@ -56,7 +56,7 @@ Un professeur de Physique en CPGE vous met à disposition un récapitulatif des 
 | **MPSI** | I | 12 | 6 | 2 | 0 | 1.5 | 2 | 2 | 2 | 0 |
 | 〃 | II (Info) | 12 | 6 | 2 | 0 | 4 | 0 | 2 | 2 | 2 |
 | 〃 | II (SI légère) | 12 | 6 | 2 | 0 | 2 | 2 | 2 | 2 | 2 |
-| 〃 | II (SI renforcée) | 12 | 6 | 2 | 0 | 0 | 4 | 2 | 2 | 2 |
+| 〃 | II (SI renforcée) | 12 | 6 | 2 | 0 | 2 | 4 | 2 | 2 | 2 |
 
 *À noter que les heures de Physique et de Chimie ne sont pas distinguées en MPSI.*
 

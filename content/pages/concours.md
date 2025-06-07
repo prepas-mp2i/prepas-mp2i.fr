@@ -517,8 +517,8 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 | [Polytech Nice Sophia] | Mathématiques Appliquées, Modélisation | 6 |
 | [Polytech Orléans] | Génie Physique et Systèmes Embarqués | 2 |
 | [Polytech Paris-Saclay] | Informatique et Ingénierie Mathématique | 2 |
-| [Polytech Sorbone] | Électronique et Informatique | 2 |
-| [Polytech Sorbone] | Mathématiques Appliquées et Informatique | 1 |
+| [Polytech Sorbonne] | Électronique et Informatique | 2 |
+| [Polytech Sorbonne] | Mathématiques Appliquées et Informatique | 1 |
 | [Polytech Tours] | Informatique | 3 |
 | [ENSIBS - Lorient] | Cybersécurité du logiciel | 3 |
 | [ENSIM - Le Mans] |   | 2 |
@@ -543,7 +543,7 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 [Polytech Nice Sophia]: https://www.polytechnice.fr/
 [Polytech Orléans]: https://www.univ-orleans.fr/
 [Polytech Paris-Saclay]: https://www.polytech.universite-paris-saclay.fr/
-[Polytech Sorbone]: https://www.polytech.sorbonne-universite.fr/
+[Polytech Sorbonne]: https://www.polytech.sorbonne-universite.fr/
 [Polytech Tours]: https://www.polytech.univ-tours.fr/
 [ENSIBS - Lorient]: https://www-ensibs.univ-ubs.fr/fr/index.html
 [ENSIM - Le Mans]: https://ensim.univ-lemans.fr/fr/index.html
