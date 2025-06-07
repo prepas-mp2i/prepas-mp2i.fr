@@ -45,7 +45,7 @@ Diplôme reconnu et recherché par les entreprises, réseau d'entreprises parten
 En 1ère année, les cours sont un peu "la carte" : vous émettez des vœux (de "peu intéressé" à "très intéressé") pour des cours. On vous attribue alors un cours pour "minimiser le mécontentement". Vous n'avez pas l'assurance d'avoir le cours de votre choix... Ainsi, vous pouvez vous voir refuser les deux seuls cours d'informatique (réseaux, sécurité et théorie de l'information).
 {{< right >}}*Anonyme*{{< /right >}}
 Plus de travail que dans une école "moins sélective", tout en restant loin du rythme prépa.
-{{< right >}}*Mathis (<mathis.bottinelli@gmail.com>)*{{< /right >}}
+{{< right >}}*Mathis*{{< /right >}}
 {{< /admonition>}}
 
 ## ENS Lyon
