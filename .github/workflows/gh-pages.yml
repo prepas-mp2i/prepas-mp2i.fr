@@ -34,4 +34,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          cname: prepas-mp2i.fr # or place the CNAME file in public/ folder
+          # cname: prepas-mp2i.fr # or place the CNAME file in public/ folder
