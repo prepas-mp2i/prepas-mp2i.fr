@@ -21,8 +21,75 @@ Retrouvez les sujets et les rapports de jury de toutes les épreuves sur les sit
 {{< /admonition >}}
 
 {{< admonition tip "Exercices d'oraux" true >}}
-Retrouvez une compilation d'exercices oraux dans la [Base d'épreuves orales scientifiques de concours aux grandes écoles](https://beos.prepas.org) (BEOS).
+Retrouvez une compilation d'exercices oraux dans la [Base d'épreuves orales scientifiques de concours aux grandes écoles](https://beos.prepas.org) (BEOS). Des exemples d'oraux de physique pour le Concours Commun Mines-Ponts vous sont également mis à disposition [ici](/documents/sujets_oraux/exemples_physique_ccmp_2025.pdf).
 {{< /admonition >}}
+
+## 2025
+
+### X/ENS
+
+| Épreuve | Sujet | Rapport |
+|:-------:|:-----:|:-------:|
+| Mathématiques A           | [![XLSR_MATHS_A.pdf](/icons/download.ico)](/documents/sujets/2025/MPI-SUJET-MATHS-A-(XLSR).pdf)       | A venir |
+| Mathématiques B           | [![X_MATHS_B.pdf](/icons/download.ico)](/documents/sujets/2025/MP-MPI-SUJET-MATHS-B-(X).pdf)          | A venir |
+| Mathématiques C           | [![ULSR_MATHS_C.pdf](/icons/download.ico)](/documents/sujets/2025/MPI-SUJET-MATHS-C-(ULSR).pdf)       | À venir |
+| Informatique A            | A venir       | À venir |
+| Informatique C            | A venir       | A venir |
+| Informatique fondamentale | [![ULSR_InfoFonda.pdf](/icons/download.ico)](/documents/sujets/2025/MPI-SUJET-INFO-FONDAMENTALE-(ULSR).pdf)   | A venir |
+| Physique                  | [![X_PHYSIQUE.pdf](/icons/download.ico)](/documents/sujets/2025/MPI-SUJET-PHYSIQUE-MPI-(X).pdf)           | A venir |
+| Français                  | [![XEULSR_FRANCAIS.pdf](/icons/download.ico)](/documents/sujets/2025/MP-MPI-PC-SUJET-FRANCAIS-(XEULSR).pdf) | A venir |
+| Anglais                   | [![XEULSR_ANGLAIS_Non_Officiel.pdf](/icons/download.ico)](/documents/sujets/2025/MP-MPI-PC-PSI-SUJET-ANGLAIS-(XEULSR).pdf)      | A venir |
+
+### Centrale-Supélec
+
+| Épreuve | Sujet |
+|:-------:|:-----:|
+| Mathématiques 1      | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2025/CENTRALE-MATHS-1.pdf)     |
+| Mathématiques 2      | [![Centrale_Maths2.pdf](/icons/download.ico)](/documents/sujets/2025/CENTRALE-MATHS-2.pdf)     |
+| Informatique         | [![Centrale_Info.pdf](/icons/download.ico)](/documents/sujets/2025/CENTRALE-INFO.pdf)          |
+| Physique 1           | [![Centrale_Phys1.pdf](/icons/download.ico)](/documents/sujets/2025/CENTRALE-PHYS-1.pdf)       |
+| Physique 2           | [![Centrale_Phys2.pdf](/icons/download.ico)](/documents/sujets/2025/CENTRALE-PHYS-2.pdf)       |
+| Français-Philosophie | [![Centrale_FraPhilo.pdf](/icons/download.ico)](/documents/sujets/2025/CENTRALE-FRANCAIS.pdf)  |
+| Langues              | [![Centrale_Langues.pdf](/icons/download.ico)](/documents/sujets/2025/CENTRALE-LANGUES.pdf)    |
+
+> Le rapport du jury sur tous les sujets est à venir...
+
+### Concours Commun Mines-Ponts
+
+| Épreuve | Sujet |
+|:-------:|:-----:|
+| Mathématiques 1      | [![Mines-Maths-MPI-1.pdf](/icons/download.ico)](/documents/sujets/2025/Mines-Maths-MPI-1.pdf) |
+| Mathématiques 2      | [![Mines-Maths-MPI-2.pdf](/icons/download.ico)](/documents/sujets/2025/Mines-Maths-MPI-2.pdf) |
+| Informatique 1       | [![Mines-INFO-1-MPI.pdf](/icons/download.ico)](/documents/sujets/2025/Mines-INFO-1-MPI.pdf) |
+| Informatique 2       | [![Mines-INFO-2-MPI.pdf](/icons/download.ico)](/documents/sujets/2025/Mines-INFO-2-MPI.pdf) |
+| Physique 1           | [![Mines-Physique-MPI-1-2024.pdf](/icons/download.ico)](/documents/sujets/2025/Mines-Physique-MPI-1.pdf) |
+| Physique 2           | [![Mines-Physique-MPI-2-2024.pdf](/icons/download.ico)](/documents/sujets/2025/Mines-Physique-MPI-2.pdf) |
+| Français-Philosophie | [![Mines-Francais.pdf](/icons/download.ico)](/documents/sujets/2025/Mines-Francais.pdf) |
+| Langue vivante A     | [![Mines-Langues.pdf](/icons/download.ico)](/documents/sujets/2025/Mines-Langues.pdf) |
+
+> Le rapport du jury sur tous les sujets est à venir ...
+
+### CCINP
+
+| Épreuve | Sujet | Rapport |
+|:-------:|:-----:|:-------:|
+| Mathématiques 1      | [![CCINP_MATHS_1.pdf](/icons/download.ico)](/documents/sujets/2025/CCINP-MATHS-1.pdf)         | A venir |
+| Mathématiques 2      | [![CCINP_MATHS_2.pdf](/icons/download.ico)](/documents/sujets/2025/CCINP-MATHS-2.pdf)         | A venir |
+| Informatique         | [![CCINP_INFO.pdf](/icons/download.ico)](/documents/sujets/2025/CCINP-INFO.pdf)               | A venir |
+| Physique-Chimie      | [![CCINP_PHYSCHIMIE.pdf](/icons/download.ico)](/documents/sujets/2025/CCINP-PHYS.pdf)         | A venir |
+| Français-Philosophie | [![CCINP_FRPHILO.pdf](/icons/download.ico)](/documents/sujets/2025/CCINP-FRANCAIS.pdf)        | [![CCINP_Rapport_FrPh_2024.pdf](/icons/download.ico)](/documents/rapports/2024/CCINP_Rapport_FrPh_2025.pdf) |
+| Langue vivante A     | [![CCINP_ANGLAIS_LVA.pdf](/icons/download.ico)](/documents/sujets/2025/CCINP-ANGLAIS.pdf) | A venir |
+
+> *La langue vivante B est facultative.*
+
+### E3A-Polytech
+
+> Les épreuves d'informatique, de français-philosophie et de langues vivantes sont communes au concours CCINP (voir ci-dessus).
+
+| Épreuve | Sujet | Rapport | Corrigé |
+|:-------:|:-----:|:-------:| :-----: |
+| Mathématiques   | [![E3A_Maths_MPI.pdf](/icons/download.ico)](/documents/sujets/2025/E3A_Maths_MPI.pdf) | A venir | Dans le rapport|
+| Physique-Chimie | [![E3A_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2025/E3A_Physique-Chimie_MPI.pdf) | [![E3A_Rapport_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/rapports/2025/E3A_Rapport_Physique-Chimie_MPI.pdf) | [![E3A_Correction_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/rapports/2025/E3A_Correction_Physique-Chimie_MPI.pdf) |
 
 ## 2024
 
@@ -46,7 +113,7 @@ Retrouvez une compilation d'exercices oraux dans la [Base d'épreuves orales sci
 |:-------:|:-----:|
 | Mathématiques 1      | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-MATHS-1.pdf)     |
 | Mathématiques 2      | [![Centrale_Maths2.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-MATHS-2.pdf)  |
-| Informatique         | [![Centrale_Info.pdf](/icons/download.ico)](/documents/sujets/2024/Centrale_Info.pdf)         |
+| Informatique         | [![Centrale_Info.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-INFO.pdf)         |
 | Physique 1           | [![Centrale_Phys1.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-PHYS-1.pdf)       |
 | Physique 2           | [![Centrale_Phys2.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-PHYS-2.pdf)      |
 | Français-Philosophie | [![Centrale_FraPhilo.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-FRANCAIS.pdf) |
@@ -61,7 +128,7 @@ Retrouvez une compilation d'exercices oraux dans la [Base d'épreuves orales sci
 | Mathématiques 1      | [![Mines-Maths-MPI-1.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-Maths-MPI-1.pdf) |
 | Mathématiques 2      | [![Mines-Maths-MPI-2.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-Maths-MPI-2.pdf) |
 | Informatique 1       | [![Mines-INFO-1-MPI.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-INFO-1-MPI.pdf) |
-| Informatique 2       |[![Mines-INFO-2-MPI.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-INFO-2-MPI.pdf) |
+| Informatique 2       | [![Mines-INFO-2-MPI.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-INFO-2-MPI.pdf) |
 | Physique 1           | [![Mines-Physique-MPI-1-2024.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-Physique-MPI-1-2024.pdf) |
 | Physique 2           | [![Mines-Physique-MPI-2-2024.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-Physique-MPI-2-2024.pdf) |
 | Français-Philosophie | [![Mines-Francais.pdf](/icons/download.ico)](/documents/sujets/2024/Mines-Francais.pdf) |

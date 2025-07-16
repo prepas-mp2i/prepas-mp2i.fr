@@ -88,13 +88,13 @@ Comme la MP2I vient d'ouvrir, il y a eu une grande demande pour cette filière a
 Les lycées les plus prestigieux sont donc, pour la plupart, plus difficiles à intégrer en MP2I qu'en MPSI.
 À noter que la filière reste très accessible dans certains établissements, n'hésitez pas à faire de nombreux vœux pour vous retrouver dans une prépa à votre niveau.
 
-Voici les chiffres cumulés pour l'année 2023 :
+Voici les chiffres cumulés pour l'année 2024 : 
 
-- Nombre de places : 1539
-- Nombre moyen de voeux formulés par établissement : 1338
-- Nombre moyen de propositions d'admission envoyées : 235
-- Rang moyen du dernier admis : 398
-- Taux d'admission moyen : 39,3%
+- Nombre de places : 1617
+- Nombre moyen de voeux formulés par établissement : 1499
+- Nombre moyen de propositions d'admission envoyées : 262
+- Rang moyen du dernier admis : 379
+- Taux d'admission moyen : 40.5%
 
 ## Les prépas MP2I en France
 
