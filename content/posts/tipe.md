@@ -28,7 +28,7 @@ Le TIPE (ou **Travail d'Initiative Personnelle Encadré**) est un travail à eff
 
 {{< figure
     caption="Graphique de présentation du TIPE sur SCEI"
-    src="/images/TIPE_Graphique.png"
+    src="/images/TIPE_Graphique.webp"
     link="/documents/TIPE_Graphique.pdf"
     class="invert"
 >}}
