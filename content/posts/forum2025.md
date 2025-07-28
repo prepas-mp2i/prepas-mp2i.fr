@@ -23,7 +23,7 @@ Vous pouvez aussi faire un retour sur l'évenement en temps que spectateur [ici]
 
 {{< figure
     caption="Réalisée par Emma"
-    src="/images/forum/affiche_2025.png"
+    src="/images/forum/affiche_2025.webp"
     link="/documents/forum/affiche_2025.png"
 >}}
 
@@ -38,11 +38,11 @@ Cette édition accueillera à la fois des étudiants en MP2I, MPI, 5/2 (élèves
 
 {{< newline >}}
 {{< image
-    src="/images/forum/stand_2025_1.png"
+    src="/images/forum/stand_2025_1.webp"
     width="49%"
 >}}
 {{< image
-    src="/images/forum/stand_2025_2.png"
+    src="/images/forum/stand_2025_2.webp"
     width="49%"
 >}}
 {{< center >}}
@@ -50,7 +50,7 @@ Clément, Cyril et Simon présentant le principe de colle sur un stand | Eliott,
 {{< /center >}}
 
 {{< figure
-    src="/images/forum/stand_2025_3.png"
+    src="/images/forum/stand_2025_3.webp"
     width="100%"
     title="Albin et Ernest sur un stand du forum 2025"
 >}}
@@ -64,7 +64,7 @@ Il s'organisera autour de différents stands composés de 2 ou 3 établissements
 ### Planning
 
 {{< figure
-    src="/images/forum/planning_2025.png"
+    src="/images/forum/planning_2025.webp"
     title="Répartition des établissements selon les différents créneaux"
     width="100%"
     class="invert"
@@ -101,4 +101,4 @@ Cette année, déjà 17 prépas MP2I/MPI ont annoncé leur présence ! Vous trou
 
 | MP2I | MP2I | MPI | MP2I | Intégré (M1 Maths UFR) | Intégré (INSA Toulouse) | MPI | Intégrée (ENSG-Géomatique) | MP2I | MP2I | MP2I | MP2I | Intégré (Ulm) | Intégré (L3 PGE emlyon) | MP2I | MP2I | MPI | MP2I | MP2I | MP2I | MPI | MP2I | Intégré (ENS de Lyon) | Intégré (Ulm) | MPI | Intégré (ENSAI) | MP2I | MP2I | MP2I | MPI |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:---:|
-| {{< figure src="/images/intervenants/Ernest Montaigne.png" title="Ernest" caption="Montaigne" >}} | {{< figure src="/images/intervenants/Samuel Hoche.png" title="Samuel" caption="Hoche" >}} | {{< figure src="/images/intervenants/Antoine Descartes.png" title="Antoine" caption="Descartes" >}} | {{< figure src="/images/intervenants/Thomas Champollion.png" title="Thomas" caption="Champollion" >}} | {{< figure src="/images/intervenants/Médéric Victor Hugo.png" title="Médéric" caption="Victor Hugo" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.png" title="Alain" caption="Gay Lussac" >}} | {{< figure src="/images/intervenants/Charlie Claude-Fauriel.png" title="Charlie" caption="Claude-Fauriel" >}} | {{< figure src="/images/intervenants/Emma Gay Lussac.png" title="Emma" caption="Gay-Lussac" >}} | {{< figure src="/images/intervenants/Adrien Lesage.png" title="Adrien" caption="Lesage" >}} | {{< figure src="/images/intervenants/unknown.png" title="Eliott" caption="Lesage" >}} | {{< figure src="/images/intervenants/Albin Montaigne.png" title="Albin" caption="Montaigne" >}} | {{< figure src="/images/intervenants/Léo Thiers.png" title="Léo" caption="Thiers" >}} | {{< figure src="/images/intervenants/Paul Hoche.png" title="Paul" caption="Hoche" >}} | {{< figure src="/images/intervenants/Jeremy CIV.gif" title="Jeremy" caption="Centre International de Valbonne" >}} | {{< figure src="/images/intervenants/Rehan La Martinière Monplaisir.png" title="Rehan" caption="La Martinière Monplaisir" >}} | {{< figure src="/images/intervenants/Anaïs La Martinière Monplaisir.png" title="Anaïs" caption="La Martinière Monplaisir" >}} | {{< figure src="/images/intervenants/unknown.png" title="Killian" caption="Lesage" >}} | {{< figure src="/images/intervenants/unknown.png" title="Noah" caption="Descartes" >}} | {{< figure src="/images/intervenants/unknown.png" title="Paul" caption="Le Parc" >}} | {{< figure src="/images/intervenants/Cyril Saint Louis.png" title="Cyril" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/unknown.png" title="Valentin" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/Simon Saint Louis.png" title="Simon" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/Bruno Janson de Sailly.png" title="Bruno" caption="Janson de Sailly" >}} | {{< figure src="/images/intervenants/Clément Faidherbe.png" title="Clément" caption="Faidherbe" >}} | {{< figure src="/images/intervenants/Gabrielle Clemenceau.png" title="Gabrielle" caption="Clemenceau" >}} | {{< figure src="/images/intervenants/Maxime Champollion.png" title="Maxime" caption="Champollion" >}} | {{< figure src="/images/intervenants/unknown.png" title="Anaïs" caption="Le Parc" >}} | {{< figure src="/images/intervenants/unknown.png" title="Delphine" caption="Le Parc" >}} | {{< figure src="/images/intervenants/unknown.png" title="Astrid" caption="Le Parc" >}} | {{< figure src="/images/intervenants/Pierre Kleber.png" title="Pierre" caption="Kleber" >}} |
+| {{< figure src="/images/intervenants/Ernest Montaigne.webp" title="Ernest" caption="Montaigne" >}} | {{< figure src="/images/intervenants/Samuel Hoche.webp" title="Samuel" caption="Hoche" >}} | {{< figure src="/images/intervenants/Antoine Descartes.webp" title="Antoine" caption="Descartes" >}} | {{< figure src="/images/intervenants/Thomas Champollion.webp" title="Thomas" caption="Champollion" >}} | {{< figure src="/images/intervenants/Médéric Victor Hugo.webp" title="Médéric" caption="Victor Hugo" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.webp" title="Alain" caption="Gay Lussac" >}} | {{< figure src="/images/intervenants/Charlie Claude-Fauriel.webp" title="Charlie" caption="Claude-Fauriel" >}} | {{< figure src="/images/intervenants/Emma Gay Lussac.webp" title="Emma" caption="Gay-Lussac" >}} | {{< figure src="/images/intervenants/Adrien Lesage.webp" title="Adrien" caption="Lesage" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Eliott" caption="Lesage" >}} | {{< figure src="/images/intervenants/Albin Montaigne.webp" title="Albin" caption="Montaigne" >}} | {{< figure src="/images/intervenants/Léo Thiers.webp" title="Léo" caption="Thiers" >}} | {{< figure src="/images/intervenants/Paul Hoche.webp" title="Paul" caption="Hoche" >}} | {{< figure src="/images/intervenants/Jeremy CIV.gif" title="Jeremy" caption="Centre International de Valbonne" >}} | {{< figure src="/images/intervenants/Rehan La Martinière Monplaisir.webp" title="Rehan" caption="La Martinière Monplaisir" >}} | {{< figure src="/images/intervenants/Anaïs La Martinière Monplaisir.webp" title="Anaïs" caption="La Martinière Monplaisir" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Killian" caption="Lesage" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Noah" caption="Descartes" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Paul" caption="Le Parc" >}} | {{< figure src="/images/intervenants/Cyril Saint Louis.webp" title="Cyril" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Valentin" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/Simon Saint Louis.webp" title="Simon" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/Bruno Janson de Sailly.webp" title="Bruno" caption="Janson de Sailly" >}} | {{< figure src="/images/intervenants/Clément Faidherbe.webp" title="Clément" caption="Faidherbe" >}} | {{< figure src="/images/intervenants/Gabrielle Clemenceau.webp" title="Gabrielle" caption="Clemenceau" >}} | {{< figure src="/images/intervenants/Maxime Champollion.webp" title="Maxime" caption="Champollion" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Anaïs" caption="Le Parc" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Delphine" caption="Le Parc" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Astrid" caption="Le Parc" >}} | {{< figure src="/images/intervenants/Pierre Kleber.webp" title="Pierre" caption="Kleber" >}} |

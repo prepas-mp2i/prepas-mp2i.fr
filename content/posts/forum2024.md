@@ -33,11 +33,11 @@ Cette édition accueillera à la fois des étudiants en MP2I, MPI, 5/2 (élèves
 
 {{< newline >}}
 {{< image
-    src="/images/forum/stand2_2024.png"
+    src="/images/forum/stand2_2024.webp"
     width="49%"
 >}}
 {{< image
-    src="/images/forum/stand3_2024.png"
+    src="/images/forum/stand3_2024.webp"
     width="49%"
 >}}
 {{< center >}}
@@ -45,7 +45,7 @@ Emma et Nathan (Stand 2) et Clément, Corentin, Paul et Timothé (Stand 3)
 {{< /center >}}
 
 {{< figure
-    src="/images/forum/stand5_2024.png"
+    src="/images/forum/stand5_2024.webp"
     width="100%"
     title="Olivier, Solène, Victor et Pierre sur le stand 5 du forum 2024"
 >}}
@@ -59,7 +59,7 @@ Il s'organisera autour de différents stands composés de 2 ou 3 établissements
 ### Planning
 
 {{< figure
-    src="/images/forum/planning_2024.png"
+    src="/images/forum/planning_2024.webp"
     title="Répartition des établissements selon les différents créneaux"
     width="100%"
     class="invert"
@@ -92,4 +92,4 @@ Cette année, déjà 14 prépas MP2I/MPI ont annoncé leur présence ! Vous trou
 
 | MPI 5/2 | MP2I | MPI 5/2 | MPI 3/2 | PSI (ex MP2I) | MP2I | intégré (ULM) | MPI 3/2 | MPI 3/2 | MPI 5/2 | MPI 3/2 | MP2I | MPI 3/2 | MP2I | MPI 3/2 | MP2I | MP2I | intégré (Mines Paris) | MP2I | MPI 3/2 | MP2I | MPI 3/2 | MPI 3/2 | MP2I |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| {{< figure src="/images/intervenants/Maxime Champollion.png" title="Maxime" caption="Champollion" >}} | {{< figure src="/images/intervenants/unknown.png" title="Gabrielle" caption="Clémenceau" >}} | {{< figure src="/images/intervenants/Timothé Colbert.png" title="Timothé" caption="Colbert" >}} | {{< figure src="/images/intervenants/Joachim Descartes.png" title="Joachim" caption="Descartes" >}} | {{< figure src="/images/intervenants/unknown.png" title="Leonard" caption="Descartes" >}} | {{< figure src="/images/intervenants/Pauline Descartes.png" title="Pauline" caption="Descartes" >}} | {{< figure src="/images/intervenants/Clément Faidherbe.png" title="Clément" caption="Faidherbe" >}} | {{< figure src="/images/intervenants/Tristan Fermat.png" title="Tristan" caption="Fermat" >}} | {{< figure src="/images/intervenants/Antonin Fermat.png" title="Antonin" caption="Fermat" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.png" title="Alain" caption="Gay-Lussac" >}} | {{< figure src="/images/intervenants/Emma Gay Lussac.png" title="Emma" caption="Gay-Lussac" >}} | {{< figure src="/images/intervenants/Pierre Kleber.png" title="Pierre" caption="Kléber" >}} | {{< figure src="/images/intervenants/unknown.png" title="Solène" caption="Le Parc" >}} | {{< figure src="/images/intervenants/Olivier Lycée du Parc.png" title="Olivier" caption="Le Parc" >}} | {{< figure src="/images/intervenants/unknown.png" title="Paul" caption="Les Lazaristes" >}} | {{< figure src="/images/intervenants/unknown.png" title="Killian" caption="Lesage" >}} | {{< figure src="/images/intervenants/Idrisse Louis le Grand.png" title="Idrisse" caption="Louis le Grand" >}} | {{< figure src="/images/intervenants/Nathan Saint Louis.png" title="Nathan" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/Antoine Descartes.png" title="Antoine" caption="Descartes" >}} | {{< figure src="/images/intervenants/Jeremy CIV.gif" title="Jeremy" caption="CIV" >}} | {{< figure src="/images/intervenants/unknown.png" title="Paul" caption="Faidherbe" >}} | {{< figure src="/images/intervenants/unknown.png" title="Victor" caption="Lesage" >}} | {{< figure src="/images/intervenants/unknown.png" title="Romain" caption="CIV" >}} | {{< figure src="/images/intervenants/unknown.png" title="Félix" caption="Clémenceau" >}} |
+| {{< figure src="/images/intervenants/Maxime Champollion.webp" title="Maxime" caption="Champollion" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Gabrielle" caption="Clémenceau" >}} | {{< figure src="/images/intervenants/Timothé Colbert.webp" title="Timothé" caption="Colbert" >}} | {{< figure src="/images/intervenants/Joachim Descartes.webp" title="Joachim" caption="Descartes" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Leonard" caption="Descartes" >}} | {{< figure src="/images/intervenants/Pauline Descartes.webp" title="Pauline" caption="Descartes" >}} | {{< figure src="/images/intervenants/Clément Faidherbe.webp" title="Clément" caption="Faidherbe" >}} | {{< figure src="/images/intervenants/Tristan Fermat.webp" title="Tristan" caption="Fermat" >}} | {{< figure src="/images/intervenants/Antonin Fermat.webp" title="Antonin" caption="Fermat" >}} | {{< figure src="/images/intervenants/Alain Gay Lussac.webp" title="Alain" caption="Gay-Lussac" >}} | {{< figure src="/images/intervenants/Emma Gay Lussac.webp" title="Emma" caption="Gay-Lussac" >}} | {{< figure src="/images/intervenants/Pierre Kleber.webp" title="Pierre" caption="Kléber" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Solène" caption="Le Parc" >}} | {{< figure src="/images/intervenants/Olivier Lycée du Parc.webp" title="Olivier" caption="Le Parc" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Paul" caption="Les Lazaristes" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Killian" caption="Lesage" >}} | {{< figure src="/images/intervenants/Idrisse Louis le Grand.webp" title="Idrisse" caption="Louis le Grand" >}} | {{< figure src="/images/intervenants/Nathan Saint Louis.webp" title="Nathan" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/Antoine Descartes.webp" title="Antoine" caption="Descartes" >}} | {{< figure src="/images/intervenants/Jeremy CIV.gif" title="Jeremy" caption="CIV" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Paul" caption="Faidherbe" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Victor" caption="Lesage" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Romain" caption="CIV" >}} | {{< figure src="/images/intervenants/unknown.webp" title="Félix" caption="Clémenceau" >}} |
