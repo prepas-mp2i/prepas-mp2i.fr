@@ -15,6 +15,11 @@ categories:
     - Évènements
 ---
 
+{{< admonition warning "Forum Grandes Écoles" >}}
+Cette page concerne le forum **de la filière MPI/MP2I**, destiné premièrement aux lycéens intéressés par la filière.
+Si vous êtes déjà en MP2I ou en MPI, les informations concernant le forum **des Grandes Écoles** sont disponibles sur [cette page](/posts/forum-grandes-ecoles-2025).
+{{< /admonition >}}
+
 {{< admonition info "Forum terminé" >}}
 Le forum 2025 est terminé ! Cette année, plus de 50 lycéens et parents d'élèves ont pu être informés grâce au forum ! {{< newline >}}
 Vous pouvez télécharger [le diaporama](/documents/forum/diaporama_2025.pdf) utilisé comme support en PDF. {{< newline >}}
