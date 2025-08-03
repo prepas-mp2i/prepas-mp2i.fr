@@ -28,7 +28,8 @@ De la même façon que le forum dédié à renseigner les lycéen(ne)s sur la MP
 
 Ce forum a pris place le 20 Juillet 2025, de 15h à 17h+.
 
-Cette première édition a eu lieu intégralement sur [discord](https://discord.prepas-mp2i.org) et était séparée en 4 stands distincts:
+Cette première édition a eu lieu intégralement sur [Discord](https://discord.gg/Mu439mBdsv) et était séparée en 4 stands distincts:
+
 - Le stand ENS
 - Le stand Polytechnique/Centrale/Ponts
 - Le stand Mines-Télécom
@@ -41,7 +42,3 @@ Cette année, 19 écoles ont participé au forum ! Vous trouverez ci-dessous la 
 | ENS Ulm | ENS Lyon | ENS Lyon | ENS Paris Saclay | Polytechnique | Centrale Supélec | Mines de Paris | ENSTA Paris | Télécom SudParis | Télécom Nancy | Télécom Nancy | EURECOM | ENSIIE | ENSIIE | ENS Géomatique | ENSIMAG | ENSAI Rennes | ESISAR | CY Tech | INSA Toulouse | ENSIBS | EM Lyon |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:---:|:---:|:---:|
 | Antoine | Elouan | Vivien | Alaska | François-Xavier | Mrtn | Nathan | Théo | Triw | Ganda | Ely | H3xerty | Agryos | Nicolas | Delphin | Joachim | Maxime | Eros | Chat_Vert | Alain | Margaux | Jeremy |
-
-## Forums précédents
-
-Vous pouvez retrouver la liste de tous les forums et autres événements sur [cette page](/categories/%C3%A9v%C3%A8nements/).
