@@ -31,14 +31,14 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 |              Lycée               |     Ville     |                                   Mail                                    |
 | :------------------------------: | :-----------: | :-----------------------------------------------------------------------: |
 |          Aux Lazaristes          |    Lyon 05    |                          [indisponible](mailto:)                          |
-|              Carnot              |     Dijon     |  [margaux.richard@protonmail.com](mailto:margaux.richard@protonmail.com)  |
+|              Carnot              |     Dijon     |         [enzo.mongin10@gmail.com](mailto:enzo.mongin10@gmail.com)         |
 | Centre International de Valbonne |   Valbonne    |   [jeremy.serievic.pro@gmail.com](mailto:jeremy.serievic.pro@gmail.com)   |
 |           Champollion            |   Grenoble    |              [atsdevou@gmail.com](mailto:atsdevou@gmail.com)              |
 |         Charles Coëffin          | Baie-Malhaut  |                          [indisponible](mailto:)                          |
-|          Claude Fauriel          | Saint-Etienne |   [charlehenri.bonjour@gmail.com](mailto:charlehenri.bonjour@gmail.com)   |
+|          Claude Fauriel          | Saint-Etienne |     [raphaellaporte204@gmail.com](mailto:raphaellaporte204@gmail.com)     |
 |            Clemenceau            |    Nantes     |        [gabrielletolub@gmail.com](mailto:gabrielletolub@gmail.com)        |
 |             Colbert              |   Tourcoing   |                          [indisponible](mailto:)                          |
-|            Descartes             |     Tours     |             [antoine@cardiles.fr](mailto:antoine@cardiles.fr)             |
+|            Descartes             |     Tours     |        [anastasie.depauw@free.fr](mailto:anastasie.depauw@free.fr)        |
 |            Faidherbe             |     Lille     | [mp2ifaidherbe.contact@gmail.com](mailto:mp2ifaidherbe.contact@gmail.com) |
 |       Fénelon Sainte-Marie       |   Paris 08    |        [aloisdenoiseux@gmail.com](mailto:aloisdenoiseux@gmail.com)        |
 |        Franklin Roosevelt        |     Reims     | [quentin.constant@protonmail.com](mailto:quentin.constant@protonmail.com) |
@@ -49,6 +49,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 |         Janson De Sailly         |   Paris 16    |     [corti.flavio@protonmail.com](mailto:corti.flavio@protonmail.com)     |
 |              Joffre              |  Montpellier  |          [tibestarthur@gmail.com](mailto:tibestarthur@gmail.com)          |
 |              Kléber              |  Strasbourg   |                          [Indisponible](mailto:)                          |
+|     La Martinière Monplaisir     |     Lyon      |            [jl10141516@gmail.com](mailto:jl10141516@gmail.com)            |
 |              Lesage              |    Vannes     |         [k.guerin29460@gmail.com](mailto:k.guerin29460@gmail.com)         |
 |             Le Parc              |    Lyon 06    |         [younesi.maths@gmail.com](mailto:younesi.maths@gmail.com)         |
 |          Louis Le Grand          |   Paris 05    |              [mp2i.llg@gmail.com](mailto:mp2i.llg@gmail.com)              |

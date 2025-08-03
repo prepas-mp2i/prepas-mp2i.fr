@@ -520,7 +520,7 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 |    [Polytech Sorbonne]     |            Électronique et Informatique             |          2           |
 |    [Polytech Sorbonne]     |      Mathématiques Appliquées et Informatique       |          1           |
 |      [Polytech Tours]      |                    Informatique                     |          3           |
-|     [ENSIBS - Lorient]     |              Cybersécurité du logiciel              |          3           |
+|     [ENSIBS - Vannes]     |              Cybersécurité du logiciel              |          3           |
 |     [ENSIM - Le Mans]      |                                                     |          2           |
 |     [EPISEN - Créteil]     |                Système d'Information                |          2           |
 |     [EPISEN - Créteil]     |              Technologie pour la Santé              |          3           |
@@ -545,7 +545,7 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 [Polytech Paris-Saclay]: https://www.polytech.universite-paris-saclay.fr/
 [Polytech Sorbonne]: https://www.polytech.sorbonne-universite.fr/
 [Polytech Tours]: https://www.polytech.univ-tours.fr/
-[ENSIBS - Lorient]: https://www-ensibs.univ-ubs.fr/fr/index.html
+[ENSIBS - Vannes]: https://www-ensibs.univ-ubs.fr/fr/index.html
 [ENSIM - Le Mans]: https://ensim.univ-lemans.fr/fr/index.html
 [EPISEN - Créteil]: https://episen.u-pec.fr/
 [ESIR – Rennes]: https://esir.univ-rennes.fr/
