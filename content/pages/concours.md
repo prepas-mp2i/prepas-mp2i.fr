@@ -31,9 +31,13 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 
 ### Répartition des coefficients
 
-{{< figure src="/images/coefficients.png" >}}
+Le graphique ci-dessous présente les coefficients par matière dans les différents concours, oraux et écrits confondus.
 
-\**Sauf certaines écoles, consulter les bandeaux "Coefficients différents" pour plus d'informations.*
+{{< figure
+    src="/images/coefs_matieres_2025.png"
+    class="invert"
+    caption="\**Sauf certaines écoles, consultez le bandeau [coefficients différents](/concours/#concours-ccinp) pour plus d'informations.*"
+>}}
 
 ### Statistiques
 
@@ -85,7 +89,7 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 Site officiel [Ulm](https://www.ens.psl.eu) / [Paris-Saclay](https://ens-paris-saclay.fr) / [Lyon](https://www.ens-lyon.fr) / [Rennes](https://www.ens-rennes.fr) - [Notice du concours](https://ens-paris-saclay.fr/sites/default/files/CONCOURS/CONCOURS_2025/Notice_interENS_2025_site.pdf)
 {{< /center >}}
 
-### Détail des places (!2024!)
+### Détail des places (2024)
 
 |       École        | Nombre de places・37 |
 | :----------------: | :------------------: |
@@ -143,7 +147,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 |  Informatique   |       20       |      5       |      5       |   5    |
 | Langue Vivante  |       3        |     1.5      |     1.5      |   2    |
 |     TP Algo     |       20       |      6       |      6       |   5    |
-| [TIPE][TIPEENS] |                |      2       |      2       |   5    |
+|      TIPE       |                |      2       |      2       |   5    |
 
 {{< /admonition >}}
 
