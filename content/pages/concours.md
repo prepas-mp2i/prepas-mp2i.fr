@@ -122,7 +122,7 @@ Ulm et Paris-Saclay vous permettent simplement de choisir la voie qui vous corre
 
 Lyon, à l'inverse, sépare les listes des deux voies, a deux effectifs d'admission distincts pour chaque voie. Le concours Lyon Math vous permet donc d'intégrer le département de maths tandis que le concours Lyon Info vous permet d'intégrer le département d'informatique. Rennes ne permet pas aux MPI d'intégrer leur département de maths sur concours, ni de faire de double cursus.
 
-Il est cependant possible de valider une licence 3 de mathématiques à l'université en parallèle de la 1A à Rennes et à Lyon Info, mais elle ne permet pas de rediriger vers le département de mathématiques de l'ENS.
+Il est cependant possible de valider une licence 3 de mathématiques à l'université en parallèle de la 1A à Rennes et à Lyon Info, mais elle ne permet pas de se rediriger vers le département de mathématiques de l'ENS.
 {{< /admonition >}}
 
 {{< admonition info "Coefficients" false >}}
