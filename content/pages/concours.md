@@ -27,7 +27,7 @@ Les informations présentes sur cette page ne sont pas exhaustives ; elles perme
 
 | Polytechnique | ENS | Centrale | Mines-Ponts | Mines Télécom | CCINP | E3A-Polytech |
 | :-----------: | :-: | :------: | :---------: | :-----------: | :---: | :----------: |
-|      24       | 35  |   118    |     124     |      141      |  224  |     161+     |
+|      24       | 50  |   118    |     124     |      141      |  224  |     161+     |
 
 ### Répartition des coefficients
 
@@ -64,7 +64,7 @@ Le graphique ci-dessous présente les coefficients par matière dans les différ
 | :--------------: | :---: | :---------: | :------------------------------------------------------------------: |
 | Mathématiques A  |  4h   |      6      |                                  -                                   |
 | Mathématiques B  |  4h   |      6      |                                  -                                   |
-|     Physique     |  4h   |      6      |                      Sujet spécifique à la MPI                       |
+|   Physique MPI   |  4h   |      6      |                      Sujet spécifique à la MPI                       |
 |  Informatique C  |  4h   |      9      |                                  -                                   |
 |     Français     |  4h   |      6      |                             Dissertation                             |
 | Langue Vivante A |  4h   |      6      | Synthèse + Texte d'opinion ∘ Documents : Textuels et iconographiques |
@@ -89,41 +89,54 @@ Le graphique ci-dessous présente les coefficients par matière dans les différ
 Site officiel [Ulm](https://www.ens.psl.eu) / [Paris-Saclay](https://ens-paris-saclay.fr) / [Lyon](https://www.ens-lyon.fr) / [Rennes](https://www.ens-rennes.fr) - [Notice du concours](https://ens-paris-saclay.fr/sites/default/files/CONCOURS/CONCOURS_2025/Notice_interENS_2025_site.pdf)
 {{< /center >}}
 
-### Détail des places (2024)
+### Détail des places
 
-|       École        | Nombre de places・37 |
-| :----------------: | :------------------: |
-|     [ENS Ulm]      |          8           |
-| [ENS Paris-Saclay] |          7           |
-|     [ENS Lyon]     |          13          |
-|    [ENS Rennes]    |          7           |
+|          École           | Nombre de places・50 |
+| :----------------------: | :------------------: |
+|        [ENS Ulm]         |          12          |
+|    [ENS Paris-Saclay]    |          14          |
+| [ENS Lyon Concours Info] |          13          |
+| [ENS Lyon Concours Math] |          4           |
+|       [ENS Rennes]       |          7           |
 
 [ENS Ulm]: https://www.ens.psl.eu/
 [ENS Paris-Saclay]: https://ens-paris-saclay.fr/
-[ENS Lyon]: https://www.ens-lyon.fr/
+[ENS Lyon Concours Info]: https://www.ens-lyon.fr/
+[ENS Lyon Concours Math]: https://www.ens-lyon.fr/
 [ENS Rennes]: https://www.ens-rennes.fr/
 
 ### Épreuves écrites
 
-Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont communes au [concours Polytechnique](https://prepas-mp2i.fr/concours/#épreuves-écrites-1).
+Les épreuves de **Mathématiques A**, d'**Informatique C**, de **Physique MPI**, de **Français** et de **Langue Vivante** sont communes au [concours Polytechnique](https://prepas-mp2i.fr/concours/#épreuves-écrites-1).
 
-|          Épreuve          | Durée |      Commentaire      |
-| :-----------------------: | :---: | :-------------------: |
-|      Mathématiques C      |  4h   |           -           |
-|      Informatique A       |  4h   | ENS Rennes uniquement |
-| Informatique Fondamentale |  4h   |           -           |
+|          Épreuve          | Durée |
+| :-----------------------: | :---: |
+|      Mathématiques C      |  4h   |
+|      Informatique A       |  4h   |
+| Informatique Fondamentale |  4h   |
+
+{{< admonition warning "Attention !" true >}}
+Chaque ENS, à l'exception de Rennes, propose deux voies d'admission : Math et Info, comportant des coefficients différents voire des épreuves différentes (voir tableau des coefficients ci-dessous).
+
+Ulm et Paris-Saclay vous permettent simplement de choisir la voie qui vous correspond le mieux, mais les listes d'admission sont communes aux deux voies. Ulm vous permet d'intégrer le département de votre choix, tandis que Paris-Saclay donne le choix entre une première année (1A) en informatique seulement OU une 1A maths/info en double cursus, qui vous permet de vous orienter dans le département soit de mathématiques soit d'informatique à la fin de la 1A.
+
+Lyon, à l'inverse, sépare les listes des deux voies, a deux effectifs d'admission distincts pour chaque voie. Le concours Lyon Math vous permet donc d'intégrer le département de maths tandis que le concours Lyon Info vous permet d'intégrer le département d'informatique. Rennes ne permet pas aux MPI d'intégrer leur département de maths sur concours, ni de faire de double cursus.
+
+Il est cependant possible de valider une licence 3 de mathématiques à l'université en parallèle de la 1A à Rennes et à Lyon Info, mais elle ne permet pas de se rediriger vers le département de mathématiques de l'ENS.
+{{< /admonition >}}
 
 {{< admonition info "Coefficients" false >}}
 
-|          Épreuve          | ULM (info MPI) | Paris-Saclay | Lyon (I-MPI) | Rennes |
-| :-----------------------: | :------------: | :----------: | :----------: | :----: |
-|      Mathématiques C      |       5        |      3       |      4       |   3    |
-|      Informatique A       |                |      3       |              |   4    |
-|      Informatique C       |       5        |      5       |      5       |   5    |
-| Informatique Fondamentale |       4        |      5       |      4       |   3    |
-|       Physique MPI        |       2        |              |              |        |
-|   Français-Philosophie    |    8 (adm)     |   2 (adm)    |   2 (adm)    |   2    |
-|      Langue vivante       |    3 (adm)     |  1,5 (adm)   |   2 (adm)    |   2    |
+|          Épreuve          | Ulm (Math) | Ulm (Info) | Lyon (Math) | Lyon (Info) | Paris-Saclay (Math) | Paris-Saclay (Info) | Rennes |
+| :-----------------------: | :--------: | :--------: | :---------: | :---------: | :-----------------: | :-----------------: | :----: |
+|      Mathématiques A      |     4      |     -      |      4      |      -      |          3          |          -          |   -    |
+|      Mathématiques C      |     4      |     5      |      4      |      4      |          3          |          3          |   3    |
+|      Informatique A       |     -      |     -      |      -      |      -      |          -          |          3          |   4    |
+|      Informatique C       |     -      |     5      |      4      |      5      |          5          |          5          |   5    |
+| Informatique Fondamentale |     4      |     5      |      -      |      4      |          5          |          5          |   3    |
+|       Physique MPI        |     4      |     2      |   4 (adm)   |      -      |          -          |          -          |   -    |
+|      Langue Vivante       |  3 (adm)   |  3 (adm)   |  2,5 (adm)  |   3 (adm)   |      1,5 (adm)      |      1,5 (adm)      |   2    |
+|         Français          |  8 (adm)   |  8 (adm)   |  2,5 (adm)  |   2 (adm)   |       2 (adm)       |       2 (adm)       |   2    |
 
 \**adm : compte uniquement pour l'admission finale, pas pour l'admissibilité aux oraux.*
 {{< /admonition >}}
@@ -132,22 +145,29 @@ Les épreuves d'**Informatique C**, **Français** et **Langue Vivante** sont com
 
 L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytechnique](https://prepas-mp2i.fr/concours/#%C3%A9preuves-orales).
 
-|     Épreuve     | Durée  | Préparation |                                                          Commentaire                                                          |
-| :-------------: | :----: | :---------: | :---------------------------------------------------------------------------------------------------------------------------: |
-|  Mathématiques  | 45 min |      -      |                                                 Ne concerne pas l’ENS Rennes                                                  |
-|  Informatique   | 30 min |   30 min    |                                                               -                                                               |
-|     TP Algo     | 20 min |     3h      |                                                 Préparation sans examinateur                                                  |
-| [TIPE][TIPEENS] | 40 min |      -      | Discussion avec deux examinateurs, avec possibilité de projeter une présentation ou le rapport préalablement rendu au tableau |
+|      Épreuve      |  Durée  | Préparation |
+| :---------------: | :-----: | :---------: |
+| Info Fondamentale | 40 mins |   20 mins   |
+|      TP Algo      | 20 mins |    3h30     |
+|  [TIPE][TIPEENS]  | 40 mins |     -       |
+|  Langue Vivante   | 30 mins |   30 mins   |
+|     Maths ULS     |   1h    |     -       |
+|      Maths L      |   1h?   |     -       |
+|      Maths U      |   1h?   |     -       |
+|    Physique U     |   1h?   |     -       |
 
 {{< admonition info "Coefficients" false >}}
 
-|     Épreuve     | ULM (info MPI) | Paris-Saclay | Lyon (I-MPI) | Rennes |
-| :-------------: | :------------: | :----------: | :----------: | :----: |
-|  Mathématiques  |       20       |      5       |      4       |   -    |
-|  Informatique   |       20       |      5       |      5       |   5    |
-| Langue Vivante  |       3        |     1.5      |     1.5      |   2    |
-|     TP Algo     |       20       |      6       |      6       |   5    |
-|      TIPE       |                |      2       |      2       |   5    |
+|     Épreuve     | Ulm (Math) | Ulm (Info) | Lyon (Math) | Lyon (Info) | Paris-Saclay (Math) | Paris-Saclay (Info) | Rennes |
+| :-------------: | :--------: | :--------: | :---------: | :---------: | :-----------------: | :-----------------: | :----: |
+|    Info MPI     |     15     |     20     |      4      |      5      |          5          |          5          |   5    |
+|     TP Algo     |     -      |     20     |      -      |      6      |          6          |          6          |   5    |
+| [TIPE][TIPEENS] |     -      |     -      |      2      |      2      |          2          |          2          |   5    |
+| Langue Vivante  |     3      |     3      |     1.5     |     1.5     |         1.5         |         1.5         |   2    |
+|    Maths ULS    |     15     |     -      |      4      |      4      |          5          |          5          |   -    |
+|     Maths L     |     -      |     -      |      6      |      -      |          -          |          -          |   -    |
+|     Maths U     |     15     |     20     |      -      |      -      |          -          |          -          |   -    |
+|   Physique U    |     15     |     -      |      -      |      -      |          -          |          -          |   -    |
 
 {{< /admonition >}}
 
