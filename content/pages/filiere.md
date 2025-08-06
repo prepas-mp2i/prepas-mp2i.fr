@@ -65,10 +65,10 @@ Dès le second semestre, nous devons choisir une option qui conditionnera notre 
 En MP2I, nous avons le choix entre deux options au second semestre :
 
 - **Informatique**, pour poursuivre en MPI,
-- **Sciences de l'Ingénieur**. pour rejoindre une classe de MP, comme le font une grande partie des élèves en MPSI, ou une classe de PSI à mi-chemin entre la MPSI et la PCSI.
+- **Sciences de l'Ingénieur**. pour rejoindre une classe de MP, comme le font une grande partie des élèves en MPSI, ou une classe de PSI à mi-chemin entre la MPSI et la PCSI. - à noter que cette option n'est pas disponible dans tous les lycées.
 
 La MPI étant la filière privilégiée après une MP2I, les places en S.I. sont limitées (à environ 20% de l'effectif de la classe).
-Le choix de la S.I en MP2I est destiné aux élèves qui souhaitent aller en MP ou en PSI, ou pour ceux qui se rendent compte que la manière dont est abordée l'informatique ne leur convient pas.
+Le choix de la S.I en MP2I est destiné aux élèves qui souhaitent aller en MP ou en PSI, ou pour ceux qui se rendent compte que la manière dont est abordée l'informatique ne leur convient pas. Ce choix est à voir comme une _option de "secours"_, il ne faut pas aller en MP2I avec l'idée de faire l'option S.I. - la MPSI sera bien plus adaptée pour cela.
 
 Voici les volumes horaires du second semestre qui changent selon l'option :
 
