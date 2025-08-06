@@ -9,7 +9,7 @@ Vous pouvez cloner ou fork le projet pour y contribuer.
 
 ## Setup
 
-Installez [Hugo](https://gohugo.io/getting-started/installing/) et [Git](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git) puis clonez le repo:
+Installez la version "extended" de [Hugo](https://gohugo.io/getting-started/installing/) et [Git](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git) puis clonez le repo:
 
 ```sh
 git clone --recurse-submodules https://github.com/prepas-mp2i/prepas-mp2i.fr
