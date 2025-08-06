@@ -115,10 +115,6 @@ On a pas mal de cours chiants et les électifs arrivent vite.
 {{< admonition success "Points positifs" false >}}
 Nous sommes ceux qui ont le moins de points faibles dans cette école. Les maths et la physique sont les points faibles des BUT, et l'informatique le point faible des prépas hormis MPI.
 {{< right >}}*Roseliande (<c.roseliande@gmail.com>)*{{< /right >}}
-L’Isima est pleinement orientée informatique. On retrouve le C et des notions de MP2I/MPI comme les automates, la programmation fonctionnelle, les graphes et les structures de données.
-Il y a également une approche plus concrète de l’informatique avec les processeurs et les traitements de signaux.
-Toutes les matières ont un lien avec l’informatique.
-{{< right >}}*Théau (<theau.wartel@etu.isima.fr>)*{{< /right >}}
 Une très bonne ambiance dans l'école (150 élèves en première année) sur un campus très étudiant.
 {{< right >}}*Louis-Max Harter (louismax sur discord)*{{< /right >}}
 {{< /admonition>}}
@@ -126,9 +122,6 @@ Une très bonne ambiance dans l'école (150 élèves en première année) sur un
 {{< admonition failure "Points négatifs" false >}}
 On n'a pas fait assez de TP en prépa, je pense donc que notre niveau en informatique reste inférieur à celui des BUT.
 {{< right >}}*Roseliande (<c.roseliande@gmail.com>)*{{< /right >}}
-Peu de nouveautés au début de l’année, les notions sont mal expliquées et les cours sont parfois compliqués à suivre.
-Les notions sont moins approfondies qu'en prépa.
-{{< right >}}*Théau (<theau.wartel@etu.isima.fr>)*{{< /right >}}
 Le parcours n'est pas différencié pour les MPI, et les cours étant obligatoires, cela est assez frustrant d'assister à autant de redites. (Peut-être qu'un parcours différencié sera mis en place l'année prochaine)
 {{< right >}}*Louis-Max Harter (louismax sur discord)*{{< /right >}}
 {{< /admonition>}}
