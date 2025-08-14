@@ -5,20 +5,21 @@ github:
   Title: GitHub
   Newtab: true
   Icon:
-    Class: fab fa-github-alt fa-fw
+    Simpleicons: github
 
 # 002: Email
 email:
   Weight: 2
   Template: mailto:%v
   Title: Email
+  Newtab: false
   Icon:
-    Class: far fa-envelope fa-fw
-
+    Simpleicons: maildotru
+    
 # 003: Discord
 discord:
   Weight: 3
-  Prefix: https://discord.gg/
+  Prefix: https://
   Title: Discord
   Newtab: true
   Icon:

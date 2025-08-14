@@ -2,6 +2,7 @@
 title: Avis des intégrés sur leur école d'ingénieur
 url: /scei
 date: 2024-03-12
+summary: Retrouvez ici les témoignages d'anciens MPI sur leurs écoles ! Chacun a la possibilité d'y faire figurer un point positif et un point négatif.
 tags:
     - préparationnaires
 categories:

@@ -3,6 +3,7 @@ title: Les classes préparatoires MP2I et MPI
 subtitle: Vue par les étudiants en MP2I et MPI
 url: /filiere
 date: 2021-12-20T00:07:18+01:00
+summary: Découvrez les classes préparatoires MP2I/MPI !
 tags:
     - lycéens
 categories:

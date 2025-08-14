@@ -3,6 +3,7 @@ title: Les cours d'informatique en MP2I et MPI
 subtitle: Une brève introduction à cette matière magique !
 url: /informatique
 date: 2021-12-20T00:07:18+01:00
+summary: Qui dit nouvelle filière, dit nouveaux professeurs et nouveaux cours. Vous vous demandez sûrement en quoi consiste le cours d'informatique en MP2I et MPI, et bien cette page est là pour vous éclairer !
 tags:
     - lycéens
 categories:
@@ -195,7 +196,7 @@ int fibo(int n)
      * Un simple égal est considéré comme une assignation.
      * Des parenthèses sont nécessaires autour de chaque expression logique. 
      */
-    if (n == 0)      // On peut omettre les accolades si il y a qu'une seule expression dans le bloc
+    if (n == 0)      // On peut omettre les accolades s'il n'y a qu'une seule expression dans le bloc
         return 0;
     else if (n == 1) // Pareil qu'en Python, on peut aussi omettre les else ici
         return 1; 

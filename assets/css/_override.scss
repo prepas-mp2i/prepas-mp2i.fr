@@ -1,6 +1,16 @@
-$global-font-color-dark: #dbd0d0 !important;
-$global-background-color-dark: #2A2A2C !important;
-$global-font-secondary-color-dark: #93939b !important;
-$global-link-color-dark: #c1c1cf !important;
-$single-link-color-dark: #7eb2e0 !important;
-$single-link-hover-color-dark: #d06e9c !important;  
+
+img {
+    display: unset;
+}
+
+.page {
+    max-width: 100%;
+}
+
+.dark .single .post-meta a {
+    color: var(--single-link-color) !important;
+
+    &:hover {
+        color: var(--single-link-hover-color) !important;
+    }
+}

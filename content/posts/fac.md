@@ -2,6 +2,7 @@
 title: Avis des intégrés sur leur formation hors SCEI
 slug: /fac
 date: 2024-08-29
+summary: Car il est aussi possible de candidater à d'autres formations que celles proposées par SCEI, vous trouverez ici des témoignages d'étudiants n'ayant pas intégré via SCEI.
 tags:
     - préparationnaires
 categories:

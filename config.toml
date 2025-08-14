@@ -1,6 +1,6 @@
 baseURL = "https://prepas-mp2i.fr"  # baseURL shouldn't contains path
 title = "Prépas MP2I/MPI"
-theme = "LoveIt"
+theme = "dolt"
 defaultContentLanguage = "fr"
 languageCode = "fr"
 enableRobotsTXT = true
@@ -9,7 +9,7 @@ enableEmoji = true
 
 [menu]
   [[menu.main]]
-    pre = """<i class="fas fa-folder-open fa-fw"></i>"""
+    pre = """<svg class="icon" viewBox="0 0 576 512"><path d="M527.9 224H480v-48c0-26.5-21.5-48-48-48H272l-64-64H48C21.5 64 0 85.5.0 112v288c0 26.5 21.5 48 48 48h4e2c16.5.0 31.9-8.5 40.7-22.6l79.9-128c20-31.9-3-73.4-40.7-73.4zM48 118c0-3.3 2.7-6 6-6h134.1l64 64H426c3.3.0 6 2.7 6 6v42H152c-16.8.0-32.4 8.8-41.1 23.2L48 351.4zm4e2 282H72l77.2-128H528z"></path></svg>"""
     url = "/categories/"
     weight = 9
 
@@ -21,7 +21,7 @@ enableEmoji = true
     allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', 'rst2html.py', '^git$']
 
 [params]
-  version = "0.2.X"
+  version = "0.4.X"
   description = "Site des classes préparatoires MP2I/MPI"
   detailedDescription = "Site des classes préparatoires MP2I/MPI, créé par des étudiants pour aider les futurs bacheliers à s'orienter et à découvrir cette filière scientifique méconnue. Découvrez notre perspective et toutes les informations nécessaires pour faire votre choix !"
   keywords = ["Theme", "Hugo", "MP2I", "MPI", "Prépa"]
@@ -43,10 +43,21 @@ enableEmoji = true
 
   [params.search]
     enable = true
-    type = "lunr"
-    maxResultLength = 10
+    type = "fuse"
+    maxResultLength = 7
     snippetLength = 30
     highlightTag = "em"
+
+    [params.search.fuse]
+      isCaseSensitive = false
+      minMatchCharLength = 2
+      findAllMatches = false
+      location = 0
+      threshold = 0.3
+      distance = 100
+      ignoreLocation = false
+      useExtendedSearch = false
+      ignoreFieldNorm = false
 
   [params.header]
     desktopMode = "fixed"
@@ -54,8 +65,7 @@ enableEmoji = true
 
     [params.header.title]
       name = "PREPAS MP2I/MPI"
-      pre = """<img src='/images/logo.png' alt='Logo' height=25px 
-                    style='margin-bottom:-5px;margin-right:5px'>"""
+      pre = """<span style='display:inline-flex;align-items:center;'><img src='/images/logo.png' alt='Logo' style='height:25px;vertical-align:middle;margin-right:5px;'><span></span></span>"""
       typeit = true  # typeit animation for title name
 
   [params.footer]
@@ -95,9 +105,18 @@ enableEmoji = true
     Discord = "Mu439mBdsv"
     
   [params.page]
+    linkToMarkdown = false
+    linkToSource = "https://github.com/prepas-mpi/prepas-mp2i.fr/blob/master/content/{path}"
+    linkToEdit = "https://github.com/prepas-mpi/prepas-mp2i.fr/edit/develop/content/{path}"
+    linkToReport = "https://github.com/prepas-mpi/prepas-mp2i.fr/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/prepas-mpi/prepas-mp2i.fr/blob/master/content/{path}|"
     hiddenFromHomePage = false
     hiddenFromSearch = false
-    fontawesome = true
+
+    [params.page.toc]
+      enable = true
+      keepStatic = false
+      auto = true
+      
     [params.page.share]
       enable = false
 
@@ -106,10 +125,11 @@ enableEmoji = true
     # Google Analytics
     [params.analytics.google]
       id = "G-7SXBL516N1"  # add your tracking id
-      anonymizeIP = false
+      anonymizeIP = true
 
   [params.cookieconsent]
     enable = false
+  
 
 [frontmatter]
   date = ['date', 'publishDate', 'lastmod']
@@ -118,11 +138,7 @@ enableEmoji = true
   
 [Permalinks]
   posts = '/posts/:slug'
-  pages = '/:filename'
-
-[author]
-  name = "Étudiants"
-  email = "contact@prepas-mp2i.fr"
+  pages = '/:contentbasename'
 
 [markup]
   [markup.highlight]

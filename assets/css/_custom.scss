@@ -1,11 +1,16 @@
-.figure-cell {
-    display: table-cell !important;
+
+.header-title .tw-mr-1 img {
+    transform: translateY(5px);
+}
+.header-title span.ti-cursor {
+    transform: translateY(-2.5px);
 }
 
 body {
     &[theme=dark] {
-        .invert {
-            filter: invert(83.14%);
+        .invert img {
+            filter: invert(93.16%);
         }
     }
 }
+

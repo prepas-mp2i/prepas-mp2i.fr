@@ -2,6 +2,7 @@
 title: L'association des étudiants en CPGE MP2I/MPI
 url: /association
 date: 2024-05-04T18:00:00+01:00
+summary: Rejoignez l'association des Étudiants en Classes Préparatoires aux Grandes Écoles MP2I/MPI
 tags:
     - préparationnaires
 menu:

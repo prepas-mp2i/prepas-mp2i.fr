@@ -3,6 +3,7 @@ title: Comment poursuivre en MP2I après le lycée
 subtitle: Choix des spécialités au lycée et Parcoursup
 url: /inscription
 date: 2021-12-20T00:05:32+01:00
+summary: Spécialités privilégiées, dilemmes de vœux ... on vous dit ce qu'il en est réellement.
 tags:
     - lycéens
 categories:
