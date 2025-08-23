@@ -23,13 +23,13 @@ Les classes ne dépassent pas 48 élèves et ceux-ci sont accompagnés et très 
 
 Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités avec leur volume horaire :
 
-| Filière  |   Matières dominantes   | Maths | Physique | Chimie | Info     |  SI      | LV1 | Philo-Lettres | SVT |
-|:--------:|:-----------------------:|:-----:|:--------:|:------:|:-------:|:---------:|:---:|:--------------:|:---:|
-|   MP2I   |   Maths Physique Info   |  12   |    6.5   |    0   |  4      |   2       |  2  |        2       |  0  |
-|   MPSI   | Maths Physique Chimie   |  12   |     6    |    2   | 1.5     |   2       |  2  |        2       |  0  |
-|   PCSI   |   Physique Chimie-SI    |  10   |     8    |    4   | 1.5     |   4       |  2  |        2       |  0  |
-|   PTSI   |   SI Physique Chimie    |   9   |     6    |    2   | 1.5     | 8.5       |  2  |        2       |  0  |
-|   BCPST  | Bio Chimie Physique SVT |   8   |     4    |    3   | 1.5     |   0       |  2  |        2       |  8  |
+| Filière |  Matières dominantes  | Maths | Physique | Chimie | Info | SVT | SI  | LV1 | Philo-Lettres |
+| :-----: | :-------------------: | :---: | :------: | :----: | :--: | :-: | :-: | :-: | :-----------: |
+|  MP2I   |  Maths Physique Info  |  12   |   6.5    |   0    |  4   |  0  |  2  |  2  |       2       |
+|  MPSI   | Maths Physique Chimie |  12   |    6     |   2    | 1.5  |  0  |  2  |  2  |       2       |
+|  PCSI   |  Physique Chimie SI   |  10   |    8     |   4    | 1.5  |  0  |  4  |  2  |       2       |
+|  PTSI   |  SI Physique Chimie   |   9   |    6     |   2    | 1.5  |  0  | 8.5 |  2  |       2       |
+|  BCPST  |  SVT Chimie Physique  |   8   |    4     |   3    | 1.5  |  8  |  0  |  2  |       2       |
 
 {{< admonition info "Détails des filières" >}}
 Vous pourrez retrouver un petit récapitulatif de chaque filière sur [Prepas.org](https://prepas.org/index.php?rubrique=41) (alimenté par les professeurs de prépas scientifiques).
@@ -41,42 +41,41 @@ Il existe plein d'autres cursus pour faire de l'informatique, dont une liste est
 
 ## Poursuite d'études
 
-Après une classe préparatoire, intégrée ou non, vous avez la possibilité de
-poursuivre en master (bac+5), puis éventuellement en doctorat (bac+8). Mais également de poursuivre en licence, ou dans des universités à l'étranger.
+Après une classe préparatoire, intégrée ou non, vous avez la possibilité de poursuivre en master (bac+5), puis éventuellement en doctorat (bac+8). Mais également de poursuivre en licence, ou dans des universités à l'étranger.
 
-L'objectif premier des CPGE scientifiques est de préparer à différents [concours](/concours) qui conditionnent l'entrée dans [certaines écoles](https://prepas.org/index.php?entree=bacorge), la plupart d'entre elles délivrant un diplome d'ingénieur après un cursus 3 ans, ammenant à Bac+5. Ainsi, la poursuite d'étude la plus commune après une classe préparatoire est l'intégration dans une de ces écoles. 
-Elles ne constituent cependant pas la seule issue possible en sortie de CPGE. En effet, il existe de nombreux moyens de poursuivre ses études après une classe préparatoire autrement que dans une école obtenue lors d'un concours de l'une des banques principales.
+L'objectif principal des CPGE scientifiques est de préparer à différents [concours](/concours) permettant d'intégrer une importante liste d'[écoles](https://prepas.org/index.php?entree=bacorge), dont la plupart sont des écoles d'ingénieurs qui délivrent un diplôme Bac+5 après trois ans d'études. Bien que la voie la plus courante soit l'intégration d'une école via ces concours, d'autres possibilités de poursuite d'études existent également après une CPGE.
 
 > Vous pouvez retrouver des retours d'élèves ayant intégré des écoles d'ingénieurs [ici](/scei/) et des retours d'élèves ayant intégré des formations en dehors des concours principaux [ici](/posts/fac/).
 
 ## Le programme en MP2I
 
-Le programme de la classe prépa MP2I est le même que celui des MPSI en mathématiques. Le programme de physique se base sur celui de la première, néanmoins à la fin de l'année, les connaissances sont les mêmes qu'en MPSI. La grosse différence est la chimie qui est remplacée par de l'informatique. Ainsi, l'informatique en MP2I est un enseignement bien plus complet que dans les autres classes prépas.
+Le programme de la classe prépa MP2I est le même que celui des MPSI en mathématiques. Le programme de physique se base sur celui de la première, néanmoins à la fin de l'année, les connaissances sont les mêmes qu'en MPSI. La grosse différence est la chimie qui est "remplacée" par de l'informatique. Ainsi, l'informatique en MP2I est un enseignement bien plus complet que dans les autres classes prépas, c'est ce qui en fait son atout clé.
 
 Une description plus détaillée du cours d'informatique est disponible sur [cette page](/informatique).
 
-Concernant les autres matières, la LV2 (1 ou 2 heures) est facultative ainsi que le sport dans la majorité des lycées.
-Mais la plupart des élèves gardent une activité extra scolaire pour ne pas faire que des maths toute la journée !
+Concernant les autres matières : le français-philosophie et la LV1 ont le même programme dans toutes les filières, tandis que la LV2 (1 ou 2 heures) ainsi que le sport sont facultatifs dans la majorité des lycées.
+Cependant, la plupart des élèves gardent une activité extra scolaire pour ne pas faire que des maths toute la journée !
 
-Pour vous renseigner sur la différence entre MP2I et MPSI et comment savoir laquelle choisir vous pouvez consulter [cette page](/posts/mp2i_ou_mpsi/).
+{{< admonition question "MP2I ou MPI ?" >}}
+Si vous souhaitez vous renseigner sur les différences entre la MP2I et la MPSI et comment savoir laquelle choisir, vous pouvez consulter [cette page](/posts/mp2i_ou_mpsi/).
+{{< /admonition >}}
 
 ## La spécialité en deuxième année
 
-Dès le second semestre, nous devons choisir une option qui conditionnera notre filière en seconde année.
-En MP2I, nous avons le choix entre deux options au second semestre :
+Dans la plupart des filières scientifiques, il faut choisir une option au second semestre de la première année, qui conditionnera la filière en seconde année. En MP2I, il y a le choix entre deux options :
 
-- **Informatique**, pour poursuivre en MPI,
-- **Sciences de l'Ingénieur**. pour rejoindre une classe de MP, comme le font une grande partie des élèves en MPSI, ou une classe de PSI à mi-chemin entre la MPSI et la PCSI. - à noter que cette option n'est pas disponible dans tous les lycées.
+- **Informatique**, pour poursuivre en MPI ;
+- **Sciences de l'Ingénieur**, pour rejoindre une classe de MP, comme le font une grande partie des élèves en MPSI, ou une classe de PSI (à mi-chemin entre la MPSI et la PCSI). À noter que cette option n'est pas disponible dans tous les lycées.
 
 La MPI étant la filière privilégiée après une MP2I, les places en S.I. sont limitées (à environ 20% de l'effectif de la classe).
-Le choix de la S.I en MP2I est destiné aux élèves qui souhaitent aller en MP ou en PSI, ou pour ceux qui se rendent compte que la manière dont est abordée l'informatique ne leur convient pas. Ce choix est à voir comme une _option de "secours"_, il ne faut pas aller en MP2I avec l'idée de faire l'option S.I. - la MPSI sera bien plus adaptée pour cela.
+Le choix de la S.I en MP2I est destiné aux élèves qui se rendent compte que la manière dont est abordée l'informatique ne leur convient pas et qui aimeraient donc se réorienter. Ce choix est à voir comme une _option de "secours"_, il ne faut en aucun cas aller en MP2I dans le but de choisir l'option S.I. ; la MPSI sera bien plus adaptée pour cela.
 
-Voici les volumes horaires du second semestre qui changent selon l'option :
+Voici les volumes horaires du second semestre en fonction de l'option choisie :
 
-| Option          | Maths | Physique | Chimie | Info |  SI | TIPE | LV1 | Philo-Lettres |
-|:---------------:|:-----:|:--------:|:------:|:----:|:---:|:----:|:---:|:-------------:|
-|   Informatique  |  12   |    6.5   |    0   |   6  |  0  |   2  |  2  |       2       |
-|   SI            |  12   |     6.5  |    2   |   2  |  4  |   2  |  2  |       2       |
+|    Option    | Maths | Physique | Chimie | Info | SI  | TIPE | LV1 | Philo-Lettres |
+| :----------: | :---: | :------: | :----: | :--: | :-: | :--: | :-: | :-----------: |
+| Informatique |  12   |   6.5    |   0    |  6   |  0  |  2   |  2  |       2       |
+|      SI      |  12   |   6.5    |   2    |  2   |  4  |  2   |  2  |       2       |
 
 Voici un récapitulatif des différentes filières en deuxième année:
 
@@ -88,15 +87,15 @@ Voici un récapitulatif des différentes filières en deuxième année:
 
 ## La double inscription à l'université
 
-Tous les élèves en prépas sont obligés de s'inscrire en parallèle à l'université en fonction des partenariats des prépas. Ce sont des licences adaptées : Maths, Physique et Info pour les prépas scientifiques. Cela permet de sécuriser sa poursuite d'étude, si vous souhaitez vous réorienter, en cours ou en fin d'année, vous pourrez le faire. À la fin de l'année, les profs valident ou non (il faut vraiment un manque de sérieux pour ne pas les valider, c'est très rare) vos crédits ECTS c'est-à-dire vos crédits universitaires qui vous fournissent un équivalent entre la prépa et la licence. Cela vous permet de poursuivre directement en L2 après une première année de prépa, si ça ne vous convient pas.
+Tous les élèves en CPGE sont obligés de s'inscrire en parallèle à l'université en fonction des partenariats de leur établissement. Ce sont des licences adaptées : Mathématiques, Physique et Informatique pour les prépas scientifiques. Cela permet de sécuriser sa poursuite d'étude : si vous souhaitez vous réorienter en cours ou en fin d'année, vous pourrez le faire. À la fin de l'année, les professeurs valident (ou non, mais c'est très rare) vos crédits ECTS, c'est-à-dire vos crédits universitaires qui vous fournissent un équivalent entre la prépa et la licence. Cela vous permet de poursuivre directement en L2 après une première année de prépa, si ça ne vous convient pas.
 
 ## La MP2I en quelques chiffres
 
-Comme la MP2I vient d'ouvrir, il y a eu une grande demande pour cette filière avec peu de places disponibles.
+La MP2I étant la filière CPGE la plus récente (ouverture en 2021), tous les établissements ne possèdent pas forcément de classe. Il peut donc être difficile de trouver une prépa MP2I près de chez vous, et la demande reste forte pour un nombre de places plus restreint que les autres filières.
 Les lycées les plus prestigieux sont donc, pour la plupart, plus difficiles à intégrer en MP2I qu'en MPSI.
 À noter que la filière reste très accessible dans certains établissements, n'hésitez pas à faire de nombreux vœux pour vous retrouver dans une prépa à votre niveau.
 
-Voici les chiffres cumulés pour l'année 2024 : 
+Voici les chiffres cumulés pour l'année 2024 :
 
 - Nombre de places : 1617
 - Nombre moyen de voeux formulés par établissement : 1499
@@ -113,6 +112,6 @@ Voici les chiffres cumulés pour l'année 2024 :
 
 ### Légende
 
-- *Vert* : Lycées publics possédant une MP2I
-- *Orange* : Lycées privés possédant une MP2I
-- *Bleu* : Lycées ouvrant une MP2I à la rentrée 2025
+- _Vert_ : Lycées publics possédant une MP2I
+- _Orange_ : Lycées privés possédant une MP2I
+- _Bleu_ : Lycées ouvrant une MP2I à la rentrée 2025
