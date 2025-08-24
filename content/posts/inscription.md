@@ -52,7 +52,7 @@ Cependant, bien qu'il reste possible dans de rares cas d'intégrer une MP2I sans
 
 ## Parcoursup
 
-> Pour comprendre le fonctionnement de Parcoursup à toutes les étapes, allez consulter sa [FAQ](https://www.parcoursup.gouv.fr/faq).
+Pour comprendre le fonctionnement de Parcoursup à toutes les étapes, allez consulter sa [FAQ](https://www.parcoursup.gouv.fr/faq).
 
 > Vous retrouverez [ici](https://colab.research.google.com/drive/1dFDHVpDT78Z5cL08kRvnZQrT5cIc8o1I#scrollTo=p7d_m-SJZaeN) un notebook pour explorer les données de Parcoursup pour la MP2I (2023)
 
@@ -61,7 +61,7 @@ Cependant, bien qu'il reste possible dans de rares cas d'intégrer une MP2I sans
 Depuis décembre, vous avez accès au catalogue des formations disponibles avec leurs critères de sélection, en quoi elles consistent et leur sélectivité.
 Fin janvier, vous allez commencer à faire vos vœux, c'est le moment de se renseigner et d'aller aux portes ouvertes, en ligne ou en présentiel, rien de mieux que d'échanger avec les élèves pour se faire une idée de la formation. N'hésitez pas à nous rejoindre sur le [serveur discord des prépas MP2I/MPI](https://discord.com/invite/9p49Z5ZNtH) pour poser vos questions ! Nous organisons également des [forums](https://prepas-mp2i.fr/forum/) pendant lesquels des étudiants volontaires du serveur vous présentent la filière et répondent à vos interrogations.
 
-Il y a **38 MP2I** sur Parcoursup, répertoriées [plus bas](https://prepas-mp2i.org/inscription/#lyc%C3%A9es-proposant-la-fili%C3%A8re-mp2i) ; cela va de prépas très sélectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I, si c'est la formation que vous désirez absolument (vous n'irez pas tous et toutes à Louis le Grand, soyons réalistes, mais il faut garder de l'ambition).
+Il y a **38 MP2I** sur Parcoursup, répertoriées [plus bas](https://prepas-mp2i.fr/inscription/#lyc%C3%A9es-proposant-la-fili%C3%A8re-mp2i) ; cela va de prépas très sélectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I, si c'est la formation que vous désirez absolument (vous n'irez pas tous et toutes à Louis le Grand, soyons réalistes, mais il faut garder de l'ambition).
 Si vous faites des choix de formations sélectives - et les classes préparatoires en font partie - il est très fortement recommandé de demander une licence en parallèle pour éviter de finir sans aucune formation.
 
 {{< admonition tip "Ambition" true >}}

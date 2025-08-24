@@ -72,15 +72,18 @@ Le graphique ci-dessous présente les coefficients par matière dans les différ
 
 ### Épreuves orales
 
-|     Épreuve      | Durée  | Coefficient | Préparation |                        Format                        |
-| :--------------: | :----: | :---------: | :---------: | :--------------------------------------------------: |
-|  Mathématiques   | 50 min |     23      |      -      |                          -                           |
-|     Physique     | 50 min |     20      |      -      |                          -                           |
-|   Informatique   | 50 min |     22      |      -      |                          -                           |
-|       ADS*       | 40 min |     15      |     2h      |           15 min exposé + 25 min entretien           |
-|     Français     | 30 min |      8      |   45 min    |                 Résumé + Commentaire                 |
-| Langue Vivante A | 20 min |      8      |   30 min    | Résumé + Commentaire ∘ Document : Vidéo de 4 à 6 min |
-|      Sport       |   -    |      5      |      -      |                          -                           |
+|     Épreuve      | Durée  | Coefficient | Préparation |                              Format                              |
+| :--------------: | :----: | :---------: | :---------: | :--------------------------------------------------------------: |
+|  Mathématiques   | 50 min |     23      |      -      |                                -                                 |
+|     Physique     | 50 min |     20      |      -      |                                -                                 |
+|   Informatique   | 50 min |     22      |      -      |                                -                                 |
+|      [ADS]*      | 40 min |     15      |     2h      |                 15 min exposé + 25 min entretien                 |
+|     Français     | 30 min |      8      |   45 min    |           Résumé (2-3 min) + Commentaire (12 min max)            |
+| Langue Vivante A | 20 min |      8      |   30 min    |       Résumé + Commentaire ∘ Document : Vidéo de 4 à 6 min       |
+|     [Sport]      |   -    |      5      |      -      | 80m (♀) ou 100m (♂) + 600m (♀) ou 1000m (♂) + 50m nage libre |
+
+[Sport]: https://www.polytechnique.edu/admission-cycle-ingenieur/candidat-cpge-epreuves-sportives
+[ADS]: https://www.polytechnique.edu/admission-cycle-ingenieur/candidats-internationaux/voie-classes-preparatoires-cp-toutes-filieres/passer-le-concours/epreuves-orales
 
 \**Analyse de Documents Scientifiques*
 
@@ -117,13 +120,15 @@ Les épreuves de **Mathématiques A**, d'**Informatique C**, de **Physique MPI**
 | Informatique Fondamentale |  4h   |
 
 {{< admonition warning "Attention !" true >}}
-Chaque ENS, à l'exception de Rennes, propose deux voies d'admission : Math et Info, comportant des coefficients différents voire des épreuves différentes (voir tableau des coefficients ci-dessous).
+Chaque ENS, à l'exception de Rennes, propose deux voies d'admission : en Mathématiques et en Informatique, comportant des coefficients différents voire des épreuves différentes (voir tableau des coefficients ci-dessous).
 
-Ulm et Paris-Saclay vous permettent simplement de choisir la voie qui vous correspond le mieux, mais les listes d'admission sont communes aux deux voies. Ulm vous permet d'intégrer le département de votre choix, tandis que Paris-Saclay donne le choix entre une première année (1A) en informatique seulement OU une 1A maths/info en double cursus, qui vous permet de vous orienter dans le département soit de mathématiques soit d'informatique à la fin de la 1A.
+➤ Ulm et Paris-Saclay vous permettent simplement de choisir la voie qui vous correspond le mieux, mais les listes d'admission sont communes aux deux voies. Ulm vous permet d'intégrer le département de votre choix, tandis que Paris-Saclay donne le choix entre une première année (1A) en informatique seulement OU une 1A maths/info en double cursus, qui vous permet de vous orienter dans le département soit de mathématiques soit d'informatique à la fin de la 1A.
 
-Lyon, à l'inverse, sépare les listes des deux voies, a deux effectifs d'admission distincts pour chaque voie. Le concours Lyon Math vous permet donc d'intégrer le département de maths tandis que le concours Lyon Info vous permet d'intégrer le département d'informatique. Rennes ne permet pas aux MPI d'intégrer leur département de maths sur concours, ni de faire de double cursus.
+➤ Lyon, à l'inverse, sépare les listes des deux voies et a donc deux effectifs d'admission distincts pour chaque voie. Le concours Lyon Maths vous permet donc d'intégrer le département de mathématiques tandis que le concours Lyon Info vous permet d'intégrer le département d'informatique.
 
-Il est cependant possible de valider une licence 3 de mathématiques à l'université en parallèle de la 1A à Rennes et à Lyon Info, mais elle ne permet pas de se rediriger vers le département de mathématiques de l'ENS.
+➤ Rennes ne permet pas aux MPI d'intégrer leur département de maths sur concours, ni de faire de double cursus.
+
+Il est cependant possible de valider une Licence 3 de mathématiques à l'université en parallèle de la 1A à Rennes et à Lyon Info, mais elle ne permet pas de se rediriger vers le département de mathématiques de l'ENS.
 {{< /admonition >}}
 
 {{< admonition info "Coefficients" false >}}
@@ -146,29 +151,29 @@ Il est cependant possible de valider une licence 3 de mathématiques à l'univer
 
 L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytechnique](https://prepas-mp2i.fr/concours/#%C3%A9preuves-orales).
 
-|      Épreuve      |  Durée  | Préparation |
-| :---------------: | :-----: | :---------: |
-| Info Fondamentale | 40 mins |   20 mins   |
-|      TP Algo      | 20 mins |    3h30     |
-|  [TIPE][TIPEENS]  | 40 mins |     -       |
-|  Langue Vivante   | 30 mins |   30 mins   |
-|     Maths ULS     |   1h    |     -       |
-|      Maths L      |   1h?   |     -       |
-|      Maths U      |   1h?   |     -       |
-|    Physique U     |   1h?   |     -       |
+|      Épreuve      | Durée  | Préparation |
+| :---------------: | :----: | :---------: |
+| Info Fondamentale | 40 min |   20 min    |
+|      TP Algo      | 20 min |    3h30     |
+|  [TIPE][TIPEENS]  | 40 min |      -      |
+|  Langue Vivante   | 30 min |   30 min    |
+|     Maths ULS     | 40 min |      -      |
+|      Maths L      |   1h   |      -      |
+|      Maths U      |   1h   |      -      |
+|    Physique U     |   1h   |      -      |
 
 {{< admonition info "Coefficients" false >}}
 
-|     Épreuve     | Ulm (Math) | Ulm (Info) | Lyon (Math) | Lyon (Info) | Paris-Saclay (Math) | Paris-Saclay (Info) | Rennes |
-| :-------------: | :--------: | :--------: | :---------: | :---------: | :-----------------: | :-----------------: | :----: |
-|    Info MPI     |     15     |     20     |      4      |      5      |          5          |          5          |   5    |
-|     TP Algo     |     -      |     20     |      -      |      6      |          6          |          6          |   5    |
-|       TIPE      |     -      |     -      |      2      |      2      |          2          |          2          |   5    |
-| Langue Vivante  |     3      |     3      |     1.5     |     1.5     |         1.5         |         1.5         |   2    |
-|    Maths ULS    |     15     |     -      |      4      |      4      |          5          |          5          |   -    |
-|     Maths L     |     -      |     -      |      6      |      -      |          -          |          -          |   -    |
-|     Maths U     |     15     |     20     |      -      |      -      |          -          |          -          |   -    |
-|   Physique U    |     15     |     -      |      -      |      -      |          -          |          -          |   -    |
+|             Épreuve             | Ulm (Math) | Ulm (Info) | Lyon (Math) | Lyon (Info) | Paris-Saclay (Math) | Paris-Saclay (Info) | Rennes |
+| :-----------------------------: | :--------: | :--------: | :---------: | :---------: | :-----------------: | :-----------------: | :----: |
+|            Info MPI             |     15     |     20     |      4      |      5      |          5          |          5          |   5    |
+|             TP Algo             |     -      |     20     |      -      |      6      |          6          |          6          |   5    |
+| [TIPE](/posts/tipe#le-tipe-ens) |     -      |     -      |      2      |      2      |          2          |          2          |   5    |
+|         Langue Vivante          |     3      |     3      |     1.5     |     1.5     |         1.5         |         1.5         |   2    |
+|            Maths ULS            |     15     |     -      |      4      |      4      |          5          |          5          |   -    |
+|             Maths L             |     -      |     -      |      6      |      -      |          -          |          -          |   -    |
+|             Maths U             |     15     |     20     |      -      |      -      |          -          |          -          |   -    |
+|           Physique U            |     15     |     -      |      -      |      -      |          -          |          -          |   -    |
 
 {{< /admonition >}}
 
