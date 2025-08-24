@@ -21,7 +21,7 @@ La bonne nouvelle, c'est qu'on est aussi passé par là ! Spécialités privilé
 
 ## Immersion dans une classe préparatoire
 
-Il est possible de participer à des journées d'immersion dans les prépas pour se rendre compte de ce qui vous attend. Cela vous permettra de voir si vous êtes prêt à vous investir dans une telle formation. Vous pouvez directement vous renseigner auprès de vos professeurs ou sur le site de l'établissement pour s'inscrire.
+Il est possible de participer à des journées d'immersion dans les prépas pour se rendre compte de ce qui vous attend. Cela vous permettra de voir si vous êtes prêt à vous investir dans une telle formation. Vous pouvez directement vous renseigner auprès de vos professeurs ou sur le site de l'établissement pour vous inscrire.
 
 ## Les spécialités à privilégier
 
@@ -36,22 +36,24 @@ Les cours dispensés en Maths Expertes se rapprochent également plus des cours 
 
 ### La NSI et la Physique-Chimie
 
-Hormis quelques rares exceptions, pour intégrer une classe préparatoire scientifique vous devrez avoir suivi au moins deux spécialités scientifiques en Terminale, si possible trois en Première.
+Hormis quelques rares exceptions, pour intégrer une classe préparatoire scientifique vous devrez au moins avoir suivi deux spécialités scientifiques en Terminale, et si possible trois en Première.
 
-La MP2I se démarque de la MPSI et de la PCSI car elle repose principalement sur trois matières au lieu de deux : les Mathématiques, la Physique et l’Informatique. Pour mettre toutes les chances de votre côté, il est donc recommandé de choisir les spécialités Physique-Chimie et NSI (Numérique et Sciences Informatiques) en classe de Première pour ne pas se retrouver plus tard avec de trop grandes lacunes dans l’une ou l’autre de ces matières.
+La MP2I se démarque de la MPSI et de la PCSI car elle repose sur trois matières principales au lieu de deux : les Mathématiques, la Physique et l’Informatique. Pour mettre toutes les chances de votre côté, il est donc recommandé de choisir les spécialités Physique-Chimie et NSI (Numérique et Sciences Informatiques) en classe de Première pour ne pas se retrouver plus tard avec de trop grandes lacunes dans l’une ou l’autre de ces matières.
 
-Une de ces deux spécialités peut être conservée au choix en Terminale. Bien que la NSI soit la spécialité toute indiquée pour la MP2I, nous ne pouvons pas garantir que ni l'une ni l'autre soit particulièrement avantageuse lors de la sélection des candidats. Libre à vous de choisir celle où vous vous sentirez le mieux.
+Une de ces deux spécialités peut être conservée au choix en Terminale. Bien que la NSI soit la spécialité toute indiquée pour la MP2I, nous ne pouvons pas garantir que l'une ou l'autre soit particulièrement avantageuse lors de la sélection des candidats. Libre à vous de choisir celle où vous vous sentirez le mieux.
 
 Les résultats du Bac dans ces spécialités mais aussi les appréciations ont un gros impact : si on voit que vous êtes travailleur.euse, cela jouera vraiment en votre faveur.
 
-{{< admonition info "Pas de panique" >}}
-Il reste possible dans certains rares cas d'intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie en Première, mais ce choix ne garantit pas une place en CPGE et risque d'entrainer un retard difficile à combler par la suite. En revanche il est possible de ne pas avoir suivi la spécialité NSI, qui n'est pas disponible dans tous les établissements.
+{{< admonition question "Peut-on intégrer une MP2I si l'on n'a pas suivi l'une des deux spécialités en Première ?" >}}
+Ne pas avoir suivi la spécialité NSI ne sera pas un frein, notamment parce que cela ne peut être exigé, étant donné que certains lycées ne proposent pas cette spécialité.
+
+Cependant, bien qu'il reste possible dans de rares cas d'intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie en Première, ce choix ne garantit pas une place en CPGE et risque d'entrainer un retard difficile à combler par la suite. Il est fortement conseillé aux élèves admis dans ces conditions de se renseigner sur le [programme de Physique de Première](file:///home/nozae/T%C3%A9l%C3%A9chargements/spe635_annexe_1063432.pdf).
 {{< /admonition >}}
 
 ## Parcoursup
 
-> Pour comprendre le fonctionnement de Parcoursup à toutes les étapes, allez consulter [sa FAQ](https://www.parcoursup.fr/index.php?desc=questions).
->
+> Pour comprendre le fonctionnement de Parcoursup à toutes les étapes, allez consulter sa [FAQ](https://www.parcoursup.gouv.fr/faq).
+
 > Vous retrouverez [ici](https://colab.research.google.com/drive/1dFDHVpDT78Z5cL08kRvnZQrT5cIc8o1I#scrollTo=p7d_m-SJZaeN) un notebook pour explorer les données de Parcoursup pour la MP2I (2023)
 
 ### La MP2I sur Parcoursup
@@ -59,11 +61,11 @@ Il reste possible dans certains rares cas d'intégrer une MP2I sans avoir suivi 
 Depuis décembre, vous avez accès au catalogue des formations disponibles avec leurs critères de sélection, en quoi elles consistent et leur sélectivité.
 Fin janvier, vous allez commencer à faire vos vœux, c'est le moment de se renseigner et d'aller aux portes ouvertes, en ligne ou en présentiel, rien de mieux que d'échanger avec les élèves pour se faire une idée de la formation. N'hésitez pas à nous rejoindre sur le [serveur discord des prépas MP2I/MPI](https://discord.com/invite/9p49Z5ZNtH) pour poser vos questions ! Nous organisons également des [forums](https://prepas-mp2i.fr/forum/) pendant lesquels des étudiants volontaires du serveur vous présentent la filière et répondent à vos interrogations.
 
-Il y a **38 MP2I** sur Parcoursup, répertoriées plus bas ; cela va de prépas très sélectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I, si c'est la formation que vous désirez absolument (vous n'irez pas tous et toutes à Louis le Grand, soyons réalistes, mais il faut garder de l'ambition).
+Il y a **38 MP2I** sur Parcoursup, répertoriées [plus bas](https://prepas-mp2i.org/inscription/#lyc%C3%A9es-proposant-la-fili%C3%A8re-mp2i) ; cela va de prépas très sélectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I, si c'est la formation que vous désirez absolument (vous n'irez pas tous et toutes à Louis le Grand, soyons réalistes, mais il faut garder de l'ambition).
 Si vous faites des choix de formations sélectives - et les classes préparatoires en font partie - il est très fortement recommandé de demander une licence en parallèle pour éviter de finir sans aucune formation.
 
-{{< admonition info "Ambition" true >}}
-Faites toujours quelques vœux très ambitieux, vous vous sous-estimez peut-être. Si vous avez été pris.e dans une prépa très sélective, c'est qu'elle considère que vous avez le niveau pour y aller, alors ne vous censurez pas et soyez sûr.es que ces prépas seront ravies de vous accueillir !
+{{< admonition tip "Ambition" true >}}
+Faites toujours quelques vœux très ambitieux, vous vous sous-estimez peut-être. Si vous avez été pris.e dans une prépa très sélective, c'est qu'elle considère que vous avez le niveau pour y aller, alors ne vous censurez pas et soyez sûr.e que ces prépas seront ravies de vous accueillir !
 {{< /admonition >}}
 
 ### Comment choisir sa prépa
@@ -80,7 +82,7 @@ Quelle prépa me convient mieux ? Dans quelle mesure le niveau d'une prépa est-
 
 C'est l'un des principaux points de cette partie, si ce n'est le point à retenir.
 
-On le répète constamment : ce sont les étudiants qui font la prépa. On trouve d'excellents professeurs dans toutes les prépas, même parmi les moins sélectives. Les professeurs savent s'adapter aux niveaux de leurs élèves pour leur fournir une préparation en adéquation aux concours qu'ils visent. Gardez à l'esprit que tous les établissements vous forment aux mêmes concours et ont le même programme comme ligne directrice.
+On le répète constamment : ce sont les étudiants qui font la prépa. On trouve d'excellents professeurs dans toutes les prépas, même parmi les moins sélectives. Les professeurs savent s'adapter aux niveaux de leurs élèves pour leur fournir une préparation en adéquation avec les concours qu'ils visent. Gardez à l'esprit que tous les établissements vous forment aux mêmes concours et ont le même programme comme ligne directrice.
 
 #### Les classements
 
@@ -148,48 +150,48 @@ Voici la liste des établissements proposant la MP2I, classés par taux d'access
 
 Les nombres de demandes et rangs du dernier admis présentés ci-dessous correspondent aux lycéens de terminale de la voie générale pour la phase principale uniquement.
 
-| Type   | Lycée | Ville | Nombre de demandes | Rang du dernier admis | Internat |
-|:------:|:-----:|:-----:|:-------------------:|:----------------------:|:------:|
-| Public | [Louis Le Grand]                   | Paris 05 | 2498 | 152 | Oui |
-| Public | [Saint-Louis]                      | Paris 06 | 2718 | 241 | Oui |
-| Public | [Le Parc]                          | Lyon 06 | 2247 | 270 | Oui |
-| Public | [Hoche]                            | Versailles | 1905 | 279 | Oui |
-| Public | [Janson de Sailly]                 | Paris 16 | 2510 | 464 | Oui |
-| Public | [Clémenceau]                       | Nantes | 1115 | 416 | Oui |
-| Public | [Pierre De Fermat]                 | Toulouse | 1902 | 284 | Oui |
-| Public | [Montaigne]                        | Bordeaux | 1488 | 366 | Oui |
-| Privé  | [Aux Lazaristes]                   | Lyon 05 | 1447 | 167 | Oui |
-| Public | [Kléber]                           | Strasbourg | 910 | 321 | Oui |
-| Public | [Descartes]                        | Tours | 1144 | 372 | Oui |
-| Public | [La Martinière Monplaisir]         | Lyon 08 | 1544 | 338 | Oui |
-| Public | [Faidherbe]                        | Lille | 986 | 275 | Oui |
-| Privé  | [Fénelon Sainte-Marie]             | Paris 08 | 1332 | 349 | Non |
-| Public | [Gay-Lussac]                       | Limoges | 461 | 265 | Oui |
-| Public | [Champollion]                      | Grenoble | 1353 | 338 | Oui |
-| Public | [Paul Valéry]                      | Paris 12 | 2242 | 716 | Oui |
-| Public | [Thiers]                           | Marseille 01 | 1017 | 299 | Oui |
-| Public | [La Fayette]                       | Clermont-Ferrand | 485 | 290 | Oui |
-| Public | [Pierre Corneille]                 | Rouen | 737 | 278 | Oui |
-| Public | [Alain René Lesage]                | Vannes | 594 | 331 | Oui |
-| Public | [Henri Poincaré]                   | Nancy | 733 | 305 | Oui |
-| Public | [Henri Wallon]                     | Valenciennes | 442 | 221 | Oui |
-| Public | [Berthollet]                       | Annecy | 732 | 275 | Oui |
-| Public | [Centre International de Valbonne] | Valbonne | 725 | 217 | Oui |
-| Public | [Joffre]                           | Montpellier | 1436 | 283 | Oui |
-| Public | [Carnot]                           | Dijon | 889 | 465 | Oui |
-| Public | [Claude Fauriel]                   | Saint-Etienne | 1013 | 544 | Oui |
-| Public | [Colbert]                          | Tourcoing | 380 | 242 | Oui |
-| Public | [Leconte de Lisle]                 | Saint-Denis 974 | 168 | 111 | Oui |
-| Public | [Victor Hugo]                      | Besançon | 621 | 448 | Oui |
-| Public | [Camille Guérin]                   | Poitiers | 841 | 480 | Oui |
-| Public | [Franklin Roosevelt]               | Reims | 692 | 442 | Oui |
-| Public | [Louis Thuillier]                  | Amiens | 707 | 458 | Oui |
-| Public | [Charles Coëffin]                  | Baie-Mahault | 165 | 112 | Oui |
-| Privé  | [Frédéric Ozanam]                  | Lille | 217 | 199 | Non |
-| Public | [Guy Mollet]                       | Arras | 487 | 358 | Oui |
-| Public | [Alfred Kastler]                   | Denain | 383 | 335 | Oui |
-| Privé  | [Jean XXIII]                       | Montigny-lès-Metz | 112 | 104 | Non |
-| Public | [Claude Bernard]                   | Paris 16 | 1202 | 573 | Oui |
+|  Type  |               Lycée                |       Ville       | Nombre de demandes | Rang du dernier admis | Internat |
+| :----: | :--------------------------------: | :---------------: | :----------------: | :-------------------: | :------: |
+| Public |          [Louis Le Grand]          |     Paris 05      |        2498        |          152          |   Oui    |
+| Public |           [Saint-Louis]            |     Paris 06      |        2718        |          241          |   Oui    |
+| Public |             [Le Parc]              |      Lyon 06      |        2247        |          270          |   Oui    |
+| Public |              [Hoche]               |    Versailles     |        1905        |          279          |   Oui    |
+| Public |         [Janson de Sailly]         |     Paris 16      |        2510        |          464          |   Oui    |
+| Public |            [Clémenceau]            |      Nantes       |        1115        |          416          |   Oui    |
+| Public |         [Pierre De Fermat]         |     Toulouse      |        1902        |          284          |   Oui    |
+| Public |            [Montaigne]             |     Bordeaux      |        1488        |          366          |   Oui    |
+| Privé  |          [Aux Lazaristes]          |      Lyon 05      |        1447        |          167          |   Oui    |
+| Public |              [Kléber]              |    Strasbourg     |        910         |          321          |   Oui    |
+| Public |            [Descartes]             |       Tours       |        1144        |          372          |   Oui    |
+| Public |     [La Martinière Monplaisir]     |      Lyon 08      |        1544        |          338          |   Oui    |
+| Public |            [Faidherbe]             |       Lille       |        986         |          275          |   Oui    |
+| Privé  |       [Fénelon Sainte-Marie]       |     Paris 08      |        1332        |          349          |   Non    |
+| Public |            [Gay-Lussac]            |      Limoges      |        461         |          265          |   Oui    |
+| Public |           [Champollion]            |     Grenoble      |        1353        |          338          |   Oui    |
+| Public |           [Paul Valéry]            |     Paris 12      |        2242        |          716          |   Oui    |
+| Public |              [Thiers]              |   Marseille 01    |        1017        |          299          |   Oui    |
+| Public |            [La Fayette]            | Clermont-Ferrand  |        485         |          290          |   Oui    |
+| Public |         [Pierre Corneille]         |       Rouen       |        737         |          278          |   Oui    |
+| Public |        [Alain René Lesage]         |      Vannes       |        594         |          331          |   Oui    |
+| Public |          [Henri Poincaré]          |       Nancy       |        733         |          305          |   Oui    |
+| Public |           [Henri Wallon]           |   Valenciennes    |        442         |          221          |   Oui    |
+| Public |            [Berthollet]            |      Annecy       |        732         |          275          |   Oui    |
+| Public | [Centre International de Valbonne] |     Valbonne      |        725         |          217          |   Oui    |
+| Public |              [Joffre]              |    Montpellier    |        1436        |          283          |   Oui    |
+| Public |              [Carnot]              |       Dijon       |        889         |          465          |   Oui    |
+| Public |          [Claude Fauriel]          |   Saint-Etienne   |        1013        |          544          |   Oui    |
+| Public |             [Colbert]              |     Tourcoing     |        380         |          242          |   Oui    |
+| Public |         [Leconte de Lisle]         |  Saint-Denis 974  |        168         |          111          |   Oui    |
+| Public |           [Victor Hugo]            |     Besançon      |        621         |          448          |   Oui    |
+| Public |          [Camille Guérin]          |     Poitiers      |        841         |          480          |   Oui    |
+| Public |        [Franklin Roosevelt]        |       Reims       |        692         |          442          |   Oui    |
+| Public |         [Louis Thuillier]          |      Amiens       |        707         |          458          |   Oui    |
+| Public |         [Charles Coëffin]          |   Baie-Mahault    |        165         |          112          |   Oui    |
+| Privé  |         [Frédéric Ozanam]          |       Lille       |        217         |          199          |   Non    |
+| Public |            [Guy Mollet]            |       Arras       |        487         |          358          |   Oui    |
+| Public |          [Alfred Kastler]          |      Denain       |        383         |          335          |   Oui    |
+| Privé  |            [Jean XXIII]            | Montigny-lès-Metz |        112         |          104          |   Non    |
+| Public |          [Claude Bernard]          |     Paris 16      |        1202        |          573          |   Oui    |
 
 [Alain René Lesage]: https://lycee-lesage.fr/
 [Alfred Kastler]: https://lgt-alfred-kastler-denain.59.ac-lille.fr/s
@@ -234,26 +236,28 @@ Les nombres de demandes et rangs du dernier admis présentés ci-dessous corresp
 
 À la rentrée 2025, un lycée ouvrira une classe MP2I :
 
-| Type   | Lycée            | Ville             | Internat |
-|:------:|:----------------:|:-----------------:|:--------:|
-| Privé | Emmanuel d'Alzon | Nîmes | Oui |
+| Type  |       Lycée        | Ville | Internat |
+| :---: | :----------------: | :---: | :------: |
+| Privé | [Emmanuel d'Alzon] | Nîmes |   Oui    |
+
+[Emmanuel d'Alzon]: https://www.dalzon.com/
 
 {{< admonition info "MP2I ayant une capacité d'accueil différente de 48 places" false >}}
 
-| Lycée            | Nombre de places |
-|:----------------:|:----------------:|
-| Alfred Kastler   | 24 |
-| Aux Lazaristes   | 10 |
-| Charles Coeffin  | 23 |
-| Colbert          | 24 |
-| Frédéric Ozanam  | 30 |
-| Gay-Lussac       | 24 |
-| Guy Mollet       | 24 |
-| Henri allon      | 24 |
-| Jean XXIII       | 25 |
-| La Fayette       | 24 |
-| Leconte de Lisle | 24 |
-| Saint-Louis      | 47 |
-| Victor Hugo      | 45 |
+|      Lycée       | Nombre de places |
+| :--------------: | :--------------: |
+|  Alfred Kastler  |        24        |
+|  Aux Lazaristes  |        10        |
+| Charles Coeffin  |        23        |
+|     Colbert      |        24        |
+| Frédéric Ozanam  |        30        |
+|    Gay-Lussac    |        24        |
+|    Guy Mollet    |        24        |
+|   Henri allon    |        24        |
+|    Jean XXIII    |        25        |
+|    La Fayette    |        24        |
+| Leconte de Lisle |        24        |
+|   Saint-Louis    |        47        |
+|   Victor Hugo    |        45        |
 
 {{< /admonition >}}
