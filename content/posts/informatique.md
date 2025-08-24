@@ -3,7 +3,7 @@ title: Les cours d'informatique en MP2I et MPI
 subtitle: Une brève introduction à cette matière magique !
 url: /informatique
 date: 2021-12-20T00:07:18+01:00
-summary: Qui dit nouvelle filière, dit nouveaux professeurs et nouveaux cours. Vous vous demandez sûrement en quoi consiste le cours d'informatique en MP2I et MPI, et bien cette page est là pour vous éclairer !
+summary: Quand l'informatique devient une spécialité, ça change tout ! Vous vous demandez sûrement en quoi consiste le cours d'informatique en MP2I et MPI, et bien cette page est là pour vous éclairer.
 tags:
     - lycéens
 categories:
@@ -14,8 +14,8 @@ menu:
         weight: 2
 ---
 
-Qui dit nouvelle filière, dit nouveaux professeurs et nouveaux cours.
-Vous vous demandez sûrement en quoi consiste le cours d'informatique en MP2I et MPI, et bien cette page est là pour vous éclairer !
+Quand l'informatique devient une spécialité, ça change tout !
+Vous vous demandez sûrement en quoi consiste le cours d'informatique en MP2I et MPI, et bien cette page est là pour vous éclairer.
 
 {{< admonition info "Programme complet d'informatique" true >}}
 Vous pouvez le télécharger [en cliquant ici](/documents/informatique_mp2i_et_mpi.pdf).
@@ -23,11 +23,11 @@ Vous pouvez le télécharger [en cliquant ici](/documents/informatique_mp2i_et_m
 
 ## Répartition horaire
 
-| Année | Cours | Travaux Dirigés | Travaux Pratiques |
-|:-----:|:-----:|:---------------:|:-----------------:|
-| MP2I・semestre I | 2h | 1h | 1h |
-| MP2I・semestre II</br>*Voie Informatique* | 4h | 1h | 1h |
-| MPI | 4h | 1h | 1h |
+|                   Année                   | Cours | Travaux Dirigés | Travaux Pratiques |
+| :---------------------------------------: | :---: | :-------------: | :---------------: |
+|             MP2I・semestre I              |  2h   |       1h        |        1h         |
+| MP2I・semestre II</br>*Voie Informatique* |  4h   |       1h        |        1h         |
+|                    MPI                    |  4h   |       1h        |        1h         |
 
 {{< admonition tip "MP2I・Second semestre : Voie SI" true >}}
 Les élèves choisissant de se réorienter vers la SI au second semestre de MP2I n'auront plus qu'**1h30 d'informatique tronc commun** par semaine.
@@ -42,51 +42,49 @@ Remarquez que ce nombre d'heures peut varier : il n'est pas rare qu'un professeu
 ## La théorie
 
 La première chose à comprendre est que ce cours d'informatique est principalement **théorique**.
-
-Beaucoup des notions abordées font d'ailleurs plus précisément partie de l'*algorithmique*, c'est-à-dire l'étude des algorithmes.
-
+Beaucoup des notions abordées font d'ailleurs plus précisément partie de l'**algorithmique**, c'est-à-dire l'étude des algorithmes.
 Un premier critère pour savoir si cette filière est faite pour vous est donc :
 *Est-ce que j'aime les mathématiques ?*
 
 ### Programme en MP2I
 
-| Thème général | Domaine étudié | Semestre |
-|:-------------:|:--------------:|:--------:|
-| **Méthodes de programmation** | Algorithmes et programmes | 1 |
-| 〃 | Discipline de programmation | 1 & 2 |
-| 〃 | Validation, test | 1 |
-| **Récursivité et induction** | - | 1 & 2 |
-| **Structures de données** | Types et abstraction | 1 |
-| 〃 | Structures de données séquentielles | 1 & 2 |
-| 〃 | Structures de données hiérarchiques | 2 |
-| 〃 | Structures de données relationnelles | 2 |
-| **Algorithmique** | Exploration exhaustive | 2 |
-| 〃 | Décomposition d'un problème en sous-problèmes | 2 |
-| 〃 | Algorithmique des textes | 2 |
-| 〃 | Algorithmique des graphes | 2 |
-| **Gestion des ressources de la machine** | Gestion de la mémoire d'un programme | 1 |
-| 〃 | Gestion des fichiers et entrées-sorties | 1 |
-| **Logique** | Syntaxe des formules logiques | 2 |
-| 〃 | Sémantique de vérité du calcul propositionnel | 2 |
-| **Bases de données** | - | 2 |
+|              Thème général               |                Domaine étudié                 | Semestre |
+| :--------------------------------------: | :-------------------------------------------: | :------: |
+| **Gestion des ressources de la machine** |     Gestion de la mémoire d'un programme      |    1     |
+|                    〃                    |    Gestion des fichiers et entrées-sorties    |    1     |
+|      **Méthodes de programmation**       |           Algorithmes et programmes           |    1     |
+|                    〃                    |          Discipline de programmation          |  1 & 2   |
+|                    〃                    |               Validation, test                |    1     |
+|       **Récursivité et induction**       |                       -                       |  1 & 2   |
+|        **Structures de données**         |             Types et abstraction              |    1     |
+|                    〃                    |      Structures de données séquentielles      |  1 & 2   |
+|                    〃                    |      Structures de données hiérarchiques      |    2     |
+|                    〃                    |     Structures de données relationnelles      |    2     |
+|            **Algorithmique**             |            Exploration exhaustive             |    2     |
+|                    〃                    | Décomposition d'un problème en sous-problèmes |    2     |
+|                    〃                    |           Algorithmique des textes            |    2     |
+|                    〃                    |           Algorithmique des graphes           |    2     |
+|               **Logique**                |         Syntaxe des formules logiques         |    2     |
+|                    〃                    | Sémantique de vérité du calcul propositionnel |    2     |
+|           **Bases de données**           |                       -                       |    2     |
 
 ### Programme en MPI
 
-| Thème général | Domaine étudié |
-|:-------------:|:--------------:|
-| **Méthodes de programmation** | Discipline de programmation |
-| **Structures de données** | Structures de données hiérarchiques |
-| **Algorithmique** | Algorithmes probabilistes, algorithmes d’approximation |
-| 〃 | Exploration exhaustive |
-| 〃 | Décomposition d'un problème en sous-problèmes |
-| 〃 | Algorithmique des graphes |
-| 〃 | Algorithmique pour l’intelligence artificielle et l’étude des jeux |
-| **Gestion des ressources de la machine** | Gestion de la concurrence et de la synchronisation |
-| **Logique** | Déduction naturelle |
-| **Langages formels** | Langages réguliers |
-| 〃 | Automates finis |
-| 〃 | Grammaires non contextuelles |
-| **Décidabilité et classes de complexité** | - |
+|               Thème général               |                           Domaine étudié                           |
+| :---------------------------------------: | :----------------------------------------------------------------: |
+|       **Méthodes de programmation**       |                    Discipline de programmation                     |
+|         **Structures de données**         |                Structures de données hiérarchiques                 |
+|             **Algorithmique**             |       Algorithmes probabilistes, algorithmes d’approximation       |
+|                    〃                     |                       Exploration exhaustive                       |
+|                    〃                     |           Décomposition d'un problème en sous-problèmes            |
+|                    〃                     |                     Algorithmique des graphes                      |
+|                    〃                     | Algorithmique pour l’intelligence artificielle et l’étude des jeux |
+| **Gestion des ressources de la machine**  |         Gestion de la concurrence et de la synchronisation         |
+|                **Logique**                |                        Déduction naturelle                         |
+|           **Langages formels**            |                         Langages réguliers                         |
+|                    〃                     |                          Automates finis                           |
+|                    〃                     |                    Grammaires non contextuelles                    |
+| **Décidabilité et classes de complexité** |                                 -                                  |
 
 ## La pratique
 
@@ -103,6 +101,8 @@ Pendant les TP, la programmation se fait en **C**  et en **OCaml**.
 > Retrouvez la documentation en ligne du [C](https://devdocs.io/c/) ainsi que le site [OCaml](https://ocaml.org/).
 
 On utilise quelquefois **Python** lors de TP de physique, mais c'est davantage une compétence de traitement de données que des algorithmes complexes.
+
+Le **SQL** est également au programme en informatique (pour la gestion de bases de données) mais son importance dans le programme est bien moindre.
 
 ### Exemples
 
