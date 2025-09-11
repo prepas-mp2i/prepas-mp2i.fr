@@ -126,13 +126,20 @@ Les exemples présentés ici sont de vrais  TIPE d'étudiants en MPI. Les droits
 
 ### 2025 : Transition, transformation, conversion
 
-*Exemples disponibles à l'été 2025*
+Le thème de l'année 2025 est vaste et peut être abordé de nombreuses façons différentes. Originalité et créativité sont de mise !
+
+*Proposez-nous le vôtre par [mail](mailto:contact@prepas-mp2i.fr) ou sur notre [discord](https://discord.gg/Mu439mBdsv) !*
+
+#### Tétraconcours
+
+| Titre | Étudiant.e | Présentation | MCOT | Autres |
+| :---: | :--------: | :----------: | :--: | :----: |
+| Traitement d'image et Analyse comportementale d'Agents dans différents Environnements | Arthur BOIT |[![TIPE_Arthur_Boit.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Arthur_Boit.pdf) | [![MCOT_Arthur_Boit.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Arthur_Boit.pdf) | [Github](https://github.com/voXrey/canny-and-crowd) |
+| Procédure de primitivation de fonctions rationnelles et logarithmiques | Arthur S. (@Eragonaelda) |[![TIPE_Eragonaelda.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Eragonaelda.pdf) | [![MCOT_Eragonaelda.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Eragonaelda.pdf) | - |
 
 ### 2024 : Jeux, sports
 
 Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été à Paris !
-
-*Proposez-nous le vôtre par [mail](mailto:contact@prepas-mp2i.fr) ou sur notre [discord](https://discord.gg/Mu439mBdsv) !*
 
 #### Tétraconcours
 
