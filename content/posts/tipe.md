@@ -124,6 +124,10 @@ Quelques conseils supplémentaires pour votre présentation :
 Les exemples présentés ici sont de vrais  TIPE d'étudiants en MPI. Les droits leurs sont réservés : merci de ne pas réutiliser ou plagier leurs travaux.
 {{< /admonition >}}
 
+### 2026 : Cycles, boucles
+
+*Exemples disponibles à l'été 2026.*
+
 ### 2025 : Transition, transformation, conversion
 
 Le thème de l'année 2025 est vaste et peut être abordé de nombreuses façons différentes. Originalité et créativité sont de mise !
@@ -132,7 +136,7 @@ Le thème de l'année 2025 est vaste et peut être abordé de nombreuses façons
 
 #### Tétraconcours
 
-| Titre | Étudiant.e | Présentation | MCOT | Autres |
+| Titre | Étudiant.e | Présentation | MCOT | Notes |
 | :---: | :--------: | :----------: | :--: | :----: |
 | Traitement d'image et Analyse comportementale d'Agents dans différents Environnements | Arthur BOIT | [![TIPE_Arthur_Boit.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Arthur_Boit.pdf) | [![MCOT_Arthur_Boit.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Arthur_Boit.pdf) | [Github](https://github.com/voXrey/canny-and-crowd) |
 | Procédure de primitivation de fonctions rationnelles et logarithmiques | Arthur S. (@eragonaelda) | [![TIPE_Eragonaelda.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Eragonaelda.pdf) | [![MCOT_Eragonaelda.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Eragonaelda.pdf) | - |
@@ -140,7 +144,7 @@ Le thème de l'année 2025 est vaste et peut être abordé de nombreuses façons
 
 #### ENS
 
-| Titre | Étudiant.e | Rapport | Remarque |
+| Titre | Étudiant.e | Rapport | Notes |
 | :---: | :--------: | :-----: | :------: |
 | Dissertation sur les polynômes cyclotomiques | Ayman Chabab | [![TIPEENS_Ayman_Chabab.pdf](/icons/document.ico)](/documents/TIPE/2025/TIPEENS_Ayman_Chabab.pdf) | - |
 | Équivalence théorique entre programmation fonctionelle et impérative | Maya HAYMAN | [![TIPEENS_Maya_Hayman.pdf](/icons/document.ico)](/documents/TIPE/2025/TIPEENS_Maya_Hayman.pdf) | [GitHub](https://github.com/iWaroz/Magma) |
@@ -152,7 +156,7 @@ Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été 
 
 #### Tétraconcours
 
-| Titre | Étudiant.e | Présentation | MCOT | Autres |
+| Titre | Étudiant.e | Présentation | MCOT | Notes |
 |:-----:|:--------:|:------------:|:----:|:------:|
 | Optimisation de la trajectoire idéale sur un circuit de sport automobile | Alois DENOISEUX | [![TIPE_Alois_Denoiseux.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Alois_Denoiseux.pdf)[^1] | [![MCOT_Alois_Denoiseux.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Alois_Denoiseux.pdf) | [Github](https://github.com/Al0den/car-neural-network) |
 | Génération de trajectoires automobiles sur circuit | Pierre GUEGUEN | [![TIPE_Pierre_Gueguen.pdf](/icons/gallery.ico)](/documents/TIPE/2024/TIPE_Pierre_Gueguen.pdf) | [![MCOT_Pierre_Gueguen.pdf](/icons/document.ico)](/documents/TIPE/2024/MCOT_Pierre_Gueguen.pdf) | - |
@@ -162,7 +166,7 @@ Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été 
 
 #### ENS
 
-| Titre | Étudiant.e | Rapport | Remarque |
+| Titre | Étudiant.e | Rapport | Notes |
 |:-----:|:----------:|:-------:|:--------:|
 | Le lemme local de Lovasz, version algorithmique | Alice TOSEL | [![TIPEENS_Alice_Tosel.pdf](/icons/document.ico)](/documents/TIPE/2024/TIPEENS_Alice_Tosel.pdf) | Erreurs mineures dans des schémas et une définition |
 | Le Théorème de Szemerédi–Trotter et les jeux Constructeur-Destructeur | Paul RAPHAEL | [![TIPEENS_Paul_Raphael.pdf](/icons/document.ico)](/documents/TIPE/2024/TIPEENS_Paul_Raphael.pdf) | - |
@@ -173,7 +177,7 @@ Pour la première promotion de la filière, le thème était une porte grande ou
 
 #### Tétraconcours
 
-| Titre | Étudiant.e | Présentation | MCOT | Autres |
+| Titre | Étudiant.e | Présentation | MCOT | Notes |
 |:-----:|:--------:|:------------:|:----:|:------:|
 | Conception d'un protocole adapté aux objets connectés dans un réseau dense | Timothée | [![TIPE_Thimothée.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Timothée.pdf) | [![MCOT_Thimothée.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Timothée.pdf) | [Annexes](/documents/TIPE/2023/Annexes_Timothée.pdf) |
 | Attaques par canaux auxiliaires | Maël HOSTETTLER | [![TIPE_Mael_Hostettler.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Mael_Hostettler.pdf) | [![MCOT_Mael_Hostettler.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Mael_Hostettler.pdf) | - |
