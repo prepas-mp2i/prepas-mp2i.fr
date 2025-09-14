@@ -134,8 +134,17 @@ Le thème de l'année 2025 est vaste et peut être abordé de nombreuses façons
 
 | Titre | Étudiant.e | Présentation | MCOT | Autres |
 | :---: | :--------: | :----------: | :--: | :----: |
-| Traitement d'image et Analyse comportementale d'Agents dans différents Environnements | Arthur BOIT |[![TIPE_Arthur_Boit.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Arthur_Boit.pdf) | [![MCOT_Arthur_Boit.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Arthur_Boit.pdf) | [Github](https://github.com/voXrey/canny-and-crowd) |
-| Procédure de primitivation de fonctions rationnelles et logarithmiques | Arthur S. (@Eragonaelda) |[![TIPE_Eragonaelda.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Eragonaelda.pdf) | [![MCOT_Eragonaelda.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Eragonaelda.pdf) | - |
+| Traitement d'image et Analyse comportementale d'Agents dans différents Environnements | Arthur BOIT | [![TIPE_Arthur_Boit.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Arthur_Boit.pdf) | [![MCOT_Arthur_Boit.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Arthur_Boit.pdf) | [Github](https://github.com/voXrey/canny-and-crowd) |
+| Procédure de primitivation de fonctions rationnelles et logarithmiques | Arthur S. (@eragonaelda) | [![TIPE_Eragonaelda.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Eragonaelda.pdf) | [![MCOT_Eragonaelda.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Eragonaelda.pdf) | - |
+| Preuves de correction automatiques des programmes | @yuesubi | [![TIPE_Yuesubi.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Yuesubi.pdf) | [![MCOT_Yuesubi.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Yuesubi.pdf) | [GitLab](https://gitlab.com/yuesubi-mp2i/tipe) |
+
+#### ENS
+
+| Titre | Étudiant.e | Rapport | Remarque |
+| :---: | :--------: | :-----: | :------: |
+| Dissertation sur les polynômes cyclotomiques | Ayman Chabab | [![TIPEENS_Ayman_Chabab.pdf](/icons/document.ico)](/documents/TIPE/2025/TIPEENS_Ayman_Chabab.pdf) | - |
+| Équivalence théorique entre programmation fonctionelle et impérative | Maya HAYMAN | [![TIPEENS_Maya_Hayman.pdf](/icons/document.ico)](/documents/TIPE/2025/TIPEENS_Maya_Hayman.pdf) | [GitHub](https://github.com/iWaroz/Magma) |
+| Métaprogrammation dans un langage à 2 niveaux | @zowepsilon | [![TIPEENS_zowepsilon.pdf](/icons/document.ico)](/documents/TIPE/2025/TIPEENS_zowepsilon.pdf) | [GitHub](https://github.com/zowepsilon/strati) • Présentation : [![TIPEENS2_Zowepsilon.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPEENS2_Zowepsilon.pdf) |
 
 ### 2024 : Jeux, sports
 
@@ -171,7 +180,7 @@ Pour la première promotion de la filière, le thème était une porte grande ou
 | Attaques sur RSA | @lasercata |[![TIPE_lasercata.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_lasercata.pdf) | [![MCOT_lasercata.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_lasercata.pdf)| [GitHub](https://github.com/lasercata/RSA_attacks_TIPE) |
 | Aquaplaning et Pneumatiques Slicks | Aubin SIONVILLE | [![TIPE_Aubin_Sionville.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Aubin_Sionville.pdf) | [![MCOT_Aubin_Sionville.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Aubin_Sionville.pdf) | - |
 | Optimisation d'une livraison de colis par biomimétisme | Eliot CLERC | [![TIPE_Eliot_Clerc.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Eliot_Clerc.pdf) | [![MCOT_Eliot_Clerc.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Eliot_Clerc.pdf) | - |
-| Comment optimiser la tournée d’un livreur ? | @Axiome | [![TIPE_Axiome.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Axiome.pdf) | [![MCOT_Axiome.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Axiome.pdf) | TIPE ENS disponible |
+| Comment optimiser la tournée d’un livreur ? | @axiome | [![TIPE_Axiome.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Axiome.pdf) | [![MCOT_Axiome.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Axiome.pdf) | TIPE ENS disponible |
 | Distribution optimale et maximale de biens à livrer au sein d’une ville | Seydou SENE | [![TIPE_Seydou_Sene.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Seydou_Sene.pdf) | [![MCOT_Seydou_Sene.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Seydou_Sene.pdf) | [^2] |
 | Accélération du ray-tracing avec des Bounding Volume Hierarchies | Alaric | [![TIPE_Alaric.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Alaric.pdf) | [![MCOT_Alaric.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Alaric.pdf) | [GitHub](https://github.com/ala89/ray-tracer) |
 | L'impact des phénomènes physiques dans la cybersécurité | Flavio | [![TIPE_Flavio.pdf](/icons/gallery.ico)](/documents/TIPE/2023/TIPE_Flavio.pdf) | [![MCOT_Flavio.pdf](/icons/document.ico)](/documents/TIPE/2023/MCOT_Flavio.pdf) | - |
@@ -186,7 +195,7 @@ Pour la première promotion de la filière, le thème était une porte grande ou
 |:-----:|:----------:|:-------:|
 | Utilisation de l’algorithme de Kuhn pour l’attribution de logements étudiants | Carole VACHERAND | [![TIPEENS_Carole.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Carole.pdf) |
 | Modélisation du phénomène d’îlot de chaleur urbain | Alexis FARGEAT | [![TIPEENS_Alexis.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Alexis.pdf) |
-| Optimisation de la tournée d’un livreur grâce à un algorithme génétique | @Axiome | [![TIPEENS_Axiome.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Axiome.pdf) |
+| Optimisation de la tournée d’un livreur grâce à un algorithme génétique | @axiome | [![TIPEENS_Axiome.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Axiome.pdf) |
 | Comment les modélisations peuvent-elles nous permettre de réduire les risques de mouvement de foule ou de foule compacte ? | Leïla IKSIL | [![TIPEENS_Leila.pdf](/icons/document.ico)](/documents/TIPE/2023/TIPEENS_Leila.pdf) |
 
 [^1]: ERRATUM : Slide 7, la force aérodynamqiue doit être vers le sol
