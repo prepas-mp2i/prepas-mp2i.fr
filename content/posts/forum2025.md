@@ -1,14 +1,9 @@
 ---
 title: Forum 2025 des étudiants en MP2I/MPI
-url: /forum
 slug: forum-2025
 date: 2025-01-24T20:42:00+01:00
 author: Triw
 summary: Le forum 2025 est terminé ! Cette année, plus de 50 lycéens et parents d'élèves ont pu être informés grâce au forum !
-menu:
-    main:
-        name: Forum
-        weight: 5
 tags:
     - lycéens
 categories:
@@ -29,7 +24,7 @@ Vous pouvez aussi faire un retour sur l'évenement en temps que spectateur [ici]
 {{< figure
     caption="Réalisée par Emma"
     src="/images/forum/affiche_2025.webp"
-    link="/documents/forum/affiche_2025.png"
+    link="/images/forum/affiche_2025.webp"
 >}}
 
 ## Présentation
@@ -97,7 +92,7 @@ Vous trouverez ci-dessous les liens vers les différentes visioconférences :
 [Stand6]: <https://visio-agents.education.fr/meeting/signin/invite/437058/creator/96179/hash/910e3a0ec0e42d39f90342fd9012fc5c5baccba3> "Stand 6"
 
 {{< admonition question "Des questions ?" false >}}
-Vous pouvez poser vos questions sur le [Discord](https://discord.gg/Mu439mBdsv) ou par mail : [forum@prepas-mp2i.fr](mailto:forum@prepas-mp2i.fr)
+Vous pouvez poser vos questions sur le [Discord](https://discord.prepas-mp2i.org/) ou par mail : [contact@prepas-mp2i.org](mailto:contact@prepas-mp2i.org)
 {{< /admonition >}}
 
 ## Intervenants
