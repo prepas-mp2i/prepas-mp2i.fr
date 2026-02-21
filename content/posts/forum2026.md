@@ -42,7 +42,6 @@ En bref, il s'agit d'une journée portes ouvertes virtuelle via des visioconfér
 
 Cette édition accueillera à la fois des étudiants en MP2I, MPI, 5/2 (élèves ayant redoublé leur deuxième année pour repasser les concours) et école d'ingénieur provenant de MPI. Des professeurs interviendront éventuellement sur différents stands.
 
-
 ## Organisation
 
 Le forum des étudiants et étudiantes en MP2I/MPI se tiendra **le samedi 21 février 2026 l'après-midi**.
